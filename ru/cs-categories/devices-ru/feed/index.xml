@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Устройства &#8212; CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/ru/cs-categories/devices-ru/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Thu, 23 Sep 2021 16:38:41 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Как защитить свой компьютер</title>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure-ru</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2021 03:56:58 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=530</guid>
+
+					<description><![CDATA[<p>Обычные персональные компьютеры, ноутбуки и планшеты — важные устройства, с помощью которых мы выходим в Интернет и пользуемся различными службами и ресурсами глобальной сети. Благодаря им, мы общаемся с людьми по всему миру, создаем и храним информацию, а также делимся ею с другими пользователями. Потеря компьютера, его кража или взлом могут иметь серьезные профессиональные, финансовые [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/">Как защитить свой компьютер</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Обычные персональные компьютеры, ноутбуки и планшеты — важные устройства, с помощью которых мы выходим в Интернет и пользуемся различными службами и ресурсами глобальной сети. Благодаря им, мы общаемся с людьми по всему миру, создаем и храним информацию, а также делимся ею с другими пользователями.</p>
+<p>Потеря компьютера, его кража или взлом могут иметь серьезные профессиональные, финансовые и репутационные последствия. Поэтому важно знать, как надежно защитить свое устройство.</p>
+<p>Все советы в этой статье касаются защиты персональных компьютеров как таковых. Если вы хотите узнать о том, как защитить информацию на вашем компьютере, воспользуйтесь материалами раздела Мои данные на этом вебсайте.</p>
+<h2>1. Используйте только лицензионное ПО</h2>
+<p>Программное обеспечение не всегда стоит дешево. Поэтому часто возникает соблазн установить на свой компьютер нелицензионное или «пиратское» ПО.</p>
+<p>Но ставить на свой компьютер такое ПО &#8212; не только незаконно, но и небезопасно. Пиратское программное обеспечение создается на основе старых версий подлинных приложений. Разработчики наверняка уже обнаружили и исправили сотни или даже тысячи ошибок и критических уязвимостей в этих приложениях. Используя пиратское программное обеспечение, вы не сможете применить многие из этих исправлений и обновлений.</p>
+<p>Более того, в пиратское ПО часто встраивается вредоносный код. Таким образом, устанавливая нелицензионные приложения, вы практически предоставляете киберпреступникам постоянный и неограниченный доступ к вашему устройству и всему его содержимому.</p>
+<p><strong>Особенно важно использовать лицензионные версии наиболее важного ПО на вашем компьютере</strong>, такого как операционная система и антивирус. Если вы не можете позволить себе ПО, распространяемое коммерческим путем, всегда можно найти бесплатное альтернативное ПО с открытым исходным кодом, которое вполне может справиться с большинством задач.</p>
+<h2>2. Загружайте ПО только из надежных источников</h2>
+<p>Киберпреступники часто распространяют программное обеспечение, которое очень похоже на настоящие приложения, но содержит встроенные вредоносные программы. Устанавливая такое ПО, вы подвергаете устройство и всё его содержимое угрозе со стороны киберпреступников.</p>
+<p>Поэтому <strong>устанавливайте приложения и обновления только из официальных магазинов приложений</strong> (Microsoft Store на устройствах с Windows и App Store на компьютерах Mac) <strong>или напрямую с сайтов компаний, которые выпускают интересующие вас приложения</strong> . Например, при установке приложения Adobe Acrobat Reader загружайте его с сайта Adobe, а не со сторонних сайтов.</p>
+<p>Если вы хотите скачать новое или малоизвестное приложение, рекомендуется сначала <strong>почитать отзывы</strong> пользователей, чтобы удостовериться, что установка и использование этого приложения безопасно.</p>
+<h2>3. Регулярно обновляйте ПО</h2>
+<p><strong>Обновления часто содержат исправления обнаруженных уязвимостей.</strong></p>
+<p>Приложения могут содержать десятки тысяч строк кода. Хакеры изучают каждую из них и часто обнаруживают уязвимости, то есть бреши или слабые места в приложениях и операционных системах. Обнаружив уязвимость, хакеры создают вредоносное ПО, использующее ее для получения контроля над вашим устройством или кражи данных. Вскоре после обнаружения уязвимости разработчики создают исправления и выпускают их в форме обновлений программного обеспечения. Но до установки исправлений соответствующую уязвимость могут использовать хакеры. Поэтому чрезвычайно важно <strong>устанавливать обновления сразу после их появления</strong>.</p>
+<p>Особенно важно, чтобы <strong>операционная система и антивирус на вашем компьютере всегда были обновлены до последней версии</strong>. Включение автоматического обновления гарантирует, что все важные обновления для ПО на вашем компьютере будут устанавливаться сразу после их появления. Если вы не хотите включать автоматическое обновление для других приложений, проверяйте наличие обновлений и устанавливайте их хотя бы раз в месяц.</p>
+<p>Большинство обновлений не защитят компьютер, пока вы не перезагрузите его. Поэтому после установки обновлений <strong>перезапускайте свой компьютер сразу после того, как этого потребует система</strong>.</p>
+<blockquote><p>Выполните следующие действия, чтобы настроить автоматическое обновление ОС Windows 10, проверить наличие обновлений для других приложений на вашем компьютере и настроить Microsoft Store так, чтобы он автоматически обновлял приложения на компьютере с Windows 10 device automatically.</p></blockquote>
+<h2>4. Используйте надежное антивирусное ПО</h2>
+<p>Антивирус предотвращает заражение компьютера вредоносными программами. Если устройство уже заражено, антивирус обнаруживает вредоносное ПО и удаляет его. Поэтому <strong>очень важно, чтобы на вашем компьютере было установлено и всегда включено надежное антивирусное ПО</strong>. Рекомендуем <strong>выполнять полное сканирование вашего компьютера не реже одного раза в месяц</strong>.</p>
+<p>К сожалению, большая часть бесплатного антивирусного ПО не способно эффективно защитить компьютер. Исключением является антивирус Microsoft Defender, поставляемый с операционной системой Microsoft Windows. При условии правильной конфигурации (настройки), Microsoft Defender защищает ваше устройство эффективнее других популярных антивирусных решений.</p>
+<p>Вредоносное ПО быстро развивается. <strong>Включите автоматическое обновление антивирусного ПО и антивирусных баз на вашем компьютере</strong>.</p>
+<h2>5. Защитите компьютер паролем и настройте блокировку экрана</h2>
+<p>Не хотите, чтобы посторонние люди просматривали ваши файлы, устанавливали шпионское ПО или меняли настройки безопасности на вашем компьютере, когда вас нет рядом? <strong>Защитите свой компьютер надежным паролем. Включите автоматическую блокировку экрана</strong> после короткого периода бездействия.</p>
+<blockquote><p>Для установки или изменения пароля на устройстве с Windows 10, выполните следующие действия.</p></blockquote>
+<p>Также следует <strong>помнить, как быстро блокировать экран вручную</strong> и не забывать делать это каждый раз, когда вы отлучаетесь от <a href="https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/">своего компьютера</a>.</p>
+<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>6. Для повседневных задач используйте учетную запись пользователя с ограниченными правами</h2>
+<p>Если у вас есть собственный компьютер, вы, скорее всего, используете его через учетную запись администратора. Это не всегда безопасно. Если вы установите приложение, зараженное вредоносной программой, откроете зараженное вложение или перейдете по опасной ссылке, используя учетную запись администратора, это может повлечь за собой катастрофические последствия для устройства или данных на нём.</p>
+<p>Поэтому рекомендуем создать отдельную учетную запись пользователя с ограниченными правами и использовать ее для повседневных задач. Вы всегда можете войти в учетную запись администратора для особых действий, таких как установка программного обеспечения. Особенно важно создавать отдельные учетные записи, если вы используете компьютер совместно с другими людьми.</p>
+<h2>7. Позаботьтесь о физической безопасности компьютера</h2>
+<p>Это может показаться очевидным, но вы также должны защитить компьютер от потери или кражи: непредвиденные ситуации случатся гораздо чаще, чем мы думаем. Никогда не оставляйте устройство без присмотра в местах, где его могут украсть. Оставляйте компьютер дома, когда путешествуете или посещаете места, где вас попросят его сдать, например аэропорты, правительственные учреждения и посольства. Если вы часто используете ноутбук в таких местах, как учебные заведения, коворкинг или кафе, приобретите защитный трос с замком.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/">Как защитить свой компьютер</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Как обновить программное обеспечение в Windows 10</title>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-update-software-in-windows-10-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-update-software-in-windows-10-ru</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2021 04:08:17 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=532</guid>
+
+					<description><![CDATA[<p>Для защиты компьютера важно своевременно обновлять программное обеспечение. Самое важное ПО на вашем устройстве — это операционная система. Microsoft регулярно выпускает обновления Windows 10 с новыми функциями и важными исправлениями безопасности. Автоматическое обновление ПО по умолчанию включено в Windows 10, но вы можете изменить в настройках, как и когда оно будет выполняться. Важные обновления периодически [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-update-software-in-windows-10-ru/">Как обновить программное обеспечение в Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Для защиты компьютера важно своевременно обновлять программное обеспечение. Самое важное ПО на вашем устройстве — это операционная система. Microsoft регулярно выпускает обновления Windows 10 с новыми функциями и важными исправлениями безопасности. Автоматическое обновление ПО по умолчанию включено в Windows 10, но вы можете изменить в настройках, как и когда оно будет выполняться.</p>
+<p>Важные обновления периодически выходят и для других приложений. Вам решать, хотите вы обновлять их вручную или настроить систему на автоматическое обновление этих приложений. Если вы выбираете обновление вручную, следует проверять наличие обновлений и устанавливать их хотя бы раз в месяц.</p>
+<p>Обратите внимание, что для внесения описанных изменений нужно войти в учетную запись администратора.</p>
+<h2>Настройка автоматического обновления Windows 10</h2>
+<p>Чтобы проверить наличие обновлений для Windows 10 и настроить время и способ получения последних обновлений, нажмите на кнопку <strong>Пуск</strong> и выберите <strong>Параметры</strong>.</p>
+<p><img class="size-full wp-image-361 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg" alt="Accessing Windows Settings on Windows 10" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Нажмите на <strong>Обновление и безопасность</strong> и перейдите в меню <strong>Центр обновления Windows</strong> по ссылке в левой части окна.</p>
+<p><img class="size-full wp-image-359 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg" alt="Windows Settings Update &amp; Security" width="1365" height="724" srcset="https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-300x159.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-1024x543.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-768x407.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-1200x636.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p><img class="size-full wp-image-362 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg" alt="Windows Update under Update &amp; Security" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>В этом разделе отображаются все доступные обновления. Для настройки автоматического обновления Windows 10, перейдите в <strong>Дополнительные параметры</strong>.</p>
+<p>В некоторых случаях система не позволит вам вносить изменения в эти настройки. Если это случилось, то скорее всего, ваш компьютер является частью домена Windows. Обычно это означает, что вашим компьютером управляет компания, в которой вы работаете.</p>
+<p><img class="size-full wp-image-353 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg" alt="Windows Update Advanced options" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>В меню <strong>Дополнительные параметры</strong>, включите опцию <strong>Показать уведомление, когда компьютеру требуется перезагрузка для завершения обновления</strong>, переместив ползунок под ней в состояние <strong>Вкл</strong>.. Это гарантирует, что вы будете получать уведомление каждый раз, когда компьютер нужно перезагрузить после важного обновления.</p>
+<p><img class="size-full wp-image-360 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg" alt="Windows Settings Update notifications switch" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Убедитесь также, что в выпадающем меню <strong>Выберите дату</strong> под опцией <strong>Приостановка обновлений</strong> не задана ни какая дата. В противном случае обновления будут отложены до указанного дня.</p>
+<p><img class="size-full wp-image-358 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg" alt="Windows Settings Pause updates" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2>Другие приложения: как установить обновления автоматически или вручную</h2>
+<p>Автоматическое обновление большинства других приложений в Windows 10 можно настроить через Microsoft Store. Для этого нажмите кнопку <strong>Пуск</strong> и выберите <strong>Microsoft Store</strong>.</p>
+<p><img class="size-full wp-image-357 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg" alt="Accessing Microsoft Store on Windows 10" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>В приложении Microsoft Store нажмите значок с изображением трех точек (···) в правом верхнем углу окна и в выпадающем меню выберите параметр <strong>Загрузки и обновления</strong>.</p>
+<p><img class="size-full wp-image-351 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg" alt="Microsoft Store account menu" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/account_menu-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_menu-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img class="size-full wp-image-352 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg" alt="Microsoft Store account settings" width="800" height="632" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg 800w, https://cyber-star.org/wp-content/uploads/2021/07/account_settings-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_settings-768x607.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Перейдя в меню <strong>Настройки</strong>, вы можете включить автоматическое обновление для всех приложений на вашем компьютере (кроме операционной системы). Чтобы сделать это, передвиньте ползунок под опцией <strong>Обновлять приложения автоматически</strong> в положение <strong>Вкл</strong>.. Эта опция находится в графе <strong>Обновления приложений</strong> в верхней части окна.</p>
+<p><img class="size-full wp-image-354 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg" alt="Microsoft Store App updates switch" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/app_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/app_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Если вы не хотите, чтобы приложения обновлялись автоматически, можно проверять наличие доступных обновлений и устанавливать их вручную. Для этого войдите в <strong>Microsoft Store</strong> нажмите значок с изображением трех точек (···) в правом верхнем углу окна. В выпадающем меню выберите <strong>Загрузки и обновления</strong>.</p>
+<p><img class="size-full wp-image-355 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg" alt="Microsoft Store Downloads and updates" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Здесь указаны все обновления, доступные для ПО на вашем компьютере (кроме операционной системы). Чтобы установить эти обновления, нажмите на <strong>Получить обновления</strong>.</p>
+<p>Если вы выбираете обновлять программное обеспечение вручную, делайте это чаще. Рекомендуем проверять наличие обновлений и устанавливать их хотя бы раз в месяц.</p>
+<p><img class="size-full wp-image-356 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg" alt="Microsoft Store Get updates button" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-update-software-in-windows-10-ru/">Как обновить программное обеспечение в Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Как установить или изменить пароль в Windows 10</title>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-set-or-change-a-password-in-windows-10-ru</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2021 04:14:15 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=534</guid>
+
+					<description><![CDATA[<p>Не хотите, чтобы посторонние люди просматривали ваши файлы, устанавливали шпионское ПО или меняли настройки безопасности на вашем компьютере, когда вас нет рядом? Выполните следующие действия, чтобы защитить устройство с Windows 10 паролем или изменить пароль. Обратите внимание, что для изменения описанных ниже настроек необходимо войти в учетную запись администратора. Установка пароля для входа в устройство [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/">Как установить или изменить пароль в Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Не хотите, чтобы посторонние люди просматривали ваши файлы, устанавливали шпионское ПО или меняли настройки безопасности на вашем компьютере, когда вас нет рядом? Выполните следующие действия, чтобы защитить устройство с Windows 10 паролем или изменить пароль.</p>
+<p>Обратите внимание, что для изменения описанных ниже настроек необходимо войти в учетную запись администратора.</p>
+<h2>Установка пароля для входа в устройство</h2>
+<p>Чтобы установить пароль на устройстве с Windows 10, сделайте следующее.</p>
+<p>1. Нажмите кнопку <strong>Пуск</strong> в левой нижней части экрана и выберите <strong>Параметры</strong>.</p>
+<p><img class="size-full wp-image-361 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg" alt="Accessing Windows Settings on Windows 10" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>2. Затем нажмите на <strong>Учетные записи</strong>.</p>
+<p><img class="size-full wp-image-376 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>3. В разделах меню в левой части открывшегося окна выберите <strong>Варианты входа</strong>.</p>
+<p><img class="size-full wp-image-377 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>4. Из предлагаемых вариантов входа в устройство выберите <strong>Пароль</strong> и нажмите на <strong>Добавить</strong>.</p>
+<p><img class="size-full wp-image-365 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p><img class="size-full wp-image-366 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>5. Введите пароль, подтвердите его и затем нажмите кнопку <strong>Далее</strong>. Используйте надежный пароль.</p>
+<p><img class="size-full wp-image-370 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>6. Нажмите <strong>Готово</strong>. Не забудьте сделать ввод пароля обязательным условием для входа в устройство для всех, кто пользуется этим компьютером вместе с вами.</p>
+<p><img class="size-full wp-image-372 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2>Изменение пароля для устройства</h2>
+<p>Чтобы изменить существующий пароль (например, на более надежный), сделайте следующее.</p>
+<p>1. Войдите в меню «Варианты входа» (<strong>Пуск &gt; Параметры &gt; Учетные записи &gt; Варианты входа</strong>).</p>
+<p>2. Выберите <strong>Пароль</strong> из списка предлагаемых вариантов входа в устройство и нажмите <strong>Изменить</strong>.</p>
+<p><img class="size-full wp-image-368 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>3. Введите ваш текущий пароль и нажмите <strong>Далее</strong>.</p>
+<p><img class="size-full wp-image-369 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>4. Введите новый пароль, подтвердите его и нажмите <strong>Далее</strong>. Обязательно используйте надежный пароль.</p>
+<p><img class="size-full wp-image-374 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>5. Нажмите <strong>Готово</strong>.</p>
+<p><img class="size-full wp-image-371 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2><a id="password-mandatory" name="password-mandatory"></a>Как сделать ввод пароля обязательным</h2>
+<p>После установки пароля на компьютере с Windows 10 нужно сделать его обязательным для всех, кто пытается войти в устройство.</p>
+<p>1. Нажмите на кнопку <strong>Пуск</strong> в левом нижнем углу вашего экрана и введите в строке поиска (ее можно узнать по символу лупы) “<strong>netplwiz</strong>”. После этого нажмите кнопку Enter. В результатах отобразится одноименная программа. Нажмите на программу <strong>netplwiz</strong>, чтобы запустить ее.</p>
+<p><img class="size-full wp-image-375 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>2. В открывшемся окне поставьте галочку рядом с опцией <strong>“Требовать ввод имени пользователя и пароля”</strong>.</p>
+<p><img class="wp-image-373 size-full aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>3. Нажмите <strong>Применить</strong>.</p>
+<p><img class="size-full wp-image-367 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>4. Когда система попросит вас ввести пароль для подтверждения настроек, сделайте это и нажмите <strong>OK</strong>.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/">Как установить или изменить пароль в Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Как сделать Microsoft Defender (Защитник Windows) более безопасным</title>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-make-windows-defender-more-secure-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-make-windows-defender-more-secure-ru</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2021 04:23:58 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=539</guid>
+
+					<description><![CDATA[<p>Внимание: данное руководство предназначено для пользователей среднего и продвинутого уровней. Следование данным инструкциям может привести к тому, что некоторые программы на вашем компьютере перестанут работать должным образом. Если для вас это не устраивает или вы сомневаетесь в своих технических навыках, мы рекомендуем не следовать данным инструкциям. Microsoft Defender (Защитник Widows в ранних версиях) Microsoft Defender [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-make-windows-defender-more-secure-ru/">Как сделать Microsoft Defender (Защитник Windows) более безопасным</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>Внимание:</strong> данное руководство предназначено для пользователей среднего и продвинутого уровней. Следование данным инструкциям может привести к тому, что некоторые программы на вашем компьютере перестанут работать должным образом. Если для вас это не устраивает или вы сомневаетесь в своих технических навыках, мы рекомендуем не следовать данным инструкциям.</p>
+<h2>Microsoft Defender (Защитник Widows в ранних версиях)</h2>
+<p>Microsoft Defender (также известный как Защитник Widows) является частью пакета Microsoft Windows уже много лет. Раньше он не особо эффективно справлялся с блокировкой вредоносных программ. Однако, в последние годы появилась возможность сделать Microsoft Defender более безопасным, включив некоторые из функций, о которых не знают обычные пользователи. Если настроить его определенным образом, Microsoft Defender превосходит большинство хорошо зарекомендовавших себя антивирусных программ.</p>
+<p>Данная статья поможет вам разобраться, как включить эти функции. Пожалуйста помните, что данные функции не включены в системе Windows по умолчанию, так как в некоторых случаях они мешают совместимости программ. Если вы включите эти функции на своем устройстве, некоторые программы могут перестать работать должным образом. К счастью, восстановить «нормальную» работу Microsoft Defender так же просто, как и настроить его более безопасно. Инструкции о том, как это сделать, также будут предоставлены здесь.</p>
+<h2>Требования операционной системы</h2>
+<ul>
+<li>Windows 10 Pro или версия Enterprise 1790 и более поздние. Вы можете проверить, какая у вас версия Windows, нажав кнопку <strong>Пуск &gt;Параметры&gt;Система&gt; Сведения о системе</strong>. В разделе <strong>Характеристики Windows</strong> вы можете проверить выпуск или версию ОС Windows, которая используется на вашем устройстве.</li>
+<li>Если вы используете Windows 10 Home (Домашняя версия), данные инструкции ни как вам не помогут. В этом случае вам следует приобрести другой надежный антивирус, чтобы обезопасить свой компьютер.</li>
+<li> Многие из этих настроек <em>не будут</em> работать если ваш компьютер является частью домена и системный администратор включил другие настройки.</li>
+</ul>
+<h2>Настройка безопасности Microsoft Defender</h2>
+<ol>
+<li>Скачайте утилиту Configure Defender или изучите ее исходный код здесь. Эта утилита облегчит вам задачу по настройке безопасности Microsoft Defender.</li>
+<li>Как только вы ее скачаете, кликните на нее дважды. Вы можете выбрать любые настройки безопасности, которые захотите, однако для максимальной защиты мы рекомендуем нажать <strong>Высокий</strong>(уровень защиты) и затем изменить настройки так, как показано на скриншотах ниже. Эти настройки позволят вам соблюсти баланс между безопасностью и теми неудобствами, которые могут принести настройки.
+<ul>
+<li>Выбранные настройки (помимо <strong>Высокого</strong> уровня защиты): <strong>Блокировать кражу учетных данных из локальной системы безопасности Windows</strong> (lsass.exe) &#8212; включить</li>
+<li><strong>Блокировать создание процессов, заданных командами PSExec и WMI</strong> &#8212; включить</li>
+<li><strong>Контролируемый доступ к папкам</strong> &#8212; включить<br />
+<img class="alignnone size-full wp-image-334" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png" alt="Configure Defender settings" width="534" height="575" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png 534w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37-279x300.png 279w" sizes="(max-width: 534px) 100vw, 534px" /><br />
+<img class="alignnone size-full wp-image-335" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /><br />
+<img class="alignnone size-full wp-image-336" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /></li>
+</ul>
+</li>
+<li>После того, как вы внесли данные изменения, нажмите <strong>Закрыть</strong> и перезагрузите компьютер.</li>
+</ol>
+<h2>Отмена настроек Microsoft Defender</h2>
+<p>Если после внесения описанных выше изменений у вас не получается запустить некоторые программы, вы всегда можете вернуться к изначальным настройкам Microsoft Defender, открыв инструмент Configure Defender и нажав <strong>Исходные</strong>, а затем <strong>Закрыть</strong>. Чтобы изменения сохранились, перезагрузите компьютер.</p>
+<h2>Дополнительные рекомендации</h2>
+<ul>
+<li><a title="Windows Defender with these settings" href="https://www.youtube.com/watch?v=ep_25HIArXc" target="_blank" rel="noopener">Microsoft Defender с описанными выше настройками</a></li>
+<li><a title="Windows Defender with default settings" href="https://www.youtube.com/watch?v=ZbYx8V2RTjc" target="_blank" rel="noopener">Microsoft Defender с исходными настройками</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-make-windows-defender-more-secure-ru/">Как сделать Microsoft Defender (Защитник Windows) более безопасным</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

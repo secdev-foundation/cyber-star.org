@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Data &#8211; CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/cs-categories/data/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 24 Nov 2021 05:02:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Digital Data 101: What It Is and When It Becomes Personal</title>
+		<link>https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 04:15:00 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=289</guid>
+
+					<description><![CDATA[<p>We are surrounded by digital data. Each time you watch a video, read something online or receive an email, you consume data created by others. And each time you text someone, work on a document on a computer or post something on social media, you create your own data. In an increasingly connected world, this [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">Digital Data 101: What It Is and When It Becomes Personal</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We are surrounded by digital data. Each time you watch a video, read something online or receive an email, you consume data created by others. And each time you text someone, work on a document on a computer or post something on social media, you create your own data.</p>
+<p>In an increasingly connected world, this data is a valuable commodity. It is collected, analyzed and used for various purposes, from selling you things online to trying to steal your money. Knowing how to protect your most valuable data requires understanding what data is, how it is created and discarded, and who is after it.</p>
+<h2>What is digital data</h2>
+<p>Any information processed or stored by a computer, smartphone or data storage device is digital data. You create and consume this information in the form of text documents, videos, sounds, images, software, etc. At its most basic level, however, all this data consists of sequences of ones and zeros, known as <em>binary</em> data.</p>
+<p>Because all computers and smartphones use this format, digital data can be created, processed and stored on any such device. It can also be transferred from one device to another or made available to millions of other users online.</p>
+<p>Some of your personal data is particularly important to keep safe. Examples include your date of birth, address, passport number, driver’s license number, social security number, bank account number, health records, etc. Any data that could potentially be used to identify you is known as <em>personally identifiable information</em>.</p>
+<h2>Creating digital data</h2>
+<p>Each time you use a computer or mobile device, you create data. You can easily see some of this data, such as, for instance, when you create a new Word document, post something on social media, or take a picture on your mobile phone.</p>
+<p>But most of the data you generate each time you use a digital device is much harder to see. For instance, your computer keeps a detailed record of when you use it, which apps you use and for how long. If you are an average user, your Internet browser tracks websites you use, time you spend on each of them, each single click you make and each single file you download. For each photo you take, your smartphone records when and where you take it. Unless you know where to look for this data, it remains hidden from your eyes.</p>
+<h2>Discarding digital data</h2>
+<p>Discarding data is not as straightforward as it appears. When you click “Delete” or move a file to a Recycle Bin (for Windows users) or Trash (for Apple product users), your operating system keeps the file there for some time in case you change your mind. Anyone can easily find this file if they have access to your device.</p>
+<p>But even when you empty the Recycle Bin (or Trash) or when you delete files bypassing the Recycle Bin, these files do not just disappear from your device. When you delete files in this way, the operating system on your device receives a signal that these files are no longer needed and stops showing them. The operating system does not really make these files disappear. It marks the space they hold on your device’s hard drive as available and, only when this space is needed for something else, your operating system overwrites the binary data of the files you have deleted with new data. Until that happens, the “deleted” files stay on your device. It is not too difficult to recover them.</p>
+<p>There are special tools that you can use to securely wipe files from your devices, that is, to delete them and replace their binary data with random combinations of ones and zeros. Follow <a title="How to Install and Start Using BleachBit" href="https://cyber-star.org/cs-articles/how-to-install-and-start-using-bleachbit/">these directions</a> to install and start using BleachBit, a free tool that wipes data from your hard drive securely and permanently.</p>
+<p>It is much harder to discard data that you have shared online. When you post photos on social media, sign up for services with your email address, share documents through messaging apps or send videos through file-sharing sites, you cannot always track who has copies of this data.</p>
+<h2>Who is after your data</h2>
+<p>You can never know who might be interested in the data you have on your devices. Individuals, groups or organizations might want to get access to this data for a number of reasons, such as, for instance, to steal your online banking credentials or personal photos and videos to blackmail you. Because you do not know who might be interested in your information and why, you should always <a title="My Devices" href="https://cyber-star.org/using-the-cyberstar/devices/">ensure that all the computers, mobile devices and data storage devices are safe and secure</a>.</p>
+<p>There is also a lot of information you leave behind when browsing the internet on your computer or mobile device. Make sure you understand <a title="My Digital Identity" href="https://cyber-star.org/using-the-cyberstar/digital-identity/">what kind of information you reveal by being online, how this information is being used, and what you can do to minimize your online footprint</a>.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">Digital Data 101: What It Is and When It Becomes Personal</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Keep Data on Your Devices Safe</title>
+		<link>https://cyber-star.org/cs-articles/how-to-keep-data-on-your-devices-safe/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-data-on-your-devices-safe</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 04:15:54 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=290</guid>
+
+					<description><![CDATA[<p>The digital devices you use for personal and professional purposes have a lot of your data on them. Your laptop, mobile phone, tablet, external hard drive, and all the USB memory sticks lying around your place store data in the form of text documents, images, videos, sounds, etc. These devices might even still have on [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-data-on-your-devices-safe/">How to Keep Data on Your Devices Safe</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The digital devices you use for personal and professional purposes have a lot of your data on them. Your laptop, mobile phone, tablet, external hard drive, and all the USB memory sticks lying around your place store data in the form of text documents, images, videos, sounds, etc. These devices might even still have on them all those <a title="Digital Data 101: What It Is and When It Becomes Personal" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">files you think you have deleted</a>.</p>
+<p>What happens if someone looks through your files when you are not around? What if someone steals a device with sensitive personal or professional files on it? What if you lose such a device? What if the device malfunctions and you lose all of your valuable information? Follow these personal data hygiene tips to secure your most valuable data.</p>
+<h2>1. Secure your devices physically</h2>
+<p>This might sound too obvious but one of the most important things you can do to protect your digital data is to take care of the physical security of your devices. You may lose a laptop, mobile phone, tablet or external memory storage device, or a device can be stolen from you. If this happens, those who find your device in their possession can access sensitive files or personally identifiable information you have stored on the device.</p>
+<p>So, keep your devices in a safe and secure place when you don’t use them. Keep track of all the external storage devices you use, including USB memory sticks, CDs and DVDs, and keep them under a lock and key. Never leave your devices unattended in a place where they can be stolen. Consider leaving your devices at home when you travel or visit places where you can be asked to surrender digital devices, such as airports, government offices, and embassies. If you often use a laptop in a semi-public place such as school, coworking space or cafe, consider buying a Kensington cable.</p>
+<h2>2. Password protect your devices</h2>
+<p>Protecting your digital devices with <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong passwords</a> helps ensure that no one will poke around your files when you leave devices unattended. It also offers some protection (albeit imperfect) for your data when you lose a device or someone steals it.</p>
+<p>Enable an automatic screen lock on all your devices after a brief period of inactivity. Make sure you know how to lock the screen on your device manually and remember to do this every time you step away from the device.</p>
+<h2>3. Encrypt sensitive files</h2>
+<p>If you lose your device or someone steals it, they can access all the sensitive files or personal information you have stored on the device. The best way to secure sensitive data on your devices is to <a title="Why You Should Encrypt Your Devices" href="https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/">use encryption</a>. Encryption makes all the data on a device completely unreadable. Encrypted data can only be read by the person who has the password or decryption key.</p>
+<p>Follow these directions to set up encryption on <a title="How to Encrypt a Windows 10 Device" href="https://cyber-star.org/cs-articles/how-to-encrypt-a-windows-10-device/">Windows 10</a> and Mac devices.</p>
+<h2>4. Backup your data</h2>
+<p>Having someone poking around your files is not the only risk you face if one of your devices is lost or stolen. You also risk losing access to important files some of which you would never be able to replace. You can also lose data if a device malfunctions or becomes encrypted as a result of a ransomware attack.</p>
+<p>The best way to guarantee that you will never lose important files is to <a title="Why You Should Make Backups and Where You Should Keep Them" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">backup your data</a>, automatically or on a frequent and regular basis. Follow these directions to set up automatic data backup on <a title="How to Backup a Windows 10 Computer" href="https://cyber-star.org/cs-articles/how-to-backup-a-windows-10-computer/">Windows 10</a> and <a title="How to Backup Your Mac" href="https://cyber-star.org/cs-articles/how-to-backup-your-mac/">Mac</a> devices.</p>
+<h2>5. Use antivirus software and keep your system up to date</h2>
+<p>A good antivirus program will protect your devices from malware that can steal, damage or destroy your data. Make sure you use a licensed antivirus program. If you are a Windows user, your operating system comes with an effective built-in antivirus tool, Microsoft Defender.</p>
+<p>You should also make sure that your antivirus software and operating system are up to date. It is best to set this software to update automatically.</p>
+<h2>6. Delete files securely</h2>
+<p>Deleting files on a computer, mobile device or external data storage device <a title="Digital Data 101: What It Is and When It Becomes Personal" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">does not really make the files disappear</a>. The data stays on the device and can be recovered. The only way to ensure that your files are deleted permanently is to use special software that overwrites the deleted data with random code. If you backup your data (as you should be), remember that in addition to deleting sensitive files from your devices, you should also delete the same files from your backups.</p>
+<p>Follow these directions to install and run BleachBit, a free and open-source tool that you can use to remove data from traditional hard drives securely and permanently. Unfortunately, if you use SSD (also known as flash) storage devices, it is not always possible to remove all traces of deleted data permanently.</p>
+<h2>7. Securely dispose of old devices</h2>
+<p>Before selling, recycling or throwing away an old computer, mobile device or any other data storage device, make sure that you do not leave any personal or confidential information on it. Scrub the device clean by using a reliable tool for secure and permanent data removal, and reset it to factory settings.</p>
+<p>If you are getting rid of old CDs, DVDs, SSD storage devices, USB memory sticks or any other data storage devices, consider smashing them with a hammer or using any other tools to destroy them physically.</p>
+<h2>8. Don’t share confidential data</h2>
+<p>The best way to secure your sensitive or confidential data is not to share it with anyone. When you share digital files with others, you are no longer in full control of the security of that data.</p>
+<p>If you share sensitive or confidential data online, follow these instructions to do so in a safe and secure way.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-data-on-your-devices-safe/">How to Keep Data on Your Devices Safe</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Keep and Share Files Securely Online</title>
+		<link>https://cyber-star.org/cs-articles/how-to-keep-and-share-files-securely-online/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-and-share-files-securely-online</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 04:25:44 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=292</guid>
+
+					<description><![CDATA[<p>While all personal and professional data should be handled securely, some of your files are particularly important to keep safe. These include any files that contain your date of birth, address, passport number, driver’s license number, social security number, bank account number, health records, income tax records, etc. Depending on your situation, some of your [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-and-share-files-securely-online/">How to Keep and Share Files Securely Online</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>While all personal and professional data should be handled securely, some of your files are particularly important to keep safe. These include any files that contain your date of birth, address, passport number, driver’s license number, social security number, bank account number, health records, income tax records, etc. Depending on your situation, some of your audio, image, and video files may also be confidential or sensitive.</p>
+<p>In addition to <a title="How to Keep Data on Your Devices Safe" href="https://cyber-star.org/cs-articles/how-to-keep-data-on-your-devices-safe/">securing such data on your devices</a>, one of the best ways to protect it from falling into the wrong hands is to never store or share it online. <strong>Do not share confidential or sensitive files with anyone on the internet, unless you absolutely have to</strong>. While you have almost full control over your data’s security while it stays on your devices, you lose much of this control the moment you upload it online or share with anyone.</p>
+<p>But when you have or choose to keep or share files online, it is important that you know how to do it in a safe and secure way.</p>
+<h2>Safely storing files online</h2>
+<p>From Dropbox to Google Drive to OneDrive to Tresorit and others, there are many popular file storage and cloud storage services to choose from. These services allow you to have easy access to your files on any device anywhere. They also allow you to give other people access to some of your files and collaborate with them on those files.</p>
+<p>If you use file storage or cloud storage services, follow these steps to protect your data:</p>
+<ul>
+<li>Use a reliable service and make sure that it encrypts your files in transit and when stored. When possible, choose zero-knowledge encrypted options such as Tresorit and Mega.io to ensure that your data is secure even if your cloud provider is compromised.</li>
+<li>Secure your accounts on such services with <a title="How to Create Strong Passwords " href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong</a> and <a title="Why All of Your Passwords Should Be Unique " href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique</a> passwords.</li>
+<li>Enable <a title="Why You Should Use Two-Factor Authentication " href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">two-factor authentication</a> on your accounts to protect your file in case someone steals or cracks your passwords.</li>
+<li>If you give other people access to your files online, make sure that they also secure their accounts with strong passwords and two-factor authentication.</li>
+<li>Limit the amount of sensitive and confidential files you keep online. Do not upload important personal or professional files on more than one service, and remove these files when you no longer need them online.</li>
+</ul>
+<h2>Sharing files securely</h2>
+<p>If you need to send a sensitive or confidential file to someone, there are several easy ways to do it. Whichever way you go with, you need to understand the risks involved in sharing sensitive data using this method and know how to minimize these risks.</p>
+<ul>
+<li><strong>File-sharing services</strong><br />
+You can share files by uploading them to an online storage or file-sharing service and sending someone a link to these files. If you choose this method, make sure you use precautions listed above. You also need to treat the sharing links you generate as sensitive data.</li>
+<li><strong>Email</strong><br />
+You can also use email to send sensitive or confidential files. Follow these precautions to do so in a secure way:</p>
+<ul>
+<li>Use a reliable and encrypted email service. ProtonMail and Tutanota offer free, open-source, end-to-end encrypted email service.</li>
+<li>Secure your email account with a <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong</a> and <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique</a> password.</li>
+<li>Enable <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">two-factor authentication</a> on your email account.</li>
+<li>Make sure that the people to whom you send the files also have their accounts secured with a strong password and two-factor authentication.</li>
+<li>As soon as you know that your files have been received, delete them from your email account. Remember also to delete these emails from the trash folder.</li>
+</ul>
+</li>
+<li><strong>Messaging apps</strong><br />
+You can also use messaging apps to share the less confidential yet sensitive information. These apps are perfect for sharing images and videos of personal nature. If you do so, make sure that you use a reliable end-to-end encrypted messenger app such as Signal or Wire. You can use disappearing messages to make sure that your files do not stay on the app.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-and-share-files-securely-online/">How to Keep and Share Files Securely Online</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why You Should Make Backups and Where You Should Keep Them</title>
+		<link>https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 04:42:52 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=294</guid>
+
+					<description><![CDATA[<p>It is much easier to lose important data than you think. The most common ways to lose data include user mistakes, hardware failure, device theft or loss, and malware infection. Ransomware attacks and computer hacking are also a significant risk to files on your devices. The only way to protect your important files from all [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">Why You Should Make Backups and Where You Should Keep Them</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It is much easier to lose important data than you think. The most common ways to lose data include user mistakes, hardware failure, device theft or loss, and malware infection. Ransomware attacks and computer hacking are also a significant risk to files on your devices.</p>
+<p>The only way to protect your important files from all these risks is to backup your data often. Backing up data involves creating copies of your files and storing them on a hard drive, external storage device or cloud backup service. Data backups allow you to restore important files quickly in case the original data on your devices is lost or becomes corrupted.</p>
+<h2>Where to keep your backups</h2>
+<p>When it comes to where you backup data to, you can choose between your device’s hard drive, removable data storage device, and cloud storage service. Each of these options has its own advantages and disadvantages.</p>
+<h3>Local hard drive</h3>
+<p>The most convenient backup destination is the hard drive on your device. You can create a separate partition on the drive and keep the backups there. The biggest drawback of backing up data to the local hard drive is that it will not protect you in case of complete hard drive failure, malware infection, or if your device is lost or stolen.</p>
+<h3>Removable data storage device</h3>
+<p>Backing up your files to a removable data storage device such as an external hard drive or USB memory stick keeps your data secure even if the device on which the original data is stored fails or is lost. Removable data storage devices can keep a lot of data and are very reliable as long as you encrypt them. They are also easier to use, faster and cheaper than remote backup options.</p>
+<p>However, these data storage devices can malfunction and are vulnerable to natural calamities such as flooding and fire. Malware can infect these devices along with your primary drive. They can also be lost or stolen.</p>
+<h3>Cloud storage service</h3>
+<p>Cloud storage services are an increasingly common destination for data backups. Most cloud storage services provide a lot of storage space and encrypt data. With backups stored in the cloud, you can access and manage your data anytime on any connected device.</p>
+<p>Having your data backed up in a secure distant location gives you a peace of mind and ensures that your data is safe and recoverable. Besides, cloud backup services often allow you to save multiple versions of your file, thus giving you an opportunity to roll files back to earlier versions. Cloud services are, however, slower and often more expensive than local backup options. Besides, you cannot access data in the cloud without internet access.</p>
+<p>When choosing a cloud storage service, consider options that offer zero-knowledge encrypted storage. This means that even the company that stores your backups has no way of viewing your files. There are free options available in both conventional and zero-knowledge encrypted cloud storage.</p>
+<p>Whichever cloud service you go with, make sure that you secure your account with a <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong</a> and <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique</a> password and enable <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">two-factor authentication</a>.</p>
+<h2>The 3-2-1 rule for important data backup</h2>
+<p>You might have files that are particularly important to you. It might be a good idea to backup these files in more than one place. To secure the particularly sensitive, confidential or valuable data, consider following the 3-2-1 rule for backup: always keep three copies of your data, two on different local devices and one in a remote location.</p>
+<p>In practice, this means having the original data on your device, a backup on a removable data storage device, and another one on a cloud backup service. This system guarantees that you will keep your data even in the (highly unlikely) case that you lose two copies of it at the same time.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">Why You Should Make Backups and Where You Should Keep Them</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Backup a Windows 10 Computer</title>
+		<link>https://cyber-star.org/cs-articles/how-to-backup-a-windows-10-computer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-backup-a-windows-10-computer</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 04:44:49 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=296</guid>
+
+					<description><![CDATA[<p>Backing up data is the best way to make sure that you will not lose it, whatever may happen to the device where you store the original data. Backing up data involves creating copies of your files and storing them on a hard drive, external storage device or cloud backup service. You have options when [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-backup-a-windows-10-computer/">How to Backup a Windows 10 Computer</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Backing up data is the best way to make sure that you will not lose it, whatever may happen to the device where you store the original data. Backing up data involves creating copies of your files and storing them on a hard drive, external storage device or cloud backup service. You have <a title="Why You Should Make Backups and Where You Should Keep Them" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">options</a> when it comes to where you want to keep your backups.</p>
+<p>Depending on your needs, you can choose to backup your entire hard drive or only specific files or folders on your device. It is also up to you to decide how often you want to backup your data. The more often you do it, the more secure your data is. The easiest way to do it is to set up automatic regular data backups.</p>
+<p>The easiest way to backup files on your Windows 10 computer is to use the built-in software that came with the operating system. There are third-party backup options that offer better data security, but those options are not free.</p>
+<h2>Backup in Windows using File History</h2>
+<p>Windows 10 has a File History feature that automatically backs up specific file folders to a device of your choice. To set it up, connect an external storage device to your computer. After the device is connected, click the <strong>Start</strong> button and go to <strong>Settings &gt; Update &amp; Security &gt; Backup</strong>. Then click <strong>Add a drive</strong> under the <strong>Back up using File History</strong> section and select an external data storage device or network location where you want to keep your backups.</p>
+<p><img class="size-full wp-image-305 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg" alt="Adding a drive for backup" width="1600" height="1449" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-300x272.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1024x927.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-768x696.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1536x1391.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1200x1087.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" />To configure how often you want your data backed up, click the <strong>Start</strong> button and go to <strong>Settings &gt; Update &amp; Security &gt; Backup</strong>. Now click <strong>More options</strong> and, at the top of the File History window, click the <strong>Back up my files</strong> drop-down menu and choose how often you want to backup your files. The options available to you range from every 10 minutes to daily.</p>
+<p><img class="wp-image-309 size-full aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg" alt="Windows Backup more options" width="1600" height="1443" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-300x271.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1024x924.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-768x693.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1536x1385.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1200x1082.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img class="size-full wp-image-308 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg" alt="Setting up the backup frequency" width="1600" height="1439" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1024x921.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-768x691.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1536x1381.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1200x1079.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /><br />
+To select the folders that you want backed up, click the <strong>Start</strong> button and go to <strong>Settings &gt; Update &amp; Security &gt; Backup</strong>. Now scroll down the Backup options window to see and edit the default list of folders included in the backup. You can remove folders (click <strong>Remove</strong> button) from the list and add other folders (click <strong>Add a folder</strong> button) here.</p>
+<p><img class="size-full wp-image-307 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg" alt="Removing a folder in the backup options" width="1600" height="1439" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1024x921.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-768x691.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1536x1381.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1200x1079.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img class="size-full wp-image-306 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg" alt="Adding a folder to the backup" width="1600" height="1441" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1024x922.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-768x692.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1536x1383.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1200x1081.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>To finalize the setup and start the backup process, click <strong>Back up now</strong> at the top of the screen. After a backup finishes, Windows displays the size, date and time of the backup.</p>
+<p><img class="size-full wp-image-310 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg" alt="Starting the backup procedure" width="1600" height="1441" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1024x922.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-768x692.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1536x1383.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1200x1081.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>Backup in Windows using third-party apps</h2>
+<p>If you are not happy with backup options built into your Windows computer, you can always choose a third-party app such as Backblaze, Carbonite, Dropbox or Google Drive. When you shop for third-party backup software, make sure you trust it fully and understand how it handles your data. To set up a third-party backup app, follow the instructions that come with it.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-backup-a-windows-10-computer/">How to Backup a Windows 10 Computer</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Backup Your Mac</title>
+		<link>https://cyber-star.org/cs-articles/how-to-backup-your-mac/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-backup-your-mac</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 19:16:39 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=312</guid>
+
+					<description><![CDATA[<p>Backing up data is the best way to make sure that you will not lose it, whatever may happen to the device where you store the original data. Backing up data involves creating copies of your files and storing them on a hard drive, external storage device or cloud backup service. You have options when [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-backup-your-mac/">How to Backup Your Mac</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Backing up data is the best way to make sure that you will not lose it, whatever may happen to the device where you store the original data. Backing up data involves creating copies of your files and storing them on a hard drive, external storage device or cloud backup service. You have <a title="Why You Should Make Backups and Where You Should Keep Them" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">options</a> when it comes to where you want to keep your backups.</p>
+<p>Depending on your needs, you can choose to backup your entire hard drive or only specific files or folders on your device. It is also up to you to decide how often you want to backup your data. The more often you do it, the more secure your data is. The easiest way to do it is to set up automatic regular data backups.</p>
+<p>The easiest way to backup files on your Mac is to use the built-in software that came with the operating system. There are third-party backup options that offer better data security, but those options are not free.</p>
+<h2>Backup with Time Machine</h2>
+<p>MacOS has a Time Machine feature that automatically backs up specific file folders to a device of your choice. To set it up, connect an external storage device to your Mac. After the device is connected, open <strong>Apple menu &gt; System Preferences</strong>, then click <strong>Time Machine</strong>.</p>
+<p><img class="size-full wp-image-321 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg" alt="macOS Time Machine" width="1200" height="820" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg 1200w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-768x525.jpeg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>&nbsp;</p>
+<p>After you click <strong>Select Backup Disk</strong> and choose an external storage device as a destination for backups, Time Machine begins backing up your files. You can continue using your Mac while the system works on the backup.</p>
+<p><img class="size-full wp-image-320 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg" alt="Selecting a backup disk on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>If you select <strong>Back Up Automatically</strong>, the system will make periodic backups, often without you even noticing it. After the first backup (which will probably take a while), future backups will be faster, as Time Machine backs up only the files that changed since the previous backup.</p>
+<p><img class="size-full wp-image-316 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg" alt="Backup Automatically check box on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>You can also use the <strong>Time Machine</strong> menu (the icon looks like a clock with two hands and an arrow running counterclockwise) in the menu bar to start a backup manually (choose <strong>Back Up Now</strong>), check the status of a backup or skip a backup in progress.</p>
+<p>By default Time Machine backs up everything on your hard drive. To exclude specific folders from your backup, open Time Machine preferences and select <strong>Options</strong>. To exclude items from your backup, click the add (+) button, navigate to the item you want to remove and click <strong>Exclude</strong>. To stop excluding a folder from backups, select the folder and click the remove (-) button.</p>
+<p><img class="size-full wp-image-319 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg" alt="Selecting Options on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img class="size-full wp-image-318 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg" alt="Excluding items from a backup on macOS Time Machine" width="1330" height="902" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg 1330w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-300x203.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-1024x694.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-768x521.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-1200x814.jpeg 1200w" sizes="(max-width: 1330px) 100vw, 1330px" /></p>
+<p><img class="size-full wp-image-317 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg" alt="Exclude button in the items selection window for macOS Time Machine" width="1600" height="937" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-300x176.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1024x600.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-768x450.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1536x900.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1200x703.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>Backup with iCloud</h2>
+<p>All Apple devices have iCloud online storage service built into them. Using this service saves you the hassle of connecting an external data storage device to your Mac every time you want to backup your data. If you are signed in to iCloud, it automatically stores your photos, contacts, calendars, notes, and more.</p>
+<p>To customize your iCloud settings, open <strong>Apple menu &gt; System Preferences</strong>, then click <strong>Apple ID &gt; iCloud</strong>. Here you can choose the apps &#8211; like Photos, Notes, and iCloud Drive &#8211; that you want to use with iCloud.</p>
+<p><img class="size-full wp-image-313 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg" alt="Apple ID on macOS System Preferences" width="1000" height="853" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id-300x256.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id-768x655.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img class="size-full wp-image-315 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg" alt="iCloud option on Apple ID on macOS System Preferences" width="1000" height="910" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud-300x273.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud-768x699.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>iCloud is designed to store your photos, contacts, calendars, notes and passwords. If you want to backup other types of files on iCloud, you can use iCloud Drive. iCloud Drive is Apple’s document-oriented cloud-based storage service. It allows you to safely store all kinds of documents in iCloud, keep them in sync and access them from all your computers (both Mac and Windows machines), iOS and iPadOS devices. iCloud Drive can automatically backup all the files in your desktop and documents folders.</p>
+<p>In order to use iCloud Drive, you need to set it up first. To set it up on a Mac machine, choose <strong>Apple menu &gt; System Preferences</strong>, click <strong>Apple ID</strong>, then select <strong>iCloud</strong> in the sidebar. Select <strong>iCloud Drive</strong>.</p>
+<p><img class="size-full wp-image-314 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg" alt="Checking iCloud Drive checkbox in iCloud settings" width="1000" height="910" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive-300x273.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive-768x699.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>All iCloud users get 5GB of free online storage. This includes everything you store on iCloud and iCloud Drive. If you need more space for your backups, you will have to purchase an <a title="iCloud storage plans and pricing" href="https://support.apple.com/en-ca/HT201238" target="_blank" rel="noopener">upgraded storage plan</a> or go with a different backup option.</p>
+<h2>Backup with third-party apps</h2>
+<p>If you are not happy with backup options built into your Mac, you can always choose a third-party app such as Backblaze, Carbonite, Dropbox or Google Drive. When you shop for third-party backup software, make sure you trust it fully and understand how it handles your data. To set up a third-party backup app, follow the instructions that come with it.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-backup-your-mac/">How to Backup Your Mac</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why You Should Encrypt Your Devices</title>
+		<link>https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 09:28:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=322</guid>
+
+					<description><![CDATA[<p>Your computer, tablet and smartphone have a lot of important or even sensitive data on them. If you lose a device or someone steals it, they can access all the sensitive files of personal information stored on it. Even a password protecting a device may not stop a dedicated individual from getting around it to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/">Why You Should Encrypt Your Devices</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Your computer, tablet and smartphone have a lot of important or even sensitive data on them. If you lose a device or someone steals it, they can access all the sensitive files of personal information stored on it. Even a password protecting a device may not stop a dedicated individual from getting around it to read your files.</p>
+<p>The best way to secure sensitive data on your devices is to use encryption. Encryption makes all the data on a device completely unreadable, thus protecting it from unauthorized access or manipulation. It is particularly important when you deal with confidential data that can put you or the people you work with at risk.</p>
+<h2>How encryption works</h2>
+<p>At its most basic level, all the information processed or stored by a computer, smartphone or data storage device consists of sequences of ones and zeros, known as binary data. Because all computers and smartphones use this format, digital data can be created, processed and stored on any such device.</p>
+<p>Encryption converts binary data into a complex code that only people with access to a secret key (known as a decryption key) or password can read. Even if unauthorized individuals get access to encrypted data, they cannot decipher the code or change it.</p>
+<h2>Full-disk encryption</h2>
+<p>Full-disk encryption encrypts all the data stored on your device at the hardware level. It works by automatically converting data on a hard drive into a complex unreadable code. Without a proper decryption key, nobody will be able to read any of the files on an encrypted device.</p>
+<p>Full-disk encryption is easy to use because it does not require any effort on your part after you unlock the computer. It works without you even noticing it.</p>
+<p>One of the advantages of using full-disk encryption is that you do not need to worry about protecting individual files on your device. As you create any data, it is automatically encrypted. When you read it, it is automatically decrypted. Full-disk encryption also ensures that the data which we often forget we have on our devices (such as temporary files and browser cache files) is secure.</p>
+<h2>Encrypting your device</h2>
+<p>When it comes to smartphones, both Android and iOS devices are encrypted by default. To make the most of this important data security feature, make sure that your smartphone is protected by a strong password or passcode and that it automatically locks the screen after a brief period of inactivity. Also, make sure that the operating system on your smartphone is up to date.</p>
+<p>The easiest way to encrypt a computer is to use the free built-in software that came with the operating system. Both Windows and Mac devices have effective full-disk encryption tools. These tools will not work, however, unless you set them up on your device. Follow these directions to set up encryption on <a title="How to Encrypt a Windows 10 Device" href="https://cyber-star.org/cs-articles/how-to-encrypt-a-windows-10-device/">Windows 10</a> and Mac computers.</p>
+<p>You should also consider encrypting your external data storage devices. Such devices normally come with built-in encryption tools. To set up these tools, follow the instructions that come with them.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/">Why You Should Encrypt Your Devices</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Encrypt a Windows 10 Device</title>
+		<link>https://cyber-star.org/cs-articles/how-to-encrypt-a-windows-10-device/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-encrypt-a-windows-10-device</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 17:24:22 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=338</guid>
+
+					<description><![CDATA[<p>The best way to secure sensitive data on your computer is to use full-disk encryption. The easiest way to encrypt a hard drive on a Windows 10 device is to use encryption tools built into the operating system. These tools will most probably not work on your device unless you turn them on. Remember that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-encrypt-a-windows-10-device/">How to Encrypt a Windows 10 Device</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The best way to secure sensitive data on your computer is to <a title="Why You Should Encrypt Your Devices" href="https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/">use full-disk encryption</a>. The easiest way to encrypt a hard drive on a Windows 10 device is to use encryption tools built into the operating system. These tools will most probably not work on your device unless you turn them on.</p>
+<p>Remember that whichever encryption tool you use, your data will only be secure if you protect your device with a strong password and set it to lock automatically after a brief period of inactivity.</p>
+<h2>Check if your device supports encryption</h2>
+<p>Some older devices do not support encryption even if they run Windows 10. To check if your device supports encryption, select the <strong>Start</strong> button, navigate to <strong>Settings &gt; System &gt; About</strong>, and see if you have a <strong>Device encryption</strong> setting at the bottom of the pane.</p>
+<p>If you have the <strong>Device encryption</strong> setting here, you can enable it by signing in with a Microsoft account. If it is already enabled, you do not need to take any action.</p>
+<p>If you do not have the <strong>Device encryption</strong> setting here, your device does not support encryption. You may still be able to use standard BitLocker encryption that is available on most versions of Windows 10.</p>
+<p><img class="size-full wp-image-340 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg" alt="BitLocker Settings" width="1600" height="841" srcset="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-300x158.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1024x538.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-768x404.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1536x807.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1200x631.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>(The screenshot above shows the <strong>About</strong> window that has no <strong>Device encryption</strong> setting. It means that the device does not support encryption)</p>
+<h2>Turn on BitLocker encryption</h2>
+<p>BitLocker is an encryption tool built into Windows 10 Professional, Enterprise, and Education editions. It is not available on computers running Windows 10 Home. If you are not sure which version of Windows operating system you are running, <a title="Which version of Windows operating system am I running?" href="https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808">check this resource</a>.</p>
+<p>To turn on BitLocker encryption, make sure you are signed in to your Windows device with an administrator account. Select the <strong>Start</strong> button, and then under <strong>Windows System</strong>, select <strong>Control Panel</strong>. In the <strong>Control Panel</strong>, select <strong>System and Security</strong> (if you don’t see it, make sure that “View by” is set to “Category”), navigate to <strong>BitLocker Drive Encryption &gt; Manage BitLocker</strong>. Select <strong>Turn on BitLocker</strong> and follow the instructions.</p>
+<p><img class="size-full wp-image-343 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg" alt="BitLocker on Control Panel" width="1000" height="759" srcset="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel-300x228.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel-768x583.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img class="size-full wp-image-342 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg" alt="Turn on BitLocker" width="1000" height="758" srcset="https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker-300x227.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker-768x582.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>After you finish setting up BitLocker, the initial encryption can take a long time, depending on the amount of data stored on your computer. But you can continue using your computer as you normally do while the disk encryption is in progress.</p>
+<p>If you do not have <strong>BitLocker Drive Encryption</strong> setting in the <strong>System and Security</strong> pane, it may be that your device does not have a <strong>TPM (Trusted Platform Module)</strong> chip that Windows uses for encryption. To check this, select the <strong>Start</strong> button, and under <strong>Windows Administrative Tools</strong>, select <strong>System Information</strong>. Navigate to the bottom of the <strong>System Information</strong> window and find <strong>Device Encryption Support</strong>.</p>
+<p><img class="size-full wp-image-341 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg" alt="Device Encryption Support" width="1452" height="768" srcset="https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg 1452w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-300x159.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-1024x542.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-768x406.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-1200x635.jpg 1200w" sizes="(max-width: 1452px) 100vw, 1452px" /></p>
+<p>If you get the above value (“TPM is not usable”) next to <strong>Device Encryption Support</strong>, your device does not have a TPM chip. Even without the chip, you can still turn on BitLocker Encryption by following this guide.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-encrypt-a-windows-10-device/">How to Encrypt a Windows 10 Device</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Delete Data Safely Using BleachBit</title>
+		<link>https://cyber-star.org/cs-articles/how-to-install-and-start-using-bleachbit/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-install-and-start-using-bleachbit</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 09:35:47 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=323</guid>
+
+					<description><![CDATA[<p>Discarding data is not as straightforward as it appears. When you click “Delete” or move a file to a Recycle Bin (for Windows users) or Trash (for Apple product users), it does not just disappear from your device. The deleted file stays on your device until the operating system requires the space the file holds [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-install-and-start-using-bleachbit/">How to Delete Data Safely Using BleachBit</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Discarding data is not as straightforward as it appears. When you click “Delete” or move a file to a Recycle Bin (for Windows users) or Trash (for Apple product users), it does not just disappear from your device. The deleted file <a title="Digital Data 101: What It Is and When It Becomes Personal" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">stays on your device</a> until the operating system requires the space the file holds and overwrites it with new data. Until that happens, the “deleted” file stays on your device and can be recovered by someone who knows what they are doing.</p>
+<p>There are free tools that you can use to securely wipe files from your devices, that is, to delete them and replace their binary data with random combinations of ones and zeros. BleachBit is one of such tools for Windows and Linux devices. It removes data from your hard drive and storage media securely and permanently.</p>
+<p>Unfortunately, if you use SSD (Solid State Drive) devices, it is not always possible to delete all data from them securely and permanently. Encrypting these devices is one way to make data recovery from them more difficult.</p>
+<h2>Start using BleachBit</h2>
+<ol>
+<li><strong>Download BleachBit</strong> directly from <a title="Bleachbit website" href="https://www.bleachbit.org/">https://www.bleachbit.org/</a></li>
+<li><strong>Install BleachBit</strong></li>
+<li><strong>Open BleachBit</strong> and select all the data you want the tool to delete securely and permanently from your device<img class="size-full wp-image-324 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png" alt="BleachBit Settings" width="1017" height="695" srcset="https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png 1017w, https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default-300x205.png 300w, https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default-768x525.png 768w" sizes="(max-width: 1017px) 100vw, 1017px" />Note that when you delete temporary internet files, you can select all or some of the web browsers you have installed on your device. Deleting temporary internet files from a web browser will log you out of all websites. So it may be a good idea to save passwords that your web browser stores to a password manager <em>before</em> deleting temporary internet files.</li>
+<li>When you have selected all the options you need, <strong>click “Clean”</strong>.</li>
+</ol>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-install-and-start-using-bleachbit/">How to Delete Data Safely Using BleachBit</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Virtual Valuables: Protect What You Are Storing Online</title>
+		<link>https://cyber-star.org/cs-articles/virtual-valuables-protect-what-you-are-storing-online/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=virtual-valuables-protect-what-you-are-storing-online</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 09:39:17 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=325</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/virtual-valuables-protect-what-you-are-storing-online/">Virtual Valuables: Protect What You Are Storing Online</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/virtual-valuables-protect-what-you-are-storing-online/">Virtual Valuables: Protect What You Are Storing Online</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

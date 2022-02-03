@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Digital Risks &#8211; CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/cs-categories/digital-risks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Fri, 17 Sep 2021 19:29:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>How to Recognize Phishing Attacks</title>
+		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 05:29:46 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=457</guid>
+
+					<description><![CDATA[<p>The most common online threats facing hundreds of millions of users on a daily basis have to do with various social engineering schemes. At its core, social engineering is about tricking people into revealing sensitive information or breaking normal security procedures. What is phishing? Phishing attacks are among the most frequent social engineering schemes. They [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/">How to Recognize Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The most common online threats facing hundreds of millions of users on a daily basis have to do with various social engineering schemes. At its core, social engineering is about tricking people into revealing sensitive information or breaking normal security procedures.</p>
+<h2>What is phishing?</h2>
+<p>Phishing attacks are among the most frequent social engineering schemes. They involve email, social media, SMS, or chat messages designed to trick people into sharing information that might help a more significant crime or installing malware by clicking a link or opening an attachment.</p>
+<p>Most phishing attacks are conducted through generic mass messages that appear to be legitimate and come from a source that you would normally trust (e.g. from a government agency, bank, or social media service). But there are also phishing attacks targeting specific individuals or groups, and malicious actors are constantly innovating and changing their tools and tricks.</p>
+<h2>Types of phishing attacks</h2>
+<p>These are the most common types of phishing attacks:</p>
+<ul>
+<li><strong>Spear phishing</strong> is a type of fishing attack in which a malicious actor targets a specific person through email, social media, SMS, or chat messages that look convincingly like they come from someone the target knows &#8211; like a colleague or friend.</li>
+<li><strong>Whaling attacks</strong> are spear phishing attacks that target the “big fish”, such as heads of organizations and owners or chief editors of media organizations. Whaling attacks typically involve scam email messages that look like important email sent from government officials or partners from important organizations such as donor agencies.</li>
+<li><strong>SMiShing</strong> attacks involve SMS messages (texts). Scammers carrying out these attacks may impersonate someone you know to ask for money or personal information. Most often, people behind these attacks pose as a service you use (e.g. courier company or online shopping platform) to request a payment or offer an update. Increasingly often they pose as WhatsApp, Facebook or another social media company to ask you for the verification code that you receive via the platform.</li>
+<li><strong>Vishing</strong> attacks involve using voice calls. Scammers carrying out such attacks often pose as employees from government agencies. They normally use threats and convincing language to make victims feel as though they have no other option than to provide the information being requested.</li>
+</ul>
+<h2>Phishers target emotions</h2>
+<p>What is common to most phishing attacks is that they try to exploit powerful human emotions. These include:</p>
+<ul>
+<li><strong>Greed:</strong> attackers typically offer financial rewards or other incentives if you just click that link, open that attachment or complete that form.</li>
+<li><strong>Urgency:</strong> attackers create a sense of urgency with a tight deadline for action.</li>
+<li><strong>Curiosity:</strong> attackers lure a victim into clicking on a link by promising unique and interesting content.</li>
+<li><strong>Fear:</strong> attackers warn of negative consequences if you do not take action.</li>
+</ul>
+<h2>Spotting a phishing email</h2>
+<p>Phishing tactics are constantly evolving. Phishing emails often mimic the style and use real logos of legitimate organizations to fool you. Yet many phishing emails have one or several of the common features listed below that can help you spot such attacks:</p>
+<ul>
+<li><strong>Fake email addresses</strong> that look real to fool you. For example, attackers may pose as Amazon to try to steal your credentials by fooling you into “updating” or “confirming” your details. You should realize that something is off when that email comes from an address ending in @amazonheadoffice.com or @amazzon.com, rather than @amazon.com. Also, it is worth keeping in mind that no legitimate and large organization will send you emails from an address ending in @gmail.com, @mail.ru or any other email platform designed for the general public.</li>
+<li><strong>Embedded links</strong> which, when you click on them, take you to fake websites seeded with malware. Never click on links without first checking where they take you. You can see the full website address by hovering your muse over a link.Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a title="Norton Safe Web" href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> (https://safeweb.norton.com)./ Use extra caution when dealing with shortened URL links. To check the real URL link behind a shortened one, use a free online service such as <a title="Unshorten that URL" href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> (https://unshorten.it)./</li>
+<li><strong>Attachments</strong> that infect your device with malware once you open them. It is one of the most basic digital safety rules that you should never open attachments from senders you do not know or do not trust fully. Also, legitimate organizations will never send you attachments unless you specifically ask them to forward you something.</li>
+<li><strong>Poor grammar or weird language.</strong> Scammers using mass emails to carry out phishing attacks often target people in dozens of different countries. Instead of investing in translating their messages and customizing them to better target local audiences, they use free online translations services. As a result, phishing emails often use unnatural or plainly weird language and contain grammatical errors.</li>
+<li><strong>Generic salutation</strong> instead of your name. When an email begins with a generic salutation such as “Dear customer,” “Dear account holder,” or “Dear valued member,” this should immediately make you suspicious. Legitimate organizations contacting you will often know your name.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/">How to Recognize Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Not to Fall for Phishing</title>
+		<link>https://cyber-star.org/cs-articles/how-not-to-fall-for-phishing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-not-to-fall-for-phishing</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 05:23:45 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=456</guid>
+
+					<description><![CDATA[<p>Phishing scams are as old as the Internet itself and they are not going away. Fortunately, it is usually easy to avoid falling for phishing if you practice basic digital safety rules and use common sense. Follow these basic guidelines to keep yourself safe. 1. Remain skeptical Always remember that when something you are offered [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-not-to-fall-for-phishing/">How Not to Fall for Phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Phishing scams are as old as the Internet itself and they are not going away. Fortunately, it is usually easy to avoid falling for phishing if you practice basic digital safety rules and use common sense. Follow these basic guidelines to keep yourself safe.</p>
+<h2>1. Remain skeptical</h2>
+<p>Always remember that when something you are offered online seems too good to be true, it probably isn’t true at all. Scammers and criminals are very skillful at manipulating our emotions, particularly greed and curiosity. Would you like the latest iPhone for only $20? Would you like to earn a lot of money by trying all these free products that companies send to you for free? Would you like to know which of your classmates or coworkers is secretly into you? All you need to do to get these rewards is click a link, open an attachment or complete a form. Do not fall for this. You are smarter than that.</p>
+<h2>2. Beware of attachments</h2>
+<p>It is one of the most fundamental digital safety rules that you should never download or open attachments that arrive in emails, social media messages, or mobile texts from people you do not know or do not trust fully. Scammers and criminals are particularly fond of Word, Excel, PowerPoint and PDF attachments. If an email or any other type of message looks strange or suspicious to you, the best way to deal with it is by deleting it right away.</p>
+<p>It is also worth remembering that even people you know and trust can have their email accounts compromised. So if you receive an unexpected email with an attachment from them, it is a good idea to check with the person who you think sent you the email before opening it.</p>
+<h2>3. Check links before clicking</h2>
+<p>It goes without saying that you should never click on links sent by people or organizations that you do not know or do not expect to be contacting you. You should also make it a habit to treat each single link you receive as a potential risk. When you get an alert from a colleague, your bank or the social media service you are using, do not click the link in the email. Hover your mouse over the link to see the full website address. This can help you decide whether or not you want to click that link. Alternatively, you can open a browser window and type of address directly into the URL field to make sure the site is real.</p>
+<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as Norton Safe Web (https://safeweb.norton.com/) that lets you enter the URL of a suspicious link and check it for safety.</p>
+<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as UnshortenIt (https://unshorten.it)/ to “decode” a shortened URL.</p>
+<h2>4. Slow down to think</h2>
+<p>One of the phishing tactics that criminals and scammers use particularly well involves creating a false sense of urgency by sending people requests with a tight deadline for action and sometimes punishment for failing to act fast. They may tell you to pay a fine for making an “error” in your latest tax return or face criminal prosecution. Or someone pretending to be your boss may demand that you wire money to a specific bank account or get fired.</p>
+<p>Always treat “urgent” requests for information or financial transfers as highly suspicious. Would the tax authorities ever call on your mobile phone to demand that you pay a fine? Would your boss ever demand that you wire money to a bank account that you have never heard about? If something seems off, discuss it with people you trust, colleagues or a lawyer.</p>
+<h2>5. Verify identity</h2>
+<p>Always verify that people or organizations requesting information or financial transfers are those who they claim to be. Call them directly or get in touch via a secure messaging platform to double check. Remember that scammers are very skillful at impersonating people and they put a lot of effort and research into doing so.</p>
+<h2>6. Keep your antivirus up to date</h2>
+<p>Even if you are extremely cautious and practice perfect digital hygiene, you should always have antivirus and firewall running on all devices you are using. Make sure your antivirus is always up to date so it can deal with any new security threats. It is a good idea to set your critical software such as antivirus and operating system to update automatically.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-not-to-fall-for-phishing/">How Not to Fall for Phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Protect Yourself Against Malware</title>
+		<link>https://cyber-star.org/cs-articles/how-to-protect-yourself-against-malware/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-protect-yourself-against-malware</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 05:20:23 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=455</guid>
+
+					<description><![CDATA[<p>One of the most common ways hackers and criminals cause trouble online is by spreading malware. In addition to using common sense, follow these basic guidelines to protect yourself against malware. 1. Use antivirus software You should always have reliable antivirus software running on all devices you are using. This software is your main line [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-protect-yourself-against-malware/">How to Protect Yourself Against Malware</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>One of the most common ways hackers and criminals cause trouble online is by spreading malware. In addition to using common sense, follow these basic guidelines to protect yourself against malware.</p>
+<h2>1. Use antivirus software</h2>
+<p>You should always have reliable antivirus software running on all devices you are using. This software is your main line of defense against viruses and other types of malware. Make sure your antivirus is always up to date so it can deal with any new security threats.</p>
+<p>Antivirus programs allow you to scan your entire device for malware. Make it a habit to run regular scans of your devices to catch malware early and prevent it from spreading. If you need to download something, make sure to use an antivirus program to scan the download for malware before opening it.</p>
+<p>Windows comes with free and reliable antivirus software, Microsoft Defender, built-in. You can get Microsoft Defender to protect your device even better by <a title="How to Make Windows Defender More Secure" href="https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/">adjusting a few settings</a>.</p>
+<h2>2. Keep your software and hardware up to date</h2>
+<p>Malware infects your devices by finding and exploiting vulnerabilities in software. Hackers and criminals are constantly looking for such vulnerabilities. Companies that create software fix vulnerabilities through security patches released in updates. Therefore, it is important to install updates as soon as they become available.</p>
+<p>Whichever device you use, make sure you are using the latest version of the operating system. It is a good idea to set the operating system and antivirus software to update automatically. Update the rest of software on your devices often and on a regular basis.</p>
+<p>If there have been no updates to the operating system on your mobile phone offered within the last six months, it is highly likely that it is an older model that the manufacturer no longer supports. In this case, consider replacing the phone with a newer model that gets critical security updates.</p>
+<h2>3. Use a non-admin account</h2>
+<p>Malware can be particularly devastating for your device and data on it when you are logged in an administrator account. It is a good idea to create a user account with limited privileges on your computer and use it for regular daily tasks. When you are signed in to an account with restricted privileges, it is much harder for malware to find a way into your device and make system-wide changes.</p>
+<h2>4. Know what you install</h2>
+<p>A lot of malware is bundled with shady software or built into pirated versions of legitimate software. One of the surest ways to infect your computer with malware is to install pirated (unlicensed) software on it. If you really need a particular piece of software but cannot afford it, keep in mind that there are free alternatives to almost all major software products. These alternatives may offer more limited functionality but they will get the job done without making malware a constant feature of your online experience. When you have a chance, always choose open-source software over proprietary commercial products.</p>
+<p>Download apps only through official app stores. When you install something for the first time and are not familiar with the app, make sure you read reviews to find out if other users have found the software trustworthy.</p>
+<p>Make it a habit to revisit all apps installed on your devices on a regular basis. Delete the apps that you no longer use or trust.</p>
+<h2>5. Beware of attachments</h2>
+<p>It is one of the most fundamental digital safety rules that you should never download or open attachments that arrive in emails, social media messages, or mobile texts from people you do not know or do not trust fully. Scammers and criminals are particularly fond of Word, Excel, PowerPoint and PDF files infected with malware. If an email or any other type of message looks strange or suspicious to you, the best way to deal with it is by deleting it right away.</p>
+<p>It is also worth remembering that even people you know and trust can have their email accounts compromised. So if you receive an unexpected email with an attachment from them, it is a good idea to check with the person who you think sent you the email before opening it.</p>
+<h2>6. Check links before clicking</h2>
+<p>You should never click on links sent by people or organizations that you do not know. You should also make it a habit to treat each single link you receive as a potential risk. When you get an alert from a colleague, your bank or the social media service you are using, do not click the link in the email. Hover your mouse over the link to see the full website address. This can help you decide whether or not you want to click that link. Alternatively, you can open a browser window and type of address directly into the URL field to make sure the site is real.</p>
+<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as Norton Safe Web (https://safeweb.norton.com/) that lets you enter the URL of a suspicious link and check it for safety.</p>
+<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as UnshortenIt (https://unshorten.it)/ to “decode” a shortened URL.</p>
+<h2>7. Don’t trust pop-up messages</h2>
+<p>We have all had this experience: you surf the Internet and suddenly there is a pop-up window telling you that your computer has been infected and recommending that you download some software to protect your device. Do not fall for this. You are smarter than that.</p>
+<h2>8. Be careful with removable media</h2>
+<p>Malware often travels across different devices via removable media such as USB memory sticks, external hard drives, flash memory cards and so on. Never insert such a device into your computer if you do not know where it came from. When you have to use a removable media device and know where it came from, it is a good idea to use an antivirus program to scan the device before opening it.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-protect-yourself-against-malware/">How to Protect Yourself Against Malware</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Phishing Attacks</title>
+		<link>https://cyber-star.org/cs-articles/phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phishing-attacks</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2020 03:56:30 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=88</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/phishing-attacks/">Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/phishing-attacks/">Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

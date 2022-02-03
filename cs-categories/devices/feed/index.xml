@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Devices &#8211; CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/cs-categories/devices/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Fri, 17 Sep 2021 19:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>How to Keep Your Computer Safe and Secure</title>
+		<link>https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 10:12:33 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=331</guid>
+
+					<description><![CDATA[<p>Personal computers such as desktops, laptops and tablets are critical mediums that help us access the internet and use various online services. They also help us communicate with other people and create, store, and share information. Losing a computer or having it stolen or compromised can have serious professional, financial, and reputational consequences. This is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/">How to Keep Your Computer Safe and Secure</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Personal computers such as desktops, laptops and tablets are critical mediums that help us access the internet and use various online services. They also help us communicate with other people and create, store, and share information.</p>
+<p>Losing a computer or having it stolen or compromised can have serious professional, financial, and reputational consequences. This is why it is so important to know how to protect and secure your PC.</p>
+<p>Note that all the tips in this article focus on protecting your personal computers generally. If you would like to learn about how to protect data on your computer, there are plenty of resources you can find in the <a title="My Data" href="https://cyber-star.org/using-the-cyberstar/data/">My Data section on our website</a>.</p>
+<h2>1. Use licensed software only</h2>
+<p>Software is not always cheap. So there is often a temptation to install unlicensed or “pirated” software on your computer.</p>
+<p>But doing so is not only illegal &#8211; it is also a really bad idea. Such software is created on the basis of older versions of genuine applications. Since these versions were used, hundreds or perhaps thousands of bugs and critical vulnerabilities in those apps have been discovered and fixed by developers. If you use pirated software, you cannot apply many of these patches and updates.</p>
+<p>More than that, pirated software often comes with malicious code already built in. So by using unlicensed apps, you leave a virtual door into your device and all its contents permanently open to cybercriminals.</p>
+<p><strong>It is particularly important to use genuine versions of the most important software on your computer</strong>, such as the operating system and antivirus software. If you cannot afford other commercial software products, you can always <a title="Open Source Alternatives For Expensive Applications" href="https://techlog360.com/best-open-source-alternatives/">find a free open-source alternative</a> that might do the job for you.</p>
+<h2>2. Download software only from reputable sources</h2>
+<p>Cybercriminals often distribute software that looks like genuine apps but has various types of malware built in it. When you install such software, you leave a virtual door into your device and all its contents open to cybercriminals.</p>
+<p>Therefore, <strong>always download software and updates either from official app stores</strong> (Microsoft Store on Windows devices and App Store on Macs) <strong>or directly from the websites of companies that distribute and update the app you want to have</strong>. For example, when installing Adobe Acrobat Reader, download the app directly from Adobe, rather than third-party websites.</p>
+<p>When downloading new or less known software, it is also a good idea to <strong>read reviews</strong> to make sure the software is safe to install and use.</p>
+<h2>3. Update software regularly</h2>
+<p><strong>Software updates often include patches that fix the latest security vulnerabilities.</strong></p>
+<p>Software is built by code, and applications often contain tens of thousands of lines of code. Hackers look at every line of code and often find security holes or weaknesses (known as “vulnerabilities”) in applications and operating systems. When they find a vulnerability, hackers create malware that exploits it to gain control over your device or steal your data. As soon as such vulnerabilities are discovered, developers create patches and release them in software updates. But until you install a patch, the vulnerability it addresses can be exploited by hackers. Therefore, it is important to <strong>install software updates as soon as they become available</strong>.</p>
+<p>It is particularly important to <strong>always have the operating system and antivirus software on your computer up-to-date</strong>. Enabling automatic updates ensures that the computer downloads and installs critical patches as soon as they are released. If you do not want to enable automatic updates for other apps on your computer, you should check for and install updates at least once a month.</p>
+<p>Most updates will not protect your computer until you reboot it. So, <strong>reboot your device as soon as you are asked to do so</strong> after installing updates.</p>
+<blockquote><p>Follow <a title="How to Update Software in Windows 10" href="https://cyber-star.org/cs-articles/how-to-update-software-in-windows-10/">this guide</a> to customize automatic Windows 10 updates, check for other app updates and set Microsoft Store to update apps on your Windows 10 device automatically.</p></blockquote>
+<h2>4. Use reliable antivirus software</h2>
+<p>Antivirus prevents malware from infecting your computer. If the computer is already infected, antivirus detects malware and removes it from your computer. So <strong>it is important that you always have reliable antivirus software running</strong> on your computer. You should run a full scan of your computer at least once a month.</p>
+<p>Unfortunately, most of the free antivirus software on the market does not do a good job at securing your computer. A notable exception is Microsoft Defender that comes with the Microsoft Windows operating system. When <a title="How to Make Windows Defender More Secure" href="https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/">configured the right way</a>, Microsoft Defender outperforms many well-established antivirus platforms.</p>
+<p>Malware evolves rapidly. <strong>Make sure your antivirus software is up-to-date and your virus definitions are set to update automatically</strong>.</p>
+<h2>5. Password protect your computer and set a lock screen</h2>
+<p>You do not want anyone to poke around your files, install spyware or change security settings on your computer when you are not around. <strong>Protect your computer with a strong password</strong>. <strong>Enable the computer to lock your screen automatically</strong> after a brief period of inactivity.</p>
+<blockquote><p>Follow <a title="How to Set or Change a Password in Windows 10" href="https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/">this guide</a> to set or change a password on a Windows 10 device.</p></blockquote>
+<p>Also, <strong>make sure you remember how to lock the screen on your device manually</strong> and remember to do this every time you step away from the device.</p>
+<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>6. Use a limited-privilege User Account for everyday tasks</h2>
+<p>If you own a computer, you are most likely using it through an Administrator Account. This might not always be a good idea. If you install a malware-infected app, open an infected attachment or click on a wrong link while using an Administrator Account, these actions may have disastrous consequences for your device or data on it.</p>
+<p>So it is a good idea to create a separate User Account with limited privileges and use it for everyday tasks. You can always log in the Administrator Account for special tasks such as software installation. It is particularly important to create separate User Accounts when you share a computer with other people.</p>
+<h2>7. Secure your computer physically</h2>
+<p>This might sound obvious but you should also protect your computer from loss or theft, two scenarios that happen much more often than most people think. Never leave your device unattended in a place where it can be stolen. Consider leaving your computer at home when you travel or visit places where you can be asked to surrender digital devices, such as airports, government offices, and embassies. If you often use a laptop in a semi-public place such as school, coworking space or cafe, consider buying a security cable.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/">How to Keep Your Computer Safe and Secure</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Update Software in Windows 10</title>
+		<link>https://cyber-star.org/cs-articles/how-to-update-software-in-windows-10/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-update-software-in-windows-10</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 13:11:19 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=350</guid>
+
+					<description><![CDATA[<p>An important part of keeping your computer safe and secure is ensuring that software on the computer is up to date. The most important software on your device is the operating system. Microsoft releases frequent Windows 10 updates with new features and important security patches. Automatic updates are the default setting in Windows 10 but [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-update-software-in-windows-10/">How to Update Software in Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>An important part of keeping your computer safe and secure is ensuring that software on the computer is up to date. The most important software on your device is the operating system. Microsoft releases frequent Windows 10 updates with new features and important security patches. Automatic updates are the default setting in Windows 10 but you can customize how and when these updates happen.</p>
+<p>As for all other apps on your computer, they also receive important updates from time to time. It is up to you to decide whether you want to update them manually or set the operating system to update them automatically. If you choose manual updates, you should check for and install updates at least once a month.</p>
+<p>Please note that in order to make these changes, you should be signed in on your device with an administrator account.</p>
+<h2>Customize automatic Windows 10 updates</h2>
+<p>To see pending Windows 10 updates and customize how and when automatic updates happen, select the <strong>Start</strong> button and go to <strong>Settings</strong>.</p>
+<p><img class="size-full wp-image-361 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg" alt="Accessing Windows Settings on Windows 10" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Then navigate to <strong>Update &amp; Security</strong> and, in the menu on the left, select <strong>Windows Update</strong>.</p>
+<p><img class="size-full wp-image-359 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg" alt="Windows Settings Update &amp; Security" width="1365" height="724" srcset="https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-300x159.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-1024x543.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-768x407.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-1200x636.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p><img class="size-full wp-image-362 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg" alt="Windows Update under Update &amp; Security" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Here you can see all the pending updates. To customize automatic Windows 10 updates, navigate to the bottom of the screen and go to <strong>Advanced options</strong>.</p>
+<p>You may be prevented from making changes here. If this happens, the most likely reason is that your computer is part of a “Windows domain”. Most often it means that your computer is controlled by the company you work for.</p>
+<p><img class="size-full wp-image-353 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg" alt="Windows Update Advanced options" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Under <strong>Advanced options</strong>, set <strong>Show a notification when your PC requires a restart to finish updating</strong> to <strong>On</strong>. This ensures that you will be notified every time your computer needs to reboot after an important update.</p>
+<p><img class="size-full wp-image-360 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg" alt="Windows Settings Update notifications switch" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Also, make sure that no date is set in the drop-down <strong>Select date</strong> menu under <strong>Pause updates</strong>. Specifying a date in this field postpones updates until the chosen date.</p>
+<p><img class="size-full wp-image-358 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg" alt="Windows Settings Pause updates" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2>Other apps: enable automatic updates or install updates manually</h2>
+<p>You can set most other apps to update automatically through the Microsoft Store on Windows 10. To do so, select the <strong>Start</strong> button and go to <strong>Microsoft Store</strong>.</p>
+<p><img class="size-full wp-image-357 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg" alt="Accessing Microsoft Store on Windows 10" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>In Microsoft Store, at the upper right, press the three dots (···) to navigate to the account menu and then select <strong>Settings</strong> in the drop-down menu.</p>
+<p><img class="size-full wp-image-351 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg" alt="Microsoft Store account menu" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/account_menu-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_menu-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img class="size-full wp-image-352 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg" alt="Microsoft Store account settings" width="800" height="632" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg 800w, https://cyber-star.org/wp-content/uploads/2021/07/account_settings-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_settings-768x607.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>In the <strong>Settings</strong> menu, you can set automatic updates for all apps on your computer (other than the operating system). To do so, set <strong>Update apps automatically</strong> to <strong>On</strong> under <strong>App updates</strong> at the top of the window.</p>
+<p><img class="size-full wp-image-354 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg" alt="Microsoft Store App updates switch" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/app_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/app_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>If you do not want apps on your computer to update automatically, you can check for all the available updates and install them manually. To do so, go to <strong>Microsoft Store</strong> and press the three dots (···) at the upper right to navigate to the account menu. Select <strong>Downloads and updates</strong> in the drop-down menu.</p>
+<p><img class="size-full wp-image-355 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg" alt="Microsoft Store Downloads and updates" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Here you can see all the updates available for apps on your computer (other than the operating system). To install the updates, click <strong>Get updates</strong>.</p>
+<p>Remember that if you choose to update software on your computer manually, you should do so frequently. We recommend that you check for and install updates at least once a month.</p>
+<p><img class="size-full wp-image-356 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg" alt="Microsoft Store Get updates button" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-update-software-in-windows-10/">How to Update Software in Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Set or Change a Password in Windows 10</title>
+		<link>https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-set-or-change-a-password-in-windows-10</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2021 14:21:25 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=364</guid>
+
+					<description><![CDATA[<p>You do not want anyone to poke around your files, install spyware or change security settings on your computer when you are not around. Follow the steps below to secure your Windows 10 device with a password or change a password. Please note that in order to make these changes, you should be signed in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/">How to Set or Change a Password in Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>You do not want anyone to poke around your files, install spyware or change security settings on your computer when you are not around. Follow the steps below to secure your Windows 10 device with a password or change a password.</p>
+<p>Please note that in order to make these changes, you should be signed in on your computer with an administrator account.</p>
+<h2>Set a device password</h2>
+<p>Follow these steps to set a password on a Windows 10 device that is not password protected.</p>
+<p>1. Click the <strong>Start</strong> button at the bottom left of your screen and go to <strong>Settings</strong>.</p>
+<p><img class="size-full wp-image-361 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg" alt="Accessing Windows Settings on Windows 10" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>2. Navigate to <strong>Accounts</strong>.</p>
+<p><img class="size-full wp-image-376 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>3. In the menu on the left, select <strong>Sign-in options</strong></p>
+<p><img class="size-full wp-image-377 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>4. Select <strong>Password</strong> from a list of sign-in options available to you and click <strong>Add</strong>.</p>
+<p><img class="size-full wp-image-365 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p><img class="size-full wp-image-366 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>5. Enter a password in the box, confirm it and click <strong>Next</strong>. Make sure you <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">use a strong password</a>.</p>
+<p><img class="size-full wp-image-370 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>6. Click <strong>Finish</strong>. Now make sure that you also <a href="#password-mandatory">make it a must</a> for whoever is using the computer besides you to enter a password to access the device.</p>
+<p><img class="size-full wp-image-372 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2>Change your device password</h2>
+<p>Follow these steps to change an existing password &#8211; for example, when you want to use a stronger password.</p>
+<p>1. Navigate to the Sign-in options menu <strong>(Start &gt; Settings &gt; Accounts &gt; Sign-in options)</strong>.</p>
+<p>2. Select <strong>Password</strong> from a list of sign-in options available to you and click <strong>Change</strong>.</p>
+<p><img class="size-full wp-image-368 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>3. Enter your current password and click <strong>Next</strong>.</p>
+<p><img class="size-full wp-image-369 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>4. Enter a new password in the box, confirm it and click <strong>Next</strong>. Make sure you <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">use a strong password</a>.</p>
+<p><img class="size-full wp-image-374 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>5. Click <strong>Finish</strong>.</p>
+<p><img class="size-full wp-image-371 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2><a id="password-mandatory" name="password-mandatory"></a>Make device password mandatory</h2>
+<p>Now that you have set a device password on your Windows 10 computer, you should also make it a must for anyone trying to access the computer to enter the password.</p>
+<p>1. Click the <strong>Start</strong> button at the bottom left of your screen and search for “<strong>netplwiz</strong>” in the search box. The top result should be a program of the same name. Click on the <strong>netplwiz</strong> program to open it.</p>
+<p><img class="size-full wp-image-375 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>2. In the window that opens, check the box next to <strong>“Users must enter a name and password to use this computer”</strong>.</p>
+<p><img class="wp-image-373 size-full aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>3. Hit <strong>Apply</strong>.</p>
+<p><img class="size-full wp-image-367 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>4. When prompted, enter your password to confirm the changes and click <strong>OK</strong>.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/">How to Set or Change a Password in Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Make Windows Defender More Secure</title>
+		<link>https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-make-windows-defender-more-secure</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 10:55:29 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=333</guid>
+
+					<description><![CDATA[<p>WARNING: This content has been developed for intermediate to advanced Windows computer users. Following these instructions will likely prevent some applications on your computer from functioning as expected. If you are not comfortable with this or unsure about your technical skills, we recommend that you do not try to follow these instructions. Windows Defender Windows [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/">How to Make Windows Defender More Secure</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><strong>WARNING:</strong> This content has been developed for intermediate to advanced Windows computer users. Following these instructions will likely prevent some applications on your computer from functioning as expected. If you are not comfortable with this or unsure about your technical skills, we recommend that you do not try to follow these instructions.</p>
+<h2>Windows Defender</h2>
+<p>Windows Defender (also known as Microsoft Defender) has come with the Microsoft Windows package for many years. It was not particularly good at blocking malware. In recent years, however, it became possible to make Windows Defender much more secure by turning on some of the features that many regular users do not know about. Configured in this way, Windows Defender outperforms most well-established antivirus platforms.</p>
+<p>This article will guide you through enabling these features. Please bear in mind that Windows does not enable these features by default out of a fear that it will interfere with application compatibility. If you enable these features, some applications <em>may not operate correctly</em>. Thankfully, restoring Windows Defender to “normal” operation is just as easy as it is to lock it down. Directions on how to do that will also be provided here.</p>
+<h2>Operating system requirements</h2>
+<ul>
+<li>Windows 10 Professional or Enterprise version 1709 or later. You can find which version of Windows you have by selecting the <strong>Start</strong> button &gt; <strong>Settings &gt; System &gt; About</strong>. Under <strong>Windows specifications</strong>, you can check which edition and version of Windows your device is running.</li>
+<li>If you are using Windows 10 Home, these directions will not help you. In this case, you should secure your machine by purchasing a reliable third-party antivirus software.</li>
+<li>Many of these settings will not work if your Windows computer is part of a domain and your system administrator has put alternative settings in place.</li>
+</ul>
+<h2>Securing Microsoft Defender</h2>
+<ol>
+<li>Download Configure Defender or inspect its source code <a title="Configure Defender" href="https://github.com/AndyFul/ConfigureDefender" target="_blank" rel="noopener">here</a>. This utility is simply a graphical user interface (GUI) that makes it easier to secure Windows Defender.</li>
+<li>Once downloaded, simply double-click the tool. You can select whatever security settings you like, but for maximum protection, we recommend clicking <strong>High</strong> and then modifying the options to match the screenshots below. These settings provide a good overall balance between security and the inconvenience that the settings may cause you.
+<ul>
+<li>The settings selected (beyond <strong>High</strong>) are: <strong>Block credential stealing from the Windows local security authority subsystem</strong> (lsass.exe) &#8211; ON</li>
+<li><strong>Block process creations originating from PSExec and WMI commands</strong> &#8211; ON</li>
+<li><strong>Controlled Folder Access</strong> &#8211; ON<br />
+<img class="alignnone size-full wp-image-334" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png" alt="Configure Defender settings" width="534" height="575" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png 534w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37-279x300.png 279w" sizes="(max-width: 534px) 100vw, 534px" /><br />
+<img class="alignnone size-full wp-image-335" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /><br />
+<img class="alignnone size-full wp-image-336" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /></li>
+</ul>
+</li>
+<li>After you have made these changes, click <strong>Close</strong> and reboot your computer.</li>
+</ol>
+<h2>Undoing Windows Defender antivirus settings</h2>
+<p>If, after making changes described above, you cannot open some applications, you can always return Windows Defender to original settings by opening the Configure Defender tool again, clicking <strong>Default</strong> and then <strong>Close</strong>. You should reboot your computer for this change to take effect.</p>
+<h2>Additional guidelines (third-party)</h2>
+<ul>
+<li><a title="Windows Defender with these settings" href="https://www.youtube.com/watch?v=ep_25HIArXc" target="_blank" rel="noopener">Windows Defender with these settings</a></li>
+<li><a title="Windows Defender with default settings" href="https://www.youtube.com/watch?v=ZbYx8V2RTjc" target="_blank" rel="noopener">Windows Defender with default settings</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/">How to Make Windows Defender More Secure</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Strengthen Your Screen Locks</title>
+		<link>https://cyber-star.org/cs-articles/strengthen-your-screen-locks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=strengthen-your-screen-locks</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 11:31:06 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=100</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/strengthen-your-screen-locks/">Strengthen Your Screen Locks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/strengthen-your-screen-locks/">Strengthen Your Screen Locks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Give Your Smartphone a Fresh Start</title>
+		<link>https://cyber-star.org/cs-articles/give-your-smartphone-a-fresh-start/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=give-your-smartphone-a-fresh-start</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 07 Jul 2021 13:43:20 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=378</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/give-your-smartphone-a-fresh-start/">Give Your Smartphone a Fresh Start</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/give-your-smartphone-a-fresh-start/">Give Your Smartphone a Fresh Start</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Declutter Your Phone with an App Cleanse</title>
+		<link>https://cyber-star.org/cs-articles/declutter-your-phone-with-an-app-cleanse/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=declutter-your-phone-with-an-app-cleanse</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 07 Jul 2021 13:45:51 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=380</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/declutter-your-phone-with-an-app-cleanse/">Declutter Your Phone with an App Cleanse</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/declutter-your-phone-with-an-app-cleanse/">Declutter Your Phone with an App Cleanse</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

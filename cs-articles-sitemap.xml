@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cyber-star.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/</loc>
+		<lastmod>2021-09-17T19:24:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/keep-your-digital-conversations-private.jpg</image:loc>
+			<image:title><![CDATA[An illustration of two people inside the two phone screens conversing.]]></image:title>
+			<image:caption><![CDATA[An illustration of two people inside the two phone screens conversing.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-chat-safely-on-telegram/</loc>
+		<lastmod>2021-09-17T19:24:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/chat-safely-telegram.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a woman using her phone with the Signal logo next to the phone.]]></image:title>
+			<image:caption><![CDATA[An illustration of a woman using her phone with the Signal logo next to the phone.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg</image:loc>
+			<image:caption><![CDATA[Choosing a user on Telegram for additional chat features.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat.jpg</image:loc>
+			<image:caption><![CDATA[Starting a secret chat with a friend on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-confirm.jpg</image:loc>
+			<image:caption><![CDATA[Confirm to start a secret chat on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-timer.jpg</image:loc>
+			<image:caption><![CDATA[Accessing the self-destruct timer on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-self-destruct.jpg</image:loc>
+			<image:caption><![CDATA[Setting the self-destruct time on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-screenshot.jpg</image:loc>
+			<image:caption><![CDATA[Screenshot detection and notification on Telegram.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-send-vanishing-messages-on-whatsapp/</loc>
+		<lastmod>2021-09-17T19:24:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-vanishing-messages.jpg</image:loc>
+			<image:title><![CDATA[An illustration of two people holding their phones up in the air with Whatsapp logo and a timer icon in between.]]></image:title>
+			<image:caption><![CDATA[An illustration of two people holding their phones up in the air with Whatsapp logo and a timer icon in between.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend.jpg</image:loc>
+			<image:caption><![CDATA[Selecting a friend and then scrolling down to find Disappearing Messages under Contact Info in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info.jpg</image:loc>
+			<image:caption><![CDATA[Disappearing Messages option under Contact Info in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages.jpg</image:loc>
+			<image:caption><![CDATA[Enabling Disappearing Messages in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-photo.jpg</image:loc>
+			<image:caption><![CDATA[Choosing a photo to send selecting the Photo and Video Library option in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-view-once.jpg</image:loc>
+			<image:caption><![CDATA[Number 1 appearing as an indicator in the text box when a photo is set to view once before being sent in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-photo-view.jpg</image:loc>
+			<image:caption><![CDATA[How a photo that is set to view once appears with the number 1 appearing next to it in a Whatsapp chat.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-photo-opened.jpg</image:loc>
+			<image:caption><![CDATA[How a photo that is set to view once appears after viewed in a Whatsapp chat.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/secure-messaging-apps/</loc>
+		<lastmod>2021-09-17T19:24:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/secure-messaging-apps.jpg</image:loc>
+			<image:title><![CDATA[An illustration displaying data transfer between two phones with a lock in between.]]></image:title>
+			<image:caption><![CDATA[An illustration displaying data transfer between two phones with a lock in between.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/</loc>
+		<lastmod>2021-09-17T19:25:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/recognize-phishing-attacks.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a woman looking at a gift box, with an evil face on it, with a telescope.]]></image:title>
+			<image:caption><![CDATA[An illustration of a woman looking at a gift box, with an evil face on it, with a telescope.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-not-to-fall-for-phishing/</loc>
+		<lastmod>2021-09-17T19:25:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/not-to-fall-for-a-phish.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a man hopping over a gap with wild flowers in on a track field.]]></image:title>
+			<image:caption><![CDATA[An illustration of a man hopping over a gap with wild flowers in on a track field.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-protect-yourself-against-malware/</loc>
+		<lastmod>2021-09-17T19:25:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/protect-from-a-phish.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a man boxing with a gift box with an evil face on it protecting his computer behind.]]></image:title>
+			<image:caption><![CDATA[An illustration of a man boxing with a gift box with an evil face on it protecting his computer behind.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-protect-your-personal-information-on-social-media/</loc>
+		<lastmod>2021-09-17T19:25:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/identity-hero.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a woman with a lock illustration on her tshirt and there are social media icons behind her.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman with a lock illustration on her tshirt and there are social media icons behind her.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-protect-your-privacy-on-instagram/</loc>
+		<lastmod>2021-09-17T19:25:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/protect-instagram.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a woman holding a shield and a sword up in the air with Instagram logo behind her.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman holding a shield and a sword up in the air with Instagram logo behind her.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings.jpg</image:loc>
+			<image:caption><![CDATA[Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_private_account.jpg</image:loc>
+			<image:caption><![CDATA[Switch for enabling Private Account on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instragram_private_account_enabled.jpg</image:loc>
+			<image:caption><![CDATA[Confirmation to switch to a Private Account on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_remove_followers.jpg</image:loc>
+			<image:caption><![CDATA[Removing followers on Instagram with Remove button in the followers list.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_block_user.jpg</image:loc>
+			<image:caption><![CDATA[Block a user on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_story.jpg</image:loc>
+			<image:caption><![CDATA[Story under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_story_close_friends.jpg</image:loc>
+			<image:caption><![CDATA[Choose people to hide Instagram stories and sharing Instagram stories with only Close Friends.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_story_sharing_options.jpg</image:loc>
+			<image:caption><![CDATA[Allowing message replies to your Instagram stories and allowing people to share your Instagram story in their stories or messages.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings.jpg</image:loc>
+			<image:caption><![CDATA[Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_activity_status.jpg</image:loc>
+			<image:caption><![CDATA[Activity Status under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_activity_switch.jpg</image:loc>
+			<image:caption><![CDATA[Show activity status switch on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_comments.jpg</image:loc>
+			<image:caption><![CDATA[Comments under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_offensive_comments.jpg</image:loc>
+			<image:caption><![CDATA[Hiding offensive comments on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_posts.jpg</image:loc>
+			<image:caption><![CDATA[Posts under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_tags.jpg</image:loc>
+			<image:caption><![CDATA[Allowing Tags From Instagram options and enabling manually approving tags.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_approve_tags_manually.jpg</image:loc>
+			<image:caption><![CDATA[Turn on manually approving tags on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings_account.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Account in the Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_original_photos_switch.jpg</image:loc>
+			<image:caption><![CDATA[Switch for saving original photos on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings_privacy.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Privacy in the Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_camera_roll.jpg</image:loc>
+			<image:caption><![CDATA[Switch for saving Instagram stories to Camera Roll.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_live_archive.jpg</image:loc>
+			<image:caption><![CDATA[Switch for saving live video to archive on Instagram.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-protect-your-privacy-on-twitter/</loc>
+		<lastmod>2021-09-17T19:26:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/protect-twitter.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a man in a Karate suit with Twitter logo behind him.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man in a Karate suit with Twitter logo behind him.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_more_options.jpg</image:loc>
+			<image:caption><![CDATA[Screenshot of More options button on Twitter profile page.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_settings_privacy.jpg</image:loc>
+			<image:caption><![CDATA[Settings and Privacy link on Twitter profile page.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_privacy_safety.jpg</image:loc>
+			<image:caption><![CDATA[Privacy and Safety option in Twitter Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_audience_tagging.jpg</image:loc>
+			<image:caption><![CDATA[Audience and Tagging option under Privacy and safety on Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_protect_tweets.jpg</image:loc>
+			<image:caption><![CDATA[Protect your tweets checkbox on Twitter Audience and tagging settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_confirm_protection.jpg</image:loc>
+			<image:caption><![CDATA[Confirmation message after checking Protect your tweets checkbox on Twitter Audience and tagging settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_protect_tweets_checked.jpg</image:loc>
+			<image:caption><![CDATA[Protect your tweets checkbox checked on Twitter Audience and tagging settings page.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_privacy_safety.jpg</image:loc>
+			<image:caption><![CDATA[Privacy and Safety option in Twitter Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_location_information.jpg</image:loc>
+			<image:caption><![CDATA[Location information option in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_location_tweets.jpg</image:loc>
+			<image:caption><![CDATA[Twitter option to add location information to your Tweets.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_location_checkbox.jpg</image:loc>
+			<image:caption><![CDATA[Checkbox to add location information to Tweets in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location.jpg</image:loc>
+			<image:caption><![CDATA[Twitter option to remove all location information attached to your Tweets.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization.jpg</image:loc>
+			<image:caption><![CDATA[Twitter Personalization and data switch.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization.jpg</image:loc>
+			<image:caption><![CDATA[Confirmation to disable personalization and data in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_security_account.jpg</image:loc>
+			<image:caption><![CDATA[Twitter Security and account access settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_apps_sessions.jpg</image:loc>
+			<image:caption><![CDATA[Apps and sessions option in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_connected_apps.jpg</image:loc>
+			<image:caption><![CDATA[Connected apps option in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_connected_namecheap.jpg</image:loc>
+			<image:caption><![CDATA[List of connected apps to the Twitter account.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_revoke_app.jpg</image:loc>
+			<image:caption><![CDATA[Twitter option to revoke app permissions.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_account_profile_options.jpg</image:loc>
+			<image:caption><![CDATA[Three dots to access more information on a Twitter account.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_block_someone.jpg</image:loc>
+			<image:caption><![CDATA[Blocking an account on Twitter.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/renovate-your-social-media-profile-2/</loc>
+		<lastmod>2021-09-17T19:26:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/identity-refresh.png</image:loc>
+			<image:title><![CDATA[Illustration of a woman holding her identity card under a magnifying glass.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman holding her identity card under a magnifying glass.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/fortify-your-browser-to-reduce-your-traces-2/</loc>
+		<lastmod>2021-09-17T19:26:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/identity-fortify.png</image:loc>
+			<image:title><![CDATA[Illustration of a man holding two smartphones up in the air and standing behind a mini castle.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man holding two smartphones up in the air and standing behind a mini castle.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/degooglise-your-life-2/</loc>
+		<lastmod>2021-09-17T19:26:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/identity-degooglize.png</image:loc>
+			<image:title><![CDATA[Illustration of the Google logo in a trash bin.]]></image:title>
+			<image:caption><![CDATA[Illustration of the Google logo in a trash bin.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/know-your-trolls-2/</loc>
+		<lastmod>2021-09-17T19:26:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/identity-troll.jpg</image:loc>
+			<image:title><![CDATA[Illustration of an internet troll under a magnifying glass.]]></image:title>
+			<image:caption><![CDATA[Illustration of an internet troll under a magnifying glass.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/</loc>
+		<lastmod>2021-09-17T19:26:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/computer-safe.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a laptop protected in a glass bubble and surrounded by stanchions.]]></image:title>
+			<image:caption><![CDATA[An illustration of a laptop protected in a glass bubble and surrounded by stanchions.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg</image:loc>
+			<image:caption><![CDATA[Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-update-software-in-windows-10/</loc>
+		<lastmod>2021-09-17T19:26:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/device-update-windows.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a man wearing a t-shirt with a Windows logo and a cog icon over his head.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man wearing a t-shirt with a Windows logo and a cog icon over his head.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Windows Settings on Windows 10]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg</image:loc>
+			<image:caption><![CDATA[Windows Settings Update &amp; Security]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg</image:loc>
+			<image:caption><![CDATA[Windows Update under Update &amp; Security]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg</image:loc>
+			<image:caption><![CDATA[Windows Update Advanced options]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg</image:loc>
+			<image:caption><![CDATA[Windows Settings Update notifications switch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg</image:loc>
+			<image:caption><![CDATA[Windows Settings Pause updates]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Microsoft Store on Windows 10]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store account menu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store account settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store App updates switch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store Downloads and updates]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store Get updates button]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/</loc>
+		<lastmod>2021-09-17T19:27:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/device-new-password.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a key in a trash bin and a woman standing in front of it holding a car key up in the air.]]></image:title>
+			<image:caption><![CDATA[Illustration of a key in a trash bin and a woman standing in front of it holding a car key up in the air.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Windows Settings on Windows 10]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/</loc>
+		<lastmod>2021-09-17T19:27:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/windows-defender-strength.jpg</image:loc>
+			<image:title><![CDATA[An illustration of the Windows Defender icon as a human body with strong arms.]]></image:title>
+			<image:caption><![CDATA[An illustration of the Windows Defender icon as a human body with strong arms.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png</image:loc>
+			<image:caption><![CDATA[Configure Defender settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png</image:loc>
+			<image:caption><![CDATA[Configure Defender settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png</image:loc>
+			<image:caption><![CDATA[Configure Defender settings]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/strengthen-your-screen-locks/</loc>
+		<lastmod>2021-09-17T19:27:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/door_closed.png</image:loc>
+			<image:title><![CDATA[An illustration of a mobile phone with a door shaped screen that is locked.]]></image:title>
+			<image:caption><![CDATA[An illustration of a mobile phone with a door shaped screen that is locked.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/give-your-smartphone-a-fresh-start/</loc>
+		<lastmod>2021-09-17T19:27:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/fresh-start.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a ribbon being cut by a scissor and a mobile phone behind.]]></image:title>
+			<image:caption><![CDATA[An illustration of a ribbon being cut by a scissor and a mobile phone behind.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/declutter-your-phone-with-an-app-cleanse/</loc>
+		<lastmod>2021-09-17T19:27:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/declutter.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a broom over a mobile phone and a trash bin behind.]]></image:title>
+			<image:caption><![CDATA[An illustration of a broom over a mobile phone and a trash bin behind.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/</loc>
+		<lastmod>2021-09-17T19:27:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/digital-data-101.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a person showing him doing many tasks on computer.]]></image:title>
+			<image:caption><![CDATA[Illustration of a person showing him doing many tasks on computer.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-keep-data-on-your-devices-safe/</loc>
+		<lastmod>2021-09-17T19:27:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/keep-data-safe.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a person keeping her phone chained and locked.]]></image:title>
+			<image:caption><![CDATA[Illustration of a person keeping her phone chained and locked.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/</loc>
+		<lastmod>2021-09-17T19:27:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/why-backups.jpg</image:loc>
+			<image:title><![CDATA[Illustration of someone backing up her phone data to the cloud.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone backing up her phone data to the cloud.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-backup-your-mac/</loc>
+		<lastmod>2021-09-17T19:28:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup-mac.jpg</image:loc>
+			<image:title><![CDATA[Illustration of someone holding a lock and a MacBook computer in front of her.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone holding a lock and a MacBook computer in front of her.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg</image:loc>
+			<image:caption><![CDATA[macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg</image:loc>
+			<image:caption><![CDATA[Selecting a backup disk on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg</image:loc>
+			<image:caption><![CDATA[Backup Automatically check box on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg</image:loc>
+			<image:caption><![CDATA[Selecting Options on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg</image:loc>
+			<image:caption><![CDATA[Excluding items from a backup on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg</image:loc>
+			<image:caption><![CDATA[Exclude button in the items selection window for macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg</image:loc>
+			<image:caption><![CDATA[Apple ID on macOS System Preferences]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg</image:loc>
+			<image:caption><![CDATA[iCloud option on Apple ID on macOS System Preferences]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg</image:loc>
+			<image:caption><![CDATA[Checking iCloud Drive checkbox in iCloud settings]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/</loc>
+		<lastmod>2021-09-17T19:28:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/why-encryption-2-v2.jpg</image:loc>
+			<image:title><![CDATA[An illustration of someone taking a sneak peek at a computer screen.]]></image:title>
+			<image:caption><![CDATA[An illustration of someone taking a sneak peek at a computer screen.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-encrypt-a-windows-10-device/</loc>
+		<lastmod>2021-09-17T19:28:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/windows-10-encryption-v2.jpg</image:loc>
+			<image:title><![CDATA[A lock between a Windows computer and the globe.]]></image:title>
+			<image:caption><![CDATA[A lock between a Windows computer and the globe.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg</image:loc>
+			<image:caption><![CDATA[BitLocker Settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg</image:loc>
+			<image:caption><![CDATA[BitLocker on Control Panel]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg</image:loc>
+			<image:caption><![CDATA[Turn on BitLocker]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg</image:loc>
+			<image:caption><![CDATA[Device Encryption Support]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/virtual-valuables-protect-what-you-are-storing-online/</loc>
+		<lastmod>2021-09-17T19:29:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/virtual-valuables.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a man with a helmet and a shield standing beside a cloud with various files flying over it.]]></image:title>
+			<image:caption><![CDATA[An illustration of a man with a helmet and a shield standing beside a cloud with various files flying over it.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-create-strong-passwords/</loc>
+		<lastmod>2021-09-17T19:29:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/strong_passwords.png</image:loc>
+			<image:title><![CDATA[Illustration of a man with strong arms lifting up a big key.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man with strong arms lifting up a big key.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/</loc>
+		<lastmod>2021-09-17T19:29:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/unique_passwords.png</image:loc>
+			<image:title><![CDATA[Illustration of a woman with many different shaped and coloured keys in front her.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman with many different shaped and coloured keys in front her.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/secure-passwords-online-course/</loc>
+		<lastmod>2021-09-17T19:29:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/secure_passwords.png</image:loc>
+			<image:title><![CDATA[Illustration of a female cop with a big key in front of her.]]></image:title>
+			<image:caption><![CDATA[Illustration of a female cop with a big key in front of her.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/make-your-password-stronger/</loc>
+		<lastmod>2021-09-17T19:29:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/settings.png</image:loc>
+			<image:title><![CDATA[Illustration of a man holding a big gear.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man holding a big gear.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/lock-your-digital-door-care-for-your-account-security/</loc>
+		<lastmod>2021-09-17T19:29:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/second_key.png</image:loc>
+			<image:title><![CDATA[Illustration of a woman holding a second key for a lock.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman holding a second key for a lock.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/phishing-attacks/</loc>
+		<lastmod>2021-09-17T19:29:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2020/07/phishing-attacks.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a woman in a graduation cap and gown holding up his computer and smartphone with a lock icon on each screen in the air.]]></image:title>
+			<image:caption><![CDATA[An illustration of a woman in a graduation cap and gown holding up his computer and smartphone with a lock icon on each screen in the air.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/keep-your-digital-conversations-private-ru/</loc>
+		<lastmod>2021-09-22T17:49:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/keep-your-digital-conversations-private.jpg</image:loc>
+			<image:title><![CDATA[An illustration of two people inside the two phone screens conversing.]]></image:title>
+			<image:caption><![CDATA[An illustration of two people inside the two phone screens conversing.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-chat-safely-on-telegram-ru/</loc>
+		<lastmod>2021-09-22T17:50:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/chat-safely-telegram.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a woman using her phone with the Signal logo next to the phone.]]></image:title>
+			<image:caption><![CDATA[An illustration of a woman using her phone with the Signal logo next to the phone.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg</image:loc>
+			<image:caption><![CDATA[Choosing a user on Telegram for additional chat features.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat.jpg</image:loc>
+			<image:caption><![CDATA[Starting a secret chat with a friend on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-confirm.jpg</image:loc>
+			<image:caption><![CDATA[Confirm to start a secret chat on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-timer.jpg</image:loc>
+			<image:caption><![CDATA[Accessing the self-destruct timer on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-self-destruct.jpg</image:loc>
+			<image:caption><![CDATA[Setting the self-destruct time on Telegram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/telegram-screenshot.jpg</image:loc>
+			<image:caption><![CDATA[Screenshot detection and notification on Telegram.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-send-vanishing-messages-on-whatsapp-ru/</loc>
+		<lastmod>2021-09-22T17:50:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-vanishing-messages.jpg</image:loc>
+			<image:title><![CDATA[An illustration of two people holding their phones up in the air with Whatsapp logo and a timer icon in between.]]></image:title>
+			<image:caption><![CDATA[An illustration of two people holding their phones up in the air with Whatsapp logo and a timer icon in between.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend.jpg</image:loc>
+			<image:caption><![CDATA[Selecting a friend and then scrolling down to find Disappearing Messages under Contact Info in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info.jpg</image:loc>
+			<image:caption><![CDATA[Disappearing Messages option under Contact Info in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages.jpg</image:loc>
+			<image:caption><![CDATA[Enabling Disappearing Messages in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-photo.jpg</image:loc>
+			<image:caption><![CDATA[Choosing a photo to send selecting the Photo and Video Library option in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-view-once.jpg</image:loc>
+			<image:caption><![CDATA[Number 1 appearing as an indicator in the text box when a photo is set to view once before being sent in Whatsapp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-photo-view.jpg</image:loc>
+			<image:caption><![CDATA[How a photo that is set to view once appears with the number 1 appearing next to it in a Whatsapp chat.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-photo-opened.jpg</image:loc>
+			<image:caption><![CDATA[How a photo that is set to view once appears after viewed in a Whatsapp chat.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-recognize-phishing-attacks-ru/</loc>
+		<lastmod>2021-09-22T17:50:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/recognize-phishing-attacks.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a woman looking at a gift box, with an evil face on it, with a telescope.]]></image:title>
+			<image:caption><![CDATA[An illustration of a woman looking at a gift box, with an evil face on it, with a telescope.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-not-to-fall-for-phishing-ru/</loc>
+		<lastmod>2021-09-22T17:51:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/not-to-fall-for-a-phish.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a man hopping over a gap with wild flowers in on a track field.]]></image:title>
+			<image:caption><![CDATA[An illustration of a man hopping over a gap with wild flowers in on a track field.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-protect-your-personal-information-on-social-media-ru/</loc>
+		<lastmod>2021-09-22T17:51:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/identity-hero.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a woman with a lock illustration on her tshirt and there are social media icons behind her.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman with a lock illustration on her tshirt and there are social media icons behind her.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/why-all-of-your-passwords-should-be-unique-ru/</loc>
+		<lastmod>2021-09-22T17:52:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/unique_passwords.png</image:loc>
+			<image:title><![CDATA[Illustration of a woman with many different shaped and coloured keys in front her.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman with many different shaped and coloured keys in front her.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/passwords-that-look-strong-but-arent-ru/</loc>
+		<lastmod>2021-09-22T17:53:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/weak_passwords.png</image:loc>
+			<image:title><![CDATA[Illustration of a person with weak arms trying to hold a big key in the air.]]></image:title>
+			<image:caption><![CDATA[Illustration of a person with weak arms trying to hold a big key in the air.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-create-strong-passwords-ru/</loc>
+		<lastmod>2021-09-22T17:53:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/strong_passwords.png</image:loc>
+			<image:title><![CDATA[Illustration of a man with strong arms lifting up a big key.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man with strong arms lifting up a big key.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-encrypt-a-windows-10-device-ru/</loc>
+		<lastmod>2021-09-22T17:54:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/windows-10-encryption-v2.jpg</image:loc>
+			<image:title><![CDATA[A lock between a Windows computer and the globe.]]></image:title>
+			<image:caption><![CDATA[A lock between a Windows computer and the globe.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg</image:loc>
+			<image:caption><![CDATA[BitLocker Settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg</image:loc>
+			<image:caption><![CDATA[BitLocker on Control Panel]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg</image:loc>
+			<image:caption><![CDATA[Turn on BitLocker]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg</image:loc>
+			<image:caption><![CDATA[Device Encryption Support]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/why-you-should-encrypt-your-devices-ru/</loc>
+		<lastmod>2021-09-22T17:54:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/why-encryption-2-v2.jpg</image:loc>
+			<image:title><![CDATA[An illustration of someone taking a sneak peek at a computer screen.]]></image:title>
+			<image:caption><![CDATA[An illustration of someone taking a sneak peek at a computer screen.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-backup-your-mac-ru/</loc>
+		<lastmod>2021-09-22T17:54:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup-mac.jpg</image:loc>
+			<image:title><![CDATA[Illustration of someone holding a lock and a MacBook computer in front of her.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone holding a lock and a MacBook computer in front of her.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg</image:loc>
+			<image:caption><![CDATA[macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg</image:loc>
+			<image:caption><![CDATA[Selecting a backup disk on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg</image:loc>
+			<image:caption><![CDATA[Backup Automatically check box on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg</image:loc>
+			<image:caption><![CDATA[Selecting Options on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg</image:loc>
+			<image:caption><![CDATA[Excluding items from a backup on macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg</image:loc>
+			<image:caption><![CDATA[Exclude button in the items selection window for macOS Time Machine]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg</image:loc>
+			<image:caption><![CDATA[Apple ID on macOS System Preferences]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg</image:loc>
+			<image:caption><![CDATA[iCloud option on Apple ID on macOS System Preferences]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg</image:loc>
+			<image:caption><![CDATA[Checking iCloud Drive checkbox in iCloud settings]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ru/</loc>
+		<lastmod>2021-09-22T17:56:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/why-backups.jpg</image:loc>
+			<image:title><![CDATA[Illustration of someone backing up her phone data to the cloud.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone backing up her phone data to the cloud.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-keep-data-on-your-devices-safe-ru/</loc>
+		<lastmod>2021-09-22T17:56:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/keep-data-safe.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a person keeping her phone chained and locked.]]></image:title>
+			<image:caption><![CDATA[Illustration of a person keeping her phone chained and locked.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ru/</loc>
+		<lastmod>2021-09-22T17:56:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/digital-data-101.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a person showing him doing many tasks on computer.]]></image:title>
+			<image:caption><![CDATA[Illustration of a person showing him doing many tasks on computer.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-make-windows-defender-more-secure-ru/</loc>
+		<lastmod>2021-09-22T17:57:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/windows-defender-strength.jpg</image:loc>
+			<image:title><![CDATA[An illustration of the Windows Defender icon as a human body with strong arms.]]></image:title>
+			<image:caption><![CDATA[An illustration of the Windows Defender icon as a human body with strong arms.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png</image:loc>
+			<image:caption><![CDATA[Configure Defender settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png</image:loc>
+			<image:caption><![CDATA[Configure Defender settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png</image:loc>
+			<image:caption><![CDATA[Configure Defender settings]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/</loc>
+		<lastmod>2021-09-22T17:57:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/device-new-password.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a key in a trash bin and a woman standing in front of it holding a car key up in the air.]]></image:title>
+			<image:caption><![CDATA[Illustration of a key in a trash bin and a woman standing in front of it holding a car key up in the air.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Windows Settings on Windows 10]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-update-software-in-windows-10-ru/</loc>
+		<lastmod>2021-09-22T17:57:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/device-update-windows.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a man wearing a t-shirt with a Windows logo and a cog icon over his head.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man wearing a t-shirt with a Windows logo and a cog icon over his head.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Windows Settings on Windows 10]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg</image:loc>
+			<image:caption><![CDATA[Windows Settings Update &amp; Security]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg</image:loc>
+			<image:caption><![CDATA[Windows Update under Update &amp; Security]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg</image:loc>
+			<image:caption><![CDATA[Windows Update Advanced options]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg</image:loc>
+			<image:caption><![CDATA[Windows Settings Update notifications switch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg</image:loc>
+			<image:caption><![CDATA[Windows Settings Pause updates]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Microsoft Store on Windows 10]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store account menu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store account settings]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store App updates switch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store Downloads and updates]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg</image:loc>
+			<image:caption><![CDATA[Microsoft Store Get updates button]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-protect-your-privacy-on-twitter-ru/</loc>
+		<lastmod>2021-09-22T17:57:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/protect-twitter.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a man in a Karate suit with Twitter logo behind him.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man in a Karate suit with Twitter logo behind him.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_more_options.jpg</image:loc>
+			<image:caption><![CDATA[Screenshot of More options button on Twitter profile page.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_settings_privacy.jpg</image:loc>
+			<image:caption><![CDATA[Settings and Privacy link on Twitter profile page.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_privacy_safety.jpg</image:loc>
+			<image:caption><![CDATA[Privacy and Safety option in Twitter Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_audience_tagging.jpg</image:loc>
+			<image:caption><![CDATA[Audience and Tagging option under Privacy and safety on Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_protect_tweets.jpg</image:loc>
+			<image:caption><![CDATA[Protect your tweets checkbox on Twitter Audience and tagging settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_confirm_protection.jpg</image:loc>
+			<image:caption><![CDATA[Confirmation message after checking Protect your tweets checkbox on Twitter Audience and tagging settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_protect_tweets_checked.jpg</image:loc>
+			<image:caption><![CDATA[Protect your tweets checkbox checked on Twitter Audience and tagging settings page.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_privacy_safety.jpg</image:loc>
+			<image:caption><![CDATA[Privacy and Safety option in Twitter Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_location_information.jpg</image:loc>
+			<image:caption><![CDATA[Location information option in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_location_tweets.jpg</image:loc>
+			<image:caption><![CDATA[Twitter option to add location information to your Tweets.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_location_checkbox.jpg</image:loc>
+			<image:caption><![CDATA[Checkbox to add location information to Tweets in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location.jpg</image:loc>
+			<image:caption><![CDATA[Twitter option to remove all location information attached to your Tweets.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization.jpg</image:loc>
+			<image:caption><![CDATA[Twitter Personalization and data switch.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization.jpg</image:loc>
+			<image:caption><![CDATA[Confirmation to disable personalization and data in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_security_account.jpg</image:loc>
+			<image:caption><![CDATA[Twitter Security and account access settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_apps_sessions.jpg</image:loc>
+			<image:caption><![CDATA[Apps and sessions option in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_connected_apps.jpg</image:loc>
+			<image:caption><![CDATA[Connected apps option in Twitter settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_connected_namecheap.jpg</image:loc>
+			<image:caption><![CDATA[List of connected apps to the Twitter account.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_revoke_app.jpg</image:loc>
+			<image:caption><![CDATA[Twitter option to revoke app permissions.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_account_profile_options.jpg</image:loc>
+			<image:caption><![CDATA[Three dots to access more information on a Twitter account.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/twitter_block_someone.jpg</image:loc>
+			<image:caption><![CDATA[Blocking an account on Twitter.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-protect-your-privacy-on-instagram-ru/</loc>
+		<lastmod>2021-09-22T17:57:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/protect-instagram.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a woman holding a shield and a sword up in the air with Instagram logo behind her.]]></image:title>
+			<image:caption><![CDATA[Illustration of a woman holding a shield and a sword up in the air with Instagram logo behind her.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings.jpg</image:loc>
+			<image:caption><![CDATA[Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_private_account.jpg</image:loc>
+			<image:caption><![CDATA[Switch for enabling Private Account on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instragram_private_account_enabled.jpg</image:loc>
+			<image:caption><![CDATA[Confirmation to switch to a Private Account on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_remove_followers.jpg</image:loc>
+			<image:caption><![CDATA[Removing followers on Instagram with Remove button in the followers list.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_block_user.jpg</image:loc>
+			<image:caption><![CDATA[Block a user on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_story.jpg</image:loc>
+			<image:caption><![CDATA[Story under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_story_close_friends.jpg</image:loc>
+			<image:caption><![CDATA[Choose people to hide Instagram stories and sharing Instagram stories with only Close Friends.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_story_sharing_options.jpg</image:loc>
+			<image:caption><![CDATA[Allowing message replies to your Instagram stories and allowing people to share your Instagram story in their stories or messages.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings.jpg</image:loc>
+			<image:caption><![CDATA[Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_activity_status.jpg</image:loc>
+			<image:caption><![CDATA[Activity Status under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_activity_switch.jpg</image:loc>
+			<image:caption><![CDATA[Show activity status switch on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_comments.jpg</image:loc>
+			<image:caption><![CDATA[Comments under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_offensive_comments.jpg</image:loc>
+			<image:caption><![CDATA[Hiding offensive comments on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_privacy_posts.jpg</image:loc>
+			<image:caption><![CDATA[Posts under Privacy settings on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_tags.jpg</image:loc>
+			<image:caption><![CDATA[Allowing Tags From Instagram options and enabling manually approving tags.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_approve_tags_manually.jpg</image:loc>
+			<image:caption><![CDATA[Turn on manually approving tags on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings_account.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Account in the Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_original_photos_switch.jpg</image:loc>
+			<image:caption><![CDATA[Switch for saving original photos on Instagram.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_settings_privacy.jpg</image:loc>
+			<image:caption><![CDATA[Accessing Privacy in the Instagram Settings.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_camera_roll.jpg</image:loc>
+			<image:caption><![CDATA[Switch for saving Instagram stories to Camera Roll.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/instagram_live_archive.jpg</image:loc>
+			<image:caption><![CDATA[Switch for saving live video to archive on Instagram.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-protect-yourself-against-malware-ru/</loc>
+		<lastmod>2021-09-22T17:57:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/07/protect-from-a-phish.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a man boxing with a gift box with an evil face on it protecting his computer behind.]]></image:title>
+			<image:caption><![CDATA[An illustration of a man boxing with a gift box with an evil face on it protecting his computer behind.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/</loc>
+		<lastmod>2021-09-23T16:25:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/password_managers.png</image:loc>
+			<image:title><![CDATA[Illustration of a man holding two bags full of keys.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man holding two bags full of keys.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/why-you-should-use-a-password-manager-ru/</loc>
+		<lastmod>2021-09-23T16:27:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/password_managers.png</image:loc>
+			<image:title><![CDATA[Illustration of a man holding two bags full of keys.]]></image:title>
+			<image:caption><![CDATA[Illustration of a man holding two bags full of keys.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/</loc>
+		<lastmod>2021-09-23T16:31:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/2fa.png</image:loc>
+			<image:title><![CDATA[Illustration for Two Factor Authentication.]]></image:title>
+			<image:caption><![CDATA[Illustration for Two Factor Authentication.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/why-you-should-use-two-factor-authentication-ru/</loc>
+		<lastmod>2021-09-23T16:34:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/2fa.png</image:loc>
+			<image:title><![CDATA[Illustration for Two Factor Authentication.]]></image:title>
+			<image:caption><![CDATA[Illustration for Two Factor Authentication.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/</loc>
+		<lastmod>2021-09-23T16:38:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/computer-safe.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a laptop protected in a glass bubble and surrounded by stanchions.]]></image:title>
+			<image:caption><![CDATA[An illustration of a laptop protected in a glass bubble and surrounded by stanchions.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg</image:loc>
+			<image:caption><![CDATA[Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-backup-a-windows-10-computer/</loc>
+		<lastmod>2021-09-23T16:45:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup-windows.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a Windows computer with a man behind holding a lock.]]></image:title>
+			<image:caption><![CDATA[Illustration of a Windows computer with a man behind holding a lock.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg</image:loc>
+			<image:caption><![CDATA[Adding a drive for backup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg</image:loc>
+			<image:caption><![CDATA[Windows Backup more options]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg</image:loc>
+			<image:caption><![CDATA[Setting up the backup frequency]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg</image:loc>
+			<image:caption><![CDATA[Removing a folder in the backup options]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg</image:loc>
+			<image:caption><![CDATA[Adding a folder to the backup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg</image:loc>
+			<image:caption><![CDATA[Starting the backup procedure]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-backup-a-windows-10-computer-ru/</loc>
+		<lastmod>2021-09-23T16:49:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup-windows.jpg</image:loc>
+			<image:title><![CDATA[Illustration of a Windows computer with a man behind holding a lock.]]></image:title>
+			<image:caption><![CDATA[Illustration of a Windows computer with a man behind holding a lock.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg</image:loc>
+			<image:caption><![CDATA[Adding a drive for backup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg</image:loc>
+			<image:caption><![CDATA[Windows Backup more options]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg</image:loc>
+			<image:caption><![CDATA[Setting up the backup frequency]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg</image:loc>
+			<image:caption><![CDATA[Removing a folder in the backup options]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg</image:loc>
+			<image:caption><![CDATA[Adding a folder to the backup]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg</image:loc>
+			<image:caption><![CDATA[Starting the backup procedure]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/</loc>
+		<lastmod>2021-10-05T20:32:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/weak_passwords.png</image:loc>
+			<image:title><![CDATA[Illustration of a person with weak arms trying to hold a big key in the air.]]></image:title>
+			<image:caption><![CDATA[Illustration of a person with weak arms trying to hold a big key in the air.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-keep-and-share-files-securely-online/</loc>
+		<lastmod>2021-11-09T21:45:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/share-files-securely.jpg</image:loc>
+			<image:title><![CDATA[Illustration of someone locking a cloud in the sky with a key.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone locking a cloud in the sky with a key.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-keep-and-share-files-securely-online-ru/</loc>
+		<lastmod>2021-11-09T21:46:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/share-files-securely.jpg</image:loc>
+			<image:title><![CDATA[Illustration of someone locking a cloud in the sky with a key.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone locking a cloud in the sky with a key.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-articles/how-to-install-and-start-using-bleachbit/</loc>
+		<lastmod>2021-11-24T05:02:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/install-bleachbit.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a woman holding up a big smartphone with a bleachbit logo on it.]]></image:title>
+			<image:caption><![CDATA[An illustration of a woman holding up a big smartphone with a bleachbit logo on it.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png</image:loc>
+			<image:caption><![CDATA[BleachBit Settings]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-articles/how-to-install-and-start-using-bleachbit-ru/</loc>
+		<lastmod>2021-11-24T18:16:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/install-bleachbit.jpg</image:loc>
+			<image:title><![CDATA[An illustration of a woman holding up a big smartphone with a bleachbit logo on it.]]></image:title>
+			<image:caption><![CDATA[An illustration of a woman holding up a big smartphone with a bleachbit logo on it.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png</image:loc>
+			<image:caption><![CDATA[BleachBit Settings]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->

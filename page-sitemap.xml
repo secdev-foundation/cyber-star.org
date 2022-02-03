@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cyber-star.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://cyber-star.org/</loc>
+		<lastmod>2021-09-24T17:45:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/contact/</loc>
+		<lastmod>2021-04-15T14:17:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/contact-cyberstar.png</image:loc>
+			<image:title><![CDATA[Illustration of someone with a headphone sitting at a computer.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone with a headphone sitting at a computer.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cyberstar-index/</loc>
+		<lastmod>2021-07-08T03:16:59+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/attribution-guidelines/</loc>
+		<lastmod>2021-09-22T02:25:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/digital-risks/</loc>
+		<lastmod>2021-09-22T16:10:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_digital_risks.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Digital Risks page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Digital Risks page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/passwords/</loc>
+		<lastmod>2021-09-22T16:10:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_passwords.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Passwords page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Passwords page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/devices/</loc>
+		<lastmod>2021-09-22T16:11:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_devices.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Devices page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Devices page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/data/</loc>
+		<lastmod>2021-09-22T16:11:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_data.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Data page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Data page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/conversations/</loc>
+		<lastmod>2021-09-22T16:11:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_conversations.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Conversations page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Conversations page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/digital-identity/</loc>
+		<lastmod>2021-09-22T16:12:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_digital_identity.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Digital Identity page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Digital Identity page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/blog/</loc>
+		<lastmod>2021-09-22T16:12:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/attribution-guidelines-ru/</loc>
+		<lastmod>2021-09-22T16:47:51+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cyberstar-index-ru/</loc>
+		<lastmod>2021-09-22T16:48:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/digital-risks-ru/</loc>
+		<lastmod>2021-09-22T16:48:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_digital_risks.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Digital Risks page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Digital Risks page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/passwords-ru/</loc>
+		<lastmod>2021-09-22T16:49:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_passwords.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Passwords page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Passwords page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/devices-ru/</loc>
+		<lastmod>2021-09-22T16:49:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_devices.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Devices page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Devices page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/data-ru/</loc>
+		<lastmod>2021-09-22T16:49:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_data.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Data page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Data page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/conversations-ru/</loc>
+		<lastmod>2021-09-22T16:49:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_conversations.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Conversations page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Conversations page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/digital-identity-ru/</loc>
+		<lastmod>2021-09-22T16:50:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_digital_identity.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the Digital Identity page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the Digital Identity page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/contact-ru/</loc>
+		<lastmod>2021-09-22T16:50:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/contact-cyberstar.png</image:loc>
+			<image:title><![CDATA[Illustration of someone with a headphone sitting at a computer.]]></image:title>
+			<image:caption><![CDATA[Illustration of someone with a headphone sitting at a computer.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/about-cyberstar-ru/</loc>
+		<lastmod>2021-09-23T20:48:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://cyber-star.org/wp-content/uploads/2021/04/opt_cover_about_page.png</image:loc>
+			<image:title><![CDATA[Cover Illustration for the About page.]]></image:title>
+			<image:caption><![CDATA[Cover Illustration for the About page.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/</loc>
+		<lastmod>2021-09-24T17:45:41+00:00</lastmod>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->

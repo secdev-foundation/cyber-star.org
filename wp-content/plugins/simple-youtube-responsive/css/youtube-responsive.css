@@ -1,0 +1,12 @@
+/*
+ * Simple YouTube Responsive
+ * Version 2.5
+ *
+ */
+.erd-youtube-responsive > div{position:relative;width:100%;height:0;display:block;clear:both;padding:0;overflow:hidden !important;}
+.erd-youtube-responsive > div > *,
+.erd-ytplay img{position:absolute;top:0;left:0;width:100% !important;height:100% !important;padding:0 !important;cursor:pointer;}
+.erd-ytplay img{object-fit:cover;object-position:center center;max-width:unset !important;}
+.erd-ytplay{-webkit-user-select:none;user-select:none;cursor:pointer;}
+.erd-youtube-responsive .erd-ytplay:after{content:'';position:absolute;top:50%;left:50%;width:10%;height:0;padding-bottom:10%;max-width:150px;transform:translate(-50%,-50%);background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABqCAMAAABpj1iyAAAAeFBMVEUAAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/////QkL/np7/W1v/1dX/vb3/Hx//hIT/c3P/MjL/9PT/5eX/EBB+ElYfAAAAGnRSTlMAy+LXvZp8NaTxj6xySuoRCVxnUisiGodBtPI+S4AAAAMzSURBVGjezduJVtswEAXQJ1ny7nhL7GTKVhro//9hLQJHUEOhHhnP/QHewZPRjq9q6vqwT45V33ZlGY95bm1aFCdjjHKiZ8oxk6JIrc3zMY7Lru2rY7I/DHUDtmZIqi7OU2Omv6n1LiO2LNPaJTdFHnfV8fBfKYdqCnNSO1pdpkxq4/6AT7VW0beL0rLGx4ZY00ayfI8PlBltaWzwjtrQxvQeM/sdba/HXw4kQoU3agn/KyfBa4qEyBp4HYmR+lQDCXLEi5wEUXjWZCRJIq+yHIuLlERRuIhIlkFSg/c6iaVFVEgsLSIla+B5oeFokqaW10xfxp89idMB6EmcHEBM4pwAWBJHAdh8wTMXSWxbRJo1UP+klWQNp5ve3F7ROgZgR0td/fhxfaY1JKhpIRdrcv+bwqsYTX6K5Tz8ouBaJLSYi+WEL7ESFS3iYzl3gUtsREsLuVjeddASsyhpKRfLewxZYunCkdrH8m5vKBSDkZaZxwrYxQxnAuFj+WBhBiTFWPfMYoXrYgoFLTOPFbCLKRhaxMeau2N/yYgx3ZrFYnSxVWN5D/fEodeIxe9imjE5nWL9092C2l8zFr+LacaceYr1qYVdbLdOLO9xQYmtFItf+/xYjA+5VawFS5DVYvGnOvxYvM61Qd9iTKP5sVij4gZjIm9yw4+1ylRQB50G+s7OFOFEi10F6lRzEXOJsdLaR/EXZPNOxacY59Q+VvB1teEv9uedis/wt0bmRcVXsDeSfFEFZJnbbr5TBZWzNymdewqs5G/puqIKrWNvgN+dKbwKDeO4wHeqwBLW4YpfPQR24BxFnc+0jqwRe3An9JhT6KGwwCN0A6AlcSyAhMQpAdQkTiXz6s8g+KJUQcJEcEoS5gRI/CmWEHndbQ+JxRVhIm/4STGR11ArQOBX1JjI+y22kHiPX+GJtB5xACDvM7Z4oyIRYrwm5VZsjJlk+4dRPd5RW9qUSfC+Y0GbMT0+luSGNqBshU8MfWwL9U2FlqmTHdsDvmw49uX49HpZ6ywjjvkjZqVMOsate8LM0NSDe+nddu6dt02L05T2IpromWiiLow5FanNx6dH3+7Nd/2lJH8AfOrnc7irt7oAAAAASUVORK5CYII=) no-repeat center center scroll transparent;background-size:contain;-webkit-filter:grayscale(100%);filter:grayscale(100%);}
+.erd-youtube-responsive .erd-ytplay:hover:after{-webkit-filter:grayscale(0%);filter:grayscale(0%);}

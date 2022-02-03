@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Explainer &#8211; CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/cs-types/explainer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Tue, 05 Oct 2021 20:32:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Keep Your Digital Conversations Private</title>
+		<link>https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 11 Aug 2021 15:59:08 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=474</guid>
+
+					<description><![CDATA[<p>Digital conversations have become an important part of our daily personal and professional routine. We call friends and family on WhatsApp or Skype, chat with classmates on Facebook messenger, and send emails from personal, school or work accounts. We also text people from our mobile phones and argue with strangers on online discussion boards. All [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/">Keep Your Digital Conversations Private</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Digital conversations have become an important part of our daily personal and professional routine. We call friends and family on WhatsApp or Skype, chat with classmates on Facebook messenger, and send emails from personal, school or work accounts. We also text people from our mobile phones and argue with strangers on online discussion boards.</p>
+<p>All these conversations travel through complex infrastructure involving multiple routers, servers, and cables. Various people or organizations &#8211; from half-amateur hackers to internet service providers equipped with sophisticated tools &#8211; can tap these conversations at any of these points. Whichever digital communication technology you use, the basic tips listed below can help you keep your online conversations private and secure.</p>
+<h3>1. Use encrypted and open-source channels</h3>
+<p>While there are many email services and messenger apps on the market, not all of them do an equally good job at keeping your conversations private and secure.</p>
+<p>If you want to keep your conversations strictly between you and the people you are communicating with, use apps and services that offer end-to-end encryption. As mentioned above, your digital conversations travel through complex infrastructure and can be intercepted by various actors at numerous points. The only reliable way to secure your conversations is to use services that encrypt (that is, turn into a complex code) everything that leaves your device and do not decrypt it until it reaches the device of the intended recipient. Even if an encrypted email or call is intercepted somewhere between your device and the intended recipient, all that the people who intercept it will see is a string of meaningless characters.</p>
+<p>You should also choose open-source apps over proprietary commercial products. Software is open-source when its code is accessible to anyone who wants to see it. It means that independent experts and tech-savvy users can inspect the code that makes up the app, detect and fix vulnerabilities in it, and see whether the app does a good job at securing user data.</p>
+<p>ProtonMail offers a free and open-source and end-to-end encrypted email service that protects and secures your email communications. Among free and open-source messenger apps, Wire and Signal are the most secure free end-to-end encrypted options on the market. If you are on Telegram, make sure you use <a title="How to Chat Safely on Telegram" href="https://cyber-star.org/cs-articles/how-to-chat-safely-on-telegram/">Secret Chats</a> (regular Telegram chats are not end-to-end encrypted).</p>
+<h2>2. Secure your devices</h2>
+<p>While end-to-end encryption secures your conversations from being tapped on their way between you and the intended recipient, it cannot protect digital communication from being intercepted or monitored on your or the intended recipient’s devices. This can happen, for instance, when you leave your device unattended or lose it without enabling automatic screen lock. This can also happen when your device is infected with malware. A virtually invisible piece of malware on your device can, among other things, record every keyboard stroke and send it to someone.</p>
+<p>Always keep software and hardware on your devices up-to-date. Set your devices to lock screens automatically after a brief period of inactivity. Make sure you have antivirus software running on desktops and laptops. <a title="My Devices articles on CyberSTAR" href="https://cyber-star.org/using-the-cyberstar/devices/">Learn more about what you can do to protect your devices</a> (and secure your conversations along the way).</p>
+<h2>3. Stop using SMS</h2>
+<p>Short messaging service (SMS) that people use to exchange texts on their phones is outdated and insecure. First, SMS messages are not encrypted. They can be intercepted, often without particularly sophisticated tools. Second, these messages carry metadata that identifies the sender and the receiver. Third, it is easy to spoof SMS messages &#8211; that is, to make them appear like they are sent by someone you know. So, you can never know for certain who a particular SMS message is really coming from. Finally, mobile service providers store SMS messages and their metadata for a long time, sometimes forever. This makes it more likely that your conversations will be seen by someone without your knowledge or consent.</p>
+<p>If you want to keep the texts you exchange with other people private, use an end-to-end encrypted messaging app from the ones we identified above. When this is not possible, use Android or Apple built-in data-based messaging systems, rather than SMS-based messages.</p>
+<h3>Apple device</h3>
+<ul>
+<li>To make iMessage the default messaging system on an Apple device, go to <strong>Settings &gt; Messages</strong> and turn on <strong>iMessage</strong>. With this setting on, you can send texts, photos, videos, and audio files to other people using iPhones, iPads or Macs over an encrypted connection.</li>
+</ul>
+<h3>Android device</h3>
+<ul>
+<li>Most newer Android devices come with Messages, Google’s data-based messaging app. If your Android device does not have the Messages app, <a title="Download Messages on Google Play Store" href="https://play.google.com/store/apps/details?id=com.google.android.apps.messaging" target="_blank" rel="noopener">download it from the Play Store</a>. To make Messages your default messaging app, go to <strong>Settings &gt; Apps and notifications &gt; Advanced &gt; Default apps &gt; SMS app</strong>. Then, select <strong>Messages</strong> as your default messaging app.</li>
+<li>To send encrypted messages through the Messages app, you need to enable chat features. To do so, open the Messages app on your device and tap the three vertical dots in the upper right corner. Select Settings &gt; Chat features. Toggle <strong>Enable chat features</strong> on.</li>
+<li>If the Messages app is not available in your country or on your device, use an end-to-end encrypted messaging app from the ones we identified above.</li>
+</ul>
+<h2>4. Delete old messages</h2>
+<p>One way to protect text, photo and video messages on your device from prying eyes is to delete old messages regularly. By doing so, you make sure that other people do not see your messages if your device is lost or stolen (or if someone pressures you into unlocking the device for them). Deleting old messages also saves us space on your device.</p>
+<p>It is a good idea to set your device to delete old messages automatically. Unfortunately, this option is not available in Google Messages on Android devices. So, if you use an Android device, you need to delete old messages manually on a regular basis.</p>
+<p>To set an iPhone or iPad to delete old messages automatically, go to <strong>Settings &gt; Messages</strong>. Scroll down to the section labelled <strong>MESSAGE HISTORY</strong> and tap <strong>Keep Messages</strong>. Choose <strong>30 Days</strong> to delete all messages older than a month. With this setting on, your device will automatically delete all messages after 30 days. If you want to delete messages before they remain on your device for 30 days, you will need to do so manually.</p>
+<p>Keep in mind that deleting messages on your device does not delete them on the devices of the people you sent these messages to.</p>
+<h2>5. Use disappearing (timed) messages</h2>
+<p>Most messaging apps allow you to send messages that disappear after a certain period or after they are seen by the person you are sending them to. This protects your messages from prying eyes in case your device is compromised or stolen (or if someone pressures you into unlocking the device for them). This also protects your messages from being accessed through the device of the person you are sending them to.</p>
+<p>You should strongly consider using disappearing (timed) messages when sending texts, photos or videos. Keep in mind that setting your messages to disappear after a certain period, or as soon as they are read by the person you are sending them to, does not prevent the person from copying these messages and keeping them on their device.</p>
+<h2>6. Use strong passwords and 2FA</h2>
+<p>Protect every email and messaging-service account you use with a password that is impossible to guess or crack. A password is strong when it has at least 12 characters, including upper- and lower-case letters, numbers, and special symbols. Random combinations of these characters make the strongest passwords. Read more about <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">how to create passwords that are hard to crack</a>.</p>
+<p>Make sure to use a unique password for every account you have. Read more about <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">why it is a really bad idea to use the same or similar password for different accounts</a>. Do not fret over having so many complex and unique passwords &#8211; you can <a title="Why You Should Use a Password Manager" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">use a password manager</a> to “remember” and store them safely for you.</p>
+<p>Unfortunately even the strongest password can be stolen or compromised in some other way. This is why you should use two-factor authentication (2FA) to protect your email and messaging-service accounts. When enabled, 2FA requires that you use a second way of proving your identity in addition to entering a password.</p>
+<p>The safest way to use 2FA is to install an app on your smartphone that will generate temporary numerical codes. To access a social media account, you will need to enter such a code immediately after entering your password. Read more about how to use <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">two-factor authentication to protect online accounts</a>.</p>
+<h2>7. Think before sending</h2>
+<p>This is really simple: before sending a text, photo or video message, think honestly about whether you may one day regret sending it. Once you hit the “send” button, you often lose control of who has copies of your message. If you have something very private, confidential or sensitive to communicate, the best way to do it is by meeting the person face-to-face.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/">Keep Your Digital Conversations Private</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Recognize Phishing Attacks</title>
+		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 26 Jul 2021 05:29:46 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=457</guid>
+
+					<description><![CDATA[<p>The most common online threats facing hundreds of millions of users on a daily basis have to do with various social engineering schemes. At its core, social engineering is about tricking people into revealing sensitive information or breaking normal security procedures. What is phishing? Phishing attacks are among the most frequent social engineering schemes. They [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/">How to Recognize Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The most common online threats facing hundreds of millions of users on a daily basis have to do with various social engineering schemes. At its core, social engineering is about tricking people into revealing sensitive information or breaking normal security procedures.</p>
+<h2>What is phishing?</h2>
+<p>Phishing attacks are among the most frequent social engineering schemes. They involve email, social media, SMS, or chat messages designed to trick people into sharing information that might help a more significant crime or installing malware by clicking a link or opening an attachment.</p>
+<p>Most phishing attacks are conducted through generic mass messages that appear to be legitimate and come from a source that you would normally trust (e.g. from a government agency, bank, or social media service). But there are also phishing attacks targeting specific individuals or groups, and malicious actors are constantly innovating and changing their tools and tricks.</p>
+<h2>Types of phishing attacks</h2>
+<p>These are the most common types of phishing attacks:</p>
+<ul>
+<li><strong>Spear phishing</strong> is a type of fishing attack in which a malicious actor targets a specific person through email, social media, SMS, or chat messages that look convincingly like they come from someone the target knows &#8211; like a colleague or friend.</li>
+<li><strong>Whaling attacks</strong> are spear phishing attacks that target the “big fish”, such as heads of organizations and owners or chief editors of media organizations. Whaling attacks typically involve scam email messages that look like important email sent from government officials or partners from important organizations such as donor agencies.</li>
+<li><strong>SMiShing</strong> attacks involve SMS messages (texts). Scammers carrying out these attacks may impersonate someone you know to ask for money or personal information. Most often, people behind these attacks pose as a service you use (e.g. courier company or online shopping platform) to request a payment or offer an update. Increasingly often they pose as WhatsApp, Facebook or another social media company to ask you for the verification code that you receive via the platform.</li>
+<li><strong>Vishing</strong> attacks involve using voice calls. Scammers carrying out such attacks often pose as employees from government agencies. They normally use threats and convincing language to make victims feel as though they have no other option than to provide the information being requested.</li>
+</ul>
+<h2>Phishers target emotions</h2>
+<p>What is common to most phishing attacks is that they try to exploit powerful human emotions. These include:</p>
+<ul>
+<li><strong>Greed:</strong> attackers typically offer financial rewards or other incentives if you just click that link, open that attachment or complete that form.</li>
+<li><strong>Urgency:</strong> attackers create a sense of urgency with a tight deadline for action.</li>
+<li><strong>Curiosity:</strong> attackers lure a victim into clicking on a link by promising unique and interesting content.</li>
+<li><strong>Fear:</strong> attackers warn of negative consequences if you do not take action.</li>
+</ul>
+<h2>Spotting a phishing email</h2>
+<p>Phishing tactics are constantly evolving. Phishing emails often mimic the style and use real logos of legitimate organizations to fool you. Yet many phishing emails have one or several of the common features listed below that can help you spot such attacks:</p>
+<ul>
+<li><strong>Fake email addresses</strong> that look real to fool you. For example, attackers may pose as Amazon to try to steal your credentials by fooling you into “updating” or “confirming” your details. You should realize that something is off when that email comes from an address ending in @amazonheadoffice.com or @amazzon.com, rather than @amazon.com. Also, it is worth keeping in mind that no legitimate and large organization will send you emails from an address ending in @gmail.com, @mail.ru or any other email platform designed for the general public.</li>
+<li><strong>Embedded links</strong> which, when you click on them, take you to fake websites seeded with malware. Never click on links without first checking where they take you. You can see the full website address by hovering your muse over a link.Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a title="Norton Safe Web" href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> (https://safeweb.norton.com)./ Use extra caution when dealing with shortened URL links. To check the real URL link behind a shortened one, use a free online service such as <a title="Unshorten that URL" href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> (https://unshorten.it)./</li>
+<li><strong>Attachments</strong> that infect your device with malware once you open them. It is one of the most basic digital safety rules that you should never open attachments from senders you do not know or do not trust fully. Also, legitimate organizations will never send you attachments unless you specifically ask them to forward you something.</li>
+<li><strong>Poor grammar or weird language.</strong> Scammers using mass emails to carry out phishing attacks often target people in dozens of different countries. Instead of investing in translating their messages and customizing them to better target local audiences, they use free online translations services. As a result, phishing emails often use unnatural or plainly weird language and contain grammatical errors.</li>
+<li><strong>Generic salutation</strong> instead of your name. When an email begins with a generic salutation such as “Dear customer,” “Dear account holder,” or “Dear valued member,” this should immediately make you suspicious. Legitimate organizations contacting you will often know your name.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/">How to Recognize Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Keep Your Computer Safe and Secure</title>
+		<link>https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 10:12:33 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=331</guid>
+
+					<description><![CDATA[<p>Personal computers such as desktops, laptops and tablets are critical mediums that help us access the internet and use various online services. They also help us communicate with other people and create, store, and share information. Losing a computer or having it stolen or compromised can have serious professional, financial, and reputational consequences. This is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/">How to Keep Your Computer Safe and Secure</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Personal computers such as desktops, laptops and tablets are critical mediums that help us access the internet and use various online services. They also help us communicate with other people and create, store, and share information.</p>
+<p>Losing a computer or having it stolen or compromised can have serious professional, financial, and reputational consequences. This is why it is so important to know how to protect and secure your PC.</p>
+<p>Note that all the tips in this article focus on protecting your personal computers generally. If you would like to learn about how to protect data on your computer, there are plenty of resources you can find in the <a title="My Data" href="https://cyber-star.org/using-the-cyberstar/data/">My Data section on our website</a>.</p>
+<h2>1. Use licensed software only</h2>
+<p>Software is not always cheap. So there is often a temptation to install unlicensed or “pirated” software on your computer.</p>
+<p>But doing so is not only illegal &#8211; it is also a really bad idea. Such software is created on the basis of older versions of genuine applications. Since these versions were used, hundreds or perhaps thousands of bugs and critical vulnerabilities in those apps have been discovered and fixed by developers. If you use pirated software, you cannot apply many of these patches and updates.</p>
+<p>More than that, pirated software often comes with malicious code already built in. So by using unlicensed apps, you leave a virtual door into your device and all its contents permanently open to cybercriminals.</p>
+<p><strong>It is particularly important to use genuine versions of the most important software on your computer</strong>, such as the operating system and antivirus software. If you cannot afford other commercial software products, you can always <a title="Open Source Alternatives For Expensive Applications" href="https://techlog360.com/best-open-source-alternatives/">find a free open-source alternative</a> that might do the job for you.</p>
+<h2>2. Download software only from reputable sources</h2>
+<p>Cybercriminals often distribute software that looks like genuine apps but has various types of malware built in it. When you install such software, you leave a virtual door into your device and all its contents open to cybercriminals.</p>
+<p>Therefore, <strong>always download software and updates either from official app stores</strong> (Microsoft Store on Windows devices and App Store on Macs) <strong>or directly from the websites of companies that distribute and update the app you want to have</strong>. For example, when installing Adobe Acrobat Reader, download the app directly from Adobe, rather than third-party websites.</p>
+<p>When downloading new or less known software, it is also a good idea to <strong>read reviews</strong> to make sure the software is safe to install and use.</p>
+<h2>3. Update software regularly</h2>
+<p><strong>Software updates often include patches that fix the latest security vulnerabilities.</strong></p>
+<p>Software is built by code, and applications often contain tens of thousands of lines of code. Hackers look at every line of code and often find security holes or weaknesses (known as “vulnerabilities”) in applications and operating systems. When they find a vulnerability, hackers create malware that exploits it to gain control over your device or steal your data. As soon as such vulnerabilities are discovered, developers create patches and release them in software updates. But until you install a patch, the vulnerability it addresses can be exploited by hackers. Therefore, it is important to <strong>install software updates as soon as they become available</strong>.</p>
+<p>It is particularly important to <strong>always have the operating system and antivirus software on your computer up-to-date</strong>. Enabling automatic updates ensures that the computer downloads and installs critical patches as soon as they are released. If you do not want to enable automatic updates for other apps on your computer, you should check for and install updates at least once a month.</p>
+<p>Most updates will not protect your computer until you reboot it. So, <strong>reboot your device as soon as you are asked to do so</strong> after installing updates.</p>
+<blockquote><p>Follow <a title="How to Update Software in Windows 10" href="https://cyber-star.org/cs-articles/how-to-update-software-in-windows-10/">this guide</a> to customize automatic Windows 10 updates, check for other app updates and set Microsoft Store to update apps on your Windows 10 device automatically.</p></blockquote>
+<h2>4. Use reliable antivirus software</h2>
+<p>Antivirus prevents malware from infecting your computer. If the computer is already infected, antivirus detects malware and removes it from your computer. So <strong>it is important that you always have reliable antivirus software running</strong> on your computer. You should run a full scan of your computer at least once a month.</p>
+<p>Unfortunately, most of the free antivirus software on the market does not do a good job at securing your computer. A notable exception is Microsoft Defender that comes with the Microsoft Windows operating system. When <a title="How to Make Windows Defender More Secure" href="https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/">configured the right way</a>, Microsoft Defender outperforms many well-established antivirus platforms.</p>
+<p>Malware evolves rapidly. <strong>Make sure your antivirus software is up-to-date and your virus definitions are set to update automatically</strong>.</p>
+<h2>5. Password protect your computer and set a lock screen</h2>
+<p>You do not want anyone to poke around your files, install spyware or change security settings on your computer when you are not around. <strong>Protect your computer with a strong password</strong>. <strong>Enable the computer to lock your screen automatically</strong> after a brief period of inactivity.</p>
+<blockquote><p>Follow <a title="How to Set or Change a Password in Windows 10" href="https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/">this guide</a> to set or change a password on a Windows 10 device.</p></blockquote>
+<p>Also, <strong>make sure you remember how to lock the screen on your device manually</strong> and remember to do this every time you step away from the device.</p>
+<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>6. Use a limited-privilege User Account for everyday tasks</h2>
+<p>If you own a computer, you are most likely using it through an Administrator Account. This might not always be a good idea. If you install a malware-infected app, open an infected attachment or click on a wrong link while using an Administrator Account, these actions may have disastrous consequences for your device or data on it.</p>
+<p>So it is a good idea to create a separate User Account with limited privileges and use it for everyday tasks. You can always log in the Administrator Account for special tasks such as software installation. It is particularly important to create separate User Accounts when you share a computer with other people.</p>
+<h2>7. Secure your computer physically</h2>
+<p>This might sound obvious but you should also protect your computer from loss or theft, two scenarios that happen much more often than most people think. Never leave your device unattended in a place where it can be stolen. Consider leaving your computer at home when you travel or visit places where you can be asked to surrender digital devices, such as airports, government offices, and embassies. If you often use a laptop in a semi-public place such as school, coworking space or cafe, consider buying a security cable.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/">How to Keep Your Computer Safe and Secure</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Digital Data 101: What It Is and When It Becomes Personal</title>
+		<link>https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 04:15:00 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=289</guid>
+
+					<description><![CDATA[<p>We are surrounded by digital data. Each time you watch a video, read something online or receive an email, you consume data created by others. And each time you text someone, work on a document on a computer or post something on social media, you create your own data. In an increasingly connected world, this [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">Digital Data 101: What It Is and When It Becomes Personal</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We are surrounded by digital data. Each time you watch a video, read something online or receive an email, you consume data created by others. And each time you text someone, work on a document on a computer or post something on social media, you create your own data.</p>
+<p>In an increasingly connected world, this data is a valuable commodity. It is collected, analyzed and used for various purposes, from selling you things online to trying to steal your money. Knowing how to protect your most valuable data requires understanding what data is, how it is created and discarded, and who is after it.</p>
+<h2>What is digital data</h2>
+<p>Any information processed or stored by a computer, smartphone or data storage device is digital data. You create and consume this information in the form of text documents, videos, sounds, images, software, etc. At its most basic level, however, all this data consists of sequences of ones and zeros, known as <em>binary</em> data.</p>
+<p>Because all computers and smartphones use this format, digital data can be created, processed and stored on any such device. It can also be transferred from one device to another or made available to millions of other users online.</p>
+<p>Some of your personal data is particularly important to keep safe. Examples include your date of birth, address, passport number, driver’s license number, social security number, bank account number, health records, etc. Any data that could potentially be used to identify you is known as <em>personally identifiable information</em>.</p>
+<h2>Creating digital data</h2>
+<p>Each time you use a computer or mobile device, you create data. You can easily see some of this data, such as, for instance, when you create a new Word document, post something on social media, or take a picture on your mobile phone.</p>
+<p>But most of the data you generate each time you use a digital device is much harder to see. For instance, your computer keeps a detailed record of when you use it, which apps you use and for how long. If you are an average user, your Internet browser tracks websites you use, time you spend on each of them, each single click you make and each single file you download. For each photo you take, your smartphone records when and where you take it. Unless you know where to look for this data, it remains hidden from your eyes.</p>
+<h2>Discarding digital data</h2>
+<p>Discarding data is not as straightforward as it appears. When you click “Delete” or move a file to a Recycle Bin (for Windows users) or Trash (for Apple product users), your operating system keeps the file there for some time in case you change your mind. Anyone can easily find this file if they have access to your device.</p>
+<p>But even when you empty the Recycle Bin (or Trash) or when you delete files bypassing the Recycle Bin, these files do not just disappear from your device. When you delete files in this way, the operating system on your device receives a signal that these files are no longer needed and stops showing them. The operating system does not really make these files disappear. It marks the space they hold on your device’s hard drive as available and, only when this space is needed for something else, your operating system overwrites the binary data of the files you have deleted with new data. Until that happens, the “deleted” files stay on your device. It is not too difficult to recover them.</p>
+<p>There are special tools that you can use to securely wipe files from your devices, that is, to delete them and replace their binary data with random combinations of ones and zeros. Follow <a title="How to Install and Start Using BleachBit" href="https://cyber-star.org/cs-articles/how-to-install-and-start-using-bleachbit/">these directions</a> to install and start using BleachBit, a free tool that wipes data from your hard drive securely and permanently.</p>
+<p>It is much harder to discard data that you have shared online. When you post photos on social media, sign up for services with your email address, share documents through messaging apps or send videos through file-sharing sites, you cannot always track who has copies of this data.</p>
+<h2>Who is after your data</h2>
+<p>You can never know who might be interested in the data you have on your devices. Individuals, groups or organizations might want to get access to this data for a number of reasons, such as, for instance, to steal your online banking credentials or personal photos and videos to blackmail you. Because you do not know who might be interested in your information and why, you should always <a title="My Devices" href="https://cyber-star.org/using-the-cyberstar/devices/">ensure that all the computers, mobile devices and data storage devices are safe and secure</a>.</p>
+<p>There is also a lot of information you leave behind when browsing the internet on your computer or mobile device. Make sure you understand <a title="My Digital Identity" href="https://cyber-star.org/using-the-cyberstar/digital-identity/">what kind of information you reveal by being online, how this information is being used, and what you can do to minimize your online footprint</a>.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">Digital Data 101: What It Is and When It Becomes Personal</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why You Should Make Backups and Where You Should Keep Them</title>
+		<link>https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 04:42:52 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=294</guid>
+
+					<description><![CDATA[<p>It is much easier to lose important data than you think. The most common ways to lose data include user mistakes, hardware failure, device theft or loss, and malware infection. Ransomware attacks and computer hacking are also a significant risk to files on your devices. The only way to protect your important files from all [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">Why You Should Make Backups and Where You Should Keep Them</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It is much easier to lose important data than you think. The most common ways to lose data include user mistakes, hardware failure, device theft or loss, and malware infection. Ransomware attacks and computer hacking are also a significant risk to files on your devices.</p>
+<p>The only way to protect your important files from all these risks is to backup your data often. Backing up data involves creating copies of your files and storing them on a hard drive, external storage device or cloud backup service. Data backups allow you to restore important files quickly in case the original data on your devices is lost or becomes corrupted.</p>
+<h2>Where to keep your backups</h2>
+<p>When it comes to where you backup data to, you can choose between your device’s hard drive, removable data storage device, and cloud storage service. Each of these options has its own advantages and disadvantages.</p>
+<h3>Local hard drive</h3>
+<p>The most convenient backup destination is the hard drive on your device. You can create a separate partition on the drive and keep the backups there. The biggest drawback of backing up data to the local hard drive is that it will not protect you in case of complete hard drive failure, malware infection, or if your device is lost or stolen.</p>
+<h3>Removable data storage device</h3>
+<p>Backing up your files to a removable data storage device such as an external hard drive or USB memory stick keeps your data secure even if the device on which the original data is stored fails or is lost. Removable data storage devices can keep a lot of data and are very reliable as long as you encrypt them. They are also easier to use, faster and cheaper than remote backup options.</p>
+<p>However, these data storage devices can malfunction and are vulnerable to natural calamities such as flooding and fire. Malware can infect these devices along with your primary drive. They can also be lost or stolen.</p>
+<h3>Cloud storage service</h3>
+<p>Cloud storage services are an increasingly common destination for data backups. Most cloud storage services provide a lot of storage space and encrypt data. With backups stored in the cloud, you can access and manage your data anytime on any connected device.</p>
+<p>Having your data backed up in a secure distant location gives you a peace of mind and ensures that your data is safe and recoverable. Besides, cloud backup services often allow you to save multiple versions of your file, thus giving you an opportunity to roll files back to earlier versions. Cloud services are, however, slower and often more expensive than local backup options. Besides, you cannot access data in the cloud without internet access.</p>
+<p>When choosing a cloud storage service, consider options that offer zero-knowledge encrypted storage. This means that even the company that stores your backups has no way of viewing your files. There are free options available in both conventional and zero-knowledge encrypted cloud storage.</p>
+<p>Whichever cloud service you go with, make sure that you secure your account with a <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong</a> and <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique</a> password and enable <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">two-factor authentication</a>.</p>
+<h2>The 3-2-1 rule for important data backup</h2>
+<p>You might have files that are particularly important to you. It might be a good idea to backup these files in more than one place. To secure the particularly sensitive, confidential or valuable data, consider following the 3-2-1 rule for backup: always keep three copies of your data, two on different local devices and one in a remote location.</p>
+<p>In practice, this means having the original data on your device, a backup on a removable data storage device, and another one on a cloud backup service. This system guarantees that you will keep your data even in the (highly unlikely) case that you lose two copies of it at the same time.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">Why You Should Make Backups and Where You Should Keep Them</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why You Should Encrypt Your Devices</title>
+		<link>https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2021 09:28:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=322</guid>
+
+					<description><![CDATA[<p>Your computer, tablet and smartphone have a lot of important or even sensitive data on them. If you lose a device or someone steals it, they can access all the sensitive files of personal information stored on it. Even a password protecting a device may not stop a dedicated individual from getting around it to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/">Why You Should Encrypt Your Devices</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Your computer, tablet and smartphone have a lot of important or even sensitive data on them. If you lose a device or someone steals it, they can access all the sensitive files of personal information stored on it. Even a password protecting a device may not stop a dedicated individual from getting around it to read your files.</p>
+<p>The best way to secure sensitive data on your devices is to use encryption. Encryption makes all the data on a device completely unreadable, thus protecting it from unauthorized access or manipulation. It is particularly important when you deal with confidential data that can put you or the people you work with at risk.</p>
+<h2>How encryption works</h2>
+<p>At its most basic level, all the information processed or stored by a computer, smartphone or data storage device consists of sequences of ones and zeros, known as binary data. Because all computers and smartphones use this format, digital data can be created, processed and stored on any such device.</p>
+<p>Encryption converts binary data into a complex code that only people with access to a secret key (known as a decryption key) or password can read. Even if unauthorized individuals get access to encrypted data, they cannot decipher the code or change it.</p>
+<h2>Full-disk encryption</h2>
+<p>Full-disk encryption encrypts all the data stored on your device at the hardware level. It works by automatically converting data on a hard drive into a complex unreadable code. Without a proper decryption key, nobody will be able to read any of the files on an encrypted device.</p>
+<p>Full-disk encryption is easy to use because it does not require any effort on your part after you unlock the computer. It works without you even noticing it.</p>
+<p>One of the advantages of using full-disk encryption is that you do not need to worry about protecting individual files on your device. As you create any data, it is automatically encrypted. When you read it, it is automatically decrypted. Full-disk encryption also ensures that the data which we often forget we have on our devices (such as temporary files and browser cache files) is secure.</p>
+<h2>Encrypting your device</h2>
+<p>When it comes to smartphones, both Android and iOS devices are encrypted by default. To make the most of this important data security feature, make sure that your smartphone is protected by a strong password or passcode and that it automatically locks the screen after a brief period of inactivity. Also, make sure that the operating system on your smartphone is up to date.</p>
+<p>The easiest way to encrypt a computer is to use the free built-in software that came with the operating system. Both Windows and Mac devices have effective full-disk encryption tools. These tools will not work, however, unless you set them up on your device. Follow these directions to set up encryption on <a title="How to Encrypt a Windows 10 Device" href="https://cyber-star.org/cs-articles/how-to-encrypt-a-windows-10-device/">Windows 10</a> and Mac computers.</p>
+<p>You should also consider encrypting your external data storage devices. Such devices normally come with built-in encryption tools. To set up these tools, follow the instructions that come with them.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/">Why You Should Encrypt Your Devices</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Passwords That Look Strong But Aren’t</title>
+		<link>https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 19:40:11 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=170</guid>
+
+					<description><![CDATA[<p>Almost all online services now require users to create complex passwords by adding upper-case letters, numbers and special characters. Fortifying a password to satisfy Gmail or Facebook requirements gives users a renewed sense of security. But this sense is often false. Creating a password that meets minimum complexity requirements is not the same as creating [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/">Passwords That Look Strong But Aren’t</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Almost all online services now require users to create complex passwords by adding upper-case letters, numbers and special characters. Fortifying a password to satisfy Gmail or Facebook requirements gives users a renewed sense of security. But this sense is often false. Creating a password that meets minimum complexity requirements is not the same as <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">creating a genuinely strong and secure password</a>.</p>
+<p>The problem is that most users follow the same pattern when they beef up their passwords to meet an online service’s requirements. Hackers know these patterns very well and use the knowledge to crack passwords. So, a lot of passwords that look strong are actually not very difficult to crack.</p>
+<p>Below is a list of the most common mistakes users make when trying to strengthen their passwords. Do not make these mistakes.</p>
+<ul>
+<li><strong>Adding a number at the end</strong><br />
+Many users mistakenly believe that they make their passwords strong by adding a number at the end. Most often it is a single-digit number, commonly <em>1</em>. Hackers know this, and when they try to crack a password, they assume that it follows this common pattern.<span style="color: #c01d24;">To create a genuinely strong password, add several random numbers in a random order.</span></li>
+<li><strong>Capitalizing the first letter</strong><br />
+Users also tend to create passwords with a single upper-case letter, typically by capitalizing the first letter in a password. Again, this is something hackers know and use to crack passwords.<span style="color: #c01d24;">To create a strong password, use random combinations of upper-case and lower-case letters.</span></li>
+<li><strong>Adding a special character at the end</strong><br />
+Another common mistake users make is adding a single special character at the end of a password. Most often the character they go for is <em>!</em>. Adding a special character in this way does not really make a password much more difficult to crack.</p>
+<p><span style="color: #c01d24;">To create a genuinely strong password, add several randomly selected special characters in a random order.</span></li>
+<li><strong>Using common words or character sequences</strong><br />
+You would be surprised to know how many users have the same common words (e.g. <em>password, welcome, football, superman</em>, etc.) or computer keyboard sequences (e.g. <em>qwerty, asdfgh, qazwsx,</em> etc.) in their passwords. Hackers use all these words to crack passwords through brute force attacks. These attacks involve the use of software that tries different combinations of common words and characters until it finds the one that works. Other common words used in millions of passwords include first names, the names of cities, countries, and sports teams.<br />
+<span style="color: #c01d24;"><br />
+To create a password that is really difficult to crack, use random combinations of upper-case and lower-case letters, numbers, and special characters, rather than common words or computer keyboard and smartphone patterns.</span></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/">Passwords That Look Strong But Aren’t</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why All of Your Passwords Should Be Unique</title>
+		<link>https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 19:46:01 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=171</guid>
+
+					<description><![CDATA[<p>All of your accounts should have unique passwords that you have never used before. Even if you have the strongest password in the world, you are putting yourself at huge risk if you use it across multiple accounts. What happens when you reuse your passwords Let’s say you use the same password for your personal [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">Why All of Your Passwords Should Be Unique</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>All of your accounts should have unique passwords that you have never used before. Even if you have the <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strongest password</a> in the world, you are putting yourself at huge risk if you use it across multiple accounts.</p>
+<h3>What happens when you reuse your passwords</h3>
+<p>Let’s say you use the same password for your personal email, Facebook, and Instagram. If your email provider experiences a security breach (which happens much more often that we realize) and your user credentials are stolen, attackers will try using the stolen password and its slightly changed versions to log on to other sites as well. As a result, all of your accounts using the same password will be compromised.</p>
+<p>Reusing passwords is also a bad idea because, just like millions of other users across the world, you probably have a handful of accounts which you created at some point in the past and which have since been out there forgotten or used rarely. It is very likely that at least some of these accounts have been compromised. If an attacker has your email address which is linked to some of these accounts, it is easy to find all compromised accounts using this email address. It is also easy to get leaked passwords to all such accounts. So, if you reuse the same password or slightly changed versions of a single password across multiple accounts, an attacker can compromise all of these accounts by finding a single forgotten account of yours. This is called <em>password stuffing</em>.</p>
+<ul>
+<li>If you want to check if your email address(es) is linked to any accounts that have been leaked or compromised, you can use <a title="have i been pwned?" href="https://haveibeenpwned.com/" target="_blank" rel="noopener">this service</a>. Simply type the email address in the search field and click “pwned?”.</li>
+<li>If the email address has appeared in any account breaches, you will get a list of all the online services where your account credentials have been compromised in any way. Log in to each of these accounts and change your passwords as soon as possible. Also consider protecting your important accounts with <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">two-factor authentication</a>. Remember, your passwords should be strong and unique. If you no longer use any of these accounts, consider deleting them.</li>
+</ul>
+<p>At this point, you might feel that having unique passwords for each and every account &#8211; and making sure that these passwords are genuinely strong &#8211; is a bit too much. How will you remember all these passwords? Well, you only need to remember a single strong password. A <a title="Why You Should Use a Password Manager" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">password manager</a> will do the rest for you.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">Why All of Your Passwords Should Be Unique</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why You Should Use a Password Manager</title>
+		<link>https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 19:28:58 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=167</guid>
+
+					<description><![CDATA[<p>Passwords are your first line of defense against anyone who would like to steal your online accounts or information in these accounts. To protect your accounts, you should use strong passwords that normally include long and random combinations of characters. Such passwords are nearly impossible to remember. Moreover, you should have a genuinely unique password [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">Why You Should Use a Password Manager</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Passwords are your first line of defense against anyone who would like to steal your online accounts or information in these accounts. To protect your accounts, you should use <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong passwords</a> that normally include long and random combinations of characters. Such passwords are nearly impossible to remember. Moreover, you should have a genuinely <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique password</a> for each of your accounts.</p>
+<p>So, how do you remember and keep track of all these passwords? The solution is a password manager.</p>
+<p>Think of a password manager as a safe, where you keep dozens or even hundreds of keys (passwords) to all of your accounts. It makes your life easier as you need to remember only one password &#8211; to log into the password manager where all of your other passwords are stored securely.</p>
+<h3>What a password manager does</h3>
+<ul>
+<li><strong>Remembers your credentials</strong><br />
+You probably have dozens or even hundreds of different online accounts. Writing down or typing the credentials for all these accounts (user names, email addresses and passwords) to keep them on a piece of paper or a document on a computer is a very bad idea. Password manager takes the hassle out of keeping track of all these accounts. It remembers all of your passwords and other credentials for you.</li>
+<li><strong>Stores them safely</strong><br />
+Storing all your passwords in a password manager is much safer than writing them down or typing to keep in a document on a device. Nobody can open your password manager if you protect it with a very strong password. As an additional precaution, you should <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">use two-factor authentication</a> to secure your password manager.</li>
+<li><strong>Creates strong, unique passwords</strong><br />
+Password manager also takes the hassle out of creating strong passwords and ensuring that each password is unique to each individual account. Password manager creates passwords for you and allows you to control the length and complexity of your passwords.</li>
+</ul>
+<h3>Which password manager you should use</h3>
+<p>It is up to you to choose a password manager that fits your needs and preferences. There are several reliable and secure options for paying users to choose from. Some antivirus software packages come with built-in password managers. If you choose to pay for a subscription, 1Password, LastPass, Bitwarden Premium, Dashlane, Keeper, and NordPass are safe bets.</p>
+<p>Some password managers also offer free plans to users who do not need advanced features. If you decide to go with a free password manager, your safest bet is to choose from open-source options such as BitWarden, KeePass, and KeePassXC.</p>
+<p>Password managers fall in one of two general categories depending on where they keep users’ credentials. If you use a local password manager such as KeePassXC, it stores passwords on your own device. Such password managers offer better privacy and security but they require a certain level of technical knowledge and digital hygiene to use them safely.</p>
+<p>In contrast, cloud password managers store passwords on cloud servers. This option is safer for those users who have limited technical knowledge and cannot commit to strict digital hygiene which includes automated backups. BitWarden is a free, open-source, cloud-based password manager known for its security and reliability.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">Why You Should Use a Password Manager</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Why You Should Use Two-Factor Authentication</title>
+		<link>https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 19:49:56 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=172</guid>
+
+					<description><![CDATA[<p>Passwords are your first line of defence against those who want to steal your accounts or spy on everything that is happening in them. That is why you should protect all of your accounts with really strong and unique passwords. You should also store the passwords safely. Unfortunately, even the strongest password is not enough [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">Why You Should Use Two-Factor Authentication</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Passwords are your first line of defence against those who want to steal your accounts or spy on everything that is happening in them. That is why you should protect all of your accounts with <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">really strong</a> and <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique</a> passwords. You should also <a title="Why You Should Use a Password Manager" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">store the passwords safely</a>.</p>
+<p>Unfortunately, even the strongest password is not enough to guarantee that someone will not break into your account. There are several ways in which your password might be compromised. Hackers might steal your credentials directly from the online service provider (which happens much more often than you realize). Someone might install a tiny piece of software on your device that records every key you strike on your keyboard (including all of your passwords). A very dedicated person might crack your password or convince you to reveal it. Finally, someone might use a hidden camera to record your keyboard while you enter a password.</p>
+<p>This is why you should use two-factor authentication (2FA) to protect your important online accounts. When enabled, two-factor authentication requires that you use two different ways of proving your identity to access an online account. So, in addition to entering a password (the <em>first</em> factor), you have to provide a second piece of information (the <em>second</em> factor) to verify your identity. Essentially, 2FA provides another layer of protection to your online accounts, keeping them safe even when your passwords are compromised.</p>
+<h3>What can serve as the second factor</h3>
+<p>Most online accounts allow users to choose from three categories of additional authentication factors:</p>
+<ul>
+<li><strong>Something you know:</strong> a piece of information that only you should know such as a PIN code.</li>
+<li><strong>Something you have:</strong> a physical object that you should have on you to access online accounts. This can include a security token (a small hardware device) or your smartphone which can be used to receive authentication codes via SMS or special authentication apps.</li>
+<li><strong>Something you are:</strong> something unique to your body such as your fingerprint, face or retina.</li>
+</ul>
+<h3>Which second factor you should choose</h3>
+<p>It is very difficult to give general advice on the most suitable 2FA method that would work for every user. Ultimately, you should choose what works best for you based on your own situation, risk assessment and convenience. We will offer several pointers below to help you make an informed choice:</p>
+<ul>
+<li><strong>Security questions</strong> make 2FA an easy job as their only requirement is that you remember answers to a number of preset questions. However, it is typically not too hard for a crafty attacker to dig up these answers (e.g. your mother’s maiden name) or trick you into giving away this information.</li>
+<li><strong>Security tokens</strong> (U2F keys) provide one of the most secure 2FA methods as long as you keep them physically secure. A major disadvantage of these devices is that they cost money and might require various adapters to use them across devices. Besides, using a security token as the second authentication factor requires you to have the device on you every time you want to access an online account. Thus, there is always a risk of loss or theft.</li>
+<li><strong>SMS messages</strong> are very convenient as they arrive instantly on your mobile phone. However, this is one of the least secure 2FA methods as SMS messages can be easily rerouted by a committed individual or intercepted by your mobile service provider.</li>
+<li><strong>Authenticator apps</strong> rank among the most secure and convenient 2FA methods. When you link an authenticator app to an online account, it generates temporary passwords or numerical codes that you need to enter immediately after entering your main password to access an online account. These passwords or codes cannot be intercepted as easy as SMS messages can.However, the security of these apps is tied to the security of your mobile device. In order to use them safely, you need to ensure that both your phone and the app you choose are protected by strong passwords. Reliable authenticator apps recommended by experts include Aegis, Authy, Google Authenticator, and LastPass Authenticator. Whichever option you choose, make sure that you save in a secure location one-time backup codes for every account you link to the authenticator app. You will need these codes to access your accounts in case you lose the phone with the app on it.</li>
+<li><strong>Biometrics</strong> such as your <strong>fingerprint</strong>, <strong>face</strong> or <strong>voice</strong> are very convenient but not as secure as is often thought. Unfortunately, many of the popular online services do not offer biometrics as a 2FA option. Besides, many users are reluctant to use their biometrics because, unlike passwords, a compromised biometric cannot be changed. Once it is hacked, it is hacked for life. Online services may also sell your biometric data to third parties without your consent.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">Why You Should Use Two-Factor Authentication</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
