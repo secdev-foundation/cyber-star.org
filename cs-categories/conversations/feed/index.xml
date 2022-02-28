@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Conversations &#8211; CyberSTAR</title>
+	<title>Conversations Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-categories/conversations/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Fri, 17 Sep 2021 19:24:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 Jan 2022 01:16:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>Keep Your Digital Conversations Private</title>
 		<link>https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private</link>
@@ -32,7 +32,7 @@
 ]]></description>
 										<content:encoded><![CDATA[<p>Digital conversations have become an important part of our daily personal and professional routine. We call friends and family on WhatsApp or Skype, chat with classmates on Facebook messenger, and send emails from personal, school or work accounts. We also text people from our mobile phones and argue with strangers on online discussion boards.</p>
 <p>All these conversations travel through complex infrastructure involving multiple routers, servers, and cables. Various people or organizations &#8211; from half-amateur hackers to internet service providers equipped with sophisticated tools &#8211; can tap these conversations at any of these points. Whichever digital communication technology you use, the basic tips listed below can help you keep your online conversations private and secure.</p>
-<h3>1. Use encrypted and open-source channels</h3>
+<h2>1. Use encrypted and open-source channels</h2>
 <p>While there are many email services and messenger apps on the market, not all of them do an equally good job at keeping your conversations private and secure.</p>
 <p>If you want to keep your conversations strictly between you and the people you are communicating with, use apps and services that offer end-to-end encryption. As mentioned above, your digital conversations travel through complex infrastructure and can be intercepted by various actors at numerous points. The only reliable way to secure your conversations is to use services that encrypt (that is, turn into a complex code) everything that leaves your device and do not decrypt it until it reaches the device of the intended recipient. Even if an encrypted email or call is intercepted somewhere between your device and the intended recipient, all that the people who intercept it will see is a string of meaningless characters.</p>
 <p>You should also choose open-source apps over proprietary commercial products. Software is open-source when its code is accessible to anyone who wants to see it. It means that independent experts and tech-savvy users can inspect the code that makes up the app, detect and fix vulnerabilities in it, and see whether the app does a good job at securing user data.</p>
@@ -123,13 +123,13 @@
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-send-vanishing-messages-on-whatsapp/">How to Send Vanishing Messages on WhatsApp</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>WhatsApp is generally a very secure messaging app that offers end-to-end encryption by default. However, it is less focused on user privacy than messengers like Signal or Wire. Although WhatsApp cannot access your encrypted messages, it collects a lot of metadata (the who, when and where information about your messaging) on you, as well as your contacts and information about your device. WhatsApp shares this information with its parent company Facebook. Facebook then uses this information for commercial purposes and shares it with partners. In the event of data breach, all of this sensitive data could be compromised.</p>
-<p>If you choose to stay on WhatsApp despite these risks, the app offers a very reliable and secure messaging platform protected by end-to-end encryption. You can further protect your conversations and the files you share on the app by setting messages to disappear automatically and by sharing photos and videos that vanish as soon as they are seen by the recipient.<br />
-Set messages to vanish<br />
-You can set messages in an individual chat to disappear after seven days. If you enable this setting, WhatsApp will securely delete chats from your phone and that of the recipient seven days after they are sent. Unfortunately, the seven-day option is the only one that WhatsApp currently provides.</p>
+<p>If you choose to stay on WhatsApp despite these risks, the app offers a very reliable and secure messaging platform protected by end-to-end encryption. You can further protect your conversations and the files you share on the app by setting messages to disappear automatically and by sharing photos and videos that vanish as soon as they are seen by the recipient.</p>
+<h2>Set messages to vanish</h2>
+<p>You can set messages in an individual chat to disappear after seven days. If you enable this setting, WhatsApp will securely delete chats from your phone and that of the recipient seven days after they are sent. Unfortunately, the seven-day option is the only one that WhatsApp currently provides.</p>
 <p>To enable disappearing messages in an individual WhatsApp chat, open the chat and tap the contact’s name. Scroll down and select <strong>Disappearing Messages</strong>. If prompted, tap <strong>Continue</strong> to confirm the selection.</p>
 <p><img class="aligncenter size-full wp-image-482" src="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend.jpg" alt="Selecting a friend and then scrolling down to find Disappearing Messages under Contact Info in Whatsapp." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p><img class="aligncenter size-full wp-image-481" src="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info.jpg" alt="Disappearing Messages option under Contact Info in Whatsapp." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
-<p>Select On. When you enable disappearing messages, you will see a notification in the chat. You will also see a clock icon displayed on the contact’s profile image.</p>
+<p>Select <strong>On</strong>. When you enable disappearing messages, you will see a notification in the chat. You will also see a clock icon displayed on the contact’s profile image.</p>
 <p><img class="aligncenter size-full wp-image-480" src="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages.jpg" alt="Enabling Disappearing Messages in Whatsapp." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p>Please note that enabling disappearing messages will not have any effect on messages that were sent <strong>before</strong> the setting was enabled. It is also worth remembering that disappearing messages will not prevent the person you are chatting with from forwarding your messages or keeping them by taking screenshots or saving media files.</p>
 <h2>Using “view once” feature</h2>

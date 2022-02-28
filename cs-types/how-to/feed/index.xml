@@ -8,18 +8,147 @@
 	>
 
 <channel>
-	<title>How-To &#8211; CyberSTAR</title>
+	<title>How-To Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-types/how-to/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Fri, 17 Sep 2021 19:26:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Feb 2022 12:27:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
+		<title>How to Browse Incognito</title>
+		<link>https://cyber-star.org/cs-articles/how-to-browse-incognito/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-browse-incognito</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 11 Feb 2022 09:28:00 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=914</guid>
+
+					<description><![CDATA[<p>The browser you are using to access the Internet keeps a lot of information about you and your online activity. Most browsers store cookies which track your browsing habits and often provide this information to third parties. Browsers also keep detailed lists of websites you visit, your search records, downloads, and other information. While most [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-browse-incognito/">How to Browse Incognito</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The browser you are using to access the Internet keeps a lot of information about you and your online activity. Most browsers store cookies which track your browsing habits and often provide this information to third parties. Browsers also keep detailed lists of websites you visit, your search records, downloads, and other information.</p>
+<p>While most of this data is used to improve your browsing experience and ensure that the ads you see are relevant to you, you never know exactly how companies that collect this information use it. If you do not want your browser to retain your cookies, browsing history, search records, and downloads, you could use it in an incognito or private mode. Available on all popular browsers, this feature also prevents others who use the same computer from being able to see the list of websites you visited and files you downloaded. So, <strong>always use incognito mode on public or shared computers</strong> to enhance your privacy.</p>
+<p>Remember that <strong>incognito mode only prevents the browser from collecting and storing your browsing information</strong>. It does not make you anonymous online or prevent your employer, internet cafe, or internet service provider from seeing your traffic or, in some cases, recording your keystrokes.</p>
+<h1>Turning incognito mode on</h1>
+<h2>For Google Chrome (Desktop)</h2>
+<ol>
+<li>Click the Chrome menu button (three vertical dots in the top right corner)</li>
+<li>Select <strong>New incognito window</strong>. A new Chrome window will open with the Incognito logo in the upper-left corner.</li>
+<li>You can also use the shortcut Ctrl-Shift-N on Windows machines and Command-Shift-N on MacOS machines</li>
+</ol>
+<h2>For Google Chrome (Mobile)</h2>
+<ol>
+<li>Tap the Chrome menu button (three vertical dots to the right of the address bar on Android; three horizontal dots in bottom right corner on an Apple device).</li>
+<li>Tap <strong>New Incognito Tab</strong>. A new tab will open and the Incognito logo will appear.</li>
+</ol>
+<h2>For Microsoft Edge (Desktop)</h2>
+<p>You can open an InPrivate window (a Microsoft version of an incognito window) in different ways:</p>
+<ul>
+<li>Right-click the Microsoft Edge logo in the taskbar and select <strong>New InPrivate window</strong></li>
+<li>In Microsoft Edge, right-click a link and select <strong>Open link in InPrivate window</strong></li>
+<li>In Microsoft Edge, click <strong>Settings and more</strong> and select <strong>New InPrivate window</strong></li>
+</ul>
+<h2>For Mozilla Firefox (Desktop)</h2>
+<p>There are two ways to start a private browsing session (the Firefox version of incognito mode) on a desktop computer:</p>
+<ul>
+<li>Tap the Firefox menu button (three horizontal lines in the top right corner) and select <strong>New Private Window</strong></li>
+<li>Use the keyboard shortcut Ctrl-Shift-P on Windows machines and Command-Shift-P on MacOS machines</li>
+</ul>
+<h2>For Mozilla Firefox (Mobile)</h2>
+<ol>
+<li>To open a Private Tab in Firefox on your mobile device, tap the tab icon (a square with a number inside) at the bottom of the screen. The tab can be found next to the address bar on an Android device and at the bottom of the screen on an Apple device.</li>
+<li>Tap the mask button to switch to Private Browsing;</li>
+<li>Tap the <strong>+PRIVATE</strong> button on Android devices or the <strong>+</strong> icon on an Apple device to open a new Private Tab</li>
+</ol>
+<p>Mozilla now also offers Firefox Focus, a special version of the Firefox browser that automatically makes <em>all</em> browsing sessions incognito.</p>
+<h2>For Safari (Desktop)</h2>
+<p>There are two ways to start a private browsing session in Safari on your desktop:</p>
+<ul>
+<li>With Safari opened, click the “File” menu and select <strong>New Private Window</strong></li>
+<li>Use the keyboard shortcut Command-Shift-N</li>
+</ul>
+<h2>For Safari (Mobile)</h2>
+<ol>
+<li>Open Safari on your iPhone or iPod</li>
+<li>Tap the Tabs icon (two squares in the bottom right of the screen)</li>
+<li>Tap the <strong>Tabs</strong> button (a number followed by the word “Tab” or “Tabs”) at the bottom of the screen</li>
+</ol>
+<p>Tap <strong>Private</strong>, then tap <strong>Done</strong>.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-browse-incognito/">How to Browse Incognito</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Enhance Your Browsing Privacy</title>
+		<link>https://cyber-star.org/cs-articles/how-to-enhance-your-browsing-privacy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-enhance-your-browsing-privacy</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 11 Feb 2022 09:20:38 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=913</guid>
+
+					<description><![CDATA[<p>Every time you surf the Internet, you leave traces that are recorded, analyzed and sometimes even sold to data brokers. The browser you are using to access the Internet collects and keeps a lot of information about you and your online activity. For starters, most browsers store cookies which track your browsing habits to save [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-enhance-your-browsing-privacy/">How to Enhance Your Browsing Privacy</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Every time you surf the Internet, you leave traces that are recorded, analyzed and sometimes even sold to data brokers. The browser you are using to access the Internet collects and keeps a lot of information about you and your online activity. For starters, most browsers store cookies which track your browsing habits to save you time and ensure that the ads you see are relevant to you. Browsers also keep detailed lists of websites you visit, your search records, downloads, and other information.</p>
+<p>If you do not like the idea of companies collecting and using this information about you, follow these tips to enhance your privacy by limiting digital traces you leave while browsing the Internet.</p>
+<h2>1. Use Firefox in Strict mode</h2>
+<p>While all popular browsers have their pros and cons, not all of them do an equally good job at giving users the tools to control their browsing privacy. For users who care about their privacy, we recommend using Firefox by Mozilla with Enhanced Tracking Protection set to Strict. In this mode, Firefox blocks the creation of certain tracking cookies and other methods of identifying you. In addition to strict mode, you should consider setting your history setting to “Never remember”, which will automatically erase your browser history and delete all cookies, trackers, and cryptominers, making it virtually impossible for any website to track your browsing. Note that if you set your history to “Never remember,” you will have to re-login to every website every time you open the web browser.</p>
+<p>When you install Firefox, its Enhanced Tracking Protection is set to Standard by default. Follow these steps to change this setting to Strict:</p>
+<h3>Firefox on a desktop device</h3>
+<ol>
+<li>Click the shield icon to the left of the address bar on any website and select <strong>Protection Settings</strong>. This will open the Firefox Settings <strong>Privacy &amp; Security</strong> panel.</li>
+<li>Under <strong>Enhanced Tracking Protection</strong>, select <strong>Strict</strong>.</li>
+<li><em>OPTIONAL</em>: Under <strong>History</strong>, select <strong>Never remember history.</strong></li>
+</ol>
+<h3>Firefox on an Android device</h3>
+<ol>
+<li>Tap the menu button (three vertical dots to the right of the address bar);</li>
+<li>Tap <strong>Settings </strong>in the menu panel;</li>
+<li>Under <strong>Privacy and Security</strong>, tap <strong>Enhanced Tracking Protection</strong>.</li>
+<li>Under <strong>Enhanced Tracking Protection</strong>, select <strong>Strict</strong>.</li>
+<li><em>OPTIONAL:</em> Just below this, you can select <strong>Delete browsing data on quit. </strong>This will open a new menu. When you turn the radio button on, by default it will clear your history, cookies and all other data on exit. If you would like to <em>retain </em>your history, cookies, or any other piece of data, you can deselect it here.</li>
+</ol>
+<h3>Firefox on an iOS device</h3>
+<ol>
+<li>Tap the menu button (three horizontal bars at the bottom right on an iPhone or top right on an iPad);</li>
+<li>Tap <strong>Settings</strong> in the menu panel;</li>
+<li>Scroll down and, under PRIVACY, tap <strong>Tracking Protection</strong>;</li>
+<li>Check that <strong>Enhanced Tracking Protection</strong> is enabled and, under PROTECTION LEVEL, select <strong>Strict</strong>.</li>
+<li>NOTE: Firefox on iOS doesn’t have the “Delete browsing data on quit” option at last check. If you would like to prevent cookies and history from being stored on your mobile phone, you should consider Firefox Focus for iOS instead.</li>
+</ol>
+<h2>2. Install an ad blocker</h2>
+<p>In addition to using Firefox with Enhanced Tracking Protection set to Strict, we recommend installing either Privacy Badger or uBlockOrigin, reliable browser add-ons that block malicious ads, trackers and malware sites. These add-ons are also available for other browsers.</p>
+<p>Follow these steps to install Privacy Badger or uBlockOrigin on your browser:</p>
+<h3>Mozilla Firefox</h3>
+<ol>
+<li>Visit the Mozilla Firefox Add-ons page, find <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17" target="_blank" rel="noopener">Privacy Badger</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/" target="_blank" rel="noopener">uBlock Origin</a>, and click <strong>Add to Firefox</strong>.</li>
+<li>When prompted, click <strong>Add</strong> to confirm.</li>
+</ol>
+<h3>Google Chrome</h3>
+<ol>
+<li>Visit the Chrome Web Store, find <a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp" target="_blank" rel="noopener">Privacy Badger</a> or <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm" target="_blank" rel="noopener">uBlock Origin</a>, and click <strong>Add to Chrome</strong>.</li>
+<li>When prompted, click <strong>Add</strong> to confirm.</li>
+</ol>
+<h3>Microsoft Edge</h3>
+<ol>
+<li>Visit the Microsoft Edge Add-ons Store, find <a href="https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop" target="_blank" rel="noopener">Privacy Badger</a> or <a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak" target="_blank" rel="noopener">uBlock Origin</a>, and click <strong>Get</strong>.</li>
+<li>When prompted, click <strong>Add extension</strong> to confirm.</li>
+</ol>
+<h2>3. Use incognito mode on shared computers</h2>
+<p>One way to prevent a browser from storing your cookies, browsing history, search records, and downloads is to use it in an incognito or private mode. Available on all popular browsers, this feature prevents others who use the same computer from being able to see the list of websites you visited and files you downloaded. <strong>Always use incognito mode on public or shared computers</strong> to enhance your privacy. <a href="https://cyber-star.org/cs-articles/how-to-browse-incognito/">Follow this guide</a> to start browsing incognito in whichever browser you are using.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-enhance-your-browsing-privacy/">How to Enhance Your Browsing Privacy</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How to Chat Safely on Telegram</title>
 		<link>https://cyber-star.org/cs-articles/how-to-chat-safely-on-telegram/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-chat-safely-on-telegram</link>
 		
@@ -68,13 +197,13 @@
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-send-vanishing-messages-on-whatsapp/">How to Send Vanishing Messages on WhatsApp</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>WhatsApp is generally a very secure messaging app that offers end-to-end encryption by default. However, it is less focused on user privacy than messengers like Signal or Wire. Although WhatsApp cannot access your encrypted messages, it collects a lot of metadata (the who, when and where information about your messaging) on you, as well as your contacts and information about your device. WhatsApp shares this information with its parent company Facebook. Facebook then uses this information for commercial purposes and shares it with partners. In the event of data breach, all of this sensitive data could be compromised.</p>
-<p>If you choose to stay on WhatsApp despite these risks, the app offers a very reliable and secure messaging platform protected by end-to-end encryption. You can further protect your conversations and the files you share on the app by setting messages to disappear automatically and by sharing photos and videos that vanish as soon as they are seen by the recipient.<br />
-Set messages to vanish<br />
-You can set messages in an individual chat to disappear after seven days. If you enable this setting, WhatsApp will securely delete chats from your phone and that of the recipient seven days after they are sent. Unfortunately, the seven-day option is the only one that WhatsApp currently provides.</p>
+<p>If you choose to stay on WhatsApp despite these risks, the app offers a very reliable and secure messaging platform protected by end-to-end encryption. You can further protect your conversations and the files you share on the app by setting messages to disappear automatically and by sharing photos and videos that vanish as soon as they are seen by the recipient.</p>
+<h2>Set messages to vanish</h2>
+<p>You can set messages in an individual chat to disappear after seven days. If you enable this setting, WhatsApp will securely delete chats from your phone and that of the recipient seven days after they are sent. Unfortunately, the seven-day option is the only one that WhatsApp currently provides.</p>
 <p>To enable disappearing messages in an individual WhatsApp chat, open the chat and tap the contact’s name. Scroll down and select <strong>Disappearing Messages</strong>. If prompted, tap <strong>Continue</strong> to confirm the selection.</p>
 <p><img class="aligncenter size-full wp-image-482" src="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend.jpg" alt="Selecting a friend and then scrolling down to find Disappearing Messages under Contact Info in Whatsapp." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-choose-friend-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p><img class="aligncenter size-full wp-image-481" src="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info.jpg" alt="Disappearing Messages option under Contact Info in Whatsapp." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-contact-info-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
-<p>Select On. When you enable disappearing messages, you will see a notification in the chat. You will also see a clock icon displayed on the contact’s profile image.</p>
+<p>Select <strong>On</strong>. When you enable disappearing messages, you will see a notification in the chat. You will also see a clock icon displayed on the contact’s profile image.</p>
 <p><img class="aligncenter size-full wp-image-480" src="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages.jpg" alt="Enabling Disappearing Messages in Whatsapp." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/whatsapp-disappearing-messages-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p>Please note that enabling disappearing messages will not have any effect on messages that were sent <strong>before</strong> the setting was enabled. It is also worth remembering that disappearing messages will not prevent the person you are chatting with from forwarding your messages or keeping them by taking screenshots or saving media files.</p>
 <h2>Using “view once” feature</h2>
@@ -114,8 +243,8 @@ You can set messages in an individual chat to disappear after seven days. If you
 <p>It is also worth remembering that even people you know and trust can have their email accounts compromised. So if you receive an unexpected email with an attachment from them, it is a good idea to check with the person who you think sent you the email before opening it.</p>
 <h2>3. Check links before clicking</h2>
 <p>It goes without saying that you should never click on links sent by people or organizations that you do not know or do not expect to be contacting you. You should also make it a habit to treat each single link you receive as a potential risk. When you get an alert from a colleague, your bank or the social media service you are using, do not click the link in the email. Hover your mouse over the link to see the full website address. This can help you decide whether or not you want to click that link. Alternatively, you can open a browser window and type of address directly into the URL field to make sure the site is real.</p>
-<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as Norton Safe Web (https://safeweb.norton.com/) that lets you enter the URL of a suspicious link and check it for safety.</p>
-<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as UnshortenIt (https://unshorten.it)/ to “decode” a shortened URL.</p>
+<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> that lets you enter the URL of a suspicious link and check it for safety.</p>
+<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> to “decode” a shortened URL.</p>
 <h2>4. Slow down to think</h2>
 <p>One of the phishing tactics that criminals and scammers use particularly well involves creating a false sense of urgency by sending people requests with a tight deadline for action and sometimes punishment for failing to act fast. They may tell you to pay a fine for making an “error” in your latest tax return or face criminal prosecution. Or someone pretending to be your boss may demand that you wire money to a specific bank account or get fired.</p>
 <p>Always treat “urgent” requests for information or financial transfers as highly suspicious. Would the tax authorities ever call on your mobile phone to demand that you pay a fine? Would your boss ever demand that you wire money to a bank account that you have never heard about? If something seems off, discuss it with people you trust, colleagues or a lawyer.</p>
@@ -346,38 +475,6 @@ You can set messages in an individual chat to disappear after seven days. If you
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/renovate-your-social-media-profile-2/">Renovate Your Social Media Profile</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/renovate-your-social-media-profile-2/">Renovate Your Social Media Profile</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Fortify Your Browser to Reduce Your Traces</title>
-		<link>https://cyber-star.org/cs-articles/fortify-your-browser-to-reduce-your-traces-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fortify-your-browser-to-reduce-your-traces-2</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 04:27:27 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=397</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/fortify-your-browser-to-reduce-your-traces-2/">Fortify Your Browser to Reduce Your Traces</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/fortify-your-browser-to-reduce-your-traces-2/">Fortify Your Browser to Reduce Your Traces</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Degooglise Your Life</title>
-		<link>https://cyber-star.org/cs-articles/degooglise-your-life-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=degooglise-your-life-2</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Tue, 20 Jul 2021 04:26:48 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=396</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/degooglise-your-life-2/">Degooglise Your Life</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/degooglise-your-life-2/">Degooglise Your Life</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></content:encoded>
 					
 		

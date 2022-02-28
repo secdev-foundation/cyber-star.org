@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Explainer &#8211; CyberSTAR</title>
+	<title>Explainer Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-types/explainer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Tue, 05 Oct 2021 20:32:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 02:54:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>Keep Your Digital Conversations Private</title>
 		<link>https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private</link>
@@ -32,7 +32,7 @@
 ]]></description>
 										<content:encoded><![CDATA[<p>Digital conversations have become an important part of our daily personal and professional routine. We call friends and family on WhatsApp or Skype, chat with classmates on Facebook messenger, and send emails from personal, school or work accounts. We also text people from our mobile phones and argue with strangers on online discussion boards.</p>
 <p>All these conversations travel through complex infrastructure involving multiple routers, servers, and cables. Various people or organizations &#8211; from half-amateur hackers to internet service providers equipped with sophisticated tools &#8211; can tap these conversations at any of these points. Whichever digital communication technology you use, the basic tips listed below can help you keep your online conversations private and secure.</p>
-<h3>1. Use encrypted and open-source channels</h3>
+<h2>1. Use encrypted and open-source channels</h2>
 <p>While there are many email services and messenger apps on the market, not all of them do an equally good job at keeping your conversations private and secure.</p>
 <p>If you want to keep your conversations strictly between you and the people you are communicating with, use apps and services that offer end-to-end encryption. As mentioned above, your digital conversations travel through complex infrastructure and can be intercepted by various actors at numerous points. The only reliable way to secure your conversations is to use services that encrypt (that is, turn into a complex code) everything that leaves your device and do not decrypt it until it reaches the device of the intended recipient. Even if an encrypted email or call is intercepted somewhere between your device and the intended recipient, all that the people who intercept it will see is a string of meaningless characters.</p>
 <p>You should also choose open-source apps over proprietary commercial products. Software is open-source when its code is accessible to anyone who wants to see it. It means that independent experts and tech-savvy users can inspect the code that makes up the app, detect and fix vulnerabilities in it, and see whether the app does a good job at securing user data.</p>
@@ -282,17 +282,23 @@
 <p>The problem is that most users follow the same pattern when they beef up their passwords to meet an online service’s requirements. Hackers know these patterns very well and use the knowledge to crack passwords. So, a lot of passwords that look strong are actually not very difficult to crack.</p>
 <p>Below is a list of the most common mistakes users make when trying to strengthen their passwords. Do not make these mistakes.</p>
 <ul>
-<li><strong>Adding a number at the end</strong><br />
-Many users mistakenly believe that they make their passwords strong by adding a number at the end. Most often it is a single-digit number, commonly <em>1</em>. Hackers know this, and when they try to crack a password, they assume that it follows this common pattern.<span style="color: #c01d24;">To create a genuinely strong password, add several random numbers in a random order.</span></li>
-<li><strong>Capitalizing the first letter</strong><br />
-Users also tend to create passwords with a single upper-case letter, typically by capitalizing the first letter in a password. Again, this is something hackers know and use to crack passwords.<span style="color: #c01d24;">To create a strong password, use random combinations of upper-case and lower-case letters.</span></li>
-<li><strong>Adding a special character at the end</strong><br />
-Another common mistake users make is adding a single special character at the end of a password. Most often the character they go for is <em>!</em>. Adding a special character in this way does not really make a password much more difficult to crack.</p>
-<p><span style="color: #c01d24;">To create a genuinely strong password, add several randomly selected special characters in a random order.</span></li>
-<li><strong>Using common words or character sequences</strong><br />
-You would be surprised to know how many users have the same common words (e.g. <em>password, welcome, football, superman</em>, etc.) or computer keyboard sequences (e.g. <em>qwerty, asdfgh, qazwsx,</em> etc.) in their passwords. Hackers use all these words to crack passwords through brute force attacks. These attacks involve the use of software that tries different combinations of common words and characters until it finds the one that works. Other common words used in millions of passwords include first names, the names of cities, countries, and sports teams.<br />
-<span style="color: #c01d24;"><br />
-To create a password that is really difficult to crack, use random combinations of upper-case and lower-case letters, numbers, and special characters, rather than common words or computer keyboard and smartphone patterns.</span></li>
+<li><strong>Adding a number at the end<br />
+</strong></p>
+<p>Many users mistakenly believe that they make their passwords strong by adding a number at the end. Most often it is a single-digit number, commonly <em>1</em>. Hackers know this, and when they try to crack a password, they assume that it follows this common pattern.</p>
+<p><span style="color: #c01d24;">To create a genuinely strong password, add several random numbers in a random order.</span></li>
+<li><strong>Capitalizing the first letter<br />
+</strong></p>
+<p>Users also tend to create passwords with a single upper-case letter, typically by capitalizing the first letter in a password. Again, this is something hackers know and use to crack passwords.</p>
+<p><span style="color: #c01d24;"><span style="color: #c01d24;">To create a strong password, use random combinations of upper-case and lower-case letters.</span></span></li>
+<li><strong>Adding a special character at the end<br />
+</strong></p>
+<p>Another common mistake users make is adding a single special character at the end of a password. Most often the character they go for is <em>!</em>. Adding a special character in this way does not really make a password much more difficult to crack.</p>
+<p><span style="color: #c01d24;"><br />
+To create a genuinely strong password, add several randomly selected special characters in a random order.</span></li>
+<li><strong>Using common words or character sequences<br />
+</strong></p>
+<p>You would be surprised to know how many users have the same common words (e.g. <em>password, welcome, football, superman</em>, etc.) or computer keyboard sequences (e.g. <em>qwerty, asdfgh, qazwsx,</em> etc.) in their passwords. Hackers use all these words to crack passwords through brute force attacks. These attacks involve the use of software that tries different combinations of common words and characters until it finds the one that works. Other common words used in millions of passwords include first names, the names of cities, countries, and sports teams.</p>
+<p><span style="color: #c01d24;">To create a password that is really difficult to crack, use random combinations of upper-case and lower-case letters, numbers, and special characters, rather than common words or computer keyboard and smartphone patterns.</span></li>
 </ul>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/">Passwords That Look Strong But Aren’t</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></content:encoded>

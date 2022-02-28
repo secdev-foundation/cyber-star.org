@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Explicativ Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/ro/cs-types/explainer-ro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 09 Feb 2022 02:58:05 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Păstrați-vă conversațiile digitale în mod privat</title>
+		<link>https://cyber-star.org/ro/cs-articles/keep-your-digital-conversations-private-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 00:53:36 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=638</guid>
+
+					<description><![CDATA[<p>Conversațiile digitale au devenit o parte importantă a rutinei noastre zilnice, atât personale, cât și profesionale. Ne sunăm prietenii și familia pe WhatsApp sau Skype, discutăm cu colegii de clasă pe Facebook messenger și trimitem e-mailuri din conturile personale, de școală sau de serviciu. De asemenea, trimitem mesaje oamenilor de pe telefoanele mobile și ne [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/keep-your-digital-conversations-private-ro/">Păstrați-vă conversațiile digitale în mod privat</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Conversațiile digitale au devenit o parte importantă a rutinei noastre zilnice, atât personale, cât și profesionale. Ne sunăm prietenii și familia pe WhatsApp sau Skype, discutăm cu colegii de clasă pe Facebook messenger și trimitem e-mailuri din conturile personale, de școală sau de serviciu. De asemenea, trimitem mesaje oamenilor de pe telefoanele mobile și ne certăm cu străinii pe forumurile de discuții online.</p>
+<p>Toate aceste conversații trec printr-o infrastructură complexă compusă din mai multe routere, servere și cabluri. Diverse persoane sau organizații &#8211; de la hackeri semi-amatori până la furnizori de servicii de Internet echipați cu instrumente sofisticate &#8211; pot asculta aceste conversații. Indiferent de tehnologia de comunicare digitală pe care o folosiți, sfaturile de bază enumerate mai jos vă pot ajuta să vă păstrați conversațiile online private și securizate.</p>
+<h2>1. Folosiți canale criptate și cu sursă deschisă</h2>
+<p>Deși pe piață există multe servicii de e-mail și aplicații de mesagerie, nu toate sunt la fel de bune pentru a păstra conversațiile private și securizate.</p>
+<p>Dacă doriți să vă păstrați conversațiile strict între dvs. și persoanele cu care comunicați, folosiți aplicații și servicii care oferă <i>criptare integrală</i>. După cum am menționat mai sus, conversațiile dvs. digitale călătoresc printr-o infrastructură complexă și pot fi interceptate de diverși participanți la diferite etape. Singura modalitate sigură de a vă securiza conversațiile este să folosiți servicii care criptează (adică transformă într-un cod complex) tot ce pleacă de pe dispozitivul dvs. și nu îl decriptează până când nu ajunge la dispozitivul destinatarului. Chiar dacă un e-mail sau un apel criptat este interceptat undeva între dispozitivul dvs. și destinatar, tot ce vor vedea persoanele care îl interceptează este un șir de caractere fără sens.</p>
+<p>De asemenea, ar trebui să alegeți aplicații <i>cu sursă deschisă</i> în locul produselor comerciale proprietare. Un software este cu sursă deschisă atunci când codul său este accesibil oricui vrea să îl vadă. Aceasta înseamnă că experții independenți și utilizatorii pricepuți la tehnologie pot să inspecteze codul care alcătuiește aplicația, să detecteze și să repare vulnerabilitățile din ea și să vadă dacă aplicația securizează suficient de bine datelor utilizatorilor.</p>
+<p>ProtonMail oferă un serviciu de e-mail gratuit, cu sursă deschisă și criptare integrală, care vă protejează și securizează comunicările prin e-mail. Printre aplicațiile de mesagerie gratuite și cu sursă deschisă, Wire și Signal sunt cele mai securizate opțiuni gratuite și criptate integral de pe piață. Dacă sunteți pe Telegram, aveți grijă să folosiți Chaturile secrete (conversațiile obișnuite pe Telegram nu sunt criptate integral).</p>
+<h2>2. Securizați-vă dispozitivele</h2>
+<p>Deși criptarea integrală vă protejează conversațiile ca să nu fie ascultate <i>pe drumul </i>dintre dvs. și destinatar, aceasta nu poate proteja comunicările digitale împotriva interceptării sau monitorizării <i>pe</i> dispozitivele dvs. sau ale destinatarului. Acest lucru se poate întâmpla, de exemplu, atunci când lăsați dispozitivul nesupravegheat sau îl pierdeți fără a activa blocarea automată a ecranului. Acest lucru se poate întâmpla și atunci când dispozitivul dvs. este infectat cu programe rău-intenționate. Chiar dacă este practic invizibil, un program rău-intenționat pe dispozitivul dvs. poate să înregistreze, printre altele, fiecare apăsare de tastă și să o trimită cuiva.</p>
+<p>Mențineți mereu actualizat software-ul și hardware-ul de pe dispozitivele. Configurați dispozitivele să blocheze automat ecranele, după o perioadă scurtă de inactivitate. Asigurați-vă că aveți un software antivirus care rulează pe desktopuri și laptopuri. Aflați mai multe despre ce puteți face pentru a vă proteja dispozitivele (și pentru a vă securiza conversațiile în același timp).</p>
+<h2>3. Nu mai folosiți SMS</h2>
+<p>Serviciul de mesaje scurte (SMS) pe care oamenii îl folosesc pentru a face schimb de mesaje pe telefoanele lor este învechit și nesigur. În primul rând, mesajele SMS nu sunt criptate. Ele pot fi interceptate, adesea fără instrumente deosebit de complicate. În al doilea rând, aceste mesaje conțin metadate care identifică expeditorul și destinatarul. În al treilea rând, este ușor să falsifici mesajele SMS &#8211; adică să le faci să pară că sunt trimise de cineva pe care îl cunoști. Astfel, nu puteți ști niciodată sigur de la cine vine de fapt un anumit mesaj SMS. Mai mult chiar, furnizorii de servicii mobile stochează mesajele SMS și metadatele lor mult timp, uneori pentru totdeauna. Aceasta crește probabilitatea ca cineva să vadă conversațiile dvs. fără știința sau consimțământul dvs.</p>
+<p>Dacă vreți să păstrați private mesajele text pe care le schimbați cu alte persoane, folosiți o aplicație de mesagerie criptată integral dintre cele pe care le-am menționat mai sus. Când acest lucru nu este posibil, folosiți sistemele de mesagerie bazate pe date integrate în produsele Android sau Apple, în locul mesajelor SMS.</p>
+<h3><strong>Dispozitiv Apple</strong></h3>
+<ul>
+<li>Pentru a face iMessage sistemul de mesagerie implicit pe un dispozitiv Apple, mergeți la <strong>Setări</strong> &gt; <strong>Mesaje</strong> și activați <strong>iMessage</strong>. Cu această setare activată, puteți trimite, printr-o conexiune criptată, mesaje text, fotografii, videoclipuri și fișiere audio altor persoane care folosesc iPhone, iPad sau Mac.</li>
+</ul>
+<h3><strong>Dispozitiv Android</strong></h3>
+<ul>
+<li>Majoritatea dispozitivelor Android mai noi vin cu Messages, aplicația de mesagerie bazată pe date de la Google. Dacă dispozitivul dvs. Android nu are aplicația Messages, descărcați-o din magazinul Play. Pentru a face Messages aplicația de mesagerie implicită, mergeți la <strong>Setări</strong> &gt; <strong>Aplicații și notificări</strong> &gt; <strong>Avansat</strong> &gt; <strong>Aplicații implicite</strong> &gt; <strong>Aplicație SMS</strong>. Apoi selectați Messages ca aplicație de mesagerie implicită.</li>
+<li>Pentru a trimite mesaje criptate prin aplicația Messages, trebuie să activați funcțiile de chat. Pentru a face asta, deschideți aplicația Messages pe dispozitivul dvs. și atingeți cele trei puncte verticale din colțul din dreapta sus. Selectați Setări &gt; Funcții chat. Comutați <strong>Activează funcțiile de chat</strong>.</li>
+<li>Dacă aplicația Messages nu este disponibilă în țara dvs. sau pe dispozitivul dvs., folosiți o aplicație de mesagerie criptată integral dintre cele pe care le-am identificat mai sus.</li>
+</ul>
+<h2>4. Ștergeți mesajele vechi</h2>
+<p>O modalitate de a proteja de privirile curioase mesajele text, foto și video de pe dispozitivul dvs. este să ștergeți frecvent mesajele vechi. Făcând acest lucru, vă asigurați că alte persoane nu văd mesajele dvs. dacă dispozitivul este pierdut sau furat (sau dacă cineva vă constrânge să deblocați dispozitivul). Ștergând mesajele vechi economisiți și spațiu de stocare.</p>
+<p>Este o idee bună să vă configurați dispozitivul ca să șteargă automat mesajele vechi. Din păcate, această opțiune nu este disponibilă în Google Messages pe dispozitivele Android. Așadar, dacă folosiți un dispozitiv Android, trebuie să ștergeți manual mesajele vechi, în mod regulat.</p>
+<p>Pentru a configura un iPhone sau un iPad să șteargă automat mesajele vechi, mergeți la <strong>Setări</strong> &gt; <strong>Mesaje</strong>. Derulați în jos la secțiunea cu eticheta <strong>ISTORIC MESAJE</strong> și atingeți <strong>Păstrează mesajele</strong>. Alegeți <strong>30 de zile</strong> pentru a șterge toate mesajele mai vechi de o lună. Cu această setare activată, dispozitivul dvs. va șterge automat toate mesajele după 30 de zile. Dacă vreți să ștergeți mesaje înainte ca ele să rămână pe dispozitivul dvs. timp de 30 de zile, va trebui să o faceți manual.</p>
+<p>Rețineți că prin ștergerea mesajelor pe dispozitivul dvs. ele nu sunt șterse pe dispozitivele persoanelor cărora le-ați trimis aceste mesaje.</p>
+<h2>5. Folosiți mesajele care dispar (cronometrate)</h2>
+<p>Majoritatea aplicațiilor de mesagerie vă permit să trimiteți mesaje care dispar după o anumită perioadă sau după ce sunt văzute de persoana căreia i le trimiteți. Această opțiune protejează mesajele de privirile curioase, în cazul dacă dispozitivul dvs. este compromis sau furat (sau dacă cineva vă constrânge să-l deblocați). Setarea protejează mesajele și împotriva accesării abuzive a acestora folosind dispozitivul destinatarului.</p>
+<p>Ar trebui să vă gândiți serios să folosiți mesaje care dispar (cronometrate) atunci când trimiteți mesaje text, fotografii sau videoclipuri. Rețineți că setarea mesajelor să dispară după o anumită perioadă sau de îndată ce sunt citite de persoana căreia i le trimiteți nu împiedică persoana să copieze aceste mesaje și să le păstreze pe dispozitivul său.</p>
+<h2>6. Folosiți parole puternice și 2FA</h2>
+<p>Protejați fiecare cont de mesagerie și e-mail pe care îl folosiți cu o parolă care este imposibil de ghicit sau de spart. O parolă este puternică atunci când are cel puțin 12 caractere, inclusiv litere mari și mici, numere și simboluri speciale. Combinațiile aleatorii între aceste caractere sunt cele mai puternice parole. Citiți mai multe despre cum să creați parole care sunt greu de spart.</p>
+<p>Aveți grijă să folosiți o parolă unică pentru fiecare cont pe care îl aveți. Citiți mai multe despre motivul pentru care este o idee foarte proastă să folosiți parole identice sau similare pentru conturi diferite. Nu vă faceți griji pentru că aveți atâtea variante de parole complexe și unice &#8211; puteți să folosiți un manager de parole care să le „țină minte” și să le stocheze în siguranță.</p>
+<p>Din păcate, chiar și cea mai puternică parolă poate fi furată sau compromisă. De aceea ar trebui să folosiți autentificarea cu doi factori (2FA) pentru a vă proteja conturile de servicii de mesagerie și e-mail. Când este activată, 2FA vă cere să folosiți a doua modalitate de a vă dovedi identitatea pe lângă introducerea unei parole.</p>
+<p>Cel mai sigur mod de a folosi 2FA este să instalați pe smartphone o aplicație care va genera coduri numerice temporare. Pentru a accesa un cont pe o platformă de socializare, va trebui să introduceți un astfel de cod imediat după introducerea parolei. Citiți mai multe despre cum să folosiți autentificarea cu doi factori pentru a vă proteja conturile online.</p>
+<h2>7. Gândiți-vă înainte să expediați</h2>
+<p>Este foarte simplu: înainte de a trimite un mesaj text, foto sau video, gândiți-vă sincer dacă într-o zi ați putea regreta că l-ați trimis. După ce apăsați pe butonul „trimite”, adesea nu mai puteți controla cine are copii ale mesajului dvs. Dacă aveți de comunicat ceva foarte privat, confidențial sau sensibil, cel mai bun mod de a o face este întâlnindu-vă față în față cu acea persoană.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/keep-your-digital-conversations-private-ro/">Păstrați-vă conversațiile digitale în mod privat</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum depistați atacurile de tip phishing</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 00:35:52 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=777</guid>
+
+					<description><![CDATA[<p>Cele mai răspândite pericole online, de care se ciocnesc zilnic sute de milioane de utilizatori, sunt legate de diverse scheme de inginerie socială . Mai exact, este vorba despre convingerea utilizatorilor să-și dezvăluie datele confidențiale sau să încalce procedurile obișnuite de securitate. Ce este phishing-ul? Atacurile phishing sunt cele mai răspândite scheme de inginerie socială. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/">Cum depistați atacurile de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Cele mai răspândite pericole online, de care se ciocnesc zilnic sute de milioane de utilizatori, sunt legate de diverse scheme de <em>inginerie socială </em>. Mai exact, este vorba despre convingerea utilizatorilor să-și dezvăluie datele confidențiale sau să încalce procedurile obișnuite de securitate.</p>
+<h2>Ce este phishing-ul?</h2>
+<p>Atacurile phishing sunt cele mai răspândite scheme de inginerie socială. Acestea includ mesajele transmise prin e-mail, rețelele de socializare, SMS sau chat destinate să păcălească utilizatorii să distribuie informațiile care pot duce la săvârșirea unor infracțiuni sau instalarea unor programe malware prin accesarea unui link sau deschiderea unui atașament.</p>
+<p>Majoritatea atacurilor phishing se efectuează cu ajutorul mesajelor generice transmise în masă, care aparent sunt reale și provin dintr-o sursă demnă de încredere (de exemplu, de la o organizație guvernamentală, de la o bancă sau de la o platformă de socializare). Dar există și atacuri phishing care vizează anumite persoane sau grupuri. Infractorii întotdeuna găsesc noi căi de atac și în permanență își modifică instrumentele și procedeele.</p>
+<h2>Tipurile de atacuri phishing</h2>
+<p>Cele mai frecvente tipuri de atacuri phishing sunt:</p>
+<ul>
+<li><strong>Spear phishing</strong> este un tip de atac în care infractorul atacă o persoană concretă, trimițând un e-mail, un mesaj în rețelele de socializare, un SMS sau un mesaj în chat care arată ca un mesaj de la o persoană cunoscută, de exemplu, de la un coleg sau de la un prieten.</li>
+<li><strong>Atacurile Whaling </strong>sunt atacuri spear phishing ținta cărora este „un pește mare”, de exemplu, conducătorii sau proprietarii unor companii sau redactorii-șefi ai unor organizații media. Atacurile whaling se efectuează de obicei cu ajutorul e-mailurilor scam care arată ca niște e-mailuri importante trimise de către oficiali sau de către organizații importante, cum ar fi organizațiile donatoare de bani.</li>
+<li>Atacurile <strong>SMiShing</strong> implică mesajele SMS (texte). Infractorii care trimit aceste mesaje vă scriu în numele unor persoane cunoscute pentru a vă solicita bani sau date personale. De obicei, persoanele care sunt în spatele unor asemenea atacuri se prezintă ca prestatori de servicii pe care le utilizați (de exemplu, colaboratori ai companiei de transport sau ai unui magazin online), pentru a vă solicita bani sau a vă propune o actualizare. Tot mai des ei se prezintă ca angajați ai WhatsApp, Facebook sau ai altei rețele de socializare pentru a vă cere un cod de verificare pe care îl primiți prin intermediul platformei.</li>
+<li><strong>Vishing</strong> este un tip de atac phishing care implică utilizarea apelurilor telefonice. În acest caz, infractorii se prezintă ca angajați ai structurilor guvernamentale. De obicei, ei recurg la amenințări și constrângeri pentru a convinge victimele că nu au de ales și trebuie să ofere informațiile solicitate.</li>
+</ul>
+<h2>Phisherii au ca obiectiv emoțiile</h2>
+<p>Majoritatea atacurilor phishing au ca obiectiv emoțiile umane puternice. Printre acestea:</p>
+<ul>
+<li><strong>Lăcomia</strong>: deseori infractorii propun recompense financiare sau alte stimulente, convingându-vă să dați click pe un link, să deschideți un atașament sau să completați un formular.</li>
+<li><strong>Urgența</strong>: infractorii creează o nevoie de acțiune urgentă, indicând un termen limită foarte restrâns.</li>
+<li><strong>Curiozitatea</strong>: infractorii conving victima să dea click pe un link promițându-i conținut interesant și unic.</li>
+<li><strong>Frica</strong>: infractorii vă amenință cu consecințe negative dacă nu veți acționa.</li>
+</ul>
+<h2>Depistarea unui e-mail phishing</h2>
+<p>Tacticile phishing evoluează în mod constant. E-mailurile phishing deseori mimează stilul și siglele unor organizații reale pentru a vă păcăli. Cu toate acestea, e-mailurile phishing se deosebesc prin una sau mai multe trăsăturile caracteristice enumerate mai jos. Acestea vă pot ajuta să identificați asemenea atacuri:</p>
+<ul>
+<li><strong>Adrese de e-mail false</strong> care par reale. De exemplu, infractorii pot pretinde că sunt angajați Amazon și încerca să vă fure datele de conectare păcălindu-vă să vă „actualizați” sau să „confirmați” unele detalii. Ar trebui să aveți îndoieli dacă primiți un e-mail de la o adresă care se termină cu @amazonheadoffice.com sau @amazzon.com, în loc de @amazon.com. De asemenea, nicio organizație serioasă nu vă va trimite e-mailuri de pe adrese care se termină cu @gmail.com, @mail.ru sau de pe alte platforme destinate publicului larg.</li>
+<li><strong>Link-urile încorporate</strong>, pe care dacă apăsați, ajungeți pe site-uri cu programe malware. Niciodată nu accesați linkuri fără ca să verificați unde pot duce acestea. Puteți vedea adresa site-ului web completă trecând ușor cu mouse-ul peste link. Înainte de a da click pe un link care vă pare suspect, scanați-l cu un scanner de link-uri, cum ar fi Norton Safe Web (https://safeweb.norton.com/). Fiți extrem de precauți cu linkurile URL prescurtate. Pentru a verifica adevărata adresă URL din spatele unei prescurtări, utilizați un serviciu online gratuit de verificare, cum ar fi UnshortenIt (https://unshorten.it)./</li>
+<li><strong>Atașamentele</strong> care vă infectează dispozitivul cu programe malware după ce le deschideți. Una dintre regulile fundamentale ale securității digitale este să nu deschideți niciodată atașamente de la persoanele necunoscute sau de la persoanele în care nu aveți încredere. De asemenea, organizațiile reale niciodată nu vă vor trimite atașamente, decât dacă le veți cere în mod expres.</li>
+<li><strong>Greșelile gramaticale sau limbajul ciudat</strong>. Infractorii care trimit e-mailuri în masă pentru atacurile phishing, deseori sunt axați pe persoane din zeci de țări. În loc să investească bani în traducerea și adaptarea mesajelor pentru publicul local, ei utilizează programele de traducere online. Drept urmare, e-mailurile phishing sunt scrise într-un limbaj nenatural sau chiar ciudat, în plus conțin și greșeli gramaticale.</li>
+<li><strong>O formă de salut generică</strong> în loc de numele dvs. Atunci când un e-mail începe cu o formă de salut generică, cum ar fi „Stimate client”, „Stimate titular de cont” sau „Stimate membru”, acest lucru imediat ar trebui să vă pună în gardă. Atunci când vă contactează, organizațiile reale se adresează pe nume.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/">Cum depistați atacurile de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să păstrați computerul în siguranță</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-keep-your-computer-safe-and-secure-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 23:06:10 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=824</guid>
+
+					<description><![CDATA[<p>Computerele personale, cum ar fi computerele de birou, laptopurile și tabletele sunt resurse critice prin intermediul cărora putem avea acces la Internet și utiliza diverse servicii online. Datorită acestora, putem comunica cu alte persoane și crea, stoca și distribui informații. Pierderea computerului, furtul sau piratarea acestuia poate provoca consecințe serioase pe plan profesional, financiar și [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-keep-your-computer-safe-and-secure-ro/">Cum să păstrați computerul în siguranță</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Computerele personale, cum ar fi computerele de birou, laptopurile și tabletele sunt resurse critice prin intermediul cărora putem avea acces la Internet și utiliza diverse servicii online. Datorită acestora, putem comunica cu alte persoane și crea, stoca și distribui informații.</p>
+<p>Pierderea computerului, furtul sau piratarea acestuia poate provoca consecințe serioase pe plan profesional, financiar și reputațional. De aceea, este important să știți cum vă puteți proteja și securiza PC-ul.</p>
+<p>Rețineți că toate sfaturile din acest articol se concentrează, în general, pe protejarea computerelor dvs. personale. Dacă vreți să știți cum să vă protejați datele de pe computer, există o mulțime de resurse pe care le puteți găsi în secțiunea Datele mele de pe siteul nostru.</p>
+<h2>1. Utilizați doar software licențiat</h2>
+<p>Software-ul nu este întotdeauna ieftin. De aceea, deseori există tentația de a instala pe computer un software nelicențiat sau „piratat”.</p>
+<p>Acest lucru nu doar că este ilegal, mai este și o idee rea. Asemenea software este creat pe baza unor versiuni vechi ale aplicațiilor originale. De când aceste versiuni au fost utilizate, sute sau poate chiar mii de erori și vulnerabilități critice din aceste aplicații au fost descoperite și remediate de către dezvoltatori. Dacă utilizați un software piratat, nu veți avea acces la aceste remedieri și actualizări.</p>
+<p>Mai mult decât atât, software-ul piratat deseori vine cu un cod dăunător încorporat. Prin urmare, utilizând aplicații nelicențiate, practic le oferiți infractorilor cibernetici acces permanent la dispozitivul dvs. și conținutul acestuia.</p>
+<p><strong>Este deosebit de important să utilizați versiunile originale ale celor mai importante software de pe computerul dvs.,</strong> precum sistemul de operare și software-ul antivirus. Dacă nu vă puteți permite să achiziționați alte produse software, puteți găsioricând o alternativă disponibilă gratuit care ar putea să vă fie de folos.</p>
+<h2>2. Descărcați software-ul doar din surse demne de încredere</h2>
+<p>Infractorii cibernetici deseori distribuie software care arată ca o aplicație originală, dar care conține programe malware încorporate. Atunci când instalați un asemenea software, practic le oferiți infractorilor cibernetici accesul la conținutul dispozitivului dvs.</p>
+<p>De aceea, <strong>întotdeauna descărcați software și actualizări fie din magazinele de aplicații oficiale </strong>(Microsoft Store pentru dispozitivele Windows și App Store pentru dispozitivele Mac) <strong>sau direct de pe siteurile web ale companiilor care au lansat și actualizează aplicația pe care v-o doriți</strong>. De exemplu, atunci când instalați aplicația Adobe Acrobat Reader, descărcați-o direct de pe Adobe, nu de pe siteurile web ale părților terțe.</p>
+<p>Atunci când descărcați un software nou sau mai puțin cunoscut, ar fi bine să <strong>citiți recenziile</strong> pentru a vă asigura că instalarea și utilizarea software-ului este sigură.</p>
+<h2>3. Actualizați cu regularitate software-ul</h2>
+<p><strong>Actualizările de software includ deseori corecții care remediază cele mai recente probleme de securitate</strong>.</p>
+<p>Software-ul este creat pe bază de cod, iar aplicațiile deseori conțin zeci de mii de linii de cod. Hackerii verifică fiecare linie de cod și deseori găsesc breșe de securitate sau puncte slabe (cunoscute ca „vulnerabilități”) în aplicații și în sistemele de operare. Atunci când descoperă o vulnerabilitate, hackerii creează programe malware care o exploatează pentru a obține controlul asupra dispozitivului dvs. sau pentru a vă fura datele. După descoperirea unor asemenea vulnerabilități, dezvoltatorii creează corecții și le lansează în actualizările de software. Până la instalarea unei noi versiuni, vulnerabilitatea poate fi exploatată de hackeri. De aceea, este important să <strong>instalați actualizările de software imediat ce acestea devin disponibile</strong>.</p>
+<p>Este deosebit de important să <strong>aveți întotdeauna actualizate sistemul de operare și software-ul antivirus de pe computerul dvs.</strong> Activarea actualizărilor automate vă asigură că computerul descarcă și instalează corecțiile critice imediat după lansarea acestora. Dacă nu vreți să activați actualizările automate pentru alte aplicații de pe computerul dvs., verificați existența actualizărilor și instalați-le cel puțin o dată pe lună.</p>
+<p>Majoritatea actualizărilor nu vă vor proteja computerul până nu-l veți reporni. Așadar, <strong>reporniți dispozitivul imediat ce vi se cere </strong>după instalarea actualizărilor.</p>
+<blockquote><p>Urmați acest ghid pentru a personaliza actualizările automate Windows 10, a verifica actualizările pentru alte aplicații și a configura Microsoft Store să actualizeze automat aplicațiile pe dispozitivul dvs. cu Windows 10.</p></blockquote>
+<h2>4. Utilizați un software antivirus de încredere</h2>
+<p>Antivirusul nu permite programelor malware să vă infecteze computerul. Dacă computerul este deja infectat, antivirusul detectează programele malware și le elimină. De aceea, <strong>este important să aveți întotdeauna un software antivirus de încredere</strong> pe computerul dvs. Vă recomandăm să <strong>efectuați o scanare completă a computerului cel puțin o dată pe lună</strong>.</p>
+<p>Din păcate, majoritatea programelor antivirus de pe piață nu se descurcă foarte bine cu securizarea computerului. O excepție notabilă este Microsoft Defender, care vine cu sistemul de operare Microsoft Windows. Atunci când este configurat corect, Microsoft Defender depășește multe platforme antivirus dedicate.</p>
+<p>Programele malware evoluează rapid. <strong>Asigurați-vă că programul dvs. antivirus este actualizat și definițiile virușilor sunt configurate să se actualizeze automat</strong>.</p>
+<h2>5. Protejați-vă computerul printr-o parolă și configurați blocarea ecranului</h2>
+<p>Dacă nu vreți ca cineva să aibă acces la fișierele dvs., instalați un program spion sau modificați setările de securitate de pe computerul dvs. atunci când nu sunteți în preajmă. <strong>Protejați-vă computerul cu ajutorul unei parole puternice</strong>. <strong>Activați blocarea automată a ecranului computerului dvs.</strong> după o scurtă perioadă de inactivitate.</p>
+<blockquote><p>Urmați acest ghid pentru a configura sau schimba o parolă pe un dispozitiv cu Windows 10.</p></blockquote>
+<p>De asemenea, <strong>asigurați-vă că țineți minte cum să blocați manual ecranul dispozitivului dvs.</strong> și nu uitați să faceți asta de fiecare dată când vă îndepărtați de acesta.</p>
+<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>6. Pentru sarcinile zilnice, utilizați un Cont de utilizator cu drepturi limitate</h2>
+<p>Dacă dețineți un computer, cel mai probabil îl utilizați printr-un Cont de administrator. Asta s-ar putea să nu fie întotdeauna o idee bună. Dacă instalați o aplicație cu un program malware, deschideți un atașament infectat sau dați click pe un link periculos utilizând Contul de administrator, aceste acțiuni ar putea avea consecințe dezastruoase pentru dispozitivul dvs. sau datele de pe acesta.</p>
+<p>De aceea, vă recomandăm să creați un Cont de utilizator cu drepturi limitate și să-l utilizați la sarcinile zilnice. Întotdeauna puteți accesa Contul de administrator pentru sarcini speciale, precum instalarea de programe. Este deosebit de important să creați Conturi de utilizator separate atunci când partajați computerul cu alte persoane.</p>
+<h2>7. Asigurați securitatea fizică a computerului</h2>
+<p>Acest lucru poate părea evident, dar trebuie să vă protejați computerul de pierdere sau furt, situații care se întâmplă mai des decât credem. Nu lăsați niciodată dispozitivul nesupravegheat într-un loc din care poate fi furat. Străduiți-vă să lăsați computerul acasă atunci când călătoriți sau vizitați locuri în care vi se poate cere să predați dispozitivele digitale, precum aeroporturi, instituții guvernamentale și ambasade. Dacă utilizați des laptop-ul în școlile, spațiile de lucru în comun sau cafenele, vă recomandăm să achiziționați un cablu de securitate.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-keep-your-computer-safe-and-secure-ro/">Cum să păstrați computerul în siguranță</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</title>
+		<link>https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 03:56:25 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=652</guid>
+
+					<description><![CDATA[<p>Suntem înconjurați de date digitale. De fiecare dată când vizionați un videoclip, citiți ceva pe Internet sau primiți un e-mail, consumați date create de alții. În schimb, de fiecare dată când trimiteți un mesaj, lucrați la un document pe un computer sau postați ceva pe rețelele de socializare, creați propriile date. Într-o lume tot mai [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/">Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Suntem înconjurați de date digitale. De fiecare dată când vizionați un videoclip, citiți ceva pe Internet sau primiți un e-mail, consumați date create de alții. În schimb, de fiecare dată când trimiteți un mesaj, lucrați la un document pe un computer sau postați ceva pe rețelele de socializare, creați propriile date.</p>
+<p>Într-o lume tot mai conectată, aceste date sunt o marfă valoroasă. Ele sunt colectate, analizate și utilizate în diverse scopuri: pentru a vă vinde bunuri online sau chiar pentru a încerca să vă fure banii. Pentru a ști cum să vă protejați cele mai valoroase date este nevoie să înțelegeți mai întâi care sunt aceste date, cum sunt create și distruse, dar și cine ar vrea să le obțină.</p>
+<h2>Ce sunt date digitale</h2>
+<p>Orice informație prelucrată sau stocată de un computer, smartphone sau dispozitiv de stocare a datelor este informație digitală. Creați și consumați aceste informații sub formă de documente text, videoclipuri, sunete, imagini, software, etc. La nivel elimentar, toate aceste date sunt alcătuite din secvențe de 1 (unu) și 0 (zero), cunoscute sub numele de date <em>binare</em>.</p>
+<p>Deoarece toate computerele și smartphone-urile folosesc acest format, datele digitale pot fi create, prelucrate și stocate pe orice astfel de dispozitiv. De asemenea, ele pot fi transferate de pe un dispozitiv pe altul sau puse la dispoziția a milioane de utilizatori online.</p>
+<p>Este foarte important ca unele dintre datele dvs. personale să fie păstrate în siguranță. Ca exemplu pot fi: data de naștere, adresa, numărul pașaportului, numărul permisului de conducere, IDNP-ul, numărul contului bancar, fișele medicale, etc. Orice date care ar putea fi folosite pentru a vă identifica sunt definite ca <em>informații cu caracter personal</em>.</p>
+<h2>Crearea datelor digitale</h2>
+<p>De fiecare dată când folosiți un computer sau un dispozitiv mobil, creați date. Puteți vedea cu ușurință unele dintre aceste date, de exemplu atunci când creați un document Word nou, postați ceva pe platformele de socializare sau faceți o poză cu telefonul mobil.</p>
+<p>Totuși, majoritatea datelor pe care le generați atunci când folosiți un dispozitiv digital sunt mult mai greu de văzut. Știați că, computerul dvs. păstrează o evidență detaliată cu zilele când îl folosiți, aplicațiile pe care le deschideți și pentru cât timp. Dacă sunteți un utilizator obișnuit, browserul dvs. de Internet monitorizează siteurile pe care le accesați, timpul pe care îl petreceți pe fiecare dintre ele, orice click pe care îl faceți și fiecare fișier pe care îl descărcați. Pentru fiecare poză pe care o faceți, smartphone-ul dvs. înregistrează data și locul în care ați făcut-o. Aceste date rămân, de obicei, ascunse, doar dacă nu știți exact unde să le căutați.</p>
+<h2>Distrugerea datelor digitale</h2>
+<p>Distrugerea datelor nu este atât de simplă precum pare. Când faceți click pe „șterge” sau mutați un fișier în coșul de gunoi, sistemul de operare mai păstrează fișierul pentru o perioadă de timp, în caz că o să vă răzgândiți. Astfel, oricine poate găsi cu ușurință acest fișier, dacă are acces la dispozitivul dvs.</p>
+<p>Chiar și atunci când goliți coșul de gunoi sau când ștergeți fișierele ocolind coșul, aceste fișiere nu dispar de pe dispozitiv. Când ștergeți fișierele, sistemul de operare de pe dispozitivul dvs. primește un semnal că aceste fișiere nu mai sunt necesare și nu le mai arată. Sistemul de operare nu distruge aceste fișiere cu adevărat. El marchează spațiul pe care îl ocupă fișierele șterse ca fiind spațiu liber și doar când acest spațiu este necesar pentru alte fișiere, suprascrie datele fișierelor șterse cu datele binare ale noilor fișiere. Până când  acest lucru nu se întâmplă, fișierele „șterse” rămân pe dispozitivul dvs. Prin urmare, nu este dificil să le recuperați.</p>
+<p>Totuși, există instrumente speciale pe care le puteți folosi pentru a <em>distruge</em> în siguranță fișierele de pe dispozitivele dvs.. Mai exact, aceste instrumente șterg fișierele și înlocuiesc datele lor binare cu unele combinații aleatorii de unu și zero. De exemplu, puteți să urmați aceste instrucțiuni pentru a instala și a începe să folosiți BleachBit &#8211; un instrument gratuit care distruge datele de pe hard disk în mod securizat și definitiv.</p>
+<p>Este mult mai greu să distrugeți datele pe care le-ați partajat online. Când postați fotografii pe platformele de socializare, vă înregistrați pentru servicii cu o adresă de e-mail, partajați documente prin intermediul aplicațiilor de mesagerie sau trimiteți videoclipuri prin siteurile de partajare a fișierelor, nu puteți fi sigur cine mai are copii ale acestor date.</p>
+<h2>Cine ar vrea să obțină datele dvs.</h2>
+<p>Nu se știe niciodată cine ar putea fi interesat de datele pe care le aveți salvate pe dispozitivele dvs. Persoane individuale, grupuri sau organizații ar putea vrea să obțină accesul la aceste date din câteva motive, cum ar fi, de exemplu, pentru a vă fura datele de identificare ale contului bancar sau fotografiile și videoclipurile personale pentru a vă șantaja. Deoarece nu știți cine și de ce ar putea fi interesat de informațiile dvs., trebuie să vă asigurați întotdeauna că toate computerele, dispozitivele mobile și dispozitivele de stocare a datelor sunt securizate.</p>
+<p>Există o mulțime de informații pe care le lăsați în urmă și atunci când navigați pe Internet de pe computerul sau dispozitivul dvs. mobil. Asigurați-vă că înțelegeți ce fel de informații dezvăluiți prin prezența dvs. online, cum sunt utilizate aceste informații și ce puteți face pentru a vă minimiza amprenta digitală.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/">Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:23:13 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=658</guid>
+
+					<description><![CDATA[<p>Datele importante pot fi pierdute mai ușor decât credeți. Cele mai frecvente modalități de pierdere a datelor includ greșelile utilizatorului, defecțiunile hardware, furtul sau pierderea dispozitivului și infectarea cu programe malware. Atacurile ransomware și piratarea computerului reprezintă, de asemenea, un pericol semnificativ pentru fișierele de pe dispozitivele dvs. Singura modalitate de a vă proteja fișierele [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/">De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Datele importante pot fi pierdute mai ușor decât credeți. Cele mai frecvente modalități de pierdere a datelor includ greșelile utilizatorului, defecțiunile hardware, furtul sau pierderea dispozitivului și infectarea cu programe malware. Atacurile ransomware și piratarea computerului reprezintă, de asemenea, un pericol semnificativ pentru fișierele de pe dispozitivele dvs.</p>
+<p>Singura modalitate de a vă proteja fișierele importante de toate aceste riscuri este să faceți cât mai des backup de date. Backup-ul datelor presupune crearea unor copii ale fișierelor dvs. și stocarea lor pe un hard disk, un dispozitiv de stocare externă sau un serviciu de backup cloud. Backup-urile de date vă permit să restabiliți rapid fișierele importante, în cazul în care datele originale de pe dispozitivele dvs. sunt pierdute sau compromise.</p>
+<h2>Unde vă puteți păstra backup-urile</h2>
+<p>Atunci când apare întrebarea unde să faceți backup datelor, puteți alege între hard disk-ul de pe dispozitivul dvs., un dispozitiv detașabil de stocare a datelor și serviciul de stocare cloud. Fiecare dintre aceste opțiuni are propriile avantaje și dezavantaje.</p>
+<h3>Hard disk-ul local</h3>
+<p>Cea mai potrivită destinație de backup este hard disk-ul de pe dispozitivul dvs. Puteți crea o partiție separată pe disc și păstra acolo copiile de rezervă. Cel mai mare dezavantaj al backup-ului de date pe hard disk-ul local este că acest lucru nu vă va proteja în cazul defecțiunii complete ale hard disk-ului, a infectării cu programe malware sau dacă dispozitivul dvs. va fi pierdut sau furat.</p>
+<h3>Dispozitiv detașabil de stocare a datelor</h3>
+<p>Backup-ul fișierelor pe un dispozitiv detașabil de stocare a datelor, cum ar fi un hard disk extern sau un stick de memorie USB, vă menține datele în siguranță, chiar și dacă dispozitivul pe care sunt stocate datele originale se defectează sau este pierdut. Dispozitivele detașabile de stocare a datelor pot păstra o mulțime de date și sunt foarte fiabile dacă le criptați. De asemenea, ele sunt mai ușor de utilizat, mai rapide și mai ieftine decât opțiunile de backup la distanță.</p>
+<p>Cu toate acestea, aceste dispozitive de stocare a datelor pot funcționa defectuos și sunt vulnerabile la calamitățile naturale, cum ar fi inundațiile și incendiile. Programele malware pot infecta aceste dispozitive împreună cu discul dvs. de bază. De asemenea, acestea pot fi pierdute sau furate.</p>
+<h3>Serviciul de stocare cloud</h3>
+<p>Serviciile de stocare cloud reprezintă o destinație de backup a datelor tot mai populară. Majoritatea serviciilor de stocare cloud oferă mult spațiu de stocare și criptează datele. Cu backup-urile stocate pe cloud, puteți accesa și gestiona datele dvs. oricând, de pe orice dispozitiv conectat.</p>
+<p>Plasarea unei copii de rezervă a datelor dvs. într-o locație sigură și îndepărtată vă oferă o stare de confort și vă asigură că datele dvs. sunt în siguranță și pot fi recuperate. În plus, serviciile de backup pe cloud vă permit adesea să salvați mai multe versiuni ale fișierului, oferindu-vă astfel posibilitatea de a readuce fișierele la versiunile anterioare. Cu toate acestea, serviciile cloud sunt mai lente și deseori mai scumpe decât opțiunile de backup local. În plus, nu puteți accesa datele de pe cloud fără acces la Internet.</p>
+<p>Atunci când alegeți serviciul de stocare cloud, luați în calcul opțiunile care oferă stocare criptată zero-knowledge. Aceasta înseamnă că nici compania care vă stochează copiile de rezervă nu are posibilitatea de a vă vedea fișierele. Există opțiuni gratuite, disponibile atât în cazul stocării cloud convenționale, cât și în cea criptată zero-knowledge.</p>
+<p>Oricare ar fi serviciul pe care îl utilizați, asigurați-vă că vă securizați contul cu o parolă puternică și unică, dar și că activați autentificarea cu doi factori.</p>
+<h2>Regula 3-2-1 pentru backup-ul datelor importante</h2>
+<p>S-ar putea să aveți fișiere care sunt deosebit de importante pentru dvs. Ar fi bine să faceți copii de rezervă pentru aceste fișiere în mai multe locuri. Pentru a securiza datele deosebit de sensibile, confidențiale sau de valoare, luați în considerare respectarea regulei 3-2-1 pentru backup: întotdeauna păstrați trei copii ale datelor dvs., două pe diferite dispozitive locale și una într-o locație la distanță.</p>
+<p>În practică, aceasta înseamnă că datele originale sunt pe dispozitivul dvs., o copie de rezervă pe un dispozitiv de stocare de date detașabil și una pe un serviciu cloud de backup. Acest sistem garantează că datele dvs. vor fi păstrare chiar și în cazul (puțin probabil) în care veți pierde două copii în același timp.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/">De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce ar trebui să vă criptați dispozitivele</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:41:55 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=662</guid>
+
+					<description><![CDATA[<p>Computerul, tableta și smartphone-ul dvs. conțin multe date importante sau chiar sensibile. Dacă pierdeți un dispozitiv sau cineva îl fură, acea persoană poate accesa toate fișierele sensibile cu informațiile personale stocate pe el. S-ar putea ca nici parola care protejează dispozitivul să nu împiedice o persoană rău intenționată să vă citească fișierele. Cea mai bună [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/">De ce ar trebui să vă criptați dispozitivele</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Computerul, tableta și smartphone-ul dvs. conțin multe date importante sau chiar sensibile. Dacă pierdeți un dispozitiv sau cineva îl fură, acea persoană poate accesa toate fișierele sensibile cu informațiile personale stocate pe el. S-ar putea ca nici parola care protejează dispozitivul să nu împiedice o persoană rău intenționată să vă citească fișierele.</p>
+<p>Cea mai bună modalitate de a securiza datele sensibile de pe dispozitivele dvs. este să folosiți criptarea. Criptarea face ca toate datele de pe un dispozitiv să fie complet ilizibile, protejându-le astfel de accesarea sau manipularea neautorizată. Este foarte important atunci când aveți de-a face cu date confidențiale care vă pot pune în pericol pe dvs. sau persoanele cu care lucrați.</p>
+<h2>Cum funcționează criptarea</h2>
+<p>La nivel elementar, toate informațiile prelucrate sau stocate pe un computer, smartphone sau dispozitiv de stocare sunt alcătuite din secvențe de unu și zero, cunoscute sub numele de date <em>binare</em>. Deoarece toate computerele și smartphone-urile folosesc acest format, datele digitale pot fi create, prelucrate și stocate pe orice astfel de dispozitiv.</p>
+<p>Criptarea convertește datele binare într-un cod complex pe care îl pot citi numai persoanele cu acces la o parolă sau la o cheie secretă (cunoscută sub numele de <em>cheie pentru decriptare</em>). Chiar dacă persoanele neautorizate obțin acces la date criptate, ele nu pot să descifreze codul sau să îl schimbe.</p>
+<h2>Criptarea întregii unități de disc</h2>
+<p>Prin criptarea întregii unități de disc se criptează toate datele stocate pe dispozitivul dvs. la nivel de hardware. Aceasta funcționează prin convertirea automată a datelor de pe un hard disk într-un cod complex ilizibil. Fără o cheie pentru decriptare potrivită, nimeni nu va putea citi fișierele de pe un dispozitiv criptat.</p>
+<p>Criptarea întregii unități de disc este ușor de folosit pentru că nu necesită efort din partea dvs. după ce deblocați computerul. Funcționează fără ca să observați.</p>
+<p>Unul dintre avantajele folosirii criptării întregii unități de disc este că nu trebuie să vă faceți griji pentru protejarea individuală a fișierelor de pe dispozitiv. Pe măsură ce creați date, acestea sunt criptate automat. Când le citiți, sunt decriptate automat. Criptarea întregii unități de disc garantează și faptul că datele despre care adesea uităm că le avem pe dispozitive (cum ar fi fișierele temporare și fișierele din memoria cache a browserului) sunt securizate.</p>
+<h2>Criptarea dispozitivului</h2>
+<p>În ceea ce privește smartphone-urile, atât dispozitivele Android, cât și cele iOS sunt criptate în mod implicit. Pentru a profita la maximum de această funcție de securitate a datelor, asigurați-vă că smartphone-ul dvs. este protejat cu o parolă puternică sau un cod de acces puternic și că blochează automat ecranul după o scurtă perioadă de inactivitate. De asemenea, asigurați-vă că sistemul de operare de pe smartphone-ul dvs. este actualizat.</p>
+<p>Cea mai ușoară modalitate de a cripta un computer este să folosiți software-ul integrat gratuit, care a venit cu sistemul de operare. Atât dispozitivele Windows, cât și cele Mac au instrumente eficiente pentru criptarea întregii unități de disc. Însă, aceste instrumente vor funcționa doar dacă le configurați. Urmați aceste indicații pentru a configura criptarea pe computerele Windows 10 și Mac.</p>
+<p>De asemenea, ar trebui să aveți în vedere și criptarea dispozitivelor dvs. de stocare externă a datelor. Aceste dispozitive în mod normal vin cu instrumente de criptare integrate. Pentru a configura aceste instrumente, urmați instrucțiunile care le însoțesc.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/">De ce ar trebui să vă criptați dispozitivele</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parole care par puternice, dar nu sunt</title>
+		<link>https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:35:56 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=845</guid>
+
+					<description><![CDATA[<p>Aproape toate serviciile online cer ca utilizatorii să creeze parole complicate cu utilizarea literelor majuscule, numerelor și a caracterelor speciale. Crearea unei parole care satisface cerințele Gmail sau Facebook le oferă utilizatorilor senzația că conturile lor sunt protejate. Deseori această senzație este greșită. Crearea unei parole care întrunește un minim de cerințe de complexitate nu [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/">Parole care par puternice, dar nu sunt</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Aproape toate serviciile online cer ca utilizatorii să creeze parole complicate cu utilizarea literelor majuscule, numerelor și a caracterelor speciale. Crearea unei parole care satisface cerințele Gmail sau Facebook le oferă utilizatorilor senzația că conturile lor sunt protejate. Deseori această senzație este greșită. Crearea unei parole care întrunește un minim de cerințe de complexitate nu este la fel ca și crearea unei parole cu adevărat puternice și sigure.</p>
+<p>Problema e că majoritatea utilizatorilor folosesc aceleași modele atunci când își consolidează parolele pentru a corespunde cerințelor serviciului online. Hackerii cunosc aceste modele foarte bine și folosesc aceste cunoștințe pentru a sparge parolele. Așadar, multe parole care par puternice, de fapt sunt foarte ușor de spart.</p>
+<p>Mai jos e o listă cu cele mai răspândite greșeli legate de încercările de a consolida o parolă. Nu comiteți asemenea greșeli.</p>
+<ul>
+<li><strong>Adăugarea unui număr la sfârșit<br />
+</strong></p>
+<p>Mulți utilizatori cred greșit că adăugarea unui număr la sfârșitul parolei o face mai puternică. Deseori, aceasta e un număr format dintr-o singură cifră, de obicei <em>1</em>. Hackerii știu și țin cont de asta atunci când încearcă să spargă o parolă.</p>
+<p><span style="color: #c01d24;"><span style="color: #c01d24;">Pentru a crea o parolă cu adevărat puternică, adăugați mai multe numere aleatorii într-o ordine aleatorie.</span></span></li>
+<li><strong>Utilizarea majusculei la începutul parolei<br />
+</strong></p>
+<p>De asemenea, utilizatorii tind să creeze parole cu o singură literă mare, aceasta fiind de obicei prima literă din parolă. Nici acest lucru nu este o noutate pentru hackeri.</p>
+<p><span style="color: #c01d24;">Pentru a crea o parolă puternică, utilizați combinații aleatorii din majuscule și litere mici.<br />
+</span></li>
+<li><strong>Adăugarea unui caracter special la sfârșit<br />
+</strong></p>
+<p>Încă o greșeală frecventă este adăugarea unui caracter special la sfârșitul parolei. De cele mai dese ori acesta e<em> !</em>. Adăugarea unui asemenea caracter special nu vă consolidează parola și nu o face mai greu de spart.</p>
+<p><span style="color: #c01d24;">Pentru a crea o parolă cu adevărat puternică, adăugați mai multe caractere speciale aleatorii și într-o ordine aleatorie.<br />
+</span></li>
+<li><strong>Utilizarea cuvintelor populare sau a combinațiilor de caractere<br />
+</strong></p>
+<p>Veți fi surprins să aflați câți utilizatori din întreaga lume folosesc aceleași cuvinte (de exemplu, <em>password</em>, <em>welcome</em>, <em>football</em>, <em>superman</em> etc.) sau combinații de simboluri (e.g. <em>qwerty</em>, <em>asdfgh</em>, <em>qazwsx</em> etc.) în parolele setate. Hackerii utilizează toate aceste cuvinte pentru a sparge parolele prin metoda atacului prin forță brută. Aceste atacuri sunt efectuate cu ajutorul unor programe speciale, care încearcă diferite combinații de cuvinte populare și caractere, până ghicesc varianta corectă. Alte cuvinte utilizate frecvent în milioane de parole sunt prenumele, numele de orașe, țări și echipe sportive.</p>
+<p><span style="color: #c01d24;">Pentru a crea o parolă care e cu adevărat greu de spart, utilizați combinații aleatorii din majuscule și litere mici, numere și caractere speciale, dar nu cuvinte populare sau combinații de caractere de pe tastatură și smartphone.</span></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/">Parole care par puternice, dar nu sunt</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce toate parolele dvs. trebuie să fie unice</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:52:27 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=850</guid>
+
+					<description><![CDATA[<p>Toate conturile dvs. trebuie să aibă parole unice pe care nu le-ați mai utilizat până acum. Chiar dacă utilizați cea mai puternică parolă din lume, riscați foarte mult, dacă o utilizați pentru câteva conturi în același timp. Ce se întâmplă atunci când reutilizați parolele De exemplu, utilizați aceeași parolă pentru e-mailul dvs., pentru Facebook și [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/">De ce toate parolele dvs. trebuie să fie unice</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Toate conturile dvs. trebuie să aibă parole unice pe care nu le-ați mai utilizat până acum. Chiar dacă utilizați cea mai puternică parolă din lume, riscați foarte mult, dacă o utilizați pentru câteva conturi în același timp.</p>
+<h2>Ce se întâmplă atunci când reutilizați parolele</h2>
+<p>De exemplu, utilizați aceeași parolă pentru e-mailul dvs., pentru Facebook și pentru Instagram. Dacă furnizorul dvs. de e-mail va avea o problemă de securitate (ceea ce se întâmplă destul de des) și datele dvs. de conectare vor fi furate, infractorii vor încerca să utilizeze parola furată și versiunile ei ușor modificate pentru a se conecta și la alte site-uri. Prin urmare, toate conturile dvs. pentru care folosiți aceeași parolă vor fi sparte.</p>
+<p>Reutilizarea parolelor nu este o idee bună deoarece, la fel ca și milioane de alți utilizatori din întreaga lume, probabil aveți mai multe conturi pe care le-ați creat anterior și care au fost uitate sau sunt utilizate rar. Este foarte probabil că unele dintre aceste conturi au fost sparte. Dacă un infractor are adresa dvs. de e-mail care e legată de unele dintre aceste conturi, poate găsi ușor toate conturile sparte asociate cu acest e-mail. La fel de ușor pot fi obținute și parolele descoperite. Așadar, dacă reutilizați aceeași parolă sau versiuni ale acesteia un pic modificate pentru mai multe conturi, un infractor vă poate sparge toate aceste conturi găsind un singur cont uitat. Aceasta se numește <em>potrivire de parolă</em>.</p>
+<ul>
+<li>Dacă vreți să verificați dacă adresa (adresele) dvs. de e-mail este asociată la vreun cont care a fost dezvăluit sau spart, puteți utiliza acest serviciu. Pur și simplu introduceți adresa de e-mail în câmpul de căutare și apăsați pe „pwned?”.</li>
+<li>Dacă adresa dvs. de e-mail apare în vreo unul dintre conturile sparte, veți obține o listă cu toate serviciile online în care datele dvs. de cont au fost compromise într-un fel sau altul. Conectați-vă la fiecare dintre dintre aceste conturi și schimbați parola cât mai curând posibil. De asemenea, vă recomandăm să vă protejați conturile prin intermediul autentificării cu doi factori. Rețineți, parolele dvs. trebuie să fie puternice și unice. Dacă nu mai utilizați unele conturi, vă recomandăm să le ștergeți.</li>
+</ul>
+<p>Poate că te gândești că e nevoie de prea multe eforturi pentru a vă proteja fiecare cont prin parole unice și a vă asigura că aceste parole sunt cu adevărat puternice. Cum veți putea ține minte toate aceste parole? Ei bine, trebuie să țineți minte doar o singură parolă puternică. De restul se va ocupa un manager de parole.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/">De ce toate parolele dvs. trebuie să fie unice</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce trebuie să utilizați un manager de parole</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 04:08:50 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=853</guid>
+
+					<description><![CDATA[<p>Parolele vă protejează de cei ce vor să vă fure conturile online sau datele din aceste conturi. Pentru a vă proteja conturile, trebuie să utilizați parole puternice care în mod normal includ combinații lungi și aleatorii de caractere. Asemenea parole sunt aproape imposibil de memorat. Mai mult de atât, trebuie să aveți o parolă unică [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/">De ce trebuie să utilizați un manager de parole</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Parolele vă protejează de cei ce vor să vă fure conturile online sau datele din aceste conturi. Pentru a vă proteja conturile, trebuie să utilizați parole puternice care în mod normal includ combinații lungi și aleatorii de caractere. Asemenea parole sunt aproape imposibil de memorat. Mai mult de atât, trebuie să aveți o parolă unică pentru fiecare dintre conturile dvs.</p>
+<p>Așadar, cum să țineți minte și să urmăriți toate aceste parole? Soluția e managerul de parole.</p>
+<p>Managerul de parole e ca un seif, în care păstrați zeci sau chiar sute de chei (parole) pentru toate conturile dvs. Trebuie să țineți minte doar parola pentru a intra în managerul de parole, acolo unde se stochează în siguranță celelalte parolele ale dvs.</p>
+<h2>Ce face managerul de parole</h2>
+<ul>
+<li><strong>Vă păstrează datele de conectare<br />
+</strong>Probabil că aveți zeci sau chiar sute de conturi diferite pe online. Nu e o idee bună să notați toate datele acestor conturi (numele de utilizator, adresele de e-mail și parolele) pe o foaie de hârtie sau într-un document de pe computer. Managerul de parole simplifică monitorizarea tuturor acestor conturi. El memorează toate parolele dvs. și alte date de conectare.</li>
+<li><strong>Le stochează în siguranță<br />
+</strong>Stocarea parolelor într-un manager de parole este mult mai sigură decât notarea lor pe hârtie sau într-un document pe dispozitiv. Nimeni nu vă poate deschide managerul de parole dacă îl protejați cu o parolă foarte puternică. În calitate de măsură de precauție suplimentară trebuie să utilizați autentificarea cu doi factori pentru a vă securiza managerul de parole.</li>
+<li><strong>Creează parole puternice și unice<br />
+</strong>De asemenea, managerul de parole simplifică crearea parolelor puternice și garantează că parola alocată fiecărui cont este unică. Managerul de parole creează parole și vă permite să le controlați lungimea și complexitatea.</li>
+</ul>
+<h2>Care manager de parole este cel mai potrivit</h2>
+<p>Doar dvs. puteți decide care manager de parole corespunde necesităților și preferințelor dvs. Există mai multe opțiuni de încredere și sigure, contra plată, din care puteți alege. Unele pachete de software antivirus vin cu manageri de parole încorporate. Dacă alegeți să plătiți un abonament, atunci cele mai sigure sunt: 1Password, LastPass, Bitwarden Premium, Dashlane, Keeper și NordPass.</p>
+<p>Unele aplicații oferă și acces gratuit pentru utilizatorii care nu au nevoie de funcții avansate. Dacă decideți că vreți un manager de parole gratuit, cea mai sigură opțiune este să îl alegeți pe cel cu un cod inițial deschis, precum BitWarden, KeePass și KeePassXC.</p>
+<p>Aplicații de acest tip se împart în două categorii, în funcție de locul în care păstrează datele de conectare ale utilizatorilor. Dacă utilizați un manager de parole <em>local</em>, precum KeePassXC, parolele dvs. vor fi stocate pe propriul dispozitiv. Asemenea manageri de parole oferă o mai bună confidențialitate și securitate, dar pentru a-i utiliza în siguranță este necesar un anumit nivel de cunoștințe tehnice și igienă digitală.</p>
+<p>În schimb, managerul de parole <em>cloud</em> stochează parolele pe serverele cloud. Această opțiune este mai sigură pentru utilizatorii care au cunoștințe tehnice limitate și nu pot respecta regulile stricte de igienă digitală, care includ configurarea copiilor de rezervă automate. BitWarden și KeePass sunt manageri de parole cloud gratuiți, cu un cod inițial deschis, renumiți prin siguranța și fiabiliatea lor.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/">De ce trebuie să utilizați un manager de parole</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce trebuie să utilizați autentificarea cu doi factori</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 04:27:50 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=857</guid>
+
+					<description><![CDATA[<p>Parolele vă protejează de cei care vor să vă fure conturile sau să spioneze tot ce se întâmplă în ele. De aceea, trebuie să vă protejați toate conturile cu parole cu adevărat puternice și unice. De asemenea, trebuie să stocați parolele în siguranță. Din păcate, chiar și cea mai puternică parolă nu poate garanta că [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/">De ce trebuie să utilizați autentificarea cu doi factori</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Parolele vă protejează de cei care vor să vă fure conturile sau să spioneze tot ce se întâmplă în ele. De aceea, trebuie să vă protejați toate conturile cu parole cu adevărat puternice și unice. De asemenea, trebuie să stocați parolele în siguranță.</p>
+<p>Din păcate, chiar și cea mai puternică parolă nu poate garanta că contul dvs. este ferit de infractori. Există mai multe modalități de a compromite o parolă. Hackerii pot fura datele dvs. direct de la furnizorul de servicii online (ceea ce se întâmplă mult mai des decât credeți). Cineva poate instala pe dispozitivul dvs. un program care înregistrează fiecare tastă pe care o apăsați pe tastatură (inclusiv toate parolele dvs.). O persoană insistentă vă poate sparge parola sau vă poate convinge să o dezvăluiți. La fel, parola poate fi văzută de pe o cameră ascunsă, în timp ce o introduceți.</p>
+<p>Iată de ce trebuie să utilizați autentificarea cu doi factori (2FA) pentru a vă proteja conturile online importante. Atunci când este activată autentificarea cu doi factori, pentru a accesa contul, trebuie să vă identificați prin două modalități. Astfel, pe lângă introducerea parolei (<em>primul</em> factor), trebuie să furnizați și cea de-a doua parte de date (al <em>doilea</em> factor) pentru a vă confirma identitatea. În general, 2FA oferă încă un nivel de protecție pentru conturile dvs. online, menținându-le în siguranță chiar și atunci când parolele dvs. sunt compromise.</p>
+<h2>Cum vă poate ajuta al doilea factor</h2>
+<p>Majoritatea conturilor online permit utilizatorilor să aleagă una din trei categorii de factori suplimentari de autentificare:</p>
+<ul>
+<li><strong>Ceva ce știți</strong>: informații pe care doar dvs. le cunoașteți, cum ar fi codul PIN sau răspunsul la întrebarea de securitate pe care ați ales-o.</li>
+<li><strong>Ceva ce aveți</strong>: un obiect fizic pe care ar trebui să-l aveți pentru a accesa conturile online. Acesta poate fi un dispozitiv de securitate (un mic dispozitiv hardware) sau smartphone-ul dvs. care poate fi utilizat pentru a primi coduri de autentificare prin SMS sau aplicații speciale de autentificare.</li>
+<li><strong>Ceva ce sunteți</strong>: ceva unic de pe corpul dvs., precum amprenta digitală, fața sau retina ochiului.</li>
+</ul>
+<h2>Ce factor secundar ar trebui să alegeți</h2>
+<p>Este foarte dificil de recomandat cea mai potrivită metodă 2FA, care funcționează pentru fiecare utilizator. În cele din urmă, ar trebui să alegeți reieșind din propria situație, ținând cont de riscuri și de gradul de confort. Vă vom oferi câteva sfaturi Pentru a vă ajuta să faceți o alegere informată:</p>
+<ul>
+<li><strong>Întrebările de securitate</strong> sunt comode pentru că trebuie să memorați doar câteva răspunsuri la întrebările alese. Cu toate acestea, infractorul poate găsi cu ușurință aceste răspunsuri (de exemplu, numele de domnișoară al mamei dvs.) sau vă poate păcăli ca să-i oferiți aceste date.</li>
+<li><strong>Dispozitivele de securitate</strong> (cheile de tip U2F) reprezintă una dintre cele mai sigure metode de 2FA, cu condiția că sunt protejate fizic. Marele dezavantaj al unor asemenea dispozitive constă în faptul că ele trebuie cumpărate, iar pentru conectarea lor s-ar putea să aveți nevoie de adaptoare. În plus, de fiecare dată când vreți să vă conectați, trebuie să aveți la dvs. dispozitivul de securitate. Prin urmare, mereu există riscul unui furt sau al unei pierderi.</li>
+<li><strong>SMS-urile</strong> sunt foarte comode, deoarece acestea vin instant pe telefonul dvs. mobil. Totuși, aceasta este una dintre cele mai puțin sigure metode 2FA, deoarece SMS-urile pot fi cu ușurință redirecționate de o persoană interesată sau interceptate de către furnizorul dvs. de servicii mobile.</li>
+<li><strong>Aplicații pentru autentificare</strong> reprezintă una dintre cele mai sigure și comode metode 2FA. Atunci când asociați o asemenea aplicație cu contul dvs. online, aceasta generează parole temporare și coduri numerice, care trebuie introduse imediat după introducerea parolei dvs. de bază. Aceste parole sau coduri nu pot fi interceptate așa de ușor precum SMS-urile. Însă siguranța unor asemenea aplicații depinde de siguranța dispozitivului dvs. mobil. Pentru a le menține în siguranță, trebuie să vă asigurați că și aplicația, dar și telefonul dvs. sunt protejate cu parole puternice. Experții recomandă următoarele aplicații pentru autentificarea cu doi factori: Aegis, Authy, Google Authenticator și LastPass Authenticator. Oricare ar fi opțiunea aleasă, asigurați-vă că păstrați în siguranță codurile unice de rezervă pentru fiecare cont pe care l-ați asociat cu o aplicație pentru autentificarea cu doi factori. Veți avea nevoie de aceste coduri pentru a accesa conturile în cazul în care veți pierde telefonul cu aplicația pe el.</li>
+<li><strong>Datele biometrice</strong>, precum <strong>amprenta digitală</strong>, <strong>fața</strong> sau <strong>vocea</strong> sunt foarte comode, dar nu atât de sigure, precum pare. Din păcate, multe servicii online populare nu propun opțiunea biometrică de 2FA. În plus, mulți utilizatori nu vor să le utilizeze, deoarece, spre deosebire de parole, datele biometrice furate nu pot fi schimbate. Odată sparte, acestea rămân sparte pentru totdeauna. Serviciile online pot, de asemenea, vinde datele biometrice părților terțe fără consimțământul dvs.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/">De ce trebuie să utilizați autentificarea cu doi factori</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

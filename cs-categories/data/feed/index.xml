@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Data &#8211; CyberSTAR</title>
+	<title>Data Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-categories/data/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 24 Nov 2021 05:02:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 31 Jan 2022 04:33:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>Digital Data 101: What It Is and When It Becomes Personal</title>
 		<link>https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal</link>
@@ -227,7 +227,6 @@ To select the folders that you want backed up, click the <strong>Start</strong> 
 <h2>Backup with Time Machine</h2>
 <p>MacOS has a Time Machine feature that automatically backs up specific file folders to a device of your choice. To set it up, connect an external storage device to your Mac. After the device is connected, open <strong>Apple menu &gt; System Preferences</strong>, then click <strong>Time Machine</strong>.</p>
 <p><img class="size-full wp-image-321 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg" alt="macOS Time Machine" width="1200" height="820" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg 1200w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-768x525.jpeg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
-<p>&nbsp;</p>
 <p>After you click <strong>Select Backup Disk</strong> and choose an external storage device as a destination for backups, Time Machine begins backing up your files. You can continue using your Mac while the system works on the backup.</p>
 <p><img class="size-full wp-image-320 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg" alt="Selecting a backup disk on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p>If you select <strong>Back Up Automatically</strong>, the system will make periodic backups, often without you even noticing it. After the first backup (which will probably take a while), future backups will be faster, as Time Machine backs up only the files that changed since the previous backup.</p>
@@ -248,7 +247,6 @@ To select the folders that you want backed up, click the <strong>Start</strong> 
 <p>All iCloud users get 5GB of free online storage. This includes everything you store on iCloud and iCloud Drive. If you need more space for your backups, you will have to purchase an <a title="iCloud storage plans and pricing" href="https://support.apple.com/en-ca/HT201238" target="_blank" rel="noopener">upgraded storage plan</a> or go with a different backup option.</p>
 <h2>Backup with third-party apps</h2>
 <p>If you are not happy with backup options built into your Mac, you can always choose a third-party app such as Backblaze, Carbonite, Dropbox or Google Drive. When you shop for third-party backup software, make sure you trust it fully and understand how it handles your data. To set up a third-party backup app, follow the instructions that come with it.</p>
-<p>&nbsp;</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-backup-your-mac/">How to Backup Your Mac</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></content:encoded>
 					

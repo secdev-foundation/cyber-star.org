@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Данные &#8212; CyberSTAR</title>
+	<title>Данные Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ru/cs-categories/data-ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>Цифровые данные: что это такое и когда они являются персональными</title>
 		<link>https://cyber-star.org/ru/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal-ru</link>

@@ -611,23 +611,41 @@ html:lang(ru) #menu-primary-menu a {
 .site-header-inner .section-language-options {
     float: left;
     margin-left: 15px;
+    margin-top: 2px;
 }
 
 #menu-language {
     position: relative;
-    text-align: center;
     line-height: 1;
     top: 2px;
+    z-index: 4;
 }
 
 #menu-language .sub-menu {
     position: absolute;
-    width: 100%;
-    top: 100%;
+    top: 120%;
+    right: 0;
+    z-index: 9998;
+    box-shadow: var(--cs-box-shadow);
+    background-color: #fdfdfd;
+    border: 1px solid #eeeeee;
+    padding: 10px 20px;
 }
 
 #menu-language .sub-menu li {
-    margin-top: 5px;
+    padding: 10px 10px;
+}
+
+#menu-language .sub-menu a {
+    color: var(--cs-text-color);
+    padding: 0;
+    display: block;
+    font-size: 1.6rem;
+}
+
+#menu-language .sub-menu a:hover,
+#menu-language .sub-menu a:focus {
+    color: rgba(106, 103, 102, 0.8);
 }
 
 #menu-language a[href="#pll_switcher"] {
@@ -637,7 +655,7 @@ html:lang(ru) #menu-primary-menu a {
 }
 
 #menu-language a {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     color: var(--cs-text-color);
 }
 
@@ -857,11 +875,53 @@ html:lang(ru) #menu-primary-menu a {
     top: 6%;
 }
 
+html:lang(ka) .star .link-container-digital-risks {
+    left: -10%;
+}
+
+html:lang(ka) .star .option-link-devices {
+    left: 102%;
+}
+
+html:lang(uz) .star .option-link-conversations {
+    left: -80%;
+}
+
+html:lang(ru) .star .option-link-conversations {
+    left: -80%;
+}
+
+html:lang(ro) .star .option-link-conversations {
+    left: -82%;
+}
+
+html:lang(ka) .star .option-link-conversations {
+    left: -79%;
+}
+
+html:lang(uz) .star .option-link-digital-identity {
+    left: -94%;
+    top: 3%;
+    white-space: normal;
+    width: 80px;
+}
+
 html:lang(ru) .star .option-link-digital-identity {
     left: -105%;
     top: 3%;
     white-space: normal;
     width: 90px;
+}
+
+html:lang(ka) .star .option-link-digital-identity {
+    left: -94%;
+    top: 3%;
+    white-space: normal;
+    width: 70px;
+}
+
+html:lang(ro) .star .option-link-digital-identity {
+    left: -114%;
 }
 
 .star .option span {
@@ -1043,6 +1103,10 @@ html:lang(ru) .star .option-link-digital-identity {
     display: block;
 }
 
+.entry-singular .entry-content-top {
+    margin-bottom: 0.5rem;
+}
+
 .entry-singular .entry-content {
     margin: 2rem 0;
 }
@@ -1130,7 +1194,7 @@ html:lang(ru) .star .option-link-digital-identity {
     margin-top: 1rem;
 }
 
-.entry-singular .reading-container {
+.entry-container {
     display: block;
     width: 90%;
     margin-left: auto;
@@ -1229,7 +1293,7 @@ html:lang(ru) .star .option-link-digital-identity {
 }
 
 .entry-metadata .metadata-list li {
-    flex: 1 1 auto;
+    flex: 1 1 100%;
 }
 
 /* Core and Extra Training Section */
@@ -1767,9 +1831,33 @@ html:lang(ru) .star .option-link-digital-identity {
         top: 8%;
     }
 
+    html:lang(ka) .star .link-container-digital-risks {
+        left: 0;
+    }
+
+    html:lang(uz) .star .option-link-conversations {
+        left: -68%;
+    }
+
+    html:lang(ro) .star .option-link-conversations {
+        left: -75%;
+    }
+
+    html:lang(ka) .star .option-link-conversations {
+        left: -70%;
+    }
+
+    html:lang(ka) .star .option-link-digital-identity {
+        left: -76%;
+    }
+
     html:lang(ru) .star .option-link-digital-identity {
         left: -90%;
         top: 6%;
+    }
+
+    html:lang(ro) .star .option-link-digital-identity {
+        left: -96%;
     }
 
     .content-area .content-intro,
@@ -1863,10 +1951,43 @@ html:lang(ru) .star .option-link-digital-identity {
         top: 14%;
     }
 
+    html:lang(ka) .star .link-container-digital-risks {
+        left: 20%;
+        right: auto;
+    }
+
+    html:lang(uz) .star .option-link-conversations {
+        left: -42%;
+    }
+
+    html:lang(ro) .star .option-link-conversations {
+        left: -42%;
+    }
+
+    html:lang(ka) .star .option-link-conversations {
+        left: -42%;
+    }
+
+    html:lang(uz) .star .option-link-digital-identity {
+        width: auto;
+        left: -67%;
+        top: 13%;
+    }
+
     html:lang(ru) .star .option-link-digital-identity {
         width: auto;
         left: -71%;
         top: 14%;
+    }
+
+    html:lang(ro) .star .option-link-digital-identity {
+        left: -59%;
+    }
+
+    html:lang(ka) .star .option-link-digital-identity {
+        left: -66%;
+        top: 13%;
+        width: auto;
     }
 
     .content-area .content-intro,
@@ -1923,6 +2044,10 @@ html:lang(ru) .star .option-link-digital-identity {
         margin: 1rem;
     }
 
+    .entry-metadata .metadata-list li {
+        flex: 1 1 50%;
+    }
+
     .resource-options {
         width: 600px;
         margin: 0 auto;
@@ -1967,11 +2092,11 @@ html:lang(ru) .star .option-link-digital-identity {
     }
 
     .resource-options,
-    .entry-singular .reading-container {
+    .entry-container {
         width: 800px;
     }
 
-    .entry-singular .reading-container {
+    .entry-container {
         margin-left: auto;
         margin-right: auto;
     }
@@ -2047,7 +2172,7 @@ html:lang(ru) .star .option-link-digital-identity {
 
     .site-header-inner .section-language-options {
         float: right;
-        margin: 20px 5px 0 8px;
+        margin: 22px 5px 0 8px;
     }
 
     .site-header-inner .section-search {
@@ -2093,13 +2218,14 @@ html:lang(ru) .star .option-link-digital-identity {
         color: rgba(106, 103, 102, 0.8);
     }
 
-   #menu-language a {
-       position: relative;
-   }
+    #menu-language a {
+        position: relative;
+        font-size: 1.6rem;
+    }
 
-   #menu-primary-menu .sub-menu {
-       box-shadow: var(--cs-box-shadow);
-   }
+    #menu-primary-menu .sub-menu {
+        box-shadow: var(--cs-box-shadow);
+    }
 
     .star .option-link {
         font-size: 1.8rem;
@@ -2129,9 +2255,33 @@ html:lang(ru) .star .option-link-digital-identity {
         top: 14%;
     }
 
+    html:lang(ka) .star .link-container-digital-risks {
+        left: 17%;
+    }
+
+    html:lang(uz) .star .option-link-conversations {
+        left: -50%;
+    }
+
+    html:lang(ro) .star .option-link-conversations {
+        left: -56%;
+    }
+
+    html:lang(uz) .star .option-link-digital-identity {
+        left: -81%;
+    }
+
+    html:lang(ro) .star .option-link-digital-identity {
+        left: -67%;
+    }
+
     html:lang(ru) .star .option-link-digital-identity {
         left: -85%;
         top: 14%;
+    }
+
+    html:lang(ka) .star .option-link-digital-identity {
+        left: -80%;
     }
 
     .content-area {

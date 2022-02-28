@@ -8,17 +8,17 @@
 	>
 
 <channel>
-	<title>Digital Risks &#8211; CyberSTAR</title>
+	<title>Digital Risks Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-categories/digital-risks/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Fri, 17 Sep 2021 19:29:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Feb 2022 00:54:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>How to Recognize Phishing Attacks</title>
 		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks</link>
@@ -84,8 +84,8 @@
 <p>It is also worth remembering that even people you know and trust can have their email accounts compromised. So if you receive an unexpected email with an attachment from them, it is a good idea to check with the person who you think sent you the email before opening it.</p>
 <h2>3. Check links before clicking</h2>
 <p>It goes without saying that you should never click on links sent by people or organizations that you do not know or do not expect to be contacting you. You should also make it a habit to treat each single link you receive as a potential risk. When you get an alert from a colleague, your bank or the social media service you are using, do not click the link in the email. Hover your mouse over the link to see the full website address. This can help you decide whether or not you want to click that link. Alternatively, you can open a browser window and type of address directly into the URL field to make sure the site is real.</p>
-<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as Norton Safe Web (https://safeweb.norton.com/) that lets you enter the URL of a suspicious link and check it for safety.</p>
-<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as UnshortenIt (https://unshorten.it)/ to “decode” a shortened URL.</p>
+<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> that lets you enter the URL of a suspicious link and check it for safety.</p>
+<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> to “decode” a shortened URL.</p>
 <h2>4. Slow down to think</h2>
 <p>One of the phishing tactics that criminals and scammers use particularly well involves creating a false sense of urgency by sending people requests with a tight deadline for action and sometimes punishment for failing to act fast. They may tell you to pay a fine for making an “error” in your latest tax return or face criminal prosecution. Or someone pretending to be your boss may demand that you wire money to a specific bank account or get fired.</p>
 <p>Always treat “urgent” requests for information or financial transfers as highly suspicious. Would the tax authorities ever call on your mobile phone to demand that you pay a fine? Would your boss ever demand that you wire money to a bank account that you have never heard about? If something seems off, discuss it with people you trust, colleagues or a lawyer.</p>

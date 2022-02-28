@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Цифровая идентичность &#8212; CyberSTAR</title>
+	<title>Цифровая идентичность Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ru/cs-categories/digital-identity-ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>Как защитить личную информацию в социальных сетях</title>
 		<link>https://cyber-star.org/ru/cs-articles/how-to-protect-your-personal-information-on-social-media-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-protect-your-personal-information-on-social-media-ru</link>

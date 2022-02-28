@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Parollar Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/uz/cs-categories/passwords-uz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 09 Feb 2022 02:58:31 +0000</lastBuildDate>
+	<language>uz-UZ</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Kuchli parollar yaratish</title>
+		<link>https://cyber-star.org/uz/cs-articles/how-to-create-strong-passwords-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-create-strong-passwords-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:24:39 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=842</guid>
+
+					<description><![CDATA[<p>Biz onlayn akkauntlardan xoh u shaxsiy yoki professional maqsadlarda bo&#8217;lsin, hayotimizda borgan sari ko&#8217;proq foydalanayapmiz. Elektron pochta, ijtimoiy tarmoqlar, internet bank xizmatlari, onlayn xaridlar, fayllar va xabarlar almashish, video tomosha qilish, ma&#8217;lumotlarni bulutli omborga zaxiralash &#8211; bu xizmatlarning barchasidan foydalanish uchun akkauntga ega bo&#8217;lishimiz zarur. Shunday qilib, ehtimol siz eslab qolish va xavfsiz saqlashingiz kerak [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-to-create-strong-passwords-uz/">Kuchli parollar yaratish</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Biz onlayn akkauntlardan xoh u shaxsiy yoki professional maqsadlarda bo&#8217;lsin, hayotimizda borgan sari ko&#8217;proq foydalanayapmiz. Elektron pochta, ijtimoiy tarmoqlar, internet bank xizmatlari, onlayn xaridlar, fayllar va xabarlar almashish, video tomosha qilish, ma&#8217;lumotlarni bulutli omborga zaxiralash &#8211; bu xizmatlarning barchasidan foydalanish uchun akkauntga ega bo&#8217;lishimiz zarur. Shunday qilib, ehtimol siz eslab qolish va xavfsiz saqlashingiz kerak bo&#8217;lgan o&#8217;nlab turli xil akkauntlarga ega bo&#8217;lsangiz kerak.</p>
+<p>Parollardan foydalanish bu akkauntlarni o&#8217;g&#8217;irlash, ortingizdan josuslik qilishni yoki ushbu akkauntlar orqali qo&#8217;lga kiritilgan ma&#8217;lumotlaringiz yoki hujjatlaringizdan jinoiy maqsadlarda foydalanishni istagan har qanday odamlarga qarshi birinchi himoyadir.</p>
+<h2>Ishonchli parollardan foydalanishingiz kerak</h2>
+<p>Barcha parollar ham akkauntlarni himoya qilish vazifasini birdek bajara olmaydi. Dunyo bo&#8217;ylab yuz millionlab foydalanuvchilar hali ham taxmin qilib topish yoki buzib kirish juda oson bo&#8217;lgan parollardan foydaladi. Parollarni faqat ko‘p yillik tajriba, noyob mahorat va kerakli vositalarga ega bo&#8217;lgan juda aqilli xakerlargina buza oladigan zamonlar allaqachon o&#8217;tib ketgan. Bugungi kunda parollar ma&#8217;lum so&#8217;zlar va belgilarning turli kombinatsiyalarini sinab ko&#8217;ruvchi keng tarqalgan dastiriy ta’minotlar yordamida buziladi. Parollarni buzishning bu usuli <em>brutfors hujumi</em> deb nomlanadi.</p>
+<p>Shunday qilib, akkauntlaringiz va ulardagi ma&#8217;lumotlarni buzib kirish qiyin bo&#8217;lgan kuchli parollar bilan himoyalashingiz kerak. Amalda, parolning o&#8217;ta murakkabligidan uni brutfors yordamida buzish uchun haddan ziyod vaqt talab qilinishini anglatadi. Ya&#8217;ni, xaker buzish bunchalik ko&#8217;p vaqt talab qiluvchi parolga hatto bosh qotirishni ham xohlamasligi kerak.</p>
+<h2>Buzib kirish qiyin bo‘lgan parol yarating</h2>
+<ul>
+<li><strong>Uzunroq parol tanlang<br />
+</strong>Bu eng muhim omil. Hech bo&#8217;lmaganda 12 ta, Iloji bo&#8217;lsa, undan ham ko&#8217;proq belgidan foydalaning.</li>
+<li><strong>Turli belgilardan foydalaning<br />
+</strong>Parolingizda katta va kichik harf, raqam va belgilar aralashmasini qanchalik ko&#8217;p qo&#8217;llasangiz, parolingizni buzish shunchalik qiyin bo&#8217;ladi. Belgilarning tasodifiy keta-ketligidan tashkil topgan parollar butun so‘zlardan iborat parollarga qaraganda murakkabroqdir. Shuning uchun <em>iLoVeYOu56&amp;#</em> paroli <em>iloveyou9!</em> paorliga qaraganda ishonchliroqdir, biroq <em>iL3*Ov50&amp;0Ey6824(2uO</em> yanada ishonchli variant hisoblanadi.</li>
+<li><strong>Taxmin qilib topish oson yoki yaqqol klaviatura kombinatsiyalaridan foydalanmang<br />
+</strong><em>qwerty</em>, <em>12345678</em>, <em>password123</em> va <em>myemailpass</em> kabi parollarni buzish juda oson.</li>
+<li><strong>Ma&#8217;lum va umumiy bo&#8217;lgan belgilar almashtiruvidan foydalanmang<br />
+</strong>Belgilar o&#8217;rnini boshqalari bilan almashtirish yanada kuchliroq parollar yaratishda qo&#8217;l kelsa-da, yaxshisi, siz eng keng tarqalgan, hammaga ma&#8217;lum bo&#8217;lgan belgilar almashtiruvidan foydalanmang. <em>DOORBELL</em> parolini <em>D00RB3LL</em> ko&#8217;rinishida, belgilarni almashtirgan holda yozish biroz yaxshiroq, biroq bunday parolni ham buzish juda oson. Yaxshisi, parolingiz tasodifiy belgilardan iborat bo&#8217;lsin.</li>
+<li><strong>Shaxsiy ma’lumotlardan foydalanmang<br />
+</strong>Agar g‘araz niyatli shaxs aynan sizning parolingizni buzishni maqsad qilgan bo‘lsa, u birinchi navbatda siz haqingizdagi ma’lumotlardan foydalanib uni topishga harakat qiladi. Ularga siz tug‘ilgan shahar, farzandingizning ismi, tug‘ilgan sanasi, siz ishqiboz bo&#8217;lgan sport jamoasi yoki itingizning nomi kabilar kiradi.</li>
+<li><strong>Parollardan qayta foydalanmang<br />
+</strong>Ideal holda, barcha akkauntlaringiz va qurilmalaringizni takrorlanmas parollar bilan himoyalashingiz to&#8217;g&#8217;ri bo&#8217;ladi. Agar kimdir sizning bitta akkauntlaringiz parolini o&#8217;g&#8217;irlasa yoki buzib kirsa, u o&#8217;g&#8217;irlangan parolingiz va uning biroz o&#8217;zgartirilganversiyalarini qo&#8217;llab barcha boshqa akkauntlaringizni ham buzishga harakat qiladi.</li>
+</ul>
+<p>Hozir har bir akkauntni murakkab parol bilan himoyalash sizga juda qiyin masaladek tuyulayotgan bo&#8217;lishi mumkin. Bu parollarning hammasini qanday eslab qolaman deb o&#8217;ylashingiz mumkin. Aslida, faqat bitta ishonchli parolni eslab qolishingiz kifoya. Qolganlarini parol menejerida saqlashingiz mumkin.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-to-create-strong-passwords-uz/">Kuchli parollar yaratish</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ko&#8217;rinishdan kuchli, aslida kuchsiz bo&#8217;lgan parollar</title>
+		<link>https://cyber-star.org/uz/cs-articles/passwords-that-look-strong-but-arent-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:30:29 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=843</guid>
+
+					<description><![CDATA[<p>Deyarli barcha internet xizmatlar foydalanuvchilarning kichik harflar, raqamlar va maxsus belgilardan foydalanib murakkab parollar yaratishlarini talab qiladi. Gmail yoki Facebook talablariga javob beradigan ishonchli parollarni o‘ylab topgan holda foydalanuvchilar hisoblarining ishonchli himoya qilingaligini his qiladilar. Biroq ko‘pincha bu hislar yolg‘on bo‘lib chiqadi. Murakkablikning minimal talablariga javob beruvchi parol har doim ham haqiqatda ishonchli parol bo‘lib [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/passwords-that-look-strong-but-arent-uz/">Ko&#8217;rinishdan kuchli, aslida kuchsiz bo&#8217;lgan parollar</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Deyarli barcha internet xizmatlar foydalanuvchilarning kichik harflar, raqamlar va maxsus belgilardan foydalanib murakkab parollar yaratishlarini talab qiladi. Gmail yoki Facebook talablariga javob beradigan ishonchli parollarni o‘ylab topgan holda foydalanuvchilar hisoblarining ishonchli himoya qilingaligini his qiladilar. Biroq ko‘pincha bu hislar yolg‘on bo‘lib chiqadi. Murakkablikning minimal talablariga javob beruvchi parol har doim ham haqiqatda ishonchli parol bo‘lib chiqavermaydi.</p>
+<p>Muammo shundan iboratki, turli saytlar va internet xizmatlarning talablariga ko‘ra parollarini murakkablashtirishga uringan holda ko‘pchilik foydalanuvchilar bir xil va avvaldan bilish mumkin bo‘lgan qoliplarga amal qiladilar. Xakerlar bu qoliplarni juda yaxshi biladilar va ulardan parollarni buzish uchun foydalanadilar. Shunday qilib, bir qarashda ishonchli bo‘lib ko‘rinadigan ko‘pgina parollarni aslida buzish unchalik qiyin emas.</p>
+<p>Quyida o‘z parollarini &laquo;murakkablashtirishga&raquo; urinishlar bilan bog‘liq bo‘lgan eng keng tarqalgan xatolar ro‘yxati keltirilgan. Bu xatolarni qilmang.</p>
+<ul>
+<li><strong>Parolning oxiriga raqam qo‘shish<br />
+</strong></p>
+<p>Ko‘pgina foydalanuvchilar parolning oxiriga raqam qo‘shish uni ishonchli qiladi, deb xato o‘ylaydilar. Ko‘pincha bu bir qiymatli raqam, ko‘p hollarda <em>1</em> bo‘ladi. Xakerlar buni biladilar va parollarni buzishga urinishlarda buni hisobga oladilar.</p>
+<p><span style="color: #c01d24;">Haqiqatda ishonchli parol yaratish uchun unga bir nechta tasodifiy raqamlarni tasodifiy tartibda qo‘shing.</span></li>
+<li><strong>Parolning boshida katta harflardan foydalanish<br />
+</strong></p>
+<p>Yana bitta keng tarqalgan qolip bo‘lib odatda paroldagi birinchi harfda katta harfdan foydalanish hisoblanadi. Yana xakerlarni bu bilan xayratga solib bo‘lmaydi.</p>
+<p><span style="color: #c01d24;">Ishonchli parol yaratish uchun katta va kichik harflarning tasodifiy kombinatsiyalaridan foydalaning.</span></li>
+<li><strong>Parolning oxiriga maxsus belgi qo‘shish<br />
+</strong></p>
+<p>Yana bir keng tarqalgan xato &#8211; parolning oxiriga bitta maxsus belgi qo‘shish. Bunda ko‘pincha<em> !</em> belgisidan foydalaniladi. Maxsus belgining bunday qo‘shilishi parolingizni buzishlarga nisbatan chidamliroq qilmaydi.</p>
+<p><span style="color: #c01d24;">Haqiqatda ishonchli parol yaratish uchun bir nechta tasodifiy tarzda tanlab olingan maxsus belgilarni tasodifiy tartibda qo‘shing.</span></li>
+<li><strong>Ommabop so‘zlar yoki belgilarning kombinatsiyalaridan foydalanish<br />
+</strong></p>
+<p>Siz dunyodagi qanchalik ko‘p odamlarning o‘z parollarida bir xil so‘zlar (mas. <em>password</em>, <em>welcome</em>, <em>football</em>, <em>superman</em> va boshq.) yoki belgilar ketma-ketligidan (mas. <em>qwerty</em>, <em>asdfgh</em>, <em>qazwsx</em>, etc.) foydalanishlarini bilganingizda edi. Xakerlar bu so‘zlar va belgilarning kombinatsiyalaridan &laquo;brutfors&raquo; usulida hujum qlishni bajarishda foydalanadilar. Ushbu hujumlar to‘g‘ri variant topilgunicha ommabop so‘zlar va belgilarning turli kombinatsiyalarini sinab ko‘ruvchi maxsus dasturlar yordamida amalga oshiriladi. Millionlab parollarda foydalaniluvchi ko‘p ishlatiladigan so‘zlarning yana bir toifasini ismlar, shaharlar, mamlakatlar va sport jamoalarining nomlari tashkil qiladi.</p>
+<p><span style="color: #c01d24;">Haqiqatda buzish qiyin bo‘lgan parol yaratish uchun ommabop so‘zlar va klaviaturadagi belgilarning kombinatsiyalari emas, balki katta va kichik harflar, raqamlar va maxsus belgilarning tasodifiy kombinatsiyalaridan foydalaning.</span></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/passwords-that-look-strong-but-arent-uz/">Ko&#8217;rinishdan kuchli, aslida kuchsiz bo&#8217;lgan parollar</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parollar nima uchun takrorlanmas bo&#8217;lishi kerak</title>
+		<link>https://cyber-star.org/uz/cs-articles/why-all-of-your-passwords-should-be-unique-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:55:50 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=851</guid>
+
+					<description><![CDATA[<p>Barcha akkauntlaringiz uchun siz oldin hech qachon qo&#8217;llamagan noyob va takrorlanmas parollardan foydalanishingiz kerak. Parolingiz dunyodagi eng kuchli parolbo&#8217;lsa ham, uni bir nechta akkauntlarga qo&#8217;llash orqali siz o&#8217;zingizni katta xavf ostiga qo&#8217;yasiz. Parollardan qayta ishlatishning qanday xavflari bor Aytaylik, siz bitta paroldan elektron pochta, Facebook va Instagram akkauntlaringiz uchun foydalanasiz. Agar elektron pochtangiz provayderining xavfsizlik [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/why-all-of-your-passwords-should-be-unique-uz/">Parollar nima uchun takrorlanmas bo&#8217;lishi kerak</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Barcha akkauntlaringiz uchun siz oldin hech qachon qo&#8217;llamagan noyob va takrorlanmas parollardan foydalanishingiz kerak. Parolingiz dunyodagi eng kuchli parolbo&#8217;lsa ham, uni bir nechta akkauntlarga qo&#8217;llash orqali siz o&#8217;zingizni katta xavf ostiga qo&#8217;yasiz.</p>
+<h2>Parollardan qayta ishlatishning qanday xavflari bor</h2>
+<p>Aytaylik, siz bitta paroldan elektron pochta, Facebook va Instagram akkauntlaringiz uchun foydalanasiz. Agar elektron pochtangiz provayderining xavfsizlik tizimi ishida buzilishlar yuz bersa (bu dastlab ko‘ringaniga qadaganda tez-tez yuz berib turadi) va hisobingiz ma’lumotlari o‘g‘irlansa, g‘araz niyatli kishilar olingan parol va uning biroz o‘zgartirilgan versiyalaridan boshqa saytlarga kirish uchun qo‘llashga urinib ko‘radilar. Oqibatda, bir xil parol qo&#8217;llagan barcha akkauntlaringiz buziladi.</p>
+<p>Parollarni qayta qo&#8217;llash ham yaxshi emas, chunki dunyodagi millionlab boshqa foydalanuvchilarda bo&#8217;lgani kabi, sizning ham qachondir yaratgan va keyin unutgan yoki kamdan-kam foydalanadigan bir nechta akkauntlaringiz bor bo&#8217;lsa kerak. Ana shunday akkauntlaringizning ayrimlari buzilgan bo&#8217;lishi mumkin. Agar g&#8217;araz niyatli shaxs ushbu akkauntlarning ba&#8217;zilari bilan bog&#8217;liq elektron pochta manzilingizni qo&#8217;lga kiritsa, u ushbu pochta manzili yordamida buzilgan hamma akkauntlaringizni osongina topa oladi. Bundan tashqari, unutilgan yoki kam qo&#8217;llaniladigan akkauntlar parollari sizdirilganda, e&#8217;tiborsiz qolgan bunday akkauntlarni firibgarlar juda osonlik bilan qo&#8217;lga kirita oladilar. Shunday qilib, agar bitta parolni yoki uni biroz o&#8217;zgartirgan holda bir nechta akkauntlar uchun qayta ishlatsangiz, firibgarlar bitta unutilgan akkauntni topish orqali barcha akkautlaringizni buzib kira olishi mumkin. Bu <em>parollarni to‘ldirish yoki to&#8217;plash</em> deb ataladi.</p>
+<ul>
+<li>Agar siz elektron pochta manzil(lar)ingizning biror-bir buzilgan hisoblar bilan bog‘langan ekanligi yoki yo‘qligini bilmoqchi bo‘sangiz, bu xizmatdan foydalaning. Qidiruv maydoniga elektron pochta manzilini kiriting va &laquo;pwned?&raquo; tugmasini bosing.</li>
+<li>Agar elektron pochta manzili biror bir buziligan akkaunt bilan aloqador ya&#8217;ni bog&#8217;langan bo&#8217;lsa, siz akkauntingiz ma&#8217;lumotlari buzilgan hamma onlayn xizmatlar ro&#8217;yxatini ekranda ko&#8217;rasiz. Har bir akkauntning parolini imkon qadar tezroq o&#8217;zgartiring. Shuningdek, muhim akkauntlaringizni ikki faktorli autentifikatsiya (2FA) bilan himoyalaganingiz yaxshi. Parollar kuchli va takrorlanmas bo&#8217;lishi kerakligi yodingizdami? Agar siz ushbu akkauntlardan ortiq foydalanmasangiz, yaxshisi, ularni o&#8217;chirib tashlang.</li>
+</ul>
+<p>Hozir har bir akkauntni kuchli va takrorlanmas parol bilan himoyalash sizga juda qiyin masaladek tuyulayotgan bo&#8217;lishi mumkin. Bu parollarning hammasini qanday eslab qolaman deb o&#8217;ylashingiz mumkin. Aslida, faqat bitta ishonchli parolni eslab qolishingiz kifoya. Qolganlarini parol menejerida saqlashingiz mumkin.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/why-all-of-your-passwords-should-be-unique-uz/">Parollar nima uchun takrorlanmas bo&#8217;lishi kerak</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nima uchun parol menejeridan foydalanish kerak</title>
+		<link>https://cyber-star.org/uz/cs-articles/why-you-should-use-a-password-manager-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 01:00:58 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=852</guid>
+
+					<description><![CDATA[<p>Parollardan foydalanish bu akkauntlarni o&#8217;g&#8217;irlash, ortingizdan josuslik qilishni yoki ushbu akkauntlar orqali qo&#8217;lga kiritilgan ma&#8217;lumotlaringiz yoki hujjatlaringizdan jinoiy maqsadlarda foydalanishni istagan har qanday odamlarga qarshi birinchi himoyadir. Akkauntingizni himoyalash uchun odatda uzun va tasodifiy belgilar birikmasidan iborat kuchli parollardan foydalanishingiz kerak. Bunday parollarni eslab qolishni deyarli iloji yo&#8217;q. Buning ustiga, har bir akkauntingiz paroli takrorlanmas [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/why-you-should-use-a-password-manager-uz/">Nima uchun parol menejeridan foydalanish kerak</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Parollardan foydalanish bu akkauntlarni o&#8217;g&#8217;irlash, ortingizdan josuslik qilishni yoki ushbu akkauntlar orqali qo&#8217;lga kiritilgan ma&#8217;lumotlaringiz yoki hujjatlaringizdan jinoiy maqsadlarda foydalanishni istagan har qanday odamlarga qarshi birinchi himoyadir. Akkauntingizni himoyalash uchun odatda uzun va tasodifiy belgilar birikmasidan iborat kuchli parollardan foydalanishingiz kerak. Bunday parollarni eslab qolishni deyarli iloji yo&#8217;q. Buning ustiga, har bir akkauntingiz paroli takrorlanmas parol bo&#8217;lishi kerak.</p>
+<p>Xo&#8217;sh, bu parollarning hammasini qanday eslab qolish mumkin? Buning yechimi parollar menejeridan foydalanishdir.</p>
+<p>Parol menejerini hamma akkauntlaringizning o&#8217;nlab yoki hatto yuzlab kalitlarni (parollarni) saqlaydigan seyf sifatida tasavvur qiling. Parol menejeri mushkulingizni osonlashtiradi, chunki siz boshqa hamma parollaringiz saqlanadigan parol menejeriga kirish parolini eslab qolish kerak bo&#8217;ladi holos.</p>
+<h2>Parollar menejeri qanday vazifani bajaradi</h2>
+<ul>
+<li><strong>Hisob ma’lumotlaringizni saqlaydi<br />
+</strong>Sizning o‘nlab va hattoki yuzlab onlayn akkauntlaringiz bor bo‘lsa kerak. Hamma akkauntlaringiz ma&#8217;lumotlarini (foydalanuvchi nomlari, elektron pochta manzillari va parollar) bir parcha qog&#8217;oz yoki kompyuteringizdagi hujjatda saqlash noto&#8217;g&#8217;ri ish. Parol menejeri hamma akkauntlaringizni boshqarishdagi qiyinchiliklaringizni osonlashtiradi. U barcha parol va boshqa akkaunt ma’lumotlaringizni o&#8217;zida saqlaydi.</li>
+<li><strong>Ularni ishonchli saqlaydi<br />
+</strong>Parollaringizni parol menejerida saqlash ularni yon daftarchangiz yoki qurilmangizdagi hujjatda saqlashdan ko&#8217;ra xavfsizroqdir. Agar parol menejeringizni ishonchli va kuchli parol bilan himoyalasangiz, uni hech kim ocha olmaydi. Qoʻshimcha ehtiyot chorasi sifatida parol menejerini himoyalash uchun ikki faktorli autentifikatsiyadan foydalaning.</li>
+<li><strong>Kuchli va takrorlanmas parollar yaratadi<br />
+</strong>Parol menejeri yordami bilan noyob parollar yaratish va har bir akkaunt paroli takrorlanmas bo&#8217;lishini kafolatlashdek jiddiy vazifa ham yengillashadi. Parol menejerida parollar yaratish funksiyasi bor. Siz parollaringiz uzunligi va murakkabligini ko&#8217;rsatishingiz ham mumkin.</li>
+</ul>
+<h2>Qaysi parollar menejeridan foydalanish kerak</h2>
+<p>Siz o&#8217;z ehtiyoj va qanday qulayliklarni afzal ko&#8217;rishingizga qarab, qaysi parol menejeridan foydalanishni tanlashingiz mumkin. To&#8217;lovli parol menejerlaridan foydalanmoqchi bo&#8217;lgan foydalanuvchilar uchun bir nechta ishonchli va xavfsiz variantlar mavjud. Ba&#8217;zi antivirus dastur paketlari ichki parol menejerini ham o&#8217;z ichiga oladi. Agar siz to&#8217;lovli obuna olishni tanlasangiz, 1Password, LastPass, Bitwarden Premium, Dashlane, Keeper va NordPass kabi ishonchli parol menejerlarini tanlab hato qilmaysiz.</p>
+<p>Ba&#8217;zi parol menejerlari kengaytirilgan funksiyalar kerak bo‘lmagan foydalanuvchilar uchun bepul rejalarni ham taklif qiladilar. Agar siz bepul parol menejeridan foydalanishni tanlasangiz, ishonchli garov ochiq manbali BitWarden, KeePass va KeePassXC kabi dasturlar hisoblanadi.</p>
+<p>Parol menejerlari ular foydalanuvchilari akkaunt ma&#8217;lumotlarini qayerda saqlashiga qarab ikki toifadan biriga tegishli hisoblanadi. Agar siz KeePassXC kabi <em>lokal</em> parollar menejeridan foydalansangiz, u parollaringizni o&#8217;z qurilmangizda saqlaydi. Bunday parollar menejeri maxfiylik va xavfsizlik borasida yaxshiroq ta’minlaydi, lekin ulardan xavfsiz foydalanish uchun ma&#8217;lum darajadagi texnik bilim va raqamli gigiena talab etiladi.</p>
+<p>Lokal parol menejerlaridan farqli ravishda, <em>bulutli</em> parol menejerlari parollarni bulutli serverlarda saqlaydi. Cheklangan texnik bilimga ega va qat’iy raqamli gigiyena qoidalariga rioya qilolmaydigan, jumladan, avtomatik zahiralashni sozlay olmaydigan, foydalanuvchilar uchun bulitli parol menejerini tanlash xavfsizroqdir. BitWarden va KeePass menejerlarining ikkisi ham bepul, ochiq manbali, bulutli parol menejerlari bo‘lib, ular o&#8217;z xavfsizligi va ishonchliligi bilan taniqli.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/why-you-should-use-a-password-manager-uz/">Nima uchun parol menejeridan foydalanish kerak</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nima uchun ikki faktorli autentifikatsiyadan foydalanish kerak</title>
+		<link>https://cyber-star.org/uz/cs-articles/why-you-should-use-two-factor-authentication-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 04:19:12 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=856</guid>
+
+					<description><![CDATA[<p>Parollar &#8211; bu hisoblaringizni o‘g‘irlamoqchi yoki ularda bo‘layotgan hamma narsalarni josuslik bilan kuzatib borishni xohlaganlardan himoyalanishning asosiy vositasi. Aynan shuning uchun ham siz barcha hisoblaringizni haqiqatda ishonchli va noyob parollar bilan himoya qilishingiz kerak. Siz yana parollarni xavfsiz joyda saqlashingiz ham kerak. Afsuski, hattoki eng ishonchli parol ham g‘araz niyatli shaxsning hisobingizni kirish huquqini qo‘lga [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/why-you-should-use-two-factor-authentication-uz/">Nima uchun ikki faktorli autentifikatsiyadan foydalanish kerak</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Parollar &#8211; bu hisoblaringizni o‘g‘irlamoqchi yoki ularda bo‘layotgan hamma narsalarni josuslik bilan kuzatib borishni xohlaganlardan himoyalanishning asosiy vositasi. Aynan shuning uchun ham siz barcha hisoblaringizni haqiqatda ishonchli va noyob parollar bilan himoya qilishingiz kerak. Siz yana parollarni xavfsiz joyda saqlashingiz ham kerak.</p>
+<p>Afsuski, hattoki eng ishonchli parol ham g‘araz niyatli shaxsning hisobingizni kirish huquqini qo‘lga kirita olmasligini kafolatlay olmaydi. Buni turli usullarda qilish mumkin. Xakerlar hisobingiz ma’lumotlarini bevosita xizmatlar yetkazib beruvchisidan o‘g‘irlashlari mumkin (bu siz o‘ylaganingizga qaraganda ko‘proq yuz beradi). Qurilmangizga bosiladigan har bir tugmani (jumladan parollaringizni) yozib boruvchi mayda dastur o‘rnatishlari mumkin. Turishqoq g‘arazli niyatli shaxs parolingizni buzishi yoki sizni uni oshkor qilishga ishontirishi mumkin. Va nihoyat parolni siz uni kiritayotgan vaqtingizda yashirin kamera orqali ko‘rish mumkin.</p>
+<p>Shuning uchun siz uchun muhim bo‘lgan hisoblarni ikki omilli autentifikatsiya (2FA) bilan himoyalash muhimdir. Agar ikki omilli autentifikatsiya yoqilsa, hisobga kirish uchun shaxsni ikki usulda tasdiqlash talab qilinadi. Shunday qilib parolni kiritishdan (<em>birinchi</em> omil) tashqari shaxsingizni tasdiqlash uchun qo‘shimcha ma’lumotni taqdim etish (<em>ikkinchi</em> omil) talab qilinadi. Mohiyatan ikki omilli autentifikatsiya hattoki parollaringiz buzilgan holda ham hisoblaringiz xavfsizligini kafolatlagan holda hisoblaringizning yana bir himoya darajasi bilan ta’minlaydi.</p>
+<h2>Ikkinchi omil bo‘lib nimalar xizmat qilishi mumkin</h2>
+<p>Ko‘pchilik hisoblar foydalanuvchilarga haqiqiylikni tekshirish uchun qo‘shimcha ma’lumotlarning uchta toifasidan birini tanlashga imkon beradi:</p>
+<ul>
+<li><strong>Sizga ma’lum bo‘lgan biror narsa</strong>: PIN-kod yoki o‘zingiz tanlagan nazorat savoliga javob kabi faqat siz bilishingiz kerak bo‘lgan ma’lumot.</li>
+<li><strong>Sizda bir nimadir</strong>: hisobingizga kirish uchun yoningizda bo‘lishi kerak bo‘lgan moddiy buyum. Bu xavfsizlik markeri (kichkina qurilma) yoki SMS yoki maxsus ilovalarda autentifikatsiya kodini olishingiz mumkin bo‘lgana smartfoningiz.</li>
+<li><strong>Sizning kimligingiz</strong>: barmoq izlari, yuz yoki ko‘zning rangdor pardasi kabi sizning biometrik ma’lumotlaringiz.</li>
+</ul>
+<h2>Qaysi ikkinchi omilni tanlash kerak</h2>
+<p>Har bir foydalanuvchiga mos keluvchi universal ikkinchi omilni aytish juda qiyin. Sizning vaziyatingiz, xatarlar va qulaylik mulohazalaridan kelib chiqib tanlash kerak. Biz ongli tarzda tanlov qilishingizga yordam beruvchi bir nechta maslahatlarni taklif qilamiz:</p>
+<ul>
+<li><strong>Nazorat savollari</strong> 2FA ni osonlashtiradi, chunki sizdan faqat o‘zingiz tanlagan bir nechta savolga javobni eslab qolish talab qilinadi. Biroq odatda g‘araz niyatli shaxsga ularga javobni topib olish (masalan, onangizning qizlik familiyasi) yoki aldov yo‘li bilan sizni bu ma’lumotlarni berishga majburlash qiyin emas.</li>
+<li><strong>Xavfsizlik markerlari</strong> (U2F kalitlari) 2FA ning eng ishonchli usullaridan biri hisoblanadi, biroq u buning uchun fizik yo‘l bilan himoyalangan bo‘lishi kerak. Bunday qurilmalarning eng asosiy kamchiligi bo‘lib ularni xarid qilish kerakligi hamda ularni turli jihozlarga ulash uchun adapterlar kerak bo‘lishi hisoblanadi. Bundan tashqari qurilma har safar hisobga kirganingizda yoningizda bo‘lishi kerak. Shunday qilib yo‘qotib qo‘yish yoki o‘g‘irlash xavfi har doim mavjud bo‘ladi.</li>
+<li><strong>SMS-xabarlar</strong> ularning darhol telefoningizga kelishi bilan qulaydir. Biroq bu ikki omilli autentifikatsiyaning eng kam darajada xavfsiz bo‘lgan usullaridan biridir, chunki SMS-xabarlarni osongina manfaatdor odamlarga qayta yo‘naltirish yoki mobil aloqa operatoringiz tomonidan ushlab olinishi mumkin.</li>
+<li><strong>Ikki omilli autentifikatsiya uchun ilovalar</strong> ikki omilli autentifikatsiyaning eng xavfsiz va qulay usullaridan biri hisoblanadi. Siz bunday ilovani hisobingizga bog‘laganingizda u asosiy parolni kiritgandan keyin ko‘rsatish kerak bo‘ladigan vaqtinchalik parollar yoki traqamli kodlarni hosil qiladi. Ushbu parollar yoki kodlarni SMS-xabar singari ushlab olish oson emas. Biroq bunday ilovalarning ishonchliligi mobil qurilmangizning xavfsizligiga bog‘liq bo‘ladi. Ulardan xavfsiz tarzda foydalanish uchun telefon va tanlangan ilova ishonchli parollar bilan himoyalangan bo‘lishi kerak. Ekspertlar ikki omilli autentifikatsiya uchun quyidagi ilovalarni tavsiya qiladilar: Aegis, Authy, Google Authenticator va LastPass Authenticator. Ulardan qaysi birini tanlashingizdan qat’iy nazar o‘zingiz ikki omilli autentifikastiya uchun ilova bilan bog‘laydigan har bir hisob uchun bir martalik zahiraviy nusxalash kodlarini xavfsiz joyda saqlang. Bu kodlar ilova o‘rnatilgan telefonni yo‘qotib qo‘yadigan hollarda hiosblarga kirish uchun kerak bo‘ladi.</li>
+<li><strong>Barmoq izlari</strong>, <strong>yuz</strong> yoki <strong>ovoz</strong> singari <strong>biometrik ma’lumotlardan</strong> foydalanish juda qulay, biroq dastlab ko‘ringani kabi xavfsiz emas. Afsuski, ko‘pgina ommabop internet xizmatlar biometrik ma’lumotlar yordamidagi ikki omilli autentifikatsiyani taklif qilmaydi. Bundan tashqari ko‘pgina foydalanuvchilar ulardan foydalanishni xohlashmaydi, chunki parollardan farq qilgan holda o‘g‘irlangan biometrik ma’lumotlarni o‘zgartirib bo‘lmaydi. U butun umr &laquo;buzilgan&raquo; holda qoladi. Internet xizmatlar biometrik ma’lumotlaringizni sizning roziligingizsiz uchinchi shaxslarga sotishlari ham mumkin.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/why-you-should-use-two-factor-authentication-uz/">Nima uchun ikki faktorli autentifikatsiyadan foydalanish kerak</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

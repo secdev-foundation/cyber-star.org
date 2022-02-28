@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Date Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/ro/cs-categories/data-ro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 09 Feb 2022 02:48:08 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</title>
+		<link>https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 03:56:25 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=652</guid>
+
+					<description><![CDATA[<p>Suntem înconjurați de date digitale. De fiecare dată când vizionați un videoclip, citiți ceva pe Internet sau primiți un e-mail, consumați date create de alții. În schimb, de fiecare dată când trimiteți un mesaj, lucrați la un document pe un computer sau postați ceva pe rețelele de socializare, creați propriile date. Într-o lume tot mai [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/">Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Suntem înconjurați de date digitale. De fiecare dată când vizionați un videoclip, citiți ceva pe Internet sau primiți un e-mail, consumați date create de alții. În schimb, de fiecare dată când trimiteți un mesaj, lucrați la un document pe un computer sau postați ceva pe rețelele de socializare, creați propriile date.</p>
+<p>Într-o lume tot mai conectată, aceste date sunt o marfă valoroasă. Ele sunt colectate, analizate și utilizate în diverse scopuri: pentru a vă vinde bunuri online sau chiar pentru a încerca să vă fure banii. Pentru a ști cum să vă protejați cele mai valoroase date este nevoie să înțelegeți mai întâi care sunt aceste date, cum sunt create și distruse, dar și cine ar vrea să le obțină.</p>
+<h2>Ce sunt date digitale</h2>
+<p>Orice informație prelucrată sau stocată de un computer, smartphone sau dispozitiv de stocare a datelor este informație digitală. Creați și consumați aceste informații sub formă de documente text, videoclipuri, sunete, imagini, software, etc. La nivel elimentar, toate aceste date sunt alcătuite din secvențe de 1 (unu) și 0 (zero), cunoscute sub numele de date <em>binare</em>.</p>
+<p>Deoarece toate computerele și smartphone-urile folosesc acest format, datele digitale pot fi create, prelucrate și stocate pe orice astfel de dispozitiv. De asemenea, ele pot fi transferate de pe un dispozitiv pe altul sau puse la dispoziția a milioane de utilizatori online.</p>
+<p>Este foarte important ca unele dintre datele dvs. personale să fie păstrate în siguranță. Ca exemplu pot fi: data de naștere, adresa, numărul pașaportului, numărul permisului de conducere, IDNP-ul, numărul contului bancar, fișele medicale, etc. Orice date care ar putea fi folosite pentru a vă identifica sunt definite ca <em>informații cu caracter personal</em>.</p>
+<h2>Crearea datelor digitale</h2>
+<p>De fiecare dată când folosiți un computer sau un dispozitiv mobil, creați date. Puteți vedea cu ușurință unele dintre aceste date, de exemplu atunci când creați un document Word nou, postați ceva pe platformele de socializare sau faceți o poză cu telefonul mobil.</p>
+<p>Totuși, majoritatea datelor pe care le generați atunci când folosiți un dispozitiv digital sunt mult mai greu de văzut. Știați că, computerul dvs. păstrează o evidență detaliată cu zilele când îl folosiți, aplicațiile pe care le deschideți și pentru cât timp. Dacă sunteți un utilizator obișnuit, browserul dvs. de Internet monitorizează siteurile pe care le accesați, timpul pe care îl petreceți pe fiecare dintre ele, orice click pe care îl faceți și fiecare fișier pe care îl descărcați. Pentru fiecare poză pe care o faceți, smartphone-ul dvs. înregistrează data și locul în care ați făcut-o. Aceste date rămân, de obicei, ascunse, doar dacă nu știți exact unde să le căutați.</p>
+<h2>Distrugerea datelor digitale</h2>
+<p>Distrugerea datelor nu este atât de simplă precum pare. Când faceți click pe „șterge” sau mutați un fișier în coșul de gunoi, sistemul de operare mai păstrează fișierul pentru o perioadă de timp, în caz că o să vă răzgândiți. Astfel, oricine poate găsi cu ușurință acest fișier, dacă are acces la dispozitivul dvs.</p>
+<p>Chiar și atunci când goliți coșul de gunoi sau când ștergeți fișierele ocolind coșul, aceste fișiere nu dispar de pe dispozitiv. Când ștergeți fișierele, sistemul de operare de pe dispozitivul dvs. primește un semnal că aceste fișiere nu mai sunt necesare și nu le mai arată. Sistemul de operare nu distruge aceste fișiere cu adevărat. El marchează spațiul pe care îl ocupă fișierele șterse ca fiind spațiu liber și doar când acest spațiu este necesar pentru alte fișiere, suprascrie datele fișierelor șterse cu datele binare ale noilor fișiere. Până când  acest lucru nu se întâmplă, fișierele „șterse” rămân pe dispozitivul dvs. Prin urmare, nu este dificil să le recuperați.</p>
+<p>Totuși, există instrumente speciale pe care le puteți folosi pentru a <em>distruge</em> în siguranță fișierele de pe dispozitivele dvs.. Mai exact, aceste instrumente șterg fișierele și înlocuiesc datele lor binare cu unele combinații aleatorii de unu și zero. De exemplu, puteți să urmați aceste instrucțiuni pentru a instala și a începe să folosiți BleachBit &#8211; un instrument gratuit care distruge datele de pe hard disk în mod securizat și definitiv.</p>
+<p>Este mult mai greu să distrugeți datele pe care le-ați partajat online. Când postați fotografii pe platformele de socializare, vă înregistrați pentru servicii cu o adresă de e-mail, partajați documente prin intermediul aplicațiilor de mesagerie sau trimiteți videoclipuri prin siteurile de partajare a fișierelor, nu puteți fi sigur cine mai are copii ale acestor date.</p>
+<h2>Cine ar vrea să obțină datele dvs.</h2>
+<p>Nu se știe niciodată cine ar putea fi interesat de datele pe care le aveți salvate pe dispozitivele dvs. Persoane individuale, grupuri sau organizații ar putea vrea să obțină accesul la aceste date din câteva motive, cum ar fi, de exemplu, pentru a vă fura datele de identificare ale contului bancar sau fotografiile și videoclipurile personale pentru a vă șantaja. Deoarece nu știți cine și de ce ar putea fi interesat de informațiile dvs., trebuie să vă asigurați întotdeauna că toate computerele, dispozitivele mobile și dispozitivele de stocare a datelor sunt securizate.</p>
+<p>Există o mulțime de informații pe care le lăsați în urmă și atunci când navigați pe Internet de pe computerul sau dispozitivul dvs. mobil. Asigurați-vă că înțelegeți ce fel de informații dezvăluiți prin prezența dvs. online, cum sunt utilizate aceste informații și ce puteți face pentru a vă minimiza amprenta digitală.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/">Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să păstrați în siguranță datele de pe dispozitive</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-keep-data-on-your-devices-safe-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-data-on-your-devices-safe-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:04:58 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=654</guid>
+
+					<description><![CDATA[<p>Dispozitivele digitale pe care le folosiți în scopuri personale și profesionale conțin multe dintre datele dvs. Laptopul, telefonul mobil, tableta, hard diskul extern și toate stickurile de memorie USB împrăștiate prin locuința dvs. stochează date sub formă de documente, imagini, videoclipuri, etc. Aceste dispozitive ar putea să conțină chiar și fișiere pe care credeți că [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-keep-data-on-your-devices-safe-ro/">Cum să păstrați în siguranță datele de pe dispozitive</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Dispozitivele digitale pe care le folosiți în scopuri personale și profesionale conțin multe dintre datele dvs. Laptopul, telefonul mobil, tableta, hard diskul extern și toate stickurile de memorie USB împrăștiate prin locuința dvs. stochează date sub formă de documente, imagini, videoclipuri, etc. Aceste dispozitive ar putea să conțină chiar și fișiere pe care credeți că le-ați șters deja.</p>
+<p>Ce se întâmplă dacă cineva se uită prin fișierele dvs. când nu sunteți de față? Dar dacă cineva fură un dispozitiv care conține fișiere personale și profesionale sensibile? Dar dacă pierdeți un astfel de dispozitiv? Dar dacă dispozitivul se defectează și pierdeți toate informațiile valoroase? Urmați aceste sfaturi pentru a vă securiza cele mai valoroase date.</p>
+<h2>1. Securizați-vă fizic dispozitivele</h2>
+<p>S-ar putea să sune prea evident, dar unul dintre cele mai importante lucruri pe care îl puteți face pentru a vă proteja datele digitale este să aveți grijă de securitatea fizică a dispozitivelor dvs. S-ar putea să pierdeți un laptop, un telefon mobil, o tabletă sau un dispozitiv de stocare externă sau vi se poate fura un dispozitiv. Dacă se întâmplă acest lucru, cei care intră în posesia dispozitivului pot accesa fișierele sensibile sau informațiile cu caracter personal pe care le-ați stocat acolo.</p>
+<p>Așadar, păstrați-vă dispozitivele într-un loc sigur atunci când nu le folosiți. Țineți evidența tuturor dispozitivelor de stocare externă pe care le folosiți, inclusiv a stick-urilor de memorie USB, a CD-urilor și a DVD-urilor și păstrați-le sub cheie. Nu vă lăsați niciodată dispozitivele nesupravegheate într-un loc unde pot fi furate. Atunci când călătoriți sau vizitați locuri unde vi s-ar putea cere să predați dispozitivele digitale, cum ar fi aeroporturi, birouri guvernamentale și ambasade, gândiți-vă poate lăsați unele dintre dispozitive acasă. Dacă folosiți des un laptop într-un loc semi-public cum ar fi școala, un spațiu de lucru în comun sau o cafenea, cumpărați un cablu de securitate Kensington.</p>
+<h2>2. Protejați-vă dispozitivele cu parole</h2>
+<p>Protejarea dispozitivelor dvs. digitale cu parole puternice garantează faptul că nimeni nu-și va băga nasul în fișierele dvs. atunci când lăsați dispozitivele nesupravegheate. De asemenea, oferă o protecție (deși imperfectă) pentru datele dvs., atunci când pierdeți un dispozitiv sau cineva îl fură.</p>
+<p>Activați blocarea automată a ecranului după o perioadă scurtă de inactivitate pe toate dispozitivele. Asigurați-vă că știți cum să blocați manual ecranul dispozitivului și nu uitați să faceți asta de fiecare dată când vă îndepărtați de el.</p>
+<h2>3. Criptați fișierele sensibile</h2>
+<p>Dacă vă pierdeți dispozitivul sau cineva îl fură, acea persoană poate accesa toate fișierele sensibile sau informațiile personale pe care le-ați stocat pe dispozitiv. Cea mai bună modalitate de a securiza datele sensibile de pe dispozitivele dvs. este să folosiți criptarea. Criptarea face ca toate datele de pe un dispozitiv să fie complet ilizibile. Datele criptate pot fi citite numai de persoana care are parola sau cheia pentru decriptare.</p>
+<p>Urmați aceste indicații pentru a configura criptarea pe dispozitivele Windows 10 și Mac.</p>
+<h2>4. Faceți backup datelor dvs.</h2>
+<p>Să vă scotocească cineva prin fișiere nu este singurul risc la care sunteți expus dacă unul dintre dispozitivele dvs. este pierdut sau furat. Riscați, de asemenea, să pierdeți accesul la fișiere importante, fără a putea vreodată să le înlocuiți pe unele dintre acestea. De asemenea, puteți pierde date, dacă un dispozitiv se defectează sau este criptat ca urmare a unui atac de ransomware.</p>
+<p>Cel mai bun mod de a garanta că nu veți pierde niciodată fișiere importante este să faceți backup datelor dvs., automat sau în mod frecvent și regulat. Urmați aceste indicații pentru a configura backup-ul automat al datelor pe dispozitivele Windows 10 și Mac.</p>
+<h2>5. Folosiți software antivirus și mențineți-vă sistemul actualizat</h2>
+<p>Un program antivirus bun va proteja dispozitivele dvs. de programe rău-intenționate care vă pot fura, deteriora sau distruge datele. Asigurați-vă că folosiți un program antivirus licențiat. Dacă sunteți utilizator de Windows, sistemul dvs. de operare are integrat un instrument antivirus eficient &#8211; Microsoft Defender.</p>
+<p>Ar trebui să vă asigurați, de asemenea, că software-ul antivirus și sistemul de operare sunt actualizate. Cel mai bine este să setați acest software să se actualizeze automat.</p>
+<h2>6. Ștergeți fișierele în siguranță</h2>
+<p>Ștergerea fișierelor pe un computer, dispozitiv mobil sau dispozitiv de stocare externă a datelor nu face cu adevărat ca fișierele să dispară. Datele rămân pe dispozitiv și pot fi recuperate. Singurul mod de a vă asigura că fișierele dvs. sunt șterse definitiv este să folosiți un software special care suprascrie datele șterse cu un cod aleatoriu. Dacă faceți backup datelor dvs. (așa cum ar trebui să o faceți), rețineți că pe lângă ștergerea fișierelor sensibile din dispozitivele dvs., ar trebui să ștergeți aceleași fișiere și din backup-urile dvs.</p>
+<p>Urmați aceste instrucțiuni pentru a instala și a rula BleachBit, un instrument gratuit și cu sursă deschisă pe care îl puteți folosi pentru a elimina datele de pe hard disk-urile tradiționale în mod securizat și definitiv. Din păcate, dacă folosiți dispozitive de stocare SSD (cunoscute și sub numele de flash card), nu este întotdeauna posibil să eliminați definitiv toate urmele datelor șterse.</p>
+<h2>7. Eliminați dispozitivele vechi în siguranță</h2>
+<p>Înainte de a vinde, a recicla sau a arunca un computer, un dispozitiv mobil sau orice alt dispozitiv vechi de stocare a datelor, asigurați-vă că nu lăsați informații personale sau confidențiale pe acesta. Curățați dispozitivul folosind un instrument de încredere pentru eliminarea sigură și definitivă a datelor și resetați-l la setările din fabrică.</p>
+<p>Dacă vreți să scăpați de CD-uri, DVD-uri, dispozitive de stocare SSD, stick-uri de memorie USB sau orice alte dispozitive vechi de stocare a datelor, mai bine să le spargeți cu un ciocan sau cu oricare altă unealtă pentru a le distruge fizic.</p>
+<h2>8. Nu partajați date confidențiale</h2>
+<p>Cel mai bun mod de a vă securiza datele sensibile sau confidențiale este să nu le partajați cu nimeni. Când partajați fișiere digitale cu alții, nu mai dețineți controlul deplin asupra securității acelor date.</p>
+<p>Dacă partajați online date sensibile sau confidențiale, urmați aceste instrucțiuni pentru a o face într-un mod securizat.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-keep-data-on-your-devices-safe-ro/">Cum să păstrați în siguranță datele de pe dispozitive</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să păstrați și să partajați fișierele online în siguranță</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-keep-and-share-files-securely-online-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-and-share-files-securely-online-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:13:45 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=655</guid>
+
+					<description><![CDATA[<p>Deși toate datele personale și profesionale ar trebui gestionate în mod securizat, este important să acordați o atenție mai mare unor anumite fișierele. De exemplu, fișiere care conțin data dvs. de naștere, adresa, numărul pașaportului, numărul permisului de conducere, INDP-ul, numărul contului bancar, fișe medicale, fișe fiscale, etc. Unele dintre fișierele dvs. audio, imagini și [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-keep-and-share-files-securely-online-ro/">Cum să păstrați și să partajați fișierele online în siguranță</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Deși toate datele personale și profesionale ar trebui gestionate în mod securizat, este important să acordați o atenție mai mare unor anumite fișierele. De exemplu, fișiere care conțin data dvs. de naștere, adresa, numărul pașaportului, numărul permisului de conducere, INDP-ul, numărul contului bancar, fișe medicale, fișe fiscale, etc. Unele dintre fișierele dvs. audio, imagini și videouri pot fi, la fel, confidențiale sau sensibile.</p>
+<p>Pe lângă securizarea acestor date pe dispozitivele dvs., una dintre cele mai bune modalități pentru a împiedica ca ele să ajungă pe mâini străine este să nu le stocați online și să nu le partajați niciodată. <strong>Nu partajați fișiere confidențiale sau sensibile cu nimeni pe Internet, decât dacă este absolut necesar</strong>. Deși aveți un control aproape complet asupra securității datelor atunci cât ele rămân doar pe dispozitivele dvs., pierdeți o mare parte din acest control din momentul în care le încărcați online sau le partajați cu cineva.</p>
+<p>Atunci când trebuie să păstrați online sau să partajați fișierele, este important să știți cum să o faceți într-un mod securizat.</p>
+<h2>Stocarea online a fișierelor în siguranță</h2>
+<p>Dropbox, Google Drive, OneDrive, Tresorit și altele &#8211; există multe servicii populare de stocare sau de salvare în cloud a fișierelor. Aveți dintre care să alegeți. Aceste servicii vă permit să aveți acces ușor la fișierele dvs. pe orice dispozitiv, de oriunde. De asemenea, acestea vă permit să oferiți altor persoane acces la unele dintre fișierele dvs. și să lucrați împreună cu ei la acele fișiere.</p>
+<p>Dacă folosiți servicii de stocare a fișierelor sau de salvare în cloud, urmați acești pași pentru a vă proteja datele:</p>
+<ul>
+<li>Folosiți un serviciu de încredere și asigurați-vă că acesta criptează atât fișierele care sunt în tranzit, cât și pe cele care sunt stocate. Atunci când este posibil, alegeți opțiuni de criptare cu cunoaștere zero precum Tresorit și Mega.io, pentru a vă asigura că datele dvs. sunt securizate chiar dacă furnizorul de cloud este compromis. Securizați-vă conturile pe aceste servicii cu parole puternice și unice.</li>
+<li>Activați autentificarea cu doi factori pe conturile dvs. pentru a vă proteja fișierul în cazul în care cineva vă fură sau vă sparge parolele.</li>
+<li>Dacă oferiți altor persoane acces online la fișierele dvs., asigurați-vă că ele își securizează conturile cu parole puternice și autentificare cu doi factori.</li>
+<li>Limitați cantitatea de fișiere sensibile și confidențiale pe care le păstrați online. Nu încărcați fișiere personale sau profesionale importante pe mai mult de o platformă și ștergeți aceste fișiere când nu mai aveți nevoie de ele online.</li>
+</ul>
+<h2>Partajarea în siguranță a fișierelor</h2>
+<p>Dacă trebuie să trimiteți cuiva un fișier sensibil sau confidențial, există mai multe modalități simple de a o face. Indiferent pentru care metodă optați, trebuie să înțelegeți riscurile pe care le presupune partajarea datelor sensibile prin această metodă și să știți cum să minimizați aceste riscuri.</p>
+<ul>
+<li>
+<h3>Servicii de partajare a fișierelor</h3>
+<p>Puteți partaja fișiere încărcându-le pe o platformă de stocare online sau pe una de partajare a fișierelor, iar ulterior să expediați link-ul către aceste fișiere. Dacă alegeți această metodă, asigurați-vă că luați măsurile de precauție enumerate mai sus. De asemenea, linkurile de partajare pe care le generați trebuie să le tratați ca fiind date sensibile.</li>
+</ul>
+<ul>
+<li>
+<h3>E-mail</h3>
+<p>Puteți folosi, de asemenea, e-mailul pentru a trimite fișiere sensibile sau confidențiale. Urmați aceste măsuri de precauție pentru a face asta într-un mod securizat:</p>
+<ul>
+<li>Folosiți un serviciu de e-mail criptat și de încredere. ProtonMail și Tutanota oferă servicii gratuite, cu sursă deschisă și criptare integrală.</li>
+<li>Securizați-vă contul de e-mail cu o parolă puternică și unică.</li>
+<li>Activați autentificarea cu doi factori pe contul dvs. de e-mail.</li>
+<li>Asigurați-vă că și persoanele cărora le trimiteți fișierele au conturile securizate cu o parolă puternică și autentificare cu doi factori.</li>
+<li>De îndată ce știți că fișierele dvs. au fost primite, ștergeți-le din contul dvs. de e-mail. Nu uitați să ștergeți aceste e-mailuri și din coșul de gunoi.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<h3>Aplicații de mesagerie</h3>
+<p>Puteți folosi inclusiv aplicațiile de mesagerie pentru a partaja informațiile mai puțin confidențiale, dar totuși sensibile. Aceste aplicații sunt perfecte pentru partajarea imaginilor și a videoclipurilor personale. Dacă faceți acest lucru, aveți grijă să folosiți o aplicație de mesagerie de încredere și cu criptare integrală, cum ar fi Signal sau Wire. De asemenea, puteți folosi opțiunea de mesaje care dispar pentru a vă asigura că fișierele dvs. nu rămân în aplicație.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-keep-and-share-files-securely-online-ro/">Cum să păstrați și să partajați fișierele online în siguranță</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:23:13 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=658</guid>
+
+					<description><![CDATA[<p>Datele importante pot fi pierdute mai ușor decât credeți. Cele mai frecvente modalități de pierdere a datelor includ greșelile utilizatorului, defecțiunile hardware, furtul sau pierderea dispozitivului și infectarea cu programe malware. Atacurile ransomware și piratarea computerului reprezintă, de asemenea, un pericol semnificativ pentru fișierele de pe dispozitivele dvs. Singura modalitate de a vă proteja fișierele [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/">De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Datele importante pot fi pierdute mai ușor decât credeți. Cele mai frecvente modalități de pierdere a datelor includ greșelile utilizatorului, defecțiunile hardware, furtul sau pierderea dispozitivului și infectarea cu programe malware. Atacurile ransomware și piratarea computerului reprezintă, de asemenea, un pericol semnificativ pentru fișierele de pe dispozitivele dvs.</p>
+<p>Singura modalitate de a vă proteja fișierele importante de toate aceste riscuri este să faceți cât mai des backup de date. Backup-ul datelor presupune crearea unor copii ale fișierelor dvs. și stocarea lor pe un hard disk, un dispozitiv de stocare externă sau un serviciu de backup cloud. Backup-urile de date vă permit să restabiliți rapid fișierele importante, în cazul în care datele originale de pe dispozitivele dvs. sunt pierdute sau compromise.</p>
+<h2>Unde vă puteți păstra backup-urile</h2>
+<p>Atunci când apare întrebarea unde să faceți backup datelor, puteți alege între hard disk-ul de pe dispozitivul dvs., un dispozitiv detașabil de stocare a datelor și serviciul de stocare cloud. Fiecare dintre aceste opțiuni are propriile avantaje și dezavantaje.</p>
+<h3>Hard disk-ul local</h3>
+<p>Cea mai potrivită destinație de backup este hard disk-ul de pe dispozitivul dvs. Puteți crea o partiție separată pe disc și păstra acolo copiile de rezervă. Cel mai mare dezavantaj al backup-ului de date pe hard disk-ul local este că acest lucru nu vă va proteja în cazul defecțiunii complete ale hard disk-ului, a infectării cu programe malware sau dacă dispozitivul dvs. va fi pierdut sau furat.</p>
+<h3>Dispozitiv detașabil de stocare a datelor</h3>
+<p>Backup-ul fișierelor pe un dispozitiv detașabil de stocare a datelor, cum ar fi un hard disk extern sau un stick de memorie USB, vă menține datele în siguranță, chiar și dacă dispozitivul pe care sunt stocate datele originale se defectează sau este pierdut. Dispozitivele detașabile de stocare a datelor pot păstra o mulțime de date și sunt foarte fiabile dacă le criptați. De asemenea, ele sunt mai ușor de utilizat, mai rapide și mai ieftine decât opțiunile de backup la distanță.</p>
+<p>Cu toate acestea, aceste dispozitive de stocare a datelor pot funcționa defectuos și sunt vulnerabile la calamitățile naturale, cum ar fi inundațiile și incendiile. Programele malware pot infecta aceste dispozitive împreună cu discul dvs. de bază. De asemenea, acestea pot fi pierdute sau furate.</p>
+<h3>Serviciul de stocare cloud</h3>
+<p>Serviciile de stocare cloud reprezintă o destinație de backup a datelor tot mai populară. Majoritatea serviciilor de stocare cloud oferă mult spațiu de stocare și criptează datele. Cu backup-urile stocate pe cloud, puteți accesa și gestiona datele dvs. oricând, de pe orice dispozitiv conectat.</p>
+<p>Plasarea unei copii de rezervă a datelor dvs. într-o locație sigură și îndepărtată vă oferă o stare de confort și vă asigură că datele dvs. sunt în siguranță și pot fi recuperate. În plus, serviciile de backup pe cloud vă permit adesea să salvați mai multe versiuni ale fișierului, oferindu-vă astfel posibilitatea de a readuce fișierele la versiunile anterioare. Cu toate acestea, serviciile cloud sunt mai lente și deseori mai scumpe decât opțiunile de backup local. În plus, nu puteți accesa datele de pe cloud fără acces la Internet.</p>
+<p>Atunci când alegeți serviciul de stocare cloud, luați în calcul opțiunile care oferă stocare criptată zero-knowledge. Aceasta înseamnă că nici compania care vă stochează copiile de rezervă nu are posibilitatea de a vă vedea fișierele. Există opțiuni gratuite, disponibile atât în cazul stocării cloud convenționale, cât și în cea criptată zero-knowledge.</p>
+<p>Oricare ar fi serviciul pe care îl utilizați, asigurați-vă că vă securizați contul cu o parolă puternică și unică, dar și că activați autentificarea cu doi factori.</p>
+<h2>Regula 3-2-1 pentru backup-ul datelor importante</h2>
+<p>S-ar putea să aveți fișiere care sunt deosebit de importante pentru dvs. Ar fi bine să faceți copii de rezervă pentru aceste fișiere în mai multe locuri. Pentru a securiza datele deosebit de sensibile, confidențiale sau de valoare, luați în considerare respectarea regulei 3-2-1 pentru backup: întotdeauna păstrați trei copii ale datelor dvs., două pe diferite dispozitive locale și una într-o locație la distanță.</p>
+<p>În practică, aceasta înseamnă că datele originale sunt pe dispozitivul dvs., o copie de rezervă pe un dispozitiv de stocare de date detașabil și una pe un serviciu cloud de backup. Acest sistem garantează că datele dvs. vor fi păstrare chiar și în cazul (puțin probabil) în care veți pierde două copii în același timp.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/">De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să faceți backup pentru un computer cu Windows 10</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-backup-a-windows-10-computer-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-backup-a-windows-10-computer-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:28:20 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=659</guid>
+
+					<description><![CDATA[<p>Backup-ul datelor este cel mai bun mod de a vă asigura că nu le veți pierde, indiferent ce s-ar putea întâmpla cu dispozitivul unde stocați datele originale. Backup-ul datelor presupune crearea unor copii ale fișierelor dvs. și stocarea lor pe un hard disk, un dispozitiv de stocare externă sau un serviciu de backup în cloud. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-backup-a-windows-10-computer-ro/">Cum să faceți backup pentru un computer cu Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Backup-ul datelor este cel mai bun mod de a vă asigura că nu le veți pierde, indiferent ce s-ar putea întâmpla cu dispozitivul unde stocați datele originale. Backup-ul datelor presupune crearea unor copii ale fișierelor dvs. și stocarea lor pe un hard disk, un dispozitiv de stocare externă sau un serviciu de backup în cloud. Aveți mai multe opțiuni unde să păstrați backup-urile.</p>
+<p>În funcție de nevoile dvs., puteți alege să faceți backup întregului hard disk sau doar unor anumite fișiere sau mape de pe dispozitiv. Tot dvs. decideți cât de des doriți să faceți backup datelor dvs. Cu cât o faceți mai des, cu atât datele dvs. sunt mai în siguranță. Cea mai ușoară modalitate de a face acest lucru este să configurați backup-uri automate regulate ale datelor.</p>
+<p>Cea mai ușoară modalitate de a crea backup-uri ale fișierelor de pe computerul dvs. cu Windows 10 este să folosiți software-ul integrat cu sistemul de operare. Există opțiuni terțe de backup, care oferă o mai bună securitate a datelor, însă acele opțiuni nu sunt gratuite.</p>
+<h2>Faceți backup în Windows folosind funcția Istoric Fișier</h2>
+<p>Windows 10 are o funcție numită Istoric Fișier, care creează automat backup-uri ale anumitor foldere cu fișiere pe un dispozitiv ales de dvs. Pentru a o configura, conectați la computer un dispozitiv de stocare externă. După ce dispozitivul este conectat, faceți clic pe butonul <strong>Start</strong> și mergeți la <strong>Setări</strong> &gt; <strong>Actualizare și securitate</strong> &gt; <strong>Backup</strong>. Apoi faceți clic pe <strong>Adăugați un drive</strong> în secțiunea <strong>Faceți backup utilizând Istoric Fișier</strong> și selectați un dispozitiv de stocare externă a datelor sau o locație în rețea unde vreți să vă păstrați backup-urile.</p>
+<p><img class="size-full wp-image-305 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg" alt="Adding a drive for backup" width="1600" height="1449" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-300x272.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1024x927.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-768x696.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1536x1391.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1200x1087.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Pentru a configura cât de des datele dvs. să facă copii de rezervă, faceți click pe butonul <strong>Start</strong> și mergeți la <strong>Setări</strong> &gt; <strong>Actualizare și securitate</strong> &gt; <strong>Backup</strong>. Acum faceți click pe <strong>Mai multe opțiuni</strong> și, în partea de sus a ferestrei <strong>Istoric Fișier</strong>, faceți click pe meniul derulant <strong> Backup fișierelor mele</strong> și alegeți cât de des vreți să faceți backup. Opțiunile pe care le aveți la dispoziție variază de la fiecare zece minute până la zilnic.</p>
+<p><img class="wp-image-309 size-full aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg" alt="Windows Backup more options" width="1600" height="1443" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-300x271.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1024x924.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-768x693.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1536x1385.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1200x1082.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img class="size-full wp-image-308 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg" alt="Setting up the backup frequency" width="1600" height="1439" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1024x921.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-768x691.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1536x1381.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1200x1079.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Pentru a selecta mapele cărora să le faceți backup, faceți click pe butonul <strong>Start</strong> și mergeți la <strong>Setări</strong> &gt; <strong>Actualizare și securitate</strong> &gt; <strong>Backup</strong>. Derulați fereastra Opțiuni de backup pentru a vedea și a edita lista implicită cu mapele incluse în backup. Puteți să eliminați mape (faceți click pe butonul <strong>Eliminați</strong>) din listă și să adăugați alte mape (faceți click pe butonul <strong>Adăugați o mapă</strong>).</p>
+<p><img class="size-full wp-image-307 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg" alt="Removing a folder in the backup options" width="1600" height="1439" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1024x921.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-768x691.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1536x1381.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1200x1079.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img class="size-full wp-image-306 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg" alt="Adding a folder to the backup" width="1600" height="1441" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1024x922.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-768x692.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1536x1383.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1200x1081.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Pentru a finaliza configurarea și a începe procesul de backup, faceți click pe <strong>Faceți backup acum</strong> în partea de sus a ecranului. După terminarea unui backup, Windows afișează dimensiunea, data și ora efectuării backup-ului.</p>
+<p><img class="size-full wp-image-310 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg" alt="Starting the backup procedure" width="1600" height="1441" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1024x922.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-768x692.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1536x1383.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1200x1081.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>Faceți backup în Windows folosind aplicații terțe</h2>
+<p>Dacă nu sunteți mulțumit de opțiunile de backup integrate în computerul dvs., puteți oricând să alegeți o aplicație terță precum Backblaze, Carbonite, Dropbox sau Google Drive. Atunci când cumpărați un software de backup terț, asigurați-vă că aveți încredere deplină în el și înțelegeți modul în care va gestiona datele dvs. Pentru a configura o aplicație terță de backup, urmați instrucțiunile de utilizare.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-backup-a-windows-10-computer-ro/">Cum să faceți backup pentru un computer cu Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să faceți backup pentru Mac</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-backup-your-mac-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-backup-your-mac-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:37:24 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=660</guid>
+
+					<description><![CDATA[<p>Backup-ul datelor este cel mai bun mod de a vă asigura că nu le veți pierde, indiferent ce se va întâmpla cu dispozitivul unde stocați datele originale. Backup-ul datelor presupune crearea unor copii ale fișierelor și stocarea lor pe un hard disk, un dispozitiv de stocare externă sau un serviciu de backup în cloud. Aveți [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-backup-your-mac-ro/">Cum să faceți backup pentru Mac</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Backup-ul datelor este cel mai bun mod de a vă asigura că nu le veți pierde, indiferent ce se va întâmpla cu dispozitivul unde stocați datele originale. Backup-ul datelor presupune crearea unor copii ale fișierelor și stocarea lor pe un hard disk, un dispozitiv de stocare externă sau un serviciu de backup în cloud. Aveți mai multe opțiuni unde să păstrați backup-urile.</p>
+<p>În funcție de nevoile dvs., puteți alege să faceți backup întregului hard disk, unor anumitor fișiere sau mape de pe dispozitiv. Tot dvs. decideți cât de des să faceți backup datelor. Cu cât mai des o faceți, cu atât datele dvs. sunt mai în siguranță. Cea mai ușoară modalitate de a face acest lucru este să configurați backup-uri automate ale datelor, care se vor face regulat.</p>
+<p>Cea mai ușoară modalitate de a crea backup-uri ale fișierelor de pe Mac este să folosiți software-ul integrat cu sistemul de operare. Există și opțiuni terțe de backup, care oferă o securitate a datelor mai bună, însă acestea nu sunt gratuite.</p>
+<h2>Faceți backup cu Time Machine</h2>
+<p>MacOS are o funcție numită Time Machine care creează automat backup-uri ale anumitor mape cu fișiere pe un dispozitiv la alegere. Pentru a o configura, conectați un dispozitiv de stocare externă la Mac. După ce dispozitivul este conectat, deschideți în <strong>meniul Apple</strong> &gt; <strong>Preferințe sistem</strong>, apoi faceți click pe <strong>Time Machine</strong>.</p>
+<p><img class="size-full wp-image-321 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg" alt="macOS Time Machine" width="1200" height="820" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg 1200w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-768x525.jpeg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>După ce faceți click pe <strong>Selectează discul de backup</strong> și alegeți un dispozitiv de stocare externă ca destinație pentru backup-uri, Time Machine va începe să creeze backup-uri pentru fișierele dvs. Puteți continua să folosiți Mac-ul în timp ce sistemul face backup.</p>
+<p><img class="size-full wp-image-320 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg" alt="Selecting a backup disk on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Dacă selectați <strong>Efectuează backup automat</strong>, sistemul va crea backup-uri periodice, adesea fără ca să observați. După primul backup (care probabil va dura ceva timp), backup-urile următoare vor fi mai rapide, deoarece Time Machine face backup doar fișierelor care s-au modificat de la backup-ul anterior.</p>
+<p><img class="size-full wp-image-316 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg" alt="Backup Automatically check box on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Puteți folosi și meniul <strong>Time Machine</strong> (pictograma arată ca un ceas cu două ace și o săgeată în sens antiorar) din bara de meniuri pentru a începe un backup manual (alegeți <strong>Efectuează backup acum</strong>), pentru a verifica starea unui backup sau pentru a omite un backup în desfășurare.</p>
+<p>În mod implicit, Time Machine creează backup pentru tot ce aveți pe hard disk. Pentru a exclude anumite foldere din backup, deschideți preferințele pentru Time Machine și selectați <strong>Opțiuni</strong>. Pentru a exclude elemente din backup, faceți click pe butonul de adăugare (<strong>+</strong>), alegeți elementul pe care vreți să îl eliminați și faceți click pe <strong>Exclude</strong>. Pentru a opri excluderea un folder din backup, selectați folderul și faceți click pe butonul de eliminare (<strong>&#8211;</strong>).</p>
+<p><img class="size-full wp-image-319 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg" alt="Selecting Options on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img class="size-full wp-image-318 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg" alt="Excluding items from a backup on macOS Time Machine" width="1330" height="902" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg 1330w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-300x203.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-1024x694.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-768x521.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-1200x814.jpeg 1200w" sizes="(max-width: 1330px) 100vw, 1330px" /></p>
+<p><img class="size-full wp-image-317 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg" alt="Exclude button in the items selection window for macOS Time Machine" width="1600" height="937" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-300x176.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1024x600.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-768x450.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1536x900.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1200x703.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>Faceți backup cu iCloud</h2>
+<p>În toate dispozitivele Apple este integrat serviciul de stocare online în iCloud. Folosirea acestui serviciu vă scapă de efortul de a conecta la Mac un dispozitiv de stocare externă a datelor de fiecare dată când vreți să faceți backup datelor. Dacă sunteți conectat la iCloud, acesta stochează automat fotografiile, contactele, calendarele, notițele și altele.</p>
+<p>Pentru a vă personaliza setările pentru iCloud, deschideți în <strong>meniul</strong> <strong>Apple</strong> &gt; <strong>Preferințe sistem</strong>, apoi faceți click pe <strong>ID Apple</strong> &gt; <strong>iCloud</strong>. Aici puteți alege aplicațiile pe care vreți să le folosiți cu iCloud. Printre acestea, Fotografii, Notițe și iCloud Drive.</p>
+<p><img class="size-full wp-image-313 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg" alt="Apple ID on macOS System Preferences" width="1000" height="853" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id-300x256.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id-768x655.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img class="size-full wp-image-315 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg" alt="iCloud option on Apple ID on macOS System Preferences" width="1000" height="910" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud-300x273.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud-768x699.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>iCloud este conceput pentru a stoca fotografiile, contactele, calendarele, notițele și parolele dvs. Dacă vreți să faceți backup altor tipuri de fișiere pe iCloud, trebuie să folosiți iCloud Drive. iCloud Drive este serviciul de stocare Apple predestinat documentelor, care funcționează în bază de cloud. Acesta vă permite să stocați în siguranță în iCloud toate tipurile de documente, să le păstrați sincronizate și să le accesați de pe diferite computerele (atât Mac, cât și Windows), de pe dispozitivele iOS și iPadOS. iCloud Drive poate crea automat backup-uri ale tuturor fișierelor de pe desktop și din mapele cu documente.</p>
+<p>Pentru a folosi iCloud Drive, trebuie să îl configurați mai întâi. Pentru a-l configura pe un computer Mac, alegeți în <strong>meniul Apple</strong> &gt; <strong>Preferințe sistem</strong>, faceți click pe <strong>ID Apple</strong>, apoi selectați <strong>iCloud </strong>din bara laterală. Selectați <strong>iCloud Drive</strong>.</p>
+<p><img class="size-full wp-image-314 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg" alt="Checking iCloud Drive checkbox in iCloud settings" width="1000" height="910" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive-300x273.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive-768x699.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Toți utilizatorii de iCloud beneficiază gratuit de 5GB spațiu de stocare online. Acesta include tot ce stocați în iCloud și iCloud Drive. Dacă aveți nevoie de mai mult spațiu pentru backup-uri, va trebui să cumpărați un plan de stocare îmbunătățit sau să optați pentru o altă variantă de stocare.</p>
+<h2>Faceți backup cu aplicații terțe</h2>
+<p>Dacă nu sunteți mulțumit de opțiunile de backup integrate în Mac-ul dvs., puteți oricând să alegeți o aplicație terță precum Backblaze, Carbonite, Dropbox sau Google Drive. Atunci când cumpărați un software de backup terț, asigurați-vă că aveți încredere deplină în el și înțelegeți modul în care va gestionează datele dvs. Pentru a configura o aplicație terță de backup, urmați instrucțiunile de utilizare.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-backup-your-mac-ro/">Cum să faceți backup pentru Mac</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce ar trebui să vă criptați dispozitivele</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:41:55 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=662</guid>
+
+					<description><![CDATA[<p>Computerul, tableta și smartphone-ul dvs. conțin multe date importante sau chiar sensibile. Dacă pierdeți un dispozitiv sau cineva îl fură, acea persoană poate accesa toate fișierele sensibile cu informațiile personale stocate pe el. S-ar putea ca nici parola care protejează dispozitivul să nu împiedice o persoană rău intenționată să vă citească fișierele. Cea mai bună [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/">De ce ar trebui să vă criptați dispozitivele</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Computerul, tableta și smartphone-ul dvs. conțin multe date importante sau chiar sensibile. Dacă pierdeți un dispozitiv sau cineva îl fură, acea persoană poate accesa toate fișierele sensibile cu informațiile personale stocate pe el. S-ar putea ca nici parola care protejează dispozitivul să nu împiedice o persoană rău intenționată să vă citească fișierele.</p>
+<p>Cea mai bună modalitate de a securiza datele sensibile de pe dispozitivele dvs. este să folosiți criptarea. Criptarea face ca toate datele de pe un dispozitiv să fie complet ilizibile, protejându-le astfel de accesarea sau manipularea neautorizată. Este foarte important atunci când aveți de-a face cu date confidențiale care vă pot pune în pericol pe dvs. sau persoanele cu care lucrați.</p>
+<h2>Cum funcționează criptarea</h2>
+<p>La nivel elementar, toate informațiile prelucrate sau stocate pe un computer, smartphone sau dispozitiv de stocare sunt alcătuite din secvențe de unu și zero, cunoscute sub numele de date <em>binare</em>. Deoarece toate computerele și smartphone-urile folosesc acest format, datele digitale pot fi create, prelucrate și stocate pe orice astfel de dispozitiv.</p>
+<p>Criptarea convertește datele binare într-un cod complex pe care îl pot citi numai persoanele cu acces la o parolă sau la o cheie secretă (cunoscută sub numele de <em>cheie pentru decriptare</em>). Chiar dacă persoanele neautorizate obțin acces la date criptate, ele nu pot să descifreze codul sau să îl schimbe.</p>
+<h2>Criptarea întregii unități de disc</h2>
+<p>Prin criptarea întregii unități de disc se criptează toate datele stocate pe dispozitivul dvs. la nivel de hardware. Aceasta funcționează prin convertirea automată a datelor de pe un hard disk într-un cod complex ilizibil. Fără o cheie pentru decriptare potrivită, nimeni nu va putea citi fișierele de pe un dispozitiv criptat.</p>
+<p>Criptarea întregii unități de disc este ușor de folosit pentru că nu necesită efort din partea dvs. după ce deblocați computerul. Funcționează fără ca să observați.</p>
+<p>Unul dintre avantajele folosirii criptării întregii unități de disc este că nu trebuie să vă faceți griji pentru protejarea individuală a fișierelor de pe dispozitiv. Pe măsură ce creați date, acestea sunt criptate automat. Când le citiți, sunt decriptate automat. Criptarea întregii unități de disc garantează și faptul că datele despre care adesea uităm că le avem pe dispozitive (cum ar fi fișierele temporare și fișierele din memoria cache a browserului) sunt securizate.</p>
+<h2>Criptarea dispozitivului</h2>
+<p>În ceea ce privește smartphone-urile, atât dispozitivele Android, cât și cele iOS sunt criptate în mod implicit. Pentru a profita la maximum de această funcție de securitate a datelor, asigurați-vă că smartphone-ul dvs. este protejat cu o parolă puternică sau un cod de acces puternic și că blochează automat ecranul după o scurtă perioadă de inactivitate. De asemenea, asigurați-vă că sistemul de operare de pe smartphone-ul dvs. este actualizat.</p>
+<p>Cea mai ușoară modalitate de a cripta un computer este să folosiți software-ul integrat gratuit, care a venit cu sistemul de operare. Atât dispozitivele Windows, cât și cele Mac au instrumente eficiente pentru criptarea întregii unități de disc. Însă, aceste instrumente vor funcționa doar dacă le configurați. Urmați aceste indicații pentru a configura criptarea pe computerele Windows 10 și Mac.</p>
+<p>De asemenea, ar trebui să aveți în vedere și criptarea dispozitivelor dvs. de stocare externă a datelor. Aceste dispozitive în mod normal vin cu instrumente de criptare integrate. Pentru a configura aceste instrumente, urmați instrucțiunile care le însoțesc.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/">De ce ar trebui să vă criptați dispozitivele</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să criptați un dispozitiv cu Windows 10</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-encrypt-a-windows-10-device-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-encrypt-a-windows-10-device-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:45:30 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=663</guid>
+
+					<description><![CDATA[<p>Cea mai bună modalitate de a securiza datele sensibile de pe computerul dvs. este să utilizați criptarea întregii unități de disc. Cea mai ușoară modalitate de a cripta un hard disk pe un dispozitiv Windows 10 este să folosiți instrumentele de criptare integrate în sistemul de operare. Cel mai probabil, aceste instrumente nu vor funcționa [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-encrypt-a-windows-10-device-ro/">Cum să criptați un dispozitiv cu Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Cea mai bună modalitate de a securiza datele sensibile de pe computerul dvs. este să utilizați criptarea întregii unități de disc. Cea mai ușoară modalitate de a cripta un hard disk pe un dispozitiv Windows 10 este să folosiți instrumentele de criptare integrate în sistemul de operare. Cel mai probabil, aceste instrumente nu vor funcționa pe dispozitivul dvs. decât dacă le activați.</p>
+<p>Fiți frudent, indiferent de instrumentul de criptare pe care îl folosiți, datele dvs. vor fi securizate numai dacă vă protejați dispozitivul cu o parolă puternică și îl setați să se blocheze automat după o perioadă scurtă de inactivitate.</p>
+<h2>Verificați dacă dispozitivul dvs. este compatibil pentru criptare</h2>
+<p>Unele dispozitive mai vechi nu sunt compatibile pentru criptare, chiar dacă utilizează Windows 10. Pentru a verifica dacă dispozitivul dvs. este compatibil pentru criptare, selectați butonul <strong>Start</strong>, navigați la <strong>Setări</strong> &gt; <strong>Sistem</strong> &gt; <strong>Despre</strong> și vedeți dacă aveți opțiunea <strong>Criptare dispozitiv</strong> în partea inferioară a panoului.</p>
+<p>Dacă aveți setarea <strong>Criptare dispozitiv</strong>, o puteți activa conectându-vă la un cont Microsoft. Dacă este activată deja, nu mai este nevoie să faceți ceva suplimentar.</p>
+<p>Dacă nu aveți opțiunea <strong>Criptare dispozitiv</strong>, dispozitivul dvs. nu este compatibil pentru criptare. S-ar putea, totuși, să reușiți să folosiți criptarea standard cu BitLocker, care este disponibilă pe majoritatea versiunilor de Windows 10.</p>
+<p><img class="size-full wp-image-340 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg" alt="BitLocker Settings" width="1600" height="841" srcset="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-300x158.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1024x538.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-768x404.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1536x807.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1200x631.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>(Captura de ecran de mai sus arată fereastra <strong>Despre</strong> care nu are opțiunea <strong>Criptare dispozitiv</strong>. Asta înseamnă că dispozitivul nu este compatibil pentru criptare)</p>
+<h2>Activați criptarea cu BitLocker</h2>
+<p>BitLocker este un instrument de criptare integrat în edițiile Professional, Enterprise și Education ale Windows 10. Nu este disponibil pe computerele care rulează Windows 10 Home. Dacă nu sunteți sigur ce versiune a sistemului de operare Windows utilizați, verificați această resursă.</p>
+<p>Pentru a activa criptarea cu BitLocker, asigurați-vă că sunteți conectat pe dispozitivul dvs. Windows cu un cont de administrator. Selectați butonul <strong>Start</strong>, iar apoi în <strong>Sistem Windows</strong>, selectați <strong>Panoul de control</strong>. În <strong>Panoul de control</strong>, selectați <strong>Sistem și securitate </strong>(dacă nu îl vedeți, asigurați-vă că „Vizualizare după” este setată pe „Categorie”), navigați la <strong>Criptare unitate BitLocker</strong> &gt; <strong>Gestionare BitLocker</strong>. Selectați <strong>Activare BitLocker</strong> și urmați instrucțiunile.</p>
+<p><img class="size-full wp-image-343 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg" alt="BitLocker on Control Panel" width="1000" height="759" srcset="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel-300x228.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel-768x583.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img class="size-full wp-image-342 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg" alt="Turn on BitLocker" width="1000" height="758" srcset="https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker-300x227.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker-768x582.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>După ce terminați configurarea BitLocker, criptarea inițială poate dura mai mult timp, în funcție de cantitatea de date stocate pe computerul dvs. Puteți continua să folosiți computerul ca de obicei, în timp ce criptarea unității de disc este în desfășurare.</p>
+<p>Dacă nu aveți setarea <strong>Criptare unitate BitLocker</strong> în panoul <strong>Sistem și securitate</strong>, s-ar putea ca dispozitivul dvs. să nu aibă un cip <strong>TPM</strong> (Trusted Platform Module) pe care Windows îl utilizează pentru criptare. Pentru a verifica asta, selectați butonul <strong>Start</strong>, iar în <strong>Instrumente de administrare Windows</strong>, selectați <strong>Informații de sistem</strong>. Navigați în partea inferioară a ferestrei <strong>Informații de sistem</strong> și găsiți <strong>Compatibilitate cu criptarea dispozitivelor</strong>.</p>
+<p><img class="size-full wp-image-341 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg" alt="Device Encryption Support" width="1452" height="768" srcset="https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg 1452w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-300x159.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-1024x542.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-768x406.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-1200x635.jpg 1200w" sizes="(max-width: 1452px) 100vw, 1452px" /></p>
+<p>Dacă obțineți valoarea de mai sus („TPM nu este utilizabil”) lângă <strong>Compatibilitate cu criptarea dispozitivelor</strong>, dispozitivul dvs. nu are cip TPM. Chiar și fără cip, puteți activa totuși Criptarea cu BitLocker urmând acest ghid.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-encrypt-a-windows-10-device-ro/">Cum să criptați un dispozitiv cu Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să instalați și să folosiți BleachBit</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-install-and-start-using-bleachbit-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-install-and-start-using-bleachbit-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 31 Jan 2022 04:51:40 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=664</guid>
+
+					<description><![CDATA[<p>Distrugerea datelor nu este atât de simplă precum pare. Când faceți click pe „Șterge” sau mutați un fișier într-un coș de gunoi, acesta nu dispare de pe dispozitivul dvs. Fișierul șters rămâne pe dispozitiv până când sistemul de operare are nevoie de spațiul ocupat de fișier și îl suprascrie cu date noi. Până când se [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-install-and-start-using-bleachbit-ro/">Cum să instalați și să folosiți BleachBit</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Distrugerea datelor nu este atât de simplă precum pare. Când faceți click pe „Șterge” sau mutați un fișier într-un coș de gunoi, acesta nu dispare de pe dispozitivul dvs. Fișierul șters rămâne pe dispozitiv până când sistemul de operare are nevoie de spațiul ocupat de fișier și îl suprascrie cu date noi. Până când se întâmplă acest lucru, fișierul „șters” rămâne pe dispozitivul dvs. și poate fi recuperat de cineva care știe cum să o facă.</p>
+<p>Există instrumente gratuite pe care le puteți folosi pentru a <em>curăța</em> în siguranță fișierele de pe dispozitivele dvs., adică pentru să le ștergeți și să înlocui datele lor binare cu combinații aleatorii de unu și zero. BleachBit este unul dintre aceste instrumente pentru dispozitivele Windows și Linux. Acesta elimină datele de pe hard disk în mod securizat și definitiv.</p>
+<p>Din păcate, dacă folosiți dispozitive SSD (Solid State Drive), nu este întotdeauna posibil să ștergeți toate datele de pe ele în mod securizat și definitiv. Criptarea acestor dispozitive este o modalitate de a face mai dificilă recuperarea datelor de pe ele.</p>
+<h2>Începeți să folosiți BleachBit</h2>
+<ol>
+<li><strong>Descărcați BleachBit</strong> direct de pe <a title="Bleachbit website" href="https://www.bleachbit.org/">https://www.bleachbit.org/</a></li>
+<li><strong>Instalați BleachBit</strong></li>
+<li><strong>Deschideți BleachBit</strong> și selectați toate datele pe care vreți ca instrumentul să le șteargă în mod securizat și definitiv de pe dispozitivul dvs.<br />
+<img class="size-full wp-image-324 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png" alt="BleachBit Settings" width="1017" height="695" srcset="https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png 1017w, https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default-300x205.png 300w, https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default-768x525.png 768w" sizes="(max-width: 1017px) 100vw, 1017px" />Rețineți că atunci când ștergeți Fișierele Temporare Internet, puteți selecta toate sau unele dintre browserele web pe care le aveți instalate pe dispozitivul dvs. Ștergerea Fișierele Temporare Internet dintr-un browser web vă va deconecta pe toate siteurile. Ar putea fi o idee bună să salvați parolele stocate pe browserul dvs. web într-un manager de parole <em>înainte</em> de a șterge Fișierele Temporare Internet.</li>
+<li>După ce ați selectat toate opțiunile de care aveți nevoie, <strong>faceți click pe „Curățare”</strong>.</li>
+</ol>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-install-and-start-using-bleachbit-ro/">Cum să instalați și să folosiți BleachBit</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

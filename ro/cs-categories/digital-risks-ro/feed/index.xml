@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Riscuri Digitale Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/ro/cs-categories/digital-risks-ro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 09 Feb 2022 02:26:09 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Cum depistați atacurile de tip phishing</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 00:35:52 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=777</guid>
+
+					<description><![CDATA[<p>Cele mai răspândite pericole online, de care se ciocnesc zilnic sute de milioane de utilizatori, sunt legate de diverse scheme de inginerie socială . Mai exact, este vorba despre convingerea utilizatorilor să-și dezvăluie datele confidențiale sau să încalce procedurile obișnuite de securitate. Ce este phishing-ul? Atacurile phishing sunt cele mai răspândite scheme de inginerie socială. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/">Cum depistați atacurile de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Cele mai răspândite pericole online, de care se ciocnesc zilnic sute de milioane de utilizatori, sunt legate de diverse scheme de <em>inginerie socială </em>. Mai exact, este vorba despre convingerea utilizatorilor să-și dezvăluie datele confidențiale sau să încalce procedurile obișnuite de securitate.</p>
+<h2>Ce este phishing-ul?</h2>
+<p>Atacurile phishing sunt cele mai răspândite scheme de inginerie socială. Acestea includ mesajele transmise prin e-mail, rețelele de socializare, SMS sau chat destinate să păcălească utilizatorii să distribuie informațiile care pot duce la săvârșirea unor infracțiuni sau instalarea unor programe malware prin accesarea unui link sau deschiderea unui atașament.</p>
+<p>Majoritatea atacurilor phishing se efectuează cu ajutorul mesajelor generice transmise în masă, care aparent sunt reale și provin dintr-o sursă demnă de încredere (de exemplu, de la o organizație guvernamentală, de la o bancă sau de la o platformă de socializare). Dar există și atacuri phishing care vizează anumite persoane sau grupuri. Infractorii întotdeuna găsesc noi căi de atac și în permanență își modifică instrumentele și procedeele.</p>
+<h2>Tipurile de atacuri phishing</h2>
+<p>Cele mai frecvente tipuri de atacuri phishing sunt:</p>
+<ul>
+<li><strong>Spear phishing</strong> este un tip de atac în care infractorul atacă o persoană concretă, trimițând un e-mail, un mesaj în rețelele de socializare, un SMS sau un mesaj în chat care arată ca un mesaj de la o persoană cunoscută, de exemplu, de la un coleg sau de la un prieten.</li>
+<li><strong>Atacurile Whaling </strong>sunt atacuri spear phishing ținta cărora este „un pește mare”, de exemplu, conducătorii sau proprietarii unor companii sau redactorii-șefi ai unor organizații media. Atacurile whaling se efectuează de obicei cu ajutorul e-mailurilor scam care arată ca niște e-mailuri importante trimise de către oficiali sau de către organizații importante, cum ar fi organizațiile donatoare de bani.</li>
+<li>Atacurile <strong>SMiShing</strong> implică mesajele SMS (texte). Infractorii care trimit aceste mesaje vă scriu în numele unor persoane cunoscute pentru a vă solicita bani sau date personale. De obicei, persoanele care sunt în spatele unor asemenea atacuri se prezintă ca prestatori de servicii pe care le utilizați (de exemplu, colaboratori ai companiei de transport sau ai unui magazin online), pentru a vă solicita bani sau a vă propune o actualizare. Tot mai des ei se prezintă ca angajați ai WhatsApp, Facebook sau ai altei rețele de socializare pentru a vă cere un cod de verificare pe care îl primiți prin intermediul platformei.</li>
+<li><strong>Vishing</strong> este un tip de atac phishing care implică utilizarea apelurilor telefonice. În acest caz, infractorii se prezintă ca angajați ai structurilor guvernamentale. De obicei, ei recurg la amenințări și constrângeri pentru a convinge victimele că nu au de ales și trebuie să ofere informațiile solicitate.</li>
+</ul>
+<h2>Phisherii au ca obiectiv emoțiile</h2>
+<p>Majoritatea atacurilor phishing au ca obiectiv emoțiile umane puternice. Printre acestea:</p>
+<ul>
+<li><strong>Lăcomia</strong>: deseori infractorii propun recompense financiare sau alte stimulente, convingându-vă să dați click pe un link, să deschideți un atașament sau să completați un formular.</li>
+<li><strong>Urgența</strong>: infractorii creează o nevoie de acțiune urgentă, indicând un termen limită foarte restrâns.</li>
+<li><strong>Curiozitatea</strong>: infractorii conving victima să dea click pe un link promițându-i conținut interesant și unic.</li>
+<li><strong>Frica</strong>: infractorii vă amenință cu consecințe negative dacă nu veți acționa.</li>
+</ul>
+<h2>Depistarea unui e-mail phishing</h2>
+<p>Tacticile phishing evoluează în mod constant. E-mailurile phishing deseori mimează stilul și siglele unor organizații reale pentru a vă păcăli. Cu toate acestea, e-mailurile phishing se deosebesc prin una sau mai multe trăsăturile caracteristice enumerate mai jos. Acestea vă pot ajuta să identificați asemenea atacuri:</p>
+<ul>
+<li><strong>Adrese de e-mail false</strong> care par reale. De exemplu, infractorii pot pretinde că sunt angajați Amazon și încerca să vă fure datele de conectare păcălindu-vă să vă „actualizați” sau să „confirmați” unele detalii. Ar trebui să aveți îndoieli dacă primiți un e-mail de la o adresă care se termină cu @amazonheadoffice.com sau @amazzon.com, în loc de @amazon.com. De asemenea, nicio organizație serioasă nu vă va trimite e-mailuri de pe adrese care se termină cu @gmail.com, @mail.ru sau de pe alte platforme destinate publicului larg.</li>
+<li><strong>Link-urile încorporate</strong>, pe care dacă apăsați, ajungeți pe site-uri cu programe malware. Niciodată nu accesați linkuri fără ca să verificați unde pot duce acestea. Puteți vedea adresa site-ului web completă trecând ușor cu mouse-ul peste link. Înainte de a da click pe un link care vă pare suspect, scanați-l cu un scanner de link-uri, cum ar fi Norton Safe Web (https://safeweb.norton.com/). Fiți extrem de precauți cu linkurile URL prescurtate. Pentru a verifica adevărata adresă URL din spatele unei prescurtări, utilizați un serviciu online gratuit de verificare, cum ar fi UnshortenIt (https://unshorten.it)./</li>
+<li><strong>Atașamentele</strong> care vă infectează dispozitivul cu programe malware după ce le deschideți. Una dintre regulile fundamentale ale securității digitale este să nu deschideți niciodată atașamente de la persoanele necunoscute sau de la persoanele în care nu aveți încredere. De asemenea, organizațiile reale niciodată nu vă vor trimite atașamente, decât dacă le veți cere în mod expres.</li>
+<li><strong>Greșelile gramaticale sau limbajul ciudat</strong>. Infractorii care trimit e-mailuri în masă pentru atacurile phishing, deseori sunt axați pe persoane din zeci de țări. În loc să investească bani în traducerea și adaptarea mesajelor pentru publicul local, ei utilizează programele de traducere online. Drept urmare, e-mailurile phishing sunt scrise într-un limbaj nenatural sau chiar ciudat, în plus conțin și greșeli gramaticale.</li>
+<li><strong>O formă de salut generică</strong> în loc de numele dvs. Atunci când un e-mail începe cu o formă de salut generică, cum ar fi „Stimate client”, „Stimate titular de cont” sau „Stimate membru”, acest lucru imediat ar trebui să vă pună în gardă. Atunci când vă contactează, organizațiile reale se adresează pe nume.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/">Cum depistați atacurile de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum să nu deveniți victima unor înșelătorii de tip phishing</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-not-to-fall-for-phishing-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-not-to-fall-for-phishing-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 01:05:30 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=783</guid>
+
+					<description><![CDATA[<p>Înșelătoriile de tip phishing sunt vechi precum Internetul și ele nu dispar. Din fericire, aceste înșelătorii pot fi ușor evitate dacă respectați regulile digitale de bază și vă ghidați de bunul simț. Urmați aceste reguli de bază pentru a fi în siguranță. 1. Fiți sceptic Țineți minte întotdeauna că ofertele foarte tentante de pe Internet [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-not-to-fall-for-phishing-ro/">Cum să nu deveniți victima unor înșelătorii de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Înșelătoriile de tip phishing sunt vechi precum Internetul și ele nu dispar. Din fericire, aceste înșelătorii pot fi ușor evitate dacă respectați regulile digitale de bază și vă ghidați de bunul simț. Urmați aceste reguli de bază pentru a fi în siguranță.</p>
+<h2>1. Fiți sceptic</h2>
+<p>Țineți minte întotdeauna că ofertele foarte tentante de pe Internet pot fi înșelătoare. Escrocii și infractorii sunt foarte pricepuți în a manipula emoțiile, în special lăcomia și curiozitatea. Vreți ultimul model de iPhone cu doar 20$? Vreți să câștigați o mulțime de bani testând aceste produse care vă vor fi trimise gratis? Vreți să știți cine dintre colegii de școală sau de muncă este îndrăgostit în secret de dvs? Tot ce trebuie să faceți e să accesați un link, să deschideți un atașament sau să completați un formular. Nu cădeți în această capcană. Fiți mai precaut.</p>
+<h2>2. Evitați atașamentele</h2>
+<p>Una dintre regulile bază pe digital este să nu salvați și să nu deschideți niciodată atașamentele din e-mailurile, mesajele din rețelele de socializare sau Sms-urile trimise de persoane pe care nu le cunoașteți sau în care nu aveți încredere. Escrocii și infractorii preferă în special atașamentele Word, Excel, PowerPoint și PDF. Dacă un e-mail sau un alt tip de mesaj arată ciudat sau suspect, cel mai bine e să-l ștergeți imediat.</p>
+<p>De asemenea, rețineți că și celor pe care îi cunoașteți și în care aveți încredere le pot fi sparte conturile de e-mail. Așadar, dacă primiți un e-mail neașteptat cu atașament, vă recomandăm să luați legătura cu expeditorul înainte de a-l deschide.</p>
+<h2>3. Verificați linkurile înainte de a le accesa</h2>
+<p>Nu accesați niciodată linkuri trimise de persoane sau companii pe care nu le cunoașteți sau de la care nu așteptați mesaje. Fiecare link trimis trebuie tratat ca un link cu un potențial risc. Atunci când primiți o notificare de la un coleg, de la bancă sau de pe rețelele de socializare pe care le utilizați, nu dați click imediat pe linkul din e-mail. Mai întâi, treceți cu mouse-ul peste link pentru a vedea adresa siteului web. Aceasta ar putea să vă ajute să decideți dacă merită să dați click pe link. În mod alternativ, puteți deschide o fereastră de browser și introduce adresa direct în câmpul URL pentru a vă convinge că siteul este real.</p>
+<p>Înainte de a da click pe un link care vă pare suspect, scanați-l cu un scanner de linkuri, cum ar fi <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> pentru a-i verifica siguranța.</p>
+<p>Fiți extrem de precaut cu linkurile URL prescurtate. Întotdeauna verificați care este adevăratul link URL din spatele celui prescurtat. Pentru a descifra un URL prescurtat, puteți utiliza un serviciu online gratuit, cum ar fi <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a>.</p>
+<h2>4. Nu vă grăbiți</h2>
+<p>Una dintre tacticile de phishing, pe care escrocii și infractorii o utilizează deosebit de des, implică crearea unui sentiment fals de urgență. Ei trimit solicitări cu un termen de acțiune foarte strâns și uneori amenință cu sancțiuni în cazul unui refuz de a acționa rapid. De exemplu, vi se poate cere să achitați o amendă pentru o „greșeală” comisă în declarația fiscală, în caz contrar, vi se va deschide dosar penal. Un escroc se poate prezenta drept șeful dvs. și vă poate cere să transferați bani într-un cont bancar, amenințându-vă cu concedierea.</p>
+<p>Tratați întotdeauna solicitările „urgente” pentru informații sau transferuri financiare drept extrem de suspecte. Ar putea autoritățile fiscale să vă sune pe mobil și să vă ceară să achitați o amendă? Ar putea șeful dvs. să vă ceară să transferați bani într-un cont bancar de care nu ați auzit niciodată? Dacă aveți îndoieli, discutați cu cei în care aveți încredere, colegii sau avocatul dvs.</p>
+<h2>5. Verificați identitatea expeditorilor</h2>
+<p>Întotdeauna verificați dacă persoanele care vă solicită informații sau transferuri financiare sunt cele care pretind a fi. Sunați-le direct sau luați legătura cu ele prin intermediul unei platforme sigure de mesagerie. Țineți minte că escrocii se pricep foarte bine să imită alte persoane și depun eforturi considerabile pentru a face aceasta.</p>
+<h2>6. Actualizați la timp antivirusul</h2>
+<p>Chiar dacă sunteți extrem de atent și respectați cu strictețe igiena digitală, antivirusul și firewall-ul trebuie să ruleze întotdeauna pe dispozitivele pe care le utilizați. Asigurați-vă că actualizați întotdeauna antivirusul, astfel încât acesta să facă față provocărilor de securitate. Vă recomandăm să activați actualizarea automată a celor mai importante software-uri, a antivirusului și a sistemului de operare.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-not-to-fall-for-phishing-ro/">Cum să nu deveniți victima unor înșelătorii de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cum vă puteți proteja de programele malware</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-protect-yourself-against-malware-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-protect-yourself-against-malware-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 01:23:06 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=788</guid>
+
+					<description><![CDATA[<p>Răspândirea programelor malware este una dintre cele mai frecvente metode utilizate de hackeri și infractori pentru a crea probleme în rețeaua online. Pentru a vă proteja de programele malware, pe lângă bunul simț, ghidați-vă de aceste recomandări de bază. 1. Utilizați software antivirus Întotdeauna trebuie să aveți instalat un program antivirus sigur pe dispozitivele pe [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-protect-yourself-against-malware-ro/">Cum vă puteți proteja de programele malware</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Răspândirea programelor malware este una dintre cele mai frecvente metode utilizate de hackeri și infractori pentru a crea probleme în rețeaua online. Pentru a vă proteja de programele malware, pe lângă bunul simț, ghidați-vă de aceste recomandări de bază.</p>
+<h2>1. Utilizați software antivirus</h2>
+<p>Întotdeauna trebuie să aveți instalat un program antivirus sigur pe dispozitivele pe care le utilizați. Acest software vă protejează de viruși și alte tipuri de malware. Asigurați-vă că actualizați frecvent antivirusul, astfel încât acesta să facă față noilor provocări de securitate.</p>
+<p>Programele antivirus vă permit scanarea întregului dispozitiv pentru a depista programele malware. Scanați cu regularitate dispozitivele pentru a depista programele malware la timp și a preveni răspândirea lor. Dacă trebuie să descărcați ceva, asigurați-vă că utilizați un program antivirus pentru a scana fișierul înainte de a-l deschide.</p>
+<p>Windows vine cu un program antivirus încorporat &#8211; Microsoft Defender. Este gratuit și fiabil. Puteți configura parametrii Microsoft Defender astfel încât acesta să vă protejeze dispozitivul și mai bine.</p>
+<h2>2. Actualizați software-ul și hardware-ul</h2>
+<p>Programele malware vă infectează dispozitivele, descoperind și profitând de vulnerabilitățile software-ului. Hackerii și infractorii mereu caută asemenea vulnerabilități. Companiile creatoare de software remediază vulnerabilitățile prin intermediul corecțiilor de securitate lansate în actualizări. De aceea, este foarte important să instalați actualizările imediat după lansarea lor.</p>
+<p>Oricare ar fi dispozitivul dvs., asigurați-vă că utilizați cea mai recentă versiune a sistemului de operare. Vă recomandăm să configurați actualizarea automată pentru sistemul de operare și software-ul antivirus. Actualizați cu regularitate celelalte programe de pe dispozitivul dvs.</p>
+<p>Dacă în ultimele șase luni nu ați primit pe telefonul dvs. mobil solicitări de actualizare a sistemului de operare, probabil că aveți un model învechit care nu mai este susținut de producător. În acest caz, vă recomandăm să achiziționați un model mai nou, pentru a obține actualizările critice de securitate.</p>
+<h2>3. Utilizați un cont fără drepturi de administrator</h2>
+<p>Programele malware pot fi foarte periculoase pentru dispozitivul dvs. sau datele de pe acesta atunci când sunteți conectat cu un cont de administrator. Vă recomandăm să creați un cont de utilizator cu drepturi limitate pe computerul dvs. și să îl utilizați pentru sarcinile zilnice. Atunci când sunteți conectat la un cont cu drepturi limitate, unui program malware îi este mai complicat să pătrundă în dispozitiv și să facă modificări de sistem.</p>
+<h2>4. Întotdeauna trebuie să știți ce instalați</h2>
+<p>Multe programe malware sunt legate de programe dubioase sau încorporate în versiunile piratate ale programelor originale. Una dintre cele mai sigure căi de a vă infecta computerul cu malware este instalarea programelor piratate (nelicențiate). Dacă aveți nevoie de anumite programe, dar nu vi le puteți permite, nu uitați că există alternative gratuite pentru oricare dintre cele mai importante produse software. Aceste alternative chiar dacă oferă o funcționalitate mai redusă, își fac totuși treaba, iar dvs. veți evita riscul de a vă infecta cu malware atunci când sunteți online. Atunci când aveți posibilitatea, alegeți un software cu cod deschis.</p>
+<p>Descărcați aplicațiile doar din magazinele oficiale de aplicații. Atunci când instalați un program pentru prima dată și nu știți nimic despre acesta, asigurați-vă că citiți recenziile pentru a afla dacă alți utilizatori îl consideră de încredere.</p>
+<p>Verificați cu regularitate toate aplicațiile instalate pe dispozitivul dvs. Eliminați aplicațiile pe care nu le mai utilizați sau în care nu aveți încredere.</p>
+<h2>5. Evitați atașamentele</h2>
+<p>Una dintre regulile de bază pe digital este că niciodată să nu salvați și să nu deschideți atașamentele din e-mailurile, mesajele din rețelele de socializare sau Sms-urile trimise de persoane pe care nu le cunoașteți sau în care nu aveți încredere. Escrocii și infractorii preferă în special atașamentele Word, Excel, PowerPoint și PDF infectate cu malware. Dacă un e-mail sau un alt tip de mesaj arată ciudat sau suspect, cel mai bine e să-l ștergeți imediat.</p>
+<p>De asemenea, rețineți că și celor pe care îi cunoașteți și în care aveți încredere le pot fi sparte conturile de e-mail. Așadar, dacă primiți un e-mail neașteptat cu atașament, vă recomandăm să luați legătura cu expeditorul înainte de a-l deschide.</p>
+<h2>6. Verificați linkurile înainte de a le accesa</h2>
+<p>Niciodată nu accesați linkuri primite de la persoane sau organizații pe care nu le cunoașteți. Fiecare link trimis trebuie tratat ca un link cu un potențial risc. Atunci când primiți o notificare de la un coleg, de la bancă sau de pe rețelele de socializare pe care le utilizați, nu dați click imediat. Mai întâi, treceți cu mouse-ul peste link pentru a vedea adresa siteului web. Aceasta ar putea să vă ajute să decideți dacă merită sau nu să dați click pe link. În mod alternativ, puteți deschide o fereastră de browser și introduce adresa direct în câmpul URL pentru a vă convinge că siteul este real.</p>
+<p>Înainte de a da click pe un link care vă pare suspect, scanați-l cu un scanner de linkuri, cum ar fi <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> pentru a-i verifica siguranța.</p>
+<p>Fiți extrem de precaut cu linkurile URL prescurtate. Întotdeauna verificați adevăratul link URL din spatele celui prescurtat. Pentru a descifra un URL prescurtat, puteți utiliza un serviciu online gratuit, cum ar fi <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a>.</p>
+<h2>7. Nu aveți încredere în mesajele de tip pop-up</h2>
+<p>Cu toții am avut așa întâmplări: în timp ce navigați pe Internet, vă apare o fereastră pop-up în care scrie că dispozitivul dvs. a fost infectat și vi se recomandă să descărcați un program pentru a vă proteja dispozitivul. Nu cădeți în această capcană. Fiți mai precaut.</p>
+<h2>8. Fiți atent cu suporturile media detașabile</h2>
+<p>Programele malware deseori circulă pe diferite dispozitive prin intermediul suporturilor detașabile, cum ar fi stick-urile de memorie USB, hard disk-urile externe, cardurile de memorie etc. Nu introduceți niciodată un asemenea dispozitiv în computerul dvs., dacă nu știți de unde vine. Atunci când trebuie să utilizați un dispozitiv media detașabil și știți de unde vine, vă recomandăm să îl scanați cu un program antivirus înainte de a-l deschide.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-protect-yourself-against-malware-ro/">Cum vă puteți proteja de programele malware</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

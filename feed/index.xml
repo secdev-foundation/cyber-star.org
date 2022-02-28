@@ -12,12 +12,12 @@
 	<atom:link href="https://cyber-star.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 24 Nov 2021 18:16:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 28 Feb 2022 21:32:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 </channel>
 </rss>

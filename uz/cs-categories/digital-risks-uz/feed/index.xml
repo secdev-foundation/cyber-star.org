@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Raqamli Xavflar Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/uz/cs-categories/digital-risks-uz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 09 Feb 2022 02:20:51 +0000</lastBuildDate>
+	<language>uz-UZ</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Fishing hujumlarini aniqlash</title>
+		<link>https://cyber-star.org/uz/cs-articles/how-to-recognize-phishing-attacks-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 00:47:49 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=779</guid>
+
+					<description><![CDATA[<p>Turli xil ijtimoiy muhandislik sxemalari tufayli har kuni yuz millionlab foydalanuvchilar keng tarqalgan onlayn tahdidlarga duch keladi. Asosan, ijtimoiy muhandislik maxfiy ma&#8217;lumotlarni oshkor qilish yoki oddiy xavfsizlik tartib-qoidalarini buzish uchun odamlarni aldashdir. Fishing nima? Fishing hujumlari eng keng tarqalgan ijtimoiy muhandislik sxemalaridan biridir. Bunga odamlarni aldab o&#8217;z ma&#8217;lumotlarini bo&#8217;lishishga mo&#8217;ljallangan e-pochta xabarlari, SMS, ijtimoiy media [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-to-recognize-phishing-attacks-uz/">Fishing hujumlarini aniqlash</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Turli xil <em>ijtimoiy muhandislik sxemalari</em> tufayli har kuni yuz millionlab foydalanuvchilar keng tarqalgan onlayn tahdidlarga duch keladi. Asosan, ijtimoiy muhandislik maxfiy ma&#8217;lumotlarni oshkor qilish yoki oddiy xavfsizlik tartib-qoidalarini buzish uchun odamlarni aldashdir.</p>
+<h2>Fishing nima?</h2>
+<p>Fishing hujumlari eng keng tarqalgan ijtimoiy muhandislik sxemalaridan biridir. Bunga odamlarni aldab o&#8217;z ma&#8217;lumotlarini bo&#8217;lishishga mo&#8217;ljallangan e-pochta xabarlari, SMS, ijtimoiy media yoki chat orqali yuborilgan xabarlar kiradi va firibgarlar bu ma&#8217;lumotlardan jiddiyroq jinoyatlar sodir etish uchun foydalanadilar.Shuningdek, zararli havola yoki biriktirmalar orqali qurilmalarda zarali dastur o&#8217;rnatish ham fishingning bir turi hisoblanadi.</p>
+<p>Aksariyat fishing hujumlari qonuniy koʻrinishdagi va odatda siz ishonadigan manbadan (masalan, davlat tashkiloti, bank yoki ijtimoiy media xizmatidan) kelgan umumiy ommaviy xabarlar orqali amalga oshiriladi. Shu bilan birga, ma&#8217;lum shaxslar yoki guruhlarga qaratilgan fishing hujumlari ham mavjud va g&#8217;araz niyatli odamlar o&#8217;z vositalarini yanada takomillashtirib va yanada makkor hiyla yo&#8217;llarini topib boradilar.</p>
+<h2>Fishing hujum turlari</h2>
+<p>Quyida fishing hujumlarining eng keng tarqalgan turlari:</p>
+<ul>
+<li><strong>Spir phishing (yoki shaxsiylashtirilgan fishing)</strong> &#8211; bu fishing hujumlarining bir turi bo&#8217;lib, unda g&#8217;araz niyatli firibgarlar nishonga olingan maʼlum bir shaxsga elektron pochta, SMS, ijtimoiy tarmoq xabari yoki chat xabarlari orqali hujum qiladi. Ushbu xabarlar xuddi unga tanish odam (masalan, hamkasbi yoki doʻsti) tomonidan yuborilgandek ko&#8217;rinadi.</li>
+<li><strong>Veyling hujumlari </strong>(Whaling attacks &laquo;whale&raquo; inglizchada kit) &#8211; bu &laquo;katta o&#8217;ljani&raquo; ya&#8217;ni tashkilot rahbarlari va egalari yoki media tashkilotlari bosh muharrirlarlari kabi mansabdor shaxslarni nishonga oluvchi spir fishing turidir. Veyling hujumlari, odatda hukumat amaldorlari yoki donor agentliklari kabi muhim tashkilotlarning hamkorlari tomonidan yuborilgan muhim elektron pochta xabarlariga o&#8217;xshash bo&#8217;lgan tovlamachilik elektron pochta xabarlarini yuborish orqali amalga oshiriladi.</li>
+<li><strong>SMishing</strong> SMS xabarlari orqali amalga oshiriladigan fishing turidir. Ushbu hujumlarni amalga oshirayotgan firibgarlar pul yoki shaxsiy ma&#8217;lumotlaringizni olish uchun o&#8217;zlarini sizning tanishingiz qilib ko&#8217;rsatishlari mumkin. Ko&#8217;pincha, smishing hujumlar ortidagilar o&#8217;zlarini to&#8217;lovni so&#8217;rab yoki yangilanishlarni taklif qilib sizga murojaat qiluvchi sizga xizmat ko&#8217;rsatadigan xizmatlar (masalan, kuryerlik kompaniyasi yoki onlayn xarid qilish platformasi) sifatida ko&#8217;rsatadilar. Ko&#8217;pincha ular siz platforma orqali olgan tasdiqlash kodini so&#8217;rovchi WhatsApp, Facebook yoki boshqa ijtimoiy media kompaniyasi sifatida sizga murojaat qiladi.</li>
+<li><strong>Vishing</strong> &#8211; bu telefon qo&#8217;ng&#8217;iroqlari orqali amalga oshiriladigan fishing turi. Bunday hujumlarni amalga oshiruvchi firibgarlar o&#8217;zlarini ko&#8217;pincha davlat idoralari xodimlari qiyofasida soladi. Odatda ular jabrlanuvchi so&#8217;ralgan ma&#8217;lumotni taqdim etishdan boshqa iloji yo&#8217;qdek his qilishi uchun tahdid yoki ishontirish kabi usullaridan foydalanadilar.</li>
+</ul>
+<h2>Fishing hujumchilari hissiyotlarni nishonga oladi</h2>
+<p>Manipulyatsiya orqali insoniy kuchli his-tuyg&#8217;ulardan foydalanishga urinish ko&#8217;plab fishing hujumlarining umumiy jihatidir. Masalan:</p>
+<ul>
+<li><strong>Ochko&#8217;zlik</strong>: firibgarlar sizni havolani bosishga, xabardagi biriktirmani ochishga yoki hujjatni to&#8217;ldirishga undash maqsadida ko&#8217;pincha moliyaviy mukofotlar yoki boshqa imtiyozlarni taklif qiladi..</li>
+<li><strong>Shoshilinchlik</strong>: tajovuzkorlar shoshilinchlik tuyg&#8217;usini yaratadilar.</li>
+<li><strong>Qiziqqonlik</strong>: tajovuzkorlar qurbonni o‘ziga xos va qiziqarli kontentni va’da qilish orqali havolani bosishga undaydi.</li>
+<li><strong>Qo&#8217;rqitish</strong>: tajovuzkorlar chora ko&#8217;rmasangiz, salbiy oqibatlar haqida ogohlantiradilar.</li>
+</ul>
+<h2>Fishing xabarlarini aniqlash</h2>
+<p>Fishing usullari doimo rivojlanib bormoqda. Fishing elektron pochta xabarlarida ko&#8217;pincha birovning uslubiga taqlid qilish va sizni aldash uchun mavjud qonuniy tashkilotlarning haqiqiy logotiplaridan foydalanish belgilari kuzatiladi. Biroq, quyida keltirilgan ularning ko&#8217;pchiligida uchraydigan umumiy xususiyatlardan hujumlarni aniqlash mumkin:</p>
+<ul>
+<li>Haqiqiydek ko&#8217;rinuvchi <strong>soxta elektron pochta manzillari</strong>. Masalan, firibgarlar Amazon xodimlari qiyofasida sizning ma&#8217;lumotlaringizni &laquo;yangilash&raquo; yoki &laquo;tasdiqlash&raquo; uchun siz bilan bog&#8217;lanib, sizni aldash orqali akkaunt ma&#8217;lumotlaringizni o&#8217;g&#8217;irlashga urinishi mumkin. Agar sizga kelgan xabardagi elektron pochta manzili @amazon.com o&#8217;rniga @amazonheadoffice.com yoki @amazzon.com domain nomi bilan tugayotgan bo&#8217;lsa, bu sizda shubha uyg&#8217;otishi kerak. Hech bir yirik va qonuniy tashkilot siz bilan @gmail.com, @mail.ru yoki boshqa shunga o&#8217;xshash keng omma foydalanishi uchun mo&#8217;ljallangan elektron pochta platformasi orqali bog&#8217;lanmaydi.</li>
+<li><strong>Ziyonkor havolalar</strong> sizni ular ustiga bosganingizda zararli dasturlar joylashtirilgan qalbaki veb-saytlarga olib boradi. Havolalarni tekshirmasdan turib bosmang. Havola ustiga sichqonchani olib kelib, (sichqoncha tugmasini bosmasdan) havola ortidagi veb-sayt manzilini ko&#8217;rish mumkin. Sizda biroz bo&#8217;lsada shubha uyg&#8217;otgan havolani bosishdan oldin uni Norton Safe Web (https://safeweb.norton.com)/ kabi havola skaneri bilan skanerlash orqali tekshirib ko&#8217;ring. Qisqartirilgan URL havolalardan foydalanishda esa o&#8217;ta ehtiyot bo&#8217;ling. Qisqartirilgan havola ortidagi haqiqiy URL havolasini tekshirish uchun UnshortenIt (https://unshorten.it)/ kabi bepul onlayn xizmatdan foydalaning.</li>
+<li><strong>Biriktirmalarni</strong> ochganingiz zahoti qurilmangiz zararli dasturlar bilan zararlanadi. Notanish yoki siz toʻliq ishonmaydigan shaxslar tomonidan yuborilgan elektron xabar biriktirmalarini hech qachon ochmang, bu raqamli xavfsizlikning eng asosiy qoidalaridan biridir. Bundan tashqari, davlat tashkilotlari sizga, agar siz so&#8217;rov bilan murojaat qilgan bo&#8217;lmasangiz, odatda sizga hech qanday biriktirma jo&#8217;natmaydi.</li>
+<li><strong>Imlo xatolari yoki g&#8217;alati uslubda yozilgan xabarlar</strong>. Fishing hujumlarini amalga oshirish uchun ommaviy elektron pochtadan foydalanadigan firibgarlar ko&#8217;pincha o&#8217;nlab turli mamlakatlardagi odamlarni birdaniga nishonga oladi. Ular xabarlarni tarjima qilish va mahalliy auditoriya uchun moslashtirishga sarmoya sarflamaydilar, shunchaki bepul onlayn tarjima xizmatlaridan foydalanadilar. Natijada, fishing elektron pochta xabarlari ko&#8217;pincha g&#8217;ayritabiiy yoki g&#8217;alati tilda va g&#8217;ij-g&#8217;ij grammatik xatolarga to&#8217;la bo&#8217;ladi.</li>
+<li>&laquo;Kimga&raquo; maydonida ismingiz o&#8217;rnida <strong>umumiy murojaat</strong> Elektron pochta xabarining “Hurmatli mijoz”, “Hurmatli hisob egasi”, “Hurmatli klub a’zosi” kabi umumiy murojaat bilan boshlanishi sizda doim shubha uyg‘otishi kerak. Siz bilan bog&#8217;lanuvchi haqiqiy tashkilotlar ko&#8217;pincha ismi-sharfingiz kabi oddiy ma&#8217;lumotlarga ega.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-to-recognize-phishing-attacks-uz/">Fishing hujumlarini aniqlash</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Qanday qilib fishing qurboni bo‘lmaslik mumkin</title>
+		<link>https://cyber-star.org/uz/cs-articles/how-not-to-fall-for-phishing-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-not-to-fall-for-phishing-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 01:14:03 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=786</guid>
+
+					<description><![CDATA[<p>Fishing internetning o‘zi kabi eski va u hech qayerga yo‘qolmaydi. Baxtimizga, raqamli xavfsizlikning asosiy qoidalariga amal qilinsa va sog‘lov aql bilan ish yuritilsa, fishingdan himoyalanish oson. O‘zingizni himoya qilish uchun ushbu asosiy yo‘riqnomalarga amal qiling. 1. Skeptik bo‘lib qoling Internetdagi xaddan tashqari foydali taklfilarning aldov bo‘lib chiqishi mumkinligini doimo yodda tuting. Firibgarlar va jinoyatchilar hissiyotlarimiz, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-not-to-fall-for-phishing-uz/">Qanday qilib fishing qurboni bo‘lmaslik mumkin</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Fishing internetning o‘zi kabi eski va u hech qayerga yo‘qolmaydi. Baxtimizga, raqamli xavfsizlikning asosiy qoidalariga amal qilinsa va sog‘lov aql bilan ish yuritilsa, fishingdan himoyalanish oson. O‘zingizni himoya qilish uchun ushbu asosiy yo‘riqnomalarga amal qiling.</p>
+<h2>1. Skeptik bo‘lib qoling</h2>
+<p>Internetdagi xaddan tashqari foydali taklfilarning aldov bo‘lib chiqishi mumkinligini doimo yodda tuting. Firibgarlar va jinoyatchilar hissiyotlarimiz, ayniqsa o‘chko‘zligimiz va qiziquvchanligimizdan mohirona foydalanadilari. Atigi 20 dollarga yangi iPhone olishni xohlaysizmi? Sizga bepul yetkizib berishadigan mahsulotlarni sinab ko‘rib, ko‘p pul ishlab olishni xohlaysizmi? Sinfdoshlaringiz yoki hamkasblaringizdan kimlar sizni yashirin sevib qolganligini bilishni xohlaysizmi? Ilovani ochish yoki shaklni to‘ldirish uchun shunchaki havola bo‘yicha o‘tishingiz kerak. Bu aldovlarga uchmang. Ehtiyotkor bo‘ling.</p>
+<h2>2. Biriktirmalardan ehtiyot bo‘ling</h2>
+<p>Raqamli xavfsizlikning asosiy qoidalaridan biri: hech qachon elektron xatlar, ijtimoiy tarmoqlardagi xabarlar yoki SMS-xabarlarda o‘zingiz tanimaydigan yoki 100% ishonmaydigan kishilar tomonidan yuborilgan biriktirmalarni saqlamang va ochmang. Firibgarlar va jinoyatchilar ayniqsa zararli dasturlar bilan zararlangan Word, Excel, Excel, PowerPoint va PDF formatidagi biriktirmalarni yaxshi ko‘radilar. Agar elektron xat yoki boshqa istalgan xabar sizga g‘alati yoki shubhali bo‘lib ko‘rinsa, ularni darhol o‘chiring.</p>
+<p>Yana hattoki siz taniydigan va ishonadigan kishilarning ham elektron pochta hisoblarni buzishlari mumkinligini yodda tuting. Shuning uchun agar siz ulardan biriktirma bilan kutilmagan xat olsangiz, avval yuboruvchi bilan bog‘laning.</p>
+<h2>3. O‘tishdan avval havolalarni tekshiring</h2>
+<p>O‘zingiz tanimaydigan yoki xabarlar kutmaydigan odamlar yoki tashkilotlar tomonidan yuborilgan havolalar bo‘yicha o‘tmang. Sizga yuboriladigan har bir havolani ehtimoliy xavfli sifatida qarang. Hamkasb, bank yoki ijtimoiy tarmoqdan bildirishnoma olgan vaqtda elektron xatdagi havola bo‘yicha darhol o‘tmang. Avval saytning to‘liq manzilini ko‘rish uchun uning ustiga sichqoncha ko‘rsatkichini yurgizing. Bu havola bo‘yicha o‘tish kerakligi yoki yo‘qligi bo‘yicha qaror qilishga yordam beradi. Yana saytning haqiqiyligiga ishonch hosil qilish uchun brauzer oynasini ochish va manzilni bevosita URL maydoniga kiritish mumkin.</p>
+<p>Sizga biroz bo‘lsada shubhali bo‘lib ko‘ringan havolaga bosishdan avval uning xavfsizligini tekshirish uchun havolalar skaneri, masalan, <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> dan foydalaning.</p>
+<p>Qisqartirilgan URL-manzillar bilan ayniqsa ehtiyot bo‘ling. Doimo qisqartirilgan URL ortidagi haqiqiy URL ni tekshiring. Buning uchun <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> kabi bepul internet xizmatlar mavjud.</p>
+<h2>4. Hech qachon shoshilmang</h2>
+<p>Jinoyatchilar va firibgarlar ayniqsa ko‘p foydalanadigan fishing taktikalaridan biri bo‘lib yolg‘ondan shoshilinchlik hissini yaratish hisoblanadi. Odamlarga qat’iy bajarish muddati bilan so‘rovlar yuboradilar va ayrim hollarda tez harakat qilishni rad qilganlik uchun oqibatlar bilan tahdid qiladilar. Masalan, sizdan so‘nggi soliq deklatasiyadagi &laquo;xato&raquo; uchun jarima to‘lashni so‘raydilar. Jinoiy javobgarlik to‘g‘risida tahdid qilishlari ham mumkin. Yoki boshlig‘ingiz roliga kirib olgan g‘araz niyatli shaxs bo‘shatib yuborishni tahdid qilgan holda pullarni bank hisobiga o‘tkazishni talab qilishi mumkin.</p>
+<p>Doimo ma‘lumotlar yoki moliyaviy o‘tkazmalar bo‘yicha &laquo;shoshilinch&raquo; so‘rovlarga juda shubhali sifatida qarang. Soliq organlari mobil telefoningizga qo‘ng‘iroq qilishlari va jarimani to‘lashni talab qilishlari mumkinmi? Boshlig‘ingiz sizdan pullarni o‘zingiz hech qachon eshitmagan bank hisobiga o‘tkazishni so‘rashi mumkinmi? Agar siz shubhalansangiz, vaziyatni o‘zingiz ishonadigan odamlar, hamkasblar yoki yurist bilan muhokama qiling.</p>
+<h2>5. Yuboruvchilarning shaxsini tasdiqlang</h2>
+<p>Ma’lumotlar yoki moliyaviy o‘tkazmalarni so‘rovchi odamlar yoki tashkilotlarning ular rostdan ham o‘zlari aytayotgan shaxslar ekanligini tekshiring. Ularga qo‘ng‘iroq qiling yoki xabarlar almashish xavfsiz platformasi orqali bog‘laning. Firibgarlarning o‘zlarini mohirona tarzda boshqa odamlar sifatida ko‘rsatishlari mumkinligini yodda tuting: ular bunga uzoq vaqt o‘rganishgan va bunga ko‘p kuch sarflashadi.</p>
+<h2>6. Antivirusingizni o‘z vaqtida yangilab boring</h2>
+<p>Hattoki siz juda ehtiyotkor bo‘lsangiz va xatosiz raqamli gigiyenaga amal qilsangiz ham qurilmangizda doimo antivirus va brandmauer ishlab turishi kerak. U yangi tahdidlardan himoya qila olishi uchun antivirusni muntazam ravishda yangilab boring. Antivirus va operatsion tizim kabi muhim dasturiy ta’minotning avtomatik yangilanishini yoqing.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-not-to-fall-for-phishing-uz/">Qanday qilib fishing qurboni bo‘lmaslik mumkin</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Zararli dasturlardan himoyalanish</title>
+		<link>https://cyber-star.org/uz/cs-articles/how-to-protect-yourself-against-malware-uz/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-protect-yourself-against-malware-uz</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Mon, 07 Feb 2022 01:25:36 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=789</guid>
+
+					<description><![CDATA[<p>Xakerlar va jinoyatchilar zararli dasturlar tarqatish orqali onlayn tarmoqlarda ko&#8217;pchilik uchun turli muammolar yaratadilar. Bu ular qo&#8217;llaydigan eng ko&#8217;p tarqalgan usullardan biridir. Zararli dasturlardan himoyalanish uchun o&#8217;zingiz oqilona ish tutish bilan birgalikda ushbu asosiy ko&#8217;rsatmalarga amal qiling. 1. Antivirus dasturidan foydalaning Barcha foydalanadigan qurilmalaringizda doimo ishonchli antivirus dasturi o&#8217;rnatilgan bo&#8217;lishi kerak. Bu sizning viruslar va [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-to-protect-yourself-against-malware-uz/">Zararli dasturlardan himoyalanish</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Xakerlar va jinoyatchilar zararli dasturlar tarqatish orqali onlayn tarmoqlarda ko&#8217;pchilik uchun turli muammolar yaratadilar. Bu ular qo&#8217;llaydigan eng ko&#8217;p tarqalgan usullardan biridir. Zararli dasturlardan himoyalanish uchun o&#8217;zingiz oqilona ish tutish bilan birgalikda ushbu asosiy ko&#8217;rsatmalarga amal qiling.</p>
+<h2>1. Antivirus dasturidan foydalaning</h2>
+<p>Barcha foydalanadigan qurilmalaringizda doimo ishonchli antivirus dasturi o&#8217;rnatilgan bo&#8217;lishi kerak. Bu sizning viruslar va boshqa zararli dasturlardan asosiy himoyangizdir. Yangi tahdidlardan xabardor bo&#8217;lish uchun antivirus dasturini muntazam yangilab turing.</p>
+<p>Antivirus dasturi butun qurilmangizni zararli dasturlar mavjudligini tekshirish imkonini beradi. Zararli dasturlarni erta aniqlash va uning tarqalishining oldini olish uchun qurilmalaringizni muntazam ravishda skanerlashni odat qiling. Agar siz Internetdan biror fayl yuklab olsangiz, ochishdan oldin uni antivirus bilan tekshiring.</p>
+<p>Windows tizimi Microsoft Defender deb nomlangan o&#8217;z ichki bepul va ishonchli antivirus dasturiga ega. Microsoft Defender dasturini sozlamalarini to&#8217;g&#8217;ri sozlash orqali qurilmangizni yanada yaxshiroq himoyalashingiz mumkin.</p>
+<h2>2. Qurilmalaringizdagi dasturiy va apparat ta&#8217;minotini o&#8217;z vaqtida yangilab turing</h2>
+<p>Zararli dastur dasturiy ta&#8217;minotdagi zaifliklarni topadi va ular orqali qurilmalaringizga zararlantiradi. Xakerlar va jinoyatchilar doimo ana shunday zaifliklar ortidan izlanishdalar. Dasturiy ta&#8217;minot yaratuvchi tashkilotlar bu zaifliklarni yangilanishlar bilan birga chiqarilgan xavfsizlik tuzatishlari bilan bartaraf etadi. Shu boisdan, yangilanishlar o&#8217;z vaqtida o&#8217;rnatish juda muhim.</p>
+<p>Qanday turdagi qurilmadan foydalanishingizdan qat&#8217;iy nazar, uning operatsion tizimi eng so&#8217;nggi versiyasiga yangilanganligiga amin bo&#8217;ling. Yaxshisi, operatsion tizim va antivirus dasturini avtomatik ravishda yangilanadigan qilib sozlaganingiz ma&#8217;qul. Qurilmalaringizdagi qolgan dasturlarni tez-tez va muntazam ravishda yangilab turing.</p>
+<p>Agar so&#8217;nggi olti oy ichida mobil telefoningizning operatsion tizimi uchun hech qanday yangilanishlar olmagan bo&#8217;lsangiz, smartfoningiz eski model bo&#8217;lishi va ishlab chiqaruvchi uni qo&#8217;llab-quvvatlashni to&#8217;xtatgan bo&#8217;lishi ehtimoli mavjud. Bunday holda, telefonni muhim xavfsizlik yangilanishlarini oluvchi yangiroq modelga almashtirganingiz ma&#8217;qul.</p>
+<h2>3. Administrator huquqiga ega bo&#8217;lmagan akkauntdan foydalaning</h2>
+<p>Administrator akkaunti ostida yuklab olingan zararli dastur qurilmangiz va undagi maʼlumotlar uchun yanada zararlidir. Kompyuteringizda cheklangan imtiyozlarga ega foydalanuvchi akkauntini yaratib va kundalik vazifalar uchun undan foydalanganingiz ma&#8217;qul. Cheklangan imtiyozga ega akkauntga kirganingizda, zararli dastur qurilmangizga kirish yo&#8217;lini topishi va tizim bo&#8217;yicha o&#8217;zgartirishlar kiritishi ancha qiyin bo&#8217;ladi.</p>
+<h2>4. Qanday dasturlar o&#8217;rnatayotganingizga ehtiyot va e&#8217;tiborli bo&#8217;ling</h2>
+<p>Ko&#8217;p zararli dasturlar shubhali dasturiy ta&#8217;minot to&#8217;plami ichida bo&#8217;lishi yoki haqiqiy ilovalarning &laquo;qaroqchilik&raquo; versiyalariga joylashtirilgan bo&#8217;lishi mumkin. Kompyuteringizga zararli dasturlarni yuqtirishning eng ishonchli yo&#8217;llaridan biri unga &laquo;qaroqchilik&raquo;(litsenziyasiz) dasturlarini o&#8217;rnatishdir. Agar sizga ma&#8217;lum bir dasturiy ta&#8217;minot juda ham kerak bo&#8217;lsa, lekin uni sotib olishga imkoningiz bo&#8217;lmasa, yodda tuting, deyarli barcha yirik dasturiy mahsulotlarning bepul muqobil versiyalari (alternativ versiyalari) mavjud. Ko&#8217;pincha, muqobil versiyalardagi ko&#8217;plab funksiyalar cheklangan bo&#8217;lsa-da, ular vazifangizni bajarish uchun yetarli bo&#8217;ladi. Iloji bo&#8217;lsa, har doim xususiy tijorat mahsulotlaridan ko&#8217;ra ochiq kodli dasturiy ta&#8217;minotni tanlang.</p>
+<p>Ilovalarni faqat rasmiy ilovalar do&#8217;konlari orqali yuklab oling. Agar siz biror ilovani birinchi marta o&#8217;rnatayotgan bo&#8217;lsangiz va u haqida ma&#8217;lumotingiz bo&#8217;lmasa, uning qanchalik ishonchliligini aniqlash uchun boshqa foydalanuvchilarning fikrlari bilan tanishishingiz to&#8217;g&#8217;ri bo&#8217;ladi.</p>
+<p>Qurilmalaringizga oʻrnatilgan barcha ilovalarni muntazam ravishda qayta koʻrib chiqishni odat qiling. Keraksiz ilovalarni o&#8217;chirib tashlang.</p>
+<h2>5. Biriktirmalardan foydalanishda ehtiyot bo&#8217;ling</h2>
+<p>Notanish yoki siz toʻliq ishonmaydigan shaxslar tomonidan yuborilgan elektron pochta xabarlari, ijtimoiy media yoki sms xabarlaridagi biriktirmalarni hech qachon yuklab olmasligingiz yoki ochmasligingiz kerak. Bu raqamli xavfsizlikning eng asosiy qoidalaridan biridir. Firibgarlar va jinoyatchilar, zararli dasturlar bilan zararlangan Word, Excel, PowerPoint va PDF fayllarini qo&#8217;llashni ko&#8217;proq afzal ko&#8217;radilar. Agar elektron pochta yoki ma&#8217;lum bir boshqa turdagi xabar sizga g&#8217;alati yoki shubhali ko&#8217;rinsa, buning eng yaxshi yechimi uni darhol o&#8217;chirishdir.</p>
+<p>Hatto, siz tanigan va ishongan odamlarning elektron pochta akkauntlari buzib kirilgan bo&#8217;lishi ham mumkinligini unutmang. Shuning uchun, agar siz ulardan biriktirmali kutilmagan xabar olsangiz, uni ochishdan oldin sizga xabarni yuborgan tanishingiz bilan bog&#8217;langaningiz ma&#8217;qul.</p>
+<h2>6. Havolalarni bosishdan oldin ularni tekshiring</h2>
+<p>Notanish odamlar yoki tashkilotlar tomonidan yuborilgan havolalarni hech qachon bosmang. Shuningdek, olingan har bir havola salohiyatli xavfga ega deb hisoblang. Hamkasbingiz, bank yoki siz foydalanayotgan ijtimoiy media xizmatidan elektron xabar olganingizda, undagi havolani bosishga shoshilmang. Toʻliq veb-sayt manzilini havola ustiga kursorni olib borib (ustiga bosmang) tekshiring. Shunda qilib havolani bosish kerak yoki yo&#8217;qligini aniqlay olasiz. Shu bilan bir qatorda, sayt haqiqiy ekanligiga amin bo&#8217;lish uchun brauzer oynasini ochib, manzilni to&#8217;g&#8217;ridan-to&#8217;g&#8217;ri URL maydoniga kiritishingiz mumkin.</p>
+<p>Sizga biroz bo‘lsada shubhali bo‘lib ko‘ringan havolaga bosishdan avval uning xavfsizligini tekshirish uchun havolalar skaneri, masalan, <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> dan foydalaning.</p>
+<p>Qisqartirilgan URL havolalardan foydalanishda esa o&#8217;ta ehtiyot bo&#8217;ling. Qisqartirilgan havolaning ortidagi asl URL havolani har doim tekshiring. Qisqartirilgan URL manzilini “dekodlash &#8211; ochib ko&#8217;rish” uchun <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> kabi bepul onlayn xizmatidan foydalanishingiz mumkin.</p>
+<h2>7. Qalqib chiquvchi oynalarga ishonmang</h2>
+<p>Hammamiz ham Internetdan foydalanayotganimizda to&#8217;satdan qalqib chiqib, kompyuterimiz zararlanganligi va uni himoyalash uchun zarur dasturni yuklab olishimizni tavsiya qiladigan qalqib chiqivchi oynalarga duch kelganmiz. Bunday tuzoqlarga ilinmang. Oqilona ish tuting.</p>
+<h2>8. Tashqi ma&#8217;lumot saqlash vositalaridan ehtiyotkorlik bilan foydalaning</h2>
+<p>Zararli dastur ko&#8217;pincha USB xotira karta, tashqi qattiq disk, flesh-kartalar va boshqalar tashqi ma&#8217;lumot saqlash vositalari orqali turli qurilmalarga tarqaladi. O&#8217;zingizga tegishli bo&#8217;lmagan notanish bunday qurilmani kompyuteringizga hech qachon ulamang. Agar sizga tanish tashqi ma&#8217;lumot saqlash media qurilmasidan foydalanishingiz zarur bo&#8217;lsa, ochishdan oldin uni antivirus dasturi bilan skanerlaganingiz ma&#8217;qul.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/uz/cs-articles/how-to-protect-yourself-against-malware-uz/">Zararli dasturlardan himoyalanish</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/uz">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

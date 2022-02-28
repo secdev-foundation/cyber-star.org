@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Autentificare Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/ro/cs-categories/passwords-ro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 09 Feb 2022 02:58:05 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<item>
+		<title>Cum să creați o parolă puternică</title>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-create-strong-passwords-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-create-strong-passwords-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:17:40 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=840</guid>
+
+					<description><![CDATA[<p>Viața noastră personală, dar și cea profesională tot mai mult sunt legate de conturile noastre online. Poșta electronică, rețelele de socializare, distribuirea de fișiere, mesageria, vizionarea videoclipurilor, aplicațiile bancare, cumpărăturile, copiile de rezervă a datelor, toate aceste servicii necesită conturi. Cu siguranță aveți zeci de conturi diferite pe care trebuie să țineți minte și să [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-create-strong-passwords-ro/">Cum să creați o parolă puternică</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Viața noastră personală, dar și cea profesională tot mai mult sunt legate de conturile noastre online. Poșta electronică, rețelele de socializare, distribuirea de fișiere, mesageria, vizionarea videoclipurilor, aplicațiile bancare, cumpărăturile, copiile de rezervă a datelor, toate aceste servicii necesită conturi. Cu siguranță aveți zeci de conturi diferite pe care trebuie să țineți minte și să aveți grijă.</p>
+<p>Parolele vă protejează de cei ce vor să fure aceste conturi, să vă spioneze sau să utilizeze datele sau documentele accesate prin intermediul acestor conturi în scopuri criminale.</p>
+<h2>Aveți nevoie de parole puternice</h2>
+<p>Nu toate parolele sunt la fel de bune în ceea ce privește protecția conturilor. Sute de milioane de utilizatori din toată lumea continuă să utilizeze parole care pot fi ghicite sau sparte cu ușurință. Au trecut vremurile când parolele puteau fi sparte doar de hackerii foarte talentați, cu ani de experiență, abilități și instrumente unice. Acum majoritatea parolelor sunt sparte cu ajutorul unui software disponibil la scară largă, care încearcă diferite combinații de cuvinte și caractere cunoscute până găsește una care funcționează. Această metodă de spargere a parolei este cunoscută drept <em>atac prin forță brută</em>.</p>
+<p>Așadar, trebuie să vă protejați conturile și datele din ele cu parole puternice, adică cu parole care sunt greu de spart. Practic, aceasta înseamnă utilizarea unor parole atât de complicate încât spargerea lor cu ajutorul „atacului prin forță brută” ar necesita prea mult timp.</p>
+<h2>Creați o parolă care este greu de spart</h2>
+<ul>
+<li><strong>Faceți-o lungă<br />
+</strong>Acesta e cel mai importat factor. Utilizați cel puțin 12 caractere, mai multe chiar, dacă e posibil.</li>
+<li><strong>Utilizați caractere diferite<br />
+</strong>Cu cât mai mult amestecați între ele majuscule și litere mici, numere și caractere, cu atât mai greu va fi de spar parola dvs. Parolele care conțin caractere aleatorii sunt mult mai puternice decât cele care conțin cuvinte. Așadar, parola <em>iLoVeYOu56&amp;#</em> este mai puternică decât <em>iloveyou9!</em>, dar o variantă mult mai sigură ar fi <em>iL3*Ov50&amp;0Ey6824(2uO</em>.</li>
+<li><strong>Nu utilizați combinații de taste sau cuvinte memorabile<br />
+</strong>Parolele din categoria <em>qwerty</em>, <em>12345678</em>, <em>password123</em> și <em>myemailpass</em> sunt mai ușor de spart.</li>
+<li><strong>Evitați înlocuirile răspândite<br />
+</strong>Deși înlocuirea caracterelor face parolele mai puternice, evitați cele mai răspândite înlocuiri de caractere. Parola <em>D00RB3LL</em> e un pic mai bună decât <em>DOORBELL</em>, dar totuși este foarte ușor de spart. Includeți în loc caractere aleatorii.</li>
+<li><strong>Nu utilizați date personale<br />
+</strong>Dacă un infractor va intenționa să vă spargă parola, el în primul rând va încerca să o ghicească utilizând toate datele cunoscute despre dvs. Acestea pot include numele câinelui dvs., orașul în care v-ați născut, echipa sportivă cu care țineți, numele copilului dvs., data nașterii dvs. etc.</li>
+<li><strong>Nu reutilizați parolele<br />
+</strong>Ideal ar fi ca toate conturile și dispozitivele dvs. să aibă parole unice. Dacă infractorul vă fură sau sparge parola de la un cont, el va încerca să vă spargă și celelalte conturi utilizând parola furată și variații ale acesteia.</li>
+</ul>
+<p>Poate părea că e nevoie de prea multe eforturi pentru a vă proteja fiecare cont prin parole cu adevărat sigure. Cum veți putea ține minte toate aceste parole? Ei bine, trebuie să țineți minte doar o singură parolă puternică. De restul se va ocupa un manager de parole.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-create-strong-passwords-ro/">Cum să creați o parolă puternică</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parole care par puternice, dar nu sunt</title>
+		<link>https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:35:56 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=845</guid>
+
+					<description><![CDATA[<p>Aproape toate serviciile online cer ca utilizatorii să creeze parole complicate cu utilizarea literelor majuscule, numerelor și a caracterelor speciale. Crearea unei parole care satisface cerințele Gmail sau Facebook le oferă utilizatorilor senzația că conturile lor sunt protejate. Deseori această senzație este greșită. Crearea unei parole care întrunește un minim de cerințe de complexitate nu [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/">Parole care par puternice, dar nu sunt</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Aproape toate serviciile online cer ca utilizatorii să creeze parole complicate cu utilizarea literelor majuscule, numerelor și a caracterelor speciale. Crearea unei parole care satisface cerințele Gmail sau Facebook le oferă utilizatorilor senzația că conturile lor sunt protejate. Deseori această senzație este greșită. Crearea unei parole care întrunește un minim de cerințe de complexitate nu este la fel ca și crearea unei parole cu adevărat puternice și sigure.</p>
+<p>Problema e că majoritatea utilizatorilor folosesc aceleași modele atunci când își consolidează parolele pentru a corespunde cerințelor serviciului online. Hackerii cunosc aceste modele foarte bine și folosesc aceste cunoștințe pentru a sparge parolele. Așadar, multe parole care par puternice, de fapt sunt foarte ușor de spart.</p>
+<p>Mai jos e o listă cu cele mai răspândite greșeli legate de încercările de a consolida o parolă. Nu comiteți asemenea greșeli.</p>
+<ul>
+<li><strong>Adăugarea unui număr la sfârșit<br />
+</strong></p>
+<p>Mulți utilizatori cred greșit că adăugarea unui număr la sfârșitul parolei o face mai puternică. Deseori, aceasta e un număr format dintr-o singură cifră, de obicei <em>1</em>. Hackerii știu și țin cont de asta atunci când încearcă să spargă o parolă.</p>
+<p><span style="color: #c01d24;"><span style="color: #c01d24;">Pentru a crea o parolă cu adevărat puternică, adăugați mai multe numere aleatorii într-o ordine aleatorie.</span></span></li>
+<li><strong>Utilizarea majusculei la începutul parolei<br />
+</strong></p>
+<p>De asemenea, utilizatorii tind să creeze parole cu o singură literă mare, aceasta fiind de obicei prima literă din parolă. Nici acest lucru nu este o noutate pentru hackeri.</p>
+<p><span style="color: #c01d24;">Pentru a crea o parolă puternică, utilizați combinații aleatorii din majuscule și litere mici.<br />
+</span></li>
+<li><strong>Adăugarea unui caracter special la sfârșit<br />
+</strong></p>
+<p>Încă o greșeală frecventă este adăugarea unui caracter special la sfârșitul parolei. De cele mai dese ori acesta e<em> !</em>. Adăugarea unui asemenea caracter special nu vă consolidează parola și nu o face mai greu de spart.</p>
+<p><span style="color: #c01d24;">Pentru a crea o parolă cu adevărat puternică, adăugați mai multe caractere speciale aleatorii și într-o ordine aleatorie.<br />
+</span></li>
+<li><strong>Utilizarea cuvintelor populare sau a combinațiilor de caractere<br />
+</strong></p>
+<p>Veți fi surprins să aflați câți utilizatori din întreaga lume folosesc aceleași cuvinte (de exemplu, <em>password</em>, <em>welcome</em>, <em>football</em>, <em>superman</em> etc.) sau combinații de simboluri (e.g. <em>qwerty</em>, <em>asdfgh</em>, <em>qazwsx</em> etc.) în parolele setate. Hackerii utilizează toate aceste cuvinte pentru a sparge parolele prin metoda atacului prin forță brută. Aceste atacuri sunt efectuate cu ajutorul unor programe speciale, care încearcă diferite combinații de cuvinte populare și caractere, până ghicesc varianta corectă. Alte cuvinte utilizate frecvent în milioane de parole sunt prenumele, numele de orașe, țări și echipe sportive.</p>
+<p><span style="color: #c01d24;">Pentru a crea o parolă care e cu adevărat greu de spart, utilizați combinații aleatorii din majuscule și litere mici, numere și caractere speciale, dar nu cuvinte populare sau combinații de caractere de pe tastatură și smartphone.</span></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/">Parole care par puternice, dar nu sunt</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce toate parolele dvs. trebuie să fie unice</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 00:52:27 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=850</guid>
+
+					<description><![CDATA[<p>Toate conturile dvs. trebuie să aibă parole unice pe care nu le-ați mai utilizat până acum. Chiar dacă utilizați cea mai puternică parolă din lume, riscați foarte mult, dacă o utilizați pentru câteva conturi în același timp. Ce se întâmplă atunci când reutilizați parolele De exemplu, utilizați aceeași parolă pentru e-mailul dvs., pentru Facebook și [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/">De ce toate parolele dvs. trebuie să fie unice</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Toate conturile dvs. trebuie să aibă parole unice pe care nu le-ați mai utilizat până acum. Chiar dacă utilizați cea mai puternică parolă din lume, riscați foarte mult, dacă o utilizați pentru câteva conturi în același timp.</p>
+<h2>Ce se întâmplă atunci când reutilizați parolele</h2>
+<p>De exemplu, utilizați aceeași parolă pentru e-mailul dvs., pentru Facebook și pentru Instagram. Dacă furnizorul dvs. de e-mail va avea o problemă de securitate (ceea ce se întâmplă destul de des) și datele dvs. de conectare vor fi furate, infractorii vor încerca să utilizeze parola furată și versiunile ei ușor modificate pentru a se conecta și la alte site-uri. Prin urmare, toate conturile dvs. pentru care folosiți aceeași parolă vor fi sparte.</p>
+<p>Reutilizarea parolelor nu este o idee bună deoarece, la fel ca și milioane de alți utilizatori din întreaga lume, probabil aveți mai multe conturi pe care le-ați creat anterior și care au fost uitate sau sunt utilizate rar. Este foarte probabil că unele dintre aceste conturi au fost sparte. Dacă un infractor are adresa dvs. de e-mail care e legată de unele dintre aceste conturi, poate găsi ușor toate conturile sparte asociate cu acest e-mail. La fel de ușor pot fi obținute și parolele descoperite. Așadar, dacă reutilizați aceeași parolă sau versiuni ale acesteia un pic modificate pentru mai multe conturi, un infractor vă poate sparge toate aceste conturi găsind un singur cont uitat. Aceasta se numește <em>potrivire de parolă</em>.</p>
+<ul>
+<li>Dacă vreți să verificați dacă adresa (adresele) dvs. de e-mail este asociată la vreun cont care a fost dezvăluit sau spart, puteți utiliza acest serviciu. Pur și simplu introduceți adresa de e-mail în câmpul de căutare și apăsați pe „pwned?”.</li>
+<li>Dacă adresa dvs. de e-mail apare în vreo unul dintre conturile sparte, veți obține o listă cu toate serviciile online în care datele dvs. de cont au fost compromise într-un fel sau altul. Conectați-vă la fiecare dintre dintre aceste conturi și schimbați parola cât mai curând posibil. De asemenea, vă recomandăm să vă protejați conturile prin intermediul autentificării cu doi factori. Rețineți, parolele dvs. trebuie să fie puternice și unice. Dacă nu mai utilizați unele conturi, vă recomandăm să le ștergeți.</li>
+</ul>
+<p>Poate că te gândești că e nevoie de prea multe eforturi pentru a vă proteja fiecare cont prin parole unice și a vă asigura că aceste parole sunt cu adevărat puternice. Cum veți putea ține minte toate aceste parole? Ei bine, trebuie să țineți minte doar o singură parolă puternică. De restul se va ocupa un manager de parole.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/">De ce toate parolele dvs. trebuie să fie unice</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce trebuie să utilizați un manager de parole</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 04:08:50 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=853</guid>
+
+					<description><![CDATA[<p>Parolele vă protejează de cei ce vor să vă fure conturile online sau datele din aceste conturi. Pentru a vă proteja conturile, trebuie să utilizați parole puternice care în mod normal includ combinații lungi și aleatorii de caractere. Asemenea parole sunt aproape imposibil de memorat. Mai mult de atât, trebuie să aveți o parolă unică [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/">De ce trebuie să utilizați un manager de parole</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Parolele vă protejează de cei ce vor să vă fure conturile online sau datele din aceste conturi. Pentru a vă proteja conturile, trebuie să utilizați parole puternice care în mod normal includ combinații lungi și aleatorii de caractere. Asemenea parole sunt aproape imposibil de memorat. Mai mult de atât, trebuie să aveți o parolă unică pentru fiecare dintre conturile dvs.</p>
+<p>Așadar, cum să țineți minte și să urmăriți toate aceste parole? Soluția e managerul de parole.</p>
+<p>Managerul de parole e ca un seif, în care păstrați zeci sau chiar sute de chei (parole) pentru toate conturile dvs. Trebuie să țineți minte doar parola pentru a intra în managerul de parole, acolo unde se stochează în siguranță celelalte parolele ale dvs.</p>
+<h2>Ce face managerul de parole</h2>
+<ul>
+<li><strong>Vă păstrează datele de conectare<br />
+</strong>Probabil că aveți zeci sau chiar sute de conturi diferite pe online. Nu e o idee bună să notați toate datele acestor conturi (numele de utilizator, adresele de e-mail și parolele) pe o foaie de hârtie sau într-un document de pe computer. Managerul de parole simplifică monitorizarea tuturor acestor conturi. El memorează toate parolele dvs. și alte date de conectare.</li>
+<li><strong>Le stochează în siguranță<br />
+</strong>Stocarea parolelor într-un manager de parole este mult mai sigură decât notarea lor pe hârtie sau într-un document pe dispozitiv. Nimeni nu vă poate deschide managerul de parole dacă îl protejați cu o parolă foarte puternică. În calitate de măsură de precauție suplimentară trebuie să utilizați autentificarea cu doi factori pentru a vă securiza managerul de parole.</li>
+<li><strong>Creează parole puternice și unice<br />
+</strong>De asemenea, managerul de parole simplifică crearea parolelor puternice și garantează că parola alocată fiecărui cont este unică. Managerul de parole creează parole și vă permite să le controlați lungimea și complexitatea.</li>
+</ul>
+<h2>Care manager de parole este cel mai potrivit</h2>
+<p>Doar dvs. puteți decide care manager de parole corespunde necesităților și preferințelor dvs. Există mai multe opțiuni de încredere și sigure, contra plată, din care puteți alege. Unele pachete de software antivirus vin cu manageri de parole încorporate. Dacă alegeți să plătiți un abonament, atunci cele mai sigure sunt: 1Password, LastPass, Bitwarden Premium, Dashlane, Keeper și NordPass.</p>
+<p>Unele aplicații oferă și acces gratuit pentru utilizatorii care nu au nevoie de funcții avansate. Dacă decideți că vreți un manager de parole gratuit, cea mai sigură opțiune este să îl alegeți pe cel cu un cod inițial deschis, precum BitWarden, KeePass și KeePassXC.</p>
+<p>Aplicații de acest tip se împart în două categorii, în funcție de locul în care păstrează datele de conectare ale utilizatorilor. Dacă utilizați un manager de parole <em>local</em>, precum KeePassXC, parolele dvs. vor fi stocate pe propriul dispozitiv. Asemenea manageri de parole oferă o mai bună confidențialitate și securitate, dar pentru a-i utiliza în siguranță este necesar un anumit nivel de cunoștințe tehnice și igienă digitală.</p>
+<p>În schimb, managerul de parole <em>cloud</em> stochează parolele pe serverele cloud. Această opțiune este mai sigură pentru utilizatorii care au cunoștințe tehnice limitate și nu pot respecta regulile stricte de igienă digitală, care includ configurarea copiilor de rezervă automate. BitWarden și KeePass sunt manageri de parole cloud gratuiți, cu un cod inițial deschis, renumiți prin siguranța și fiabiliatea lor.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/">De ce trebuie să utilizați un manager de parole</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De ce trebuie să utilizați autentificarea cu doi factori</title>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ro</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 08 Feb 2022 04:27:50 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=857</guid>
+
+					<description><![CDATA[<p>Parolele vă protejează de cei care vor să vă fure conturile sau să spioneze tot ce se întâmplă în ele. De aceea, trebuie să vă protejați toate conturile cu parole cu adevărat puternice și unice. De asemenea, trebuie să stocați parolele în siguranță. Din păcate, chiar și cea mai puternică parolă nu poate garanta că [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/">De ce trebuie să utilizați autentificarea cu doi factori</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Parolele vă protejează de cei care vor să vă fure conturile sau să spioneze tot ce se întâmplă în ele. De aceea, trebuie să vă protejați toate conturile cu parole cu adevărat puternice și unice. De asemenea, trebuie să stocați parolele în siguranță.</p>
+<p>Din păcate, chiar și cea mai puternică parolă nu poate garanta că contul dvs. este ferit de infractori. Există mai multe modalități de a compromite o parolă. Hackerii pot fura datele dvs. direct de la furnizorul de servicii online (ceea ce se întâmplă mult mai des decât credeți). Cineva poate instala pe dispozitivul dvs. un program care înregistrează fiecare tastă pe care o apăsați pe tastatură (inclusiv toate parolele dvs.). O persoană insistentă vă poate sparge parola sau vă poate convinge să o dezvăluiți. La fel, parola poate fi văzută de pe o cameră ascunsă, în timp ce o introduceți.</p>
+<p>Iată de ce trebuie să utilizați autentificarea cu doi factori (2FA) pentru a vă proteja conturile online importante. Atunci când este activată autentificarea cu doi factori, pentru a accesa contul, trebuie să vă identificați prin două modalități. Astfel, pe lângă introducerea parolei (<em>primul</em> factor), trebuie să furnizați și cea de-a doua parte de date (al <em>doilea</em> factor) pentru a vă confirma identitatea. În general, 2FA oferă încă un nivel de protecție pentru conturile dvs. online, menținându-le în siguranță chiar și atunci când parolele dvs. sunt compromise.</p>
+<h2>Cum vă poate ajuta al doilea factor</h2>
+<p>Majoritatea conturilor online permit utilizatorilor să aleagă una din trei categorii de factori suplimentari de autentificare:</p>
+<ul>
+<li><strong>Ceva ce știți</strong>: informații pe care doar dvs. le cunoașteți, cum ar fi codul PIN sau răspunsul la întrebarea de securitate pe care ați ales-o.</li>
+<li><strong>Ceva ce aveți</strong>: un obiect fizic pe care ar trebui să-l aveți pentru a accesa conturile online. Acesta poate fi un dispozitiv de securitate (un mic dispozitiv hardware) sau smartphone-ul dvs. care poate fi utilizat pentru a primi coduri de autentificare prin SMS sau aplicații speciale de autentificare.</li>
+<li><strong>Ceva ce sunteți</strong>: ceva unic de pe corpul dvs., precum amprenta digitală, fața sau retina ochiului.</li>
+</ul>
+<h2>Ce factor secundar ar trebui să alegeți</h2>
+<p>Este foarte dificil de recomandat cea mai potrivită metodă 2FA, care funcționează pentru fiecare utilizator. În cele din urmă, ar trebui să alegeți reieșind din propria situație, ținând cont de riscuri și de gradul de confort. Vă vom oferi câteva sfaturi Pentru a vă ajuta să faceți o alegere informată:</p>
+<ul>
+<li><strong>Întrebările de securitate</strong> sunt comode pentru că trebuie să memorați doar câteva răspunsuri la întrebările alese. Cu toate acestea, infractorul poate găsi cu ușurință aceste răspunsuri (de exemplu, numele de domnișoară al mamei dvs.) sau vă poate păcăli ca să-i oferiți aceste date.</li>
+<li><strong>Dispozitivele de securitate</strong> (cheile de tip U2F) reprezintă una dintre cele mai sigure metode de 2FA, cu condiția că sunt protejate fizic. Marele dezavantaj al unor asemenea dispozitive constă în faptul că ele trebuie cumpărate, iar pentru conectarea lor s-ar putea să aveți nevoie de adaptoare. În plus, de fiecare dată când vreți să vă conectați, trebuie să aveți la dvs. dispozitivul de securitate. Prin urmare, mereu există riscul unui furt sau al unei pierderi.</li>
+<li><strong>SMS-urile</strong> sunt foarte comode, deoarece acestea vin instant pe telefonul dvs. mobil. Totuși, aceasta este una dintre cele mai puțin sigure metode 2FA, deoarece SMS-urile pot fi cu ușurință redirecționate de o persoană interesată sau interceptate de către furnizorul dvs. de servicii mobile.</li>
+<li><strong>Aplicații pentru autentificare</strong> reprezintă una dintre cele mai sigure și comode metode 2FA. Atunci când asociați o asemenea aplicație cu contul dvs. online, aceasta generează parole temporare și coduri numerice, care trebuie introduse imediat după introducerea parolei dvs. de bază. Aceste parole sau coduri nu pot fi interceptate așa de ușor precum SMS-urile. Însă siguranța unor asemenea aplicații depinde de siguranța dispozitivului dvs. mobil. Pentru a le menține în siguranță, trebuie să vă asigurați că și aplicația, dar și telefonul dvs. sunt protejate cu parole puternice. Experții recomandă următoarele aplicații pentru autentificarea cu doi factori: Aegis, Authy, Google Authenticator și LastPass Authenticator. Oricare ar fi opțiunea aleasă, asigurați-vă că păstrați în siguranță codurile unice de rezervă pentru fiecare cont pe care l-ați asociat cu o aplicație pentru autentificarea cu doi factori. Veți avea nevoie de aceste coduri pentru a accesa conturile în cazul în care veți pierde telefonul cu aplicația pe el.</li>
+<li><strong>Datele biometrice</strong>, precum <strong>amprenta digitală</strong>, <strong>fața</strong> sau <strong>vocea</strong> sunt foarte comode, dar nu atât de sigure, precum pare. Din păcate, multe servicii online populare nu propun opțiunea biometrică de 2FA. În plus, mulți utilizatori nu vor să le utilizeze, deoarece, spre deosebire de parole, datele biometrice furate nu pot fi schimbate. Odată sparte, acestea rămân sparte pentru totdeauna. Serviciile online pot, de asemenea, vinde datele biometrice părților terțe fără consimțământul dvs.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/">De ce trebuie să utilizați autentificarea cu doi factori</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
