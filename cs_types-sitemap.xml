@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cyber-star.org/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cyber-star.org/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://cyber-star.org/uz/cs-types/how-to-uz/</loc>
@@ -6,7 +6,7 @@
 	</url>
 	<url>
 		<loc>https://cyber-star.org/cs-types/explainer/</loc>
-		<lastmod>2022-02-09T02:54:33+00:00</lastmod>
+		<lastmod>2023-06-21T18:01:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ro/cs-types/explainer-ro/</loc>
@@ -18,7 +18,7 @@
 	</url>
 	<url>
 		<loc>https://cyber-star.org/cs-types/how-to/</loc>
-		<lastmod>2022-02-11T12:27:11+00:00</lastmod>
+		<lastmod>2023-05-17T13:59:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/uz/cs-types/explainer-uz/</loc>
@@ -34,7 +34,7 @@
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ru/cs-types/how-to-ru/</loc>
-		<lastmod>2022-02-07T00:56:44+00:00</lastmod>
+		<lastmod>2023-05-17T14:19:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ka/cs-types/explainer-ka/</loc>

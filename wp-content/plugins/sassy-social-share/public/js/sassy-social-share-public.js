@@ -12,6 +12,12 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 		redirect_url: "https://www.facebook.com/sharer.php?u=" + postUrl + "&t=" + postTitle + "&v=3",
 		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-5 -5 42 42"><path d="M17.78 27.5V17.008h3.522l.527-4.09h-4.05v-2.61c0-1.182.33-1.99 2.023-1.99h2.166V4.66c-.375-.05-1.66-.16-3.155-.16-3.123 0-5.26 1.905-5.26 5.405v3.016h-3.53v4.09h3.53V27.5h4.223z" fill="#fff"></path></svg>'
 	  },
+	  mastodon: {
+	  	background_color: "#2b90d9",
+		title: "Mastodon",
+		redirect_url: "https://mastodon.social/share?text=" + postUrl + "&t=" + postTitle + "&v=3",
+		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M27 12c0-5.12-3.35-6.62-3.35-6.62C22 4.56 19.05 4.23 16 4.21c-3 0-5.92.35-7.61 1.12C8.36 5.33 5 6.83 5 12v4c.12 5 .92 9.93 5.54 11.16a17.67 17.67 0 005.44.6 10.88 10.88 0 004.18-.95l-.09-1.95a13.36 13.36 0 01-4.07.54c-2.12-.07-4.37-.23-4.71-2.84a5.58 5.58 0 01-.05-.73 27.46 27.46 0 004.73.63 26.76 26.76 0 004.68-.28c3-.35 5.53-2.17 5.85-3.83A39.25 39.25 0 0027 12zm-3.95 6.59h-2.46v-6c0-1.27-.53-1.91-1.6-1.91s-1.77.76-1.77 2.27v3.29h-2.44v-3.35c0-1.51-.59-2.27-1.77-2.27s-1.6.64-1.6 1.91v6H9v-6.18a4.49 4.49 0 011-3 3.39 3.39 0 012.63-1.12 3.17 3.17 0 012.84 1.44l.61 1 .61-1a3.17 3.17 0 012.84-1.44 3.39 3.39 0 012.63 1.12 4.49 4.49 0 011 3z" fill="#fff"></path></svg>'
+	  },
 	  twitter: {
 	  	background_color: "#55acee", 
 		title: "Twitter",
@@ -26,10 +32,10 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 
 	  },
 	  parler: {
-	  	background_color: "#C63240",
+	  	background_color: "#892E5E",
 		title: "Parler",
 		redirect_url: "https://parler.com/new-post?message=" + postTitle + "&url=" + postUrl,
-		svg: '<svg xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" viewBox="-24 -30 140 160"><g fill="#fff"><path d="M58.34 83.31h-25v-8.49c0-4.5 3.64-8.14 8.14-8.14h16.87c13.8 0 25.02-11.19 25.02-24.94 0-13.75-11.23-24.94-25.03-24.94h-.26l-5.3-.16H0C0 7.45 7.45 0 16.63 0h36.41l5.44.17C81.39.24 100 18.86 100 41.74c0 22.92-18.69 41.57-41.66 41.57z"></path><path d="M16.65 100C7.46 100 .02 92.55.02 83.37V49.49c0-8.92 7.23-16.16 16.16-16.16h42.19a8.32 8.32 0 010 16.64h-33.5c-4.53 0-8.21 3.67-8.21 8.21V100z"></path></g></svg>'
+		svg: '<svg version="1.1" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-213 20 900 500" style="enable-background:new 0 0 500 500;" xml:space="preserve"><g><path fill="#fff" d="M200,300v-50.3h100.1c27.5,0,49.9-22.3,49.9-49.9v0c0-27.5-22.3-49.9-49.9-49.9H0v0C0,67.2,67.2,0,150,0l150,0 c110.5,0,200,89.5,200,200v0c0,110.5-89.5,200-200,200h0C244.8,400,200,355.2,200,300z M150,350V200h0C67.2,200,0,267.2,0,350v150 h0C82.8,500,150,432.8,150,350z"/></g></svg>'
 	  },
 	  gab: {
 	  	background_color: "#25CC80",
@@ -41,7 +47,7 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 	  	background_color: "#E50000",
 		title: "Gettr",
 		redirect_url: "https://gettr.com/share?text="+postTitle+"&url="+postUrl,
-		svg: '<svg width="100%" height="100%" viewBox="-8 -5 50 50" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M24.528 7.9125C24.1467 8.22187 23.7874 8.3875 23.2655 8.39688C23.7249 7.94688 24.1405 7.43125 24.478 6.875C24.8155 6.31875 25.0717 5.71875 25.2624 5.09375C23.6436 6.32187 21.1561 6.64062 18.9186 7.55312C16.753 8.42812 14.8186 9.85312 14.5655 11.7312C14.3874 13.0781 15.0686 14.6531 16.0249 16.0063C16.1311 15.6469 16.303 15.2781 16.553 15.0125C17.0467 14.4906 17.853 14.3594 18.628 14.2344C19.7999 14.0469 20.8936 13.875 21.8561 13.3156C22.5342 12.9219 23.1436 12.3313 23.528 11.6281C23.7467 11.2344 23.8936 10.8031 23.9811 10.3656C23.7311 10.6 23.3405 10.7531 23.0155 10.6844C23.8186 9.9 24.3374 9.00625 24.528 7.9125Z" fill="white"/><path d="M16.0221 17.6094H8.7002V18.2969C8.7002 18.2969 12.1314 18.4781 12.6877 21.0938H16.0189H19.3502C19.9064 18.4781 23.3377 18.2969 23.3377 18.2969V17.6094H16.0221Z" fill="white"/><path d="M19.2221 21.6846C19.0033 21.6439 18.8002 21.7658 18.7627 21.9596L18.3689 24.4533C18.3658 24.4721 18.3627 24.4908 18.3627 24.5096H17.6346L17.9564 22.0721C17.9752 21.8752 17.8127 21.7033 17.5971 21.6814C17.3783 21.6596 17.1846 21.8033 17.1689 21.9971L17.0189 24.5064C17.0189 24.5096 17.0189 24.5096 17.0189 24.5127H16.3314L16.4221 22.0377C16.4221 21.8533 16.2627 21.7002 16.0658 21.6846C16.0533 21.6846 16.0408 21.6814 16.0252 21.6814C16.0127 21.6814 15.9971 21.6814 15.9846 21.6846C15.8377 21.6971 15.7127 21.7814 15.6596 21.9033C15.6377 21.9471 15.6283 21.9939 15.6283 22.0439L15.7189 24.5189H15.0314C15.0314 24.5158 15.0314 24.5158 15.0314 24.5127L14.8752 22.0002C14.8564 21.8033 14.6658 21.6627 14.4471 21.6846C14.2283 21.7064 14.0658 21.8814 14.0877 22.0752L14.4096 24.5127H13.6814C13.6783 24.4939 13.6752 24.4752 13.6752 24.4564L13.2814 21.9627C13.2439 21.7689 13.0377 21.6471 12.8221 21.6877C12.6033 21.7283 12.4627 21.9221 12.5002 22.1158L13.0564 24.5158H13.3846C13.4814 25.0502 13.5439 25.4252 13.5783 25.6283H14.1283C14.2314 26.6533 15.2189 36.1221 15.2189 36.1221C15.2189 36.1221 15.2846 36.9252 16.0221 36.9252C16.7564 36.9252 16.8252 36.1221 16.8252 36.1221C16.9908 34.7971 17.8064 26.5814 17.9158 25.6283H18.4689C18.5033 25.4252 18.5658 25.0502 18.6627 24.5158H18.9908L19.5471 22.1158C19.5814 21.9189 19.4377 21.7252 19.2221 21.6846Z" fill="white"/></svg>'
+		svg: '<svg width="100%" height="100%" viewBox="-178 -102 1380 1380" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="1024" height="1024" rx="240"></rect><path d="M620.01 810.414C548.28 810.414 476.551 810.414 405.435 810.414C407.274 820.836 409.113 831.871 410.952 842.293C426.279 842.293 439.154 853.329 441.606 868.042C450.189 920.154 459.385 971.652 467.968 1023.76C498.008 1023.76 528.049 1023.76 557.476 1023.76C566.059 971.652 575.256 920.154 583.839 868.042C586.291 853.329 599.165 842.293 614.492 842.293C616.331 831.871 618.171 820.836 620.01 810.414C618.171 820.836 616.331 831.871 614.492 842.293Z" fill="#fff"></path><path fill="#fff" d="M789.83 628.333C604.682 628.333 420.148 628.333 235 628.333C235 636.303 235 644.273 235 652.243C344.74 677.992 379.072 718.455 394.399 762.596C472.872 762.596 551.958 762.596 630.431 762.596C645.145 718.455 680.09 677.992 789.83 652.243C789.83 644.273 789.83 636.303 789.83 628.333Z"></path><path fill="#fff" d="M610.2 250.68C640.241 298.499 659.246 345.093 652.502 388.008C640.241 471.999 534.179 529.014 512.722 581.126C435.475 502.039 388.268 448.089 380.911 398.43C369.263 305.243 502.912 229.835 512.722 125C536.631 155.041 543.988 208.378 543.988 238.418C555.637 223.092 562.38 204.086 562.994 184.468C585.677 211.443 593.034 258.037 593.034 292.982C602.843 281.333 609.587 266.62 610.2 250.68Z"></path></svg>'
 	  },
 	  MeWe: {
 	  	background_color: "#007da1",
@@ -167,12 +173,7 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
         redirect_url: "https://app.gentlereader.com/bookmark?url=" + postUrl,
         svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-80 -80.014 1200.014 1200"><path fill-rule="evenodd" clip-rule="evenodd" fill=#fff d="M819.664,291.684C572.661-7.32,155.656,203.683,169.656,527.687 c38,489.007,727.009,448.006,683.009-28H562.661v98h177.002c-54.721,270.685-443.659,218.617-464.179-77.827 c-0.48-6.934,1.493-36.96,3.053-44.641c44.28-217.95,300.377-317.791,467.126-110.535L819.664,291.684z"></path></svg>',	
       },
-	  google_bookmarks: {
-	  	background_color:"#cb0909",
-		title: "Google Bookmarks",
-		redirect_url: "http://www.google.com/bookmarks/mark?op=edit&bkmk=" + postUrl + "&title=" + postTitle,
-		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-12 0 100 100"><path d="M 51.22877660575707 38.19080770219705 A 17 17 0 1 0 56 50.00000000000001 h -17" stroke="#fff" stroke-width="8" fill="none"></path></svg>'
-	  },
+	  
 	  digg: {
 	  	background_color:"#006094",
 		title: "Digg",
@@ -189,7 +190,7 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 	  	background_color:"#fd6500",
 		title: "Print",
 		bookmarklet_url: "javascript:window.print()",
-		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#A9A9A9" stroke="#fff" stroke-width=".1" d="M4.467 14.305h23.065v6.498H4.467v-6.498z"/><path fill="#DCDCDC" stroke="#fff" stroke-width=".1" d="M5.228 12.83H26.77l.745 1.39H4.485l.743-1.39z"/><path d="M9.19 8.118h13.467v6.106H9.19z"/><path fill="#fff" stroke="#fff" stroke-width=".1" d="M9.844 6.516h12.312v7.31H9.844z"/><path stroke="#fff" stroke-width=".1" d="M8.602 17.37h14.574v3.396H8.602z"/><path fill="#fff" stroke="#fff" stroke-width=".1" d="M10.152 17.97h11.27l2.233 7.515H7.92l2.232-7.514z"/></svg>'
+		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-2.8 -4.5 35 35"><path stroke="#fff" d="M 7 10 h 2 v 3 h 12 v -3 h 2 v 7 h -2 v -3 h -12 v 3 h -2 z" stroke-width="1" fill="#fff"></path><rect stroke="#fff" stroke-width="1.8" height="7" width="10" x="10" y="5" fill="none"></rect><rect stroke="#fff" stroke-width="1" height="5" width="8" x="11" y="16" fill="#fff"></rect></svg>'
 	  },
 	  tumblr: {
 	  	background_color:"#29435d",
@@ -199,16 +200,15 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-2 -2 36 36"><path fill="#fff" d="M20.775 21.962c-.37.177-1.08.33-1.61.345-1.598.043-1.907-1.122-1.92-1.968v-6.217h4.007V11.1H17.26V6.02h-2.925s-.132.044-.144.15c-.17 1.556-.895 4.287-3.923 5.378v2.578h2.02v6.522c0 2.232 1.647 5.404 5.994 5.33 1.467-.025 3.096-.64 3.456-1.17l-.96-2.846z"/></svg>'
 	  },
 	  vk: {
-	  	background_color:"#5e84ac",
+	  	background_color:"#0077FF",
 		title: "Vkontakte",
 		redirect_url: "https://vk.com/share.php?url=" + postUrl + "&title=" + postTitle,
-		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="-1 -2 34 34"><path fill-rule="evenodd" clip-rule="evenodd" fill="#fff" d="M15.764 22.223h1.315s.394-.044.6-.262c.184-.2.18-.574.18-.574s-.03-1.764.79-2.023c.81-.255 1.844 1.705 2.942 2.46.832.57 1.464.445 1.464.445l2.936-.04s1.538-.097.81-1.304c-.06-.1-.426-.894-2.186-2.526-1.843-1.71-1.594-1.434.624-4.39 1.353-1.804 1.893-2.902 1.724-3.374-.16-.45-1.153-.33-1.153-.33l-3.306.02s-.247-.034-.428.074c-.178.108-.293.356-.293.356s-.522 1.394-1.223 2.58c-1.47 2.5-2.06 2.633-2.3 2.476-.563-.36-.42-1.454-.42-2.23 0-2.423.365-3.435-.72-3.696-.357-.085-.623-.143-1.544-.15-1.182-.014-2.18.003-2.743.28-.378.185-.667.595-.49.62.218.027.713.13.975.49.34.46.33 1.496.33 1.496s.193 2.852-.46 3.206c-.442.245-1.056-.252-2.37-2.52-.67-1.163-1.18-2.446-1.18-2.446s-.1-.24-.273-.37c-.212-.155-.506-.204-.506-.204l-3.145.02s-.473.015-.647.22c-.154.183-.01.56-.01.56s2.46 5.757 5.245 8.657c2.553 2.66 5.454 2.485 5.454 2.485z"/></svg>'
+		svg: '<svg fill="none" height="100%" width="100%" viewBox="0 13 46 20" xmlns="http://www.w3.org/2000/svg"><path d="M25.54 34.58c-10.94 0-17.18-7.5-17.44-19.98h5.48c.18 9.16 4.22 13.04 7.42 13.84V14.6h5.16v7.9c3.16-.34 6.48-3.94 7.6-7.9h5.16c-.86 4.88-4.46 8.48-7.02 9.96 2.56 1.2 6.66 4.34 8.22 10.02h-5.68c-1.22-3.8-4.26-6.74-8.28-7.14v7.14z" fill="#FFFFFF"></path></svg>'
 	  },
 	  evernote: {
 	  	background_color:"#8be056",
 		title: "Evernote",
 		redirect_url: "https://www.evernote.com/clip.action?url=" + postUrl + "&title=" + postTitle,
-		bookmarklet_url: "javascript:(function(){EN_CLIP_HOST='http://www.evernote.com';try{var x=document.createElement('SCRIPT');x.type='text/javascript';x.src=EN_CLIP_HOST+'/public/bookmarkClipper.js?'+(new Date().getTime()/100000);document.getElementsByTagName('head')[0].appendChild(x);}catch(e){location.href=EN_CLIP_HOST+'/clip.action?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title);}})();",
 		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#fff" d="M7.884 8.573h2.276c.13 0 .236-.106.236-.235 0 0-.027-1.95-.027-2.494v-.006c0-.445.09-.833.253-1.16l.078-.145c-.007 0-.017.005-.025.014l-4.42 4.385c-.01.007-.014.016-.017.026.09-.046.215-.107.233-.115.386-.175.85-.27 1.41-.27zm17.704-.477c-.18-.968-.755-1.444-1.275-1.632-.56-.203-1.698-.413-3.127-.58-1.15-.137-2.504-.126-3.318-.1-.1-.672-.568-1.285-1.096-1.498-1.404-.564-3.573-.428-4.13-.272-.442.125-.932.378-1.205.768-.183.262-.302.595-.302 1.062 0 .265.007.886.015 1.44l.014 1.054c0 .494-.4.896-.896.897H7.99c-.485 0-.856.082-1.14.21-.284.128-.484.303-.636.508-.304.408-.357.912-.355 1.426 0 0 0 .416.102 1.23.084.63.767 5.02 1.414 6.356.25.522.42.736.912.966 1.1.47 3.61.994 4.787 1.146 1.174.15 1.912.466 2.35-.457.002 0 .088-.227.208-.56.382-1.156.435-2.18.435-2.924 0-.076.11-.078.11 0 0 .524-.1 2.38 1.303 2.875.554.197 1.7.373 2.864.51 1.055.12 1.82.537 1.82 3.24 0 1.645-.346 1.87-2.152 1.87-1.464 0-2.02.038-2.02-1.125 0-.938.93-.842 1.616-.842.31 0 .086-.23.086-.81 0-.576.36-.91.02-.918-2.384-.065-3.786-.004-3.786 2.978 0 2.706 1.036 3.208 4.418 3.208 2.65 0 3.588-.086 4.682-3.483.22-.67.742-2.718 1.06-6.154.197-2.173-.194-8.732-.502-10.388zm-4.622 7.25c-.327-.012-.643.01-.937.056.08-.667.353-1.488 1.332-1.453 1.08.033 1.23 1.056 1.237 1.75-.457-.205-1.02-.335-1.635-.357z"/></svg>'
 	  },
 	  amazon_us_wish_list: {
@@ -315,9 +315,9 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#fff" d="M19 19H7V7h12v12z"/><path fill="#fff" d="M25 13H7V7h18v6z"/><path fill="#fff" d="M13 25H7V7h6v18z"/></svg>'
 	  },
 	  pocket: {
-	  	background_color:"#f0f0f0",
+	  	background_color:"#ee4056",
 		title: "Pocket",
-		redirect_url: "https://readitlaterlist.com/save?url=" + postUrl + "&title=" + postTitle,
+		redirect_url: "https://getpocket.com/edit?url=" + postUrl + "&title=" + postTitle,
 		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#fff" d="M16.005 6.244c2.927 0 5.854-.002 8.782 0 1.396.002 2.195.78 2.188 2.165-.015 2.483.116 4.985-.11 7.454-.75 8.204-10.027 12.607-16.91 8.064-3.086-2.037-4.82-4.926-4.917-8.673-.06-2.34-.034-4.684-.018-7.025.008-1.214.812-1.98 2.056-1.983 2.975-.01 5.952-.005 8.93-.007zm-5.037 5.483c-.867.093-1.365.396-1.62 1.025-.27.67-.078 1.256.417 1.732a529.74 529.74 0 0 0 5.09 4.838c.745.695 1.537.687 2.278-.01a473.74 473.74 0 0 0 4.93-4.686c.827-.797.91-1.714.252-2.38-.694-.704-1.583-.647-2.447.17-1.097 1.04-2.215 2.06-3.266 3.143-.485.492-.77.432-1.227-.027a87.392 87.392 0 0 0-3.39-3.225c-.325-.29-.77-.448-1.017-.584z"></path></svg>'
 	  },
 	  fark: {
@@ -439,7 +439,7 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 	  },
 	  Kindle_It: {
 	  	background_color:"#2a2a2a",
-		title: "Kindle_It",
+		title: "Kindle It",
 		redirect_url: "https://fivefilters.org/kindle-it/send.php?url=" + postUrl,
 		svg: '<svg focusable="false" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 32 32"><path fill="#FFA036" d="M12.927 27H10V5h2.927v11.754l5.15-5.47h3.683l-5.814 6.067L22 27h-3.407l-4.704-7.763-.964 1.037V27z"/></svg>'
 	  },
@@ -627,6 +627,26 @@ function heateorSssMoreSharingPopup(elem, postUrl, postTitle, twitterTitle){
 		mainDiv.parentNode.removeChild(mainDiv);
 		bgDiv.parentNode.removeChild(bgDiv);
 	}
+	jQuery('#heateor_sss_sharing_more_content a[alt=Mastodon]').removeAttr('onclick');
+	jQuery('#heateor_sss_sharing_more_content a[alt=Mastodon]').click(function(){
+		event.preventDefault();
+		heateorSssMastodonPopup();
+	});
+}
+
+function heateorSssMastodonPopup() {
+	var heateorSssMoreSharingServicesHtml = '<button id="heateor_sss_mastodon_popup_close" class="close-button separated"><img src="'+ heateorSssCloseIconPath +'" /></button><div id="heateor_sss_sharing_more_content"><div class="all-services" style="height:auto"><div class="filter"><center>Your Mastodon Instance</center><input type="text" id="heateor_sss_mastodon_instance" placeholder="https://mastodon.social" class="search"><center><input type="button" class="heateor_sss_mastodon_popup_button" value="Submit" onclick="var heateorMastodonInstance = jQuery(\'#heateor_sss_mastodon_instance\').val().trim(), heateorMastodonAnchor = jQuery(\'a.heateor_sss_button_mastodon\').length > 0 ? jQuery(\'a.heateor_sss_button_mastodon\').attr(\'href\') : jQuery(\'#heateor_sss_sharing_more_content a[alt=Mastodon]\').attr(\'href\'); heateorMastShareURL = heateorMastodonInstance ? heateorMastodonAnchor.replace(\'https://mastodon.social\', heateorMastodonInstance) : heateorMastodonAnchor;window.open(heateorMastShareURL,\'_blank\',\'height=520,width=770,left=315,top=80,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status\');" /></center></div></div><div class="footer-panel"></div></div>';
+	var mainDiv = document.createElement('div');
+	mainDiv.innerHTML = heateorSssMoreSharingServicesHtml;
+	mainDiv.setAttribute('id', 'heateor_sss_sharing_more_providers');
+	mainDiv.style.height = 'auto';
+	var bgDiv = document.createElement('div');
+	bgDiv.setAttribute('id', 'heateor_sss_mastodon_popup_bg');
+	jQuery('body').append(mainDiv).append(bgDiv);
+	document.getElementById('heateor_sss_mastodon_popup_bg').onclick = document.getElementById('heateor_sss_mastodon_popup_close').onclick = function(){
+		mainDiv.parentNode.removeChild(mainDiv);
+		bgDiv.parentNode.removeChild(bgDiv);
+	}
 }
 
 if(heateorSssHorizontalSharingCountEnable || heateorSssVerticalSharingCountEnable){
@@ -637,7 +657,7 @@ if(heateorSssHorizontalSharingCountEnable || heateorSssVerticalSharingCountEnabl
 		}
 	);
 }
-	
+
 /**
  * Search sharing services
  */
@@ -843,6 +863,10 @@ function heateorSssCapitaliseFirstLetter(e) {
 }
 
 jQuery(function(){
+	jQuery(document).on('click', 'a.heateor_sss_button_mastodon', function(){
+		event.preventDefault();
+		heateorSssMastodonPopup();
+	});
 	var heateorSssWhatsappJSAPI = heateorSssDetermineWhatsappShareAPI(false);
 	var classes = ['heateor_sss_vertical_sharing', 'heateor_sss_vertical_counter'];
 	for(var i = 0; i < classes.length; i++){

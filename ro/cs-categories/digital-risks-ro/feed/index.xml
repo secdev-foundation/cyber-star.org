@@ -10,7 +10,7 @@
 <channel>
 	<title>Riscuri Digitale Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ro/cs-categories/digital-risks-ro/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ro/cs-categories/digital-risks-ro/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Wed, 09 Feb 2022 02:26:09 +0000</lastBuildDate>
 	<language>ro-RO</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Cum depistați atacurile de tip phishing</title>
-		<link>https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 00:35:52 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=777</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=777</guid>
 
 					<description><![CDATA[<p>Cele mai răspândite pericole online, de care se ciocnesc zilnic sute de milioane de utilizatori, sunt legate de diverse scheme de inginerie socială . Mai exact, este vorba despre convingerea utilizatorilor să-și dezvăluie datele confidențiale sau să încalce procedurile obișnuite de securitate. Ce este phishing-ul? Atacurile phishing sunt cele mai răspândite scheme de inginerie socială. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/">Cum depistați atacurile de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -67,11 +67,11 @@
 			</item>
 		<item>
 		<title>Cum să nu deveniți victima unor înșelătorii de tip phishing</title>
-		<link>https://cyber-star.org/ro/cs-articles/how-not-to-fall-for-phishing-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-not-to-fall-for-phishing-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/how-not-to-fall-for-phishing-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 01:05:30 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=783</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=783</guid>
 
 					<description><![CDATA[<p>Înșelătoriile de tip phishing sunt vechi precum Internetul și ele nu dispar. Din fericire, aceste înșelătorii pot fi ușor evitate dacă respectați regulile digitale de bază și vă ghidați de bunul simț. Urmați aceste reguli de bază pentru a fi în siguranță. 1. Fiți sceptic Țineți minte întotdeauna că ofertele foarte tentante de pe Internet [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-not-to-fall-for-phishing-ro/">Cum să nu deveniți victima unor înșelătorii de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -101,11 +101,11 @@
 			</item>
 		<item>
 		<title>Cum vă puteți proteja de programele malware</title>
-		<link>https://cyber-star.org/ro/cs-articles/how-to-protect-yourself-against-malware-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-protect-yourself-against-malware-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-protect-yourself-against-malware-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 01:23:06 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=788</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=788</guid>
 
 					<description><![CDATA[<p>Răspândirea programelor malware este una dintre cele mai frecvente metode utilizate de hackeri și infractori pentru a crea probleme în rețeaua online. Pentru a vă proteja de programele malware, pe lângă bunul simț, ghidați-vă de aceste recomandări de bază. 1. Utilizați software antivirus Întotdeauna trebuie să aveți instalat un program antivirus sigur pe dispozitivele pe [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-protect-yourself-against-malware-ro/">Cum vă puteți proteja de programele malware</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>

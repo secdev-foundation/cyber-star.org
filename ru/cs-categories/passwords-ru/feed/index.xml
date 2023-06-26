@@ -10,7 +10,7 @@
 <channel>
 	<title>Пароли Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ru/cs-categories/passwords-ru/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ru/cs-categories/passwords-ru/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Thu, 23 Sep 2021 16:34:44 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Как создать надежный пароль</title>
-		<link>https://cyber-star.org/ru/cs-articles/how-to-create-strong-passwords-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-create-strong-passwords-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-create-strong-passwords-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:27:17 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=500</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=500</guid>
 
 					<description><![CDATA[<p>Наша личная и профессиональная жизнь всё больше связана с учетными записями в интернет-службах. Электронная почта, социальные сети, обмен файлами и сообщениями, просмотр видео, интернет-банкинг, покупки, резервное копирование данных — для всего этого у пользователей должны быть учетные записи. Наверняка, у вас есть десятки учетных записей, о которых нужно помнить и о безопасности которых нужно заботиться. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-create-strong-passwords-ru/">Как создать надежный пароль</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -59,11 +59,11 @@
 			</item>
 		<item>
 		<title>Пароли, которые только кажутся надежными</title>
-		<link>https://cyber-star.org/ru/cs-articles/passwords-that-look-strong-but-arent-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/passwords-that-look-strong-but-arent-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:30:06 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=502</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=502</guid>
 
 					<description><![CDATA[<p>Почти все интернет-службы требуют, чтобы пользователи создавали сложные пароли с использованием прописных букв, цифр и специальных символов. Придумав надежный пароль, который соответствует требованиям Gmail или Facebook, пользователи чувствуют, что их аккаунты надежно защищены Но чаще всего это ощущение бывает ложным. Пароль, соответствующий минимальным требованиям сложности, далеко не всегда является действительно надежным паролем. Проблема в том, [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/passwords-that-look-strong-but-arent-ru/">Пароли, которые только кажутся надежными</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -93,11 +93,11 @@
 			</item>
 		<item>
 		<title>Почему все ваши пароли должны быть уникальными</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-all-of-your-passwords-should-be-unique-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-all-of-your-passwords-should-be-unique-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:33:32 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=504</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=504</guid>
 
 					<description><![CDATA[<p>Для всех учетных записей нужно создавать уникальные пароли, которые вы никогда раньше не использовали. Даже если вы используете самый сложный пароль в мире, вы очень рискуете, используя его для нескольких учетных записей одновременно. Что происходит, когда вы повторно используете пароли Допустим, вы используете один и тот же пароль для личной электронной почты, Facebook и Instagram. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-all-of-your-passwords-should-be-unique-ru/">Почему все ваши пароли должны быть уникальными</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -119,11 +119,11 @@
 			</item>
 		<item>
 		<title>Зачем использовать менеджер паролей</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-a-password-manager-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-a-password-manager-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 02:07:11 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=506</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=506</guid>
 
 					<description><![CDATA[<p>Пароли — главное средство защиты от любого, кто хотел бы украсть ваши учетные записи или информацию, указанную в них. Чтобы защитить ваши учетные записи, вам следует использовать надежные пароли, состоящие из длинных и случайных комбинаций символов. Такие пароли почти невозможно запомнить. Более того, следует использовать по-настоящему уникальный пароль для каждой из ваших учетных записей. Итак, [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-use-a-password-manager-ru/">Зачем использовать менеджер паролей</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -153,11 +153,11 @@
 			</item>
 		<item>
 		<title>Зачем использовать двухфакторную аутентификацию</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-two-factor-authentication-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-two-factor-authentication-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 02:09:33 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=508</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=508</guid>
 
 					<description><![CDATA[<p>Пароли — главное средство защиты от тех, кто хочет украсть ваши учетные записи или шпионить за всем, что в них происходит. Именно поэтому вам следует защитить все ваши учетные записи надежными и уникальными паролями. Вам также следует хранить пароли в безопасном месте. К сожалению, даже самого надежного пароля недостаточно, чтобы гарантировать, что злоумышленник не получит [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-use-two-factor-authentication-ru/">Зачем использовать двухфакторную аутентификацию</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>

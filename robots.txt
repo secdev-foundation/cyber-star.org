@@ -1,3 +1,23 @@
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: MJ12bot
+User-agent: XoviBot
+User-agent: ssearch_bot
+User-agent: fr-crawler
+User-agent: digincore
+User-agent: Domnutch
+User-agent: rogerbot
+User-agent: CMS Crawler
+User-agent: netseer
+User-agent: NetSeer crawler
+User-agent: TurnitinBot
+User-agent: magpie-crawler
+User-agent: Nutch Crawler
+User-agent: Exabot
+User-agent: SiteBot
+User-agent: Wget
+User-agent: MauiBot
+Disallow: /
+
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Crawl-delay: 5

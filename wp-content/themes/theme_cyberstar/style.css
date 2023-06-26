@@ -1,7 +1,7 @@
 /*
 Theme Name: CyberSTAR
 Text Domain: theme_cyberstar
-Version: 1.0
+Version: 1.0.1
 Description: Custom theme for CyberSTAR website.
 Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, accessibility-ready
 Author: CyberSTAR
@@ -396,6 +396,10 @@ body {
     position: relative;
 }
 
+html:lang(ka-GE) body {
+    font-family: 'Noto Serif Georgian', serif;
+}
+
 .group::after,
 .entry-content::after {
     clear: both;
@@ -523,6 +527,14 @@ img {
     display: inline-block;
 }
 
+.logo-site-type {
+    color: var(--cs-brand-color);
+    font-style: italic;
+    margin-left: 34px;
+    font-size: 1.4rem;
+    white-space: nowrap;
+}
+
 .site-header-inner .nav-wrap {
     float: right;
 }
@@ -566,6 +578,7 @@ img {
     padding: 10px 0;
     color: var(--cs-text-color);
     font-size: 1.4rem;
+    padding: 10px 20px;
 }
 
 html:lang(ru) #menu-primary-menu a {
@@ -581,7 +594,7 @@ html:lang(ru) #menu-primary-menu a {
     z-index: 9999;
     background-color: #fdfdfd;
     display: none;
-    padding: 10px 20px;
+    padding: 10px 0px;
     border: 1px solid #eeeeee;
 }
 
@@ -602,6 +615,10 @@ html:lang(ru) #menu-primary-menu a {
     width: 25px;
     height: 25px;
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' aria-labelledby='title' aria-describedby='desc' role='img' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3EAngle Down%3C/title%3E%3Cdesc%3EA line styled icon from Orion Icon Library.%3C/desc%3E%3Cpath data-name='layer1' fill='none' stroke='%236a6766' stroke-miterlimit='10' stroke-width='2' d='M20 26l11.994 14L44 26' stroke-linejoin='round' stroke-linecap='round'%3E%3C/path%3E%3C/svg%3E");
+}
+
+#menu-primary-menu .site-switch {
+    background-color: #E0E0E0;
 }
 
 .pll-parent-menu-item .sub-menu {
@@ -629,7 +646,7 @@ html:lang(ru) #menu-primary-menu a {
     box-shadow: var(--cs-box-shadow);
     background-color: #fdfdfd;
     border: 1px solid #eeeeee;
-    padding: 10px 20px;
+    padding: 0.5rem;
 }
 
 #menu-language .sub-menu li {
@@ -668,6 +685,7 @@ html:lang(ru) #menu-primary-menu a {
 #menu-language a img {
     width: 100%;
     height: auto;
+    max-width: none;
 }
 
 .custom-logo-link {
@@ -737,6 +755,19 @@ html:lang(ru) #menu-primary-menu a {
 
 .header-social {
     display: none;
+}
+
+/* Site Title */
+
+.site-title {
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 2.2rem 0 0.5rem;
+}
+
+.site-type {
+    color: var(--cs-brand-color);
+    font-style: italic;
 }
 
 /* Star */
@@ -1871,6 +1902,11 @@ html:lang(ro) .star .option-link-digital-identity {
         width: 200px;
     }
 
+    .logo-site-type {
+        margin-left: 53px;
+        font-size: 1.8rem;
+    }
+
     body {
         font-size: 1.6rem;
     }
@@ -1887,16 +1923,8 @@ html:lang(ro) .star .option-link-digital-identity {
         padding-right: 25px;
     }
 
-    #menu-primary-menu .menu-item-has-children > a:after {
-        top: 0;
-    }
-
     #menu-primary-menu li .sub-menu li {
         float: none;
-    }
-
-    #menu-primary-menu li .sub-menu {
-        position: absolute;
     }
 
     .star-container {
@@ -2072,6 +2100,18 @@ html:lang(ro) .star .option-link-digital-identity {
 }
 
 @media (min-width: 1024px) {
+    .site-header-inner .section-logo a {
+        display: flex;
+        align-items: center;
+    }
+
+    .logo-site-type {
+        margin-left: auto;
+        white-space: nowrap;
+        padding: 0 1rem;
+        font-size: 2.1rem;
+    }
+
     .star-container {
         height: 480px;
     }
@@ -2207,10 +2247,27 @@ html:lang(ro) .star .option-link-digital-identity {
         padding: 10px 10px;
     }
 
+    #menu-primary-menu li .sub-menu {
+        position: absolute;
+        box-shadow: var(--cs-box-shadow);
+    }
+
+    #menu-primary-menu .menu-item-has-children>a:after {
+        top: 0;
+    }
+
     #menu-primary-menu a {
         font-size: 1.6rem;
         padding: 0;
         position: relative;
+    }
+
+    #menu-primary-menu li .sub-menu a {
+        padding: 10px 30px;
+    }
+
+    #menu-primary-menu li .sub-menu li {
+        padding: 0;
     }
 
     #menu-primary-menu a:hover,
@@ -2221,10 +2278,6 @@ html:lang(ro) .star .option-link-digital-identity {
     #menu-language a {
         position: relative;
         font-size: 1.6rem;
-    }
-
-    #menu-primary-menu .sub-menu {
-        box-shadow: var(--cs-box-shadow);
     }
 
     .star .option-link {

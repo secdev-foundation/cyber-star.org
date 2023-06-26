@@ -10,7 +10,7 @@
 <channel>
 	<title>Объяснение Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ru/cs-types/explainer-ru/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ru/cs-types/explainer-ru/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Thu, 23 Sep 2021 16:38:41 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Сохраняйте конфиденциальность цифровых разговоров и переписки</title>
-		<link>https://cyber-star.org/ru/cs-articles/keep-your-digital-conversations-private-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/keep-your-digital-conversations-private-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 16 Sep 2021 15:55:07 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=491</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=491</guid>
 
 					<description><![CDATA[<p>Цифровые разговоры стали важной частью нашей личной и профессиональной жизни. Мы звоним друзьям и родственникам в WhatsApp и Skype, общаемся с одноклассниками в Facebook Messenger и отправляем электронные письма с личных, учебных и рабочих аккаунтов в электронной почте. Мы также обмениваемся SMS при помощи мобильных телефонов и спорим с незнакомыми людьми в онлайн-форумах. Все эти [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/keep-your-digital-conversations-private-ru/">Сохраняйте конфиденциальность цифровых разговоров и переписки</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -76,11 +76,11 @@
 			</item>
 		<item>
 		<title>Как распознать фишинговые атаки</title>
-		<link>https://cyber-star.org/ru/cs-articles/how-to-recognize-phishing-attacks-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-recognize-phishing-attacks-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:19:48 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=498</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=498</guid>
 
 					<description><![CDATA[<p>Наиболее распространенные онлайн угрозы, с которыми ежедневно сталкиваются сотни миллионов пользователей, связаны с различными схемами социальной инженерии. Они заключаются в том, чтобы обманом заставить людей раскрыть конфиденциальную информацию или нарушить обычные процедуры безопасности. Что такое фишинг? Фишинговые атаки — одни из самых распространенных схем социальной инженерии. К ним относятся сообщения, отправленные по электронной почте, SMS, [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-recognize-phishing-attacks-ru/">Как распознать фишинговые атаки</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -122,11 +122,11 @@
 			</item>
 		<item>
 		<title>Как защитить свой компьютер</title>
-		<link>https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 03:56:58 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=530</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=530</guid>
 
 					<description><![CDATA[<p>Обычные персональные компьютеры, ноутбуки и планшеты — важные устройства, с помощью которых мы выходим в Интернет и пользуемся различными службами и ресурсами глобальной сети. Благодаря им, мы общаемся с людьми по всему миру, создаем и храним информацию, а также делимся ею с другими пользователями. Потеря компьютера, его кража или взлом могут иметь серьезные профессиональные, финансовые [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/">Как защитить свой компьютер</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -157,7 +157,7 @@
 <p>Не хотите, чтобы посторонние люди просматривали ваши файлы, устанавливали шпионское ПО или меняли настройки безопасности на вашем компьютере, когда вас нет рядом? <strong>Защитите свой компьютер надежным паролем. Включите автоматическую блокировку экрана</strong> после короткого периода бездействия.</p>
 <blockquote><p>Для установки или изменения пароля на устройстве с Windows 10, выполните следующие действия.</p></blockquote>
 <p>Также следует <strong>помнить, как быстро блокировать экран вручную</strong> и не забывать делать это каждый раз, когда вы отлучаетесь от <a href="https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/">своего компьютера</a>.</p>
-<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <h2>6. Для повседневных задач используйте учетную запись пользователя с ограниченными правами</h2>
 <p>Если у вас есть собственный компьютер, вы, скорее всего, используете его через учетную запись администратора. Это не всегда безопасно. Если вы установите приложение, зараженное вредоносной программой, откроете зараженное вложение или перейдете по опасной ссылке, используя учетную запись администратора, это может повлечь за собой катастрофические последствия для устройства или данных на нём.</p>
 <p>Поэтому рекомендуем создать отдельную учетную запись пользователя с ограниченными правами и использовать ее для повседневных задач. Вы всегда можете войти в учетную запись администратора для особых действий, таких как установка программного обеспечения. Особенно важно создавать отдельные учетные записи, если вы используете компьютер совместно с другими людьми.</p>
@@ -171,11 +171,11 @@
 			</item>
 		<item>
 		<title>Цифровые данные: что это такое и когда они являются персональными</title>
-		<link>https://cyber-star.org/ru/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 02:22:24 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=510</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=510</guid>
 
 					<description><![CDATA[<p>Все мы окружены цифровыми данными. Каждый раз, когда вы смотрите видео, открываете страницы в Интернете или получаете электронное письмо, вы потребляете данные, созданные другими. И каждый раз, когда вы отправляете сообщение, работаете над документом на компьютере или делаете публикацию в социальных сетях, вы создаете собственные данные. В современном мире эти данные являются ценным коммерческим продуктом. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ru/">Цифровые данные: что это такое и когда они являются персональными</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -205,11 +205,11 @@
 			</item>
 		<item>
 		<title>Зачем создавать резервные копии и где их хранить</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 02:35:36 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=517</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=517</guid>
 
 					<description><![CDATA[<p>Потерять важные данные намного проще, чем вы думаете. Чаще всего это происходит из-за ошибок пользователей, поломки оборудования, кражи или потери устройства, а также в результате заражения вредоносным ПО. Атаки шифровальщиков-вымогателей и взлом компьютеров также представляют значительный риск для информации на ваших устройствах. Единственный способ защитить важные данные от всех этих рисков — регулярное резервное копирование. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ru/">Зачем создавать резервные копии и где их хранить</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -239,11 +239,11 @@
 			</item>
 		<item>
 		<title>Зачем шифровать устройства</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-you-should-encrypt-your-devices-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-you-should-encrypt-your-devices-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 03:43:53 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=524</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=524</guid>
 
 					<description><![CDATA[<p>На вашем компьютере, планшете и смартфоне хранится много важных или даже конфиденциальных данных. Если вы потеряете устройство или его украдут, другие люди могут получить доступ к вашим файлам с личной или конфиденциальной информацией. При желании можно обойти даже пароль, защищающий ваше устройство и файлы на нем. Шифрование &#8212; лучший способ защитить конфиденциальные данные на вашем [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-encrypt-your-devices-ru/">Зачем шифровать устройства</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -269,11 +269,11 @@
 			</item>
 		<item>
 		<title>Пароли, которые только кажутся надежными</title>
-		<link>https://cyber-star.org/ru/cs-articles/passwords-that-look-strong-but-arent-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/passwords-that-look-strong-but-arent-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:30:06 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=502</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=502</guid>
 
 					<description><![CDATA[<p>Почти все интернет-службы требуют, чтобы пользователи создавали сложные пароли с использованием прописных букв, цифр и специальных символов. Придумав надежный пароль, который соответствует требованиям Gmail или Facebook, пользователи чувствуют, что их аккаунты надежно защищены Но чаще всего это ощущение бывает ложным. Пароль, соответствующий минимальным требованиям сложности, далеко не всегда является действительно надежным паролем. Проблема в том, [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/passwords-that-look-strong-but-arent-ru/">Пароли, которые только кажутся надежными</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -303,11 +303,11 @@
 			</item>
 		<item>
 		<title>Почему все ваши пароли должны быть уникальными</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-all-of-your-passwords-should-be-unique-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-all-of-your-passwords-should-be-unique-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:33:32 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=504</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=504</guid>
 
 					<description><![CDATA[<p>Для всех учетных записей нужно создавать уникальные пароли, которые вы никогда раньше не использовали. Даже если вы используете самый сложный пароль в мире, вы очень рискуете, используя его для нескольких учетных записей одновременно. Что происходит, когда вы повторно используете пароли Допустим, вы используете один и тот же пароль для личной электронной почты, Facebook и Instagram. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-all-of-your-passwords-should-be-unique-ru/">Почему все ваши пароли должны быть уникальными</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -329,11 +329,11 @@
 			</item>
 		<item>
 		<title>Зачем использовать менеджер паролей</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-a-password-manager-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-a-password-manager-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 02:07:11 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=506</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=506</guid>
 
 					<description><![CDATA[<p>Пароли — главное средство защиты от любого, кто хотел бы украсть ваши учетные записи или информацию, указанную в них. Чтобы защитить ваши учетные записи, вам следует использовать надежные пароли, состоящие из длинных и случайных комбинаций символов. Такие пароли почти невозможно запомнить. Более того, следует использовать по-настоящему уникальный пароль для каждой из ваших учетных записей. Итак, [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-use-a-password-manager-ru/">Зачем использовать менеджер паролей</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -363,11 +363,11 @@
 			</item>
 		<item>
 		<title>Зачем использовать двухфакторную аутентификацию</title>
-		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-two-factor-authentication-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/why-you-should-use-two-factor-authentication-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 02:09:33 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=508</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=508</guid>
 
 					<description><![CDATA[<p>Пароли — главное средство защиты от тех, кто хочет украсть ваши учетные записи или шпионить за всем, что в них происходит. Именно поэтому вам следует защитить все ваши учетные записи надежными и уникальными паролями. Вам также следует хранить пароли в безопасном месте. К сожалению, даже самого надежного пароля недостаточно, чтобы гарантировать, что злоумышленник не получит [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-use-two-factor-authentication-ru/">Зачем использовать двухфакторную аутентификацию</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>

@@ -10,7 +10,7 @@
 <channel>
 	<title>Цифровые риски Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ru/cs-categories/digital-risks-ru/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ru/cs-categories/digital-risks-ru/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Mon, 07 Feb 2022 00:56:44 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Как распознать фишинговые атаки</title>
-		<link>https://cyber-star.org/ru/cs-articles/how-to-recognize-phishing-attacks-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-recognize-phishing-attacks-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:19:48 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=498</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=498</guid>
 
 					<description><![CDATA[<p>Наиболее распространенные онлайн угрозы, с которыми ежедневно сталкиваются сотни миллионов пользователей, связаны с различными схемами социальной инженерии. Они заключаются в том, чтобы обманом заставить людей раскрыть конфиденциальную информацию или нарушить обычные процедуры безопасности. Что такое фишинг? Фишинговые атаки — одни из самых распространенных схем социальной инженерии. К ним относятся сообщения, отправленные по электронной почте, SMS, [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-recognize-phishing-attacks-ru/">Как распознать фишинговые атаки</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -67,11 +67,11 @@
 			</item>
 		<item>
 		<title>Как не стать жертвой фишинга</title>
-		<link>https://cyber-star.org/ru/cs-articles/how-not-to-fall-for-phishing-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-not-to-fall-for-phishing-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/how-not-to-fall-for-phishing-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 16 Sep 2021 23:58:57 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=493</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=493</guid>
 
 					<description><![CDATA[<p>Фишинг стар, как сам Интернет, и никуда не исчезнет. К счастью, от фишинга легко защититься, если соблюдать основные правила цифровой безопасности и руководствоваться здравым смыслом. Следуйте нашим рекомендациям, чтобы обезопасить себя. 1. Оставайтесь скептиком Всегда помните, что слишком выгодные предложения в Интернете могут оказаться обманом. Мошенники и преступники искусно манипулируют нашими эмоциями, особенно жадностью и [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-not-to-fall-for-phishing-ru/">Как не стать жертвой фишинга</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
@@ -101,11 +101,11 @@
 			</item>
 		<item>
 		<title>Как защитить себя от вредоносного ПО</title>
-		<link>https://cyber-star.org/ru/cs-articles/how-to-protect-yourself-against-malware-ru/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-protect-yourself-against-malware-ru</link>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-protect-yourself-against-malware-ru/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Fri, 17 Sep 2021 00:16:50 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=495</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=495</guid>
 
 					<description><![CDATA[<p>Распространение вредоносных программ является одним из наиболее частых способов, используемых хакерами и преступниками для создания неприятностей в сети. Чтобы защититься от них, придерживайтесь здравого смысла и наших рекомендаций. 1. Используйте антивирусное ПО На всех устройствах, которые вы используете, всегда должно быть надежное антивирусное ПО. Это ваше главное средство защиты от вирусов и других вредоносных программ. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-protect-yourself-against-malware-ru/">Как защитить себя от вредоносного ПО</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>

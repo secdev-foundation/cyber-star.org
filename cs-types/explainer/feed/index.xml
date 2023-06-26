@@ -10,22 +10,82 @@
 <channel>
 	<title>Explainer Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-types/explainer/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/cs-types/explainer/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 09 Feb 2022 02:54:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jun 2023 18:01:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>Why You Should Say Goodbye to Windows 10 Soon</title>
+		<link>https://cyber-star.org/cs-articles/why-you-should-say-goodbye-to-windows-10-soon/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 18:01:53 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=967</guid>
+
+					<description><![CDATA[<p>Microsoft has announced that Windows 10 will not be receiving any support or security updates after October 14, 2025. This means that if you use Windows 10 on any device, you should upgrade to Windows 11 or a different operating system before this date. Using a computer that runs Windows 10 beyond October 14, 2025 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-say-goodbye-to-windows-10-soon/">Why You Should Say Goodbye to Windows 10 Soon</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Microsoft has announced that Windows 10 will not be receiving any support or security updates after October 14, 2025. This means that if you use Windows 10 on any device, you should upgrade to Windows 11 or a different operating system before this date. Using a computer that runs Windows 10 beyond October 14, 2025 will leave you vulnerable to losing the information on your device or compromising access to key accounts.</p>
+<p>Here is what you can do to keep your Windows 10 device safe and secure until Microsoft stops supporting this version of its operating system:</p>
+<h2>1. Use 22H2, the latest version of Windows 10</h2>
+<p>Microsoft has made it clear that update level <strong>22H2</strong> is the final major release of Windows 10. This is the only version that will be getting important security updates until Microsoft retires Windows 10. Make sure that your computer is running this version.</p>
+<p>To find out which version of Windows you are running, select <strong>Start &gt; Settings &gt; System &gt; About</strong>. Under <strong>Windows specifications</strong>, you can see which edition and version of Windows your device is running.</p>
+<h2>2. Keep your Windows 10 updated</h2>
+<p>Running the latest version of an operating system is important but not enough to keep your computer secure. It is also important to <a href="https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/">keep the operating system up to date</a>.</p>
+<p>To save yourself the trouble of checking for updates and installing them manually, you can turn on the feature in your Windows 10 that allows it to <a href="https://cyber-star.org/cs-articles/how-to-update-software-in-windows-10/">automatically download and install updates</a>.</p>
+<h2>3. Upgrade to Windows 11 when ready</h2>
+<p>Be prepared to transition to Windows 11 at least several weeks before October 14, 2025. With an estimated 70% of global Windows users still using Windows 10 (as of June 2023), upgrading to Windows 11 may not be easy during the last several weeks before the deadline.</p>
+<p>You can also explore other operating systems and choose an alternative to Windows if it suits your needs better.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-say-goodbye-to-windows-10-soon/">Why You Should Say Goodbye to Windows 10 Soon</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>5 Signs That Your Phone Has Been Hacked</title>
+		<link>https://cyber-star.org/cs-articles/5-signs-that-your-phone-has-been-hacked/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 21 Jun 2023 17:45:31 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=965</guid>
+
+					<description><![CDATA[<p>Any phone can be hacked. Smartphones have now become the favorite targets for hackers as these devices have access to a huge amount of user data, from social media passwords to banking information, and from business correspondence to private messages. Hackers can infect your phone with malware and trojans. They can turn hacked phones into [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/5-signs-that-your-phone-has-been-hacked/">5 Signs That Your Phone Has Been Hacked</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Any phone can be hacked. Smartphones have now become the favorite targets for hackers as these devices have access to a huge amount of user data, from social media passwords to banking information, and from business correspondence to private messages.</p>
+<p>Hackers can infect your phone with malware and trojans. They can turn hacked phones into cryptominers that generate cryptocurrency for them while stealing your data and slowing down your device. Hackers can also install keyloggers on your phone to monitor your activity and steal your login data for websites and apps.</p>
+<p>Keep an eye for these 5 common signs that may indicate that your phone has been hacked:</p>
+<h2>1. Data usage spikes</h2>
+<p>If your mobile data usage suddenly shoots up without a clear explanation, this could be a sign that malicious software is running in the background and using up your data. Go through your apps and delete everything that looks suspicious. This may also be a good time to delete apps you are no longer using.</p>
+<h2>2. Phone lagging</h2>
+<p>If your phone is suddenly working much slower than it used to, this may be a sign that malicious software installed on your phone by hackers drains its processing power. Some malware may cause your phone to freeze, crash, drop calls, or reboot often and without a clear reason.</p>
+<h2>3. Battery draining fast</h2>
+<p>Look out for sudden drops in battery performance. If you are charging your phone more often while your usage does not change, this may mean that malicious apps on your phone are draining its battery. You can see which apps are using the most battery power on your phone in settings.</p>
+<h2>4. Strange apps, calls, and texts</h2>
+<p>Apps on your phone that you don’t remember downloading, phone calls you don’t remember making, or text messages you don’t remember sending may be the clearest indication that your phone has been hacked.</p>
+<h2>5. Unwanted websites and pop-ups</h2>
+<p>If your phone is redirecting you to websites that you do not want to go to, this is a clear indication that there is some sort of malware on the phone. This is also the case if you suddenly get a lot of pop-up ads. Do not click on these pop-ups.</p>
+<p>Remember that none of these signs on their own prove that your phone has been hacked. A sudden spike in mobile data use may be caused by an update download. And if your phone works slower or battery drains faster, this may simply indicate that the phone is getting old, its memory is filling up, or you have too many apps on the device.</p>
+<p>Finally, always make sure that your phone is up to date. If it has not received any updates for over a month, it is easier to hack.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/5-signs-that-your-phone-has-been-hacked/">5 Signs That Your Phone Has Been Hacked</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Keep Your Digital Conversations Private</title>
-		<link>https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private</link>
+		<link>https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 15:59:08 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=474</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=474</guid>
 
 					<description><![CDATA[<p>Digital conversations have become an important part of our daily personal and professional routine. We call friends and family on WhatsApp or Skype, chat with classmates on Facebook messenger, and send emails from personal, school or work accounts. We also text people from our mobile phones and argue with strangers on online discussion boards. All [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/">Keep Your Digital Conversations Private</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -76,11 +136,11 @@
 			</item>
 		<item>
 		<title>How to Recognize Phishing Attacks</title>
-		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks</link>
+		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 26 Jul 2021 05:29:46 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=457</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=457</guid>
 
 					<description><![CDATA[<p>The most common online threats facing hundreds of millions of users on a daily basis have to do with various social engineering schemes. At its core, social engineering is about tricking people into revealing sensitive information or breaking normal security procedures. What is phishing? Phishing attacks are among the most frequent social engineering schemes. They [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/">How to Recognize Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -122,11 +182,11 @@
 			</item>
 		<item>
 		<title>How to Keep Your Computer Safe and Secure</title>
-		<link>https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure</link>
+		<link>https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 28 Jun 2021 10:12:33 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=331</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=331</guid>
 
 					<description><![CDATA[<p>Personal computers such as desktops, laptops and tablets are critical mediums that help us access the internet and use various online services. They also help us communicate with other people and create, store, and share information. Losing a computer or having it stolen or compromised can have serious professional, financial, and reputational consequences. This is [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/">How to Keep Your Computer Safe and Secure</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -157,7 +217,7 @@
 <p>You do not want anyone to poke around your files, install spyware or change security settings on your computer when you are not around. <strong>Protect your computer with a strong password</strong>. <strong>Enable the computer to lock your screen automatically</strong> after a brief period of inactivity.</p>
 <blockquote><p>Follow <a title="How to Set or Change a Password in Windows 10" href="https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/">this guide</a> to set or change a password on a Windows 10 device.</p></blockquote>
 <p>Also, <strong>make sure you remember how to lock the screen on your device manually</strong> and remember to do this every time you step away from the device.</p>
-<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <h2>6. Use a limited-privilege User Account for everyday tasks</h2>
 <p>If you own a computer, you are most likely using it through an Administrator Account. This might not always be a good idea. If you install a malware-infected app, open an infected attachment or click on a wrong link while using an Administrator Account, these actions may have disastrous consequences for your device or data on it.</p>
 <p>So it is a good idea to create a separate User Account with limited privileges and use it for everyday tasks. You can always log in the Administrator Account for special tasks such as software installation. It is particularly important to create separate User Accounts when you share a computer with other people.</p>
@@ -171,11 +231,11 @@
 			</item>
 		<item>
 		<title>Digital Data 101: What It Is and When It Becomes Personal</title>
-		<link>https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal</link>
+		<link>https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 24 Jun 2021 04:15:00 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=289</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=289</guid>
 
 					<description><![CDATA[<p>We are surrounded by digital data. Each time you watch a video, read something online or receive an email, you consume data created by others. And each time you text someone, work on a document on a computer or post something on social media, you create your own data. In an increasingly connected world, this [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal/">Digital Data 101: What It Is and When It Becomes Personal</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -205,11 +265,11 @@
 			</item>
 		<item>
 		<title>Why You Should Make Backups and Where You Should Keep Them</title>
-		<link>https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them</link>
+		<link>https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 24 Jun 2021 04:42:52 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=294</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=294</guid>
 
 					<description><![CDATA[<p>It is much easier to lose important data than you think. The most common ways to lose data include user mistakes, hardware failure, device theft or loss, and malware infection. Ransomware attacks and computer hacking are also a significant risk to files on your devices. The only way to protect your important files from all [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them/">Why You Should Make Backups and Where You Should Keep Them</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -239,11 +299,11 @@
 			</item>
 		<item>
 		<title>Why You Should Encrypt Your Devices</title>
-		<link>https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices</link>
+		<link>https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 28 Jun 2021 09:28:14 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=322</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=322</guid>
 
 					<description><![CDATA[<p>Your computer, tablet and smartphone have a lot of important or even sensitive data on them. If you lose a device or someone steals it, they can access all the sensitive files of personal information stored on it. Even a password protecting a device may not stop a dedicated individual from getting around it to [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-encrypt-your-devices/">Why You Should Encrypt Your Devices</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -269,11 +329,11 @@
 			</item>
 		<item>
 		<title>Passwords That Look Strong But Aren’t</title>
-		<link>https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent</link>
+		<link>https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 19:40:11 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=170</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=170</guid>
 
 					<description><![CDATA[<p>Almost all online services now require users to create complex passwords by adding upper-case letters, numbers and special characters. Fortifying a password to satisfy Gmail or Facebook requirements gives users a renewed sense of security. But this sense is often false. Creating a password that meets minimum complexity requirements is not the same as creating [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/">Passwords That Look Strong But Aren’t</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -308,11 +368,11 @@ To create a genuinely strong password, add several randomly selected special cha
 			</item>
 		<item>
 		<title>Why All of Your Passwords Should Be Unique</title>
-		<link>https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique</link>
+		<link>https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 19:46:01 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=171</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=171</guid>
 
 					<description><![CDATA[<p>All of your accounts should have unique passwords that you have never used before. Even if you have the strongest password in the world, you are putting yourself at huge risk if you use it across multiple accounts. What happens when you reuse your passwords Let’s say you use the same password for your personal [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">Why All of Your Passwords Should Be Unique</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -327,76 +387,6 @@ To create a genuinely strong password, add several randomly selected special cha
 </ul>
 <p>At this point, you might feel that having unique passwords for each and every account &#8211; and making sure that these passwords are genuinely strong &#8211; is a bit too much. How will you remember all these passwords? Well, you only need to remember a single strong password. A <a title="Why You Should Use a Password Manager" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">password manager</a> will do the rest for you.</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">Why All of Your Passwords Should Be Unique</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Why You Should Use a Password Manager</title>
-		<link>https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 19:28:58 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=167</guid>
-
-					<description><![CDATA[<p>Passwords are your first line of defense against anyone who would like to steal your online accounts or information in these accounts. To protect your accounts, you should use strong passwords that normally include long and random combinations of characters. Such passwords are nearly impossible to remember. Moreover, you should have a genuinely unique password [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">Why You Should Use a Password Manager</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Passwords are your first line of defense against anyone who would like to steal your online accounts or information in these accounts. To protect your accounts, you should use <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong passwords</a> that normally include long and random combinations of characters. Such passwords are nearly impossible to remember. Moreover, you should have a genuinely <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique password</a> for each of your accounts.</p>
-<p>So, how do you remember and keep track of all these passwords? The solution is a password manager.</p>
-<p>Think of a password manager as a safe, where you keep dozens or even hundreds of keys (passwords) to all of your accounts. It makes your life easier as you need to remember only one password &#8211; to log into the password manager where all of your other passwords are stored securely.</p>
-<h3>What a password manager does</h3>
-<ul>
-<li><strong>Remembers your credentials</strong><br />
-You probably have dozens or even hundreds of different online accounts. Writing down or typing the credentials for all these accounts (user names, email addresses and passwords) to keep them on a piece of paper or a document on a computer is a very bad idea. Password manager takes the hassle out of keeping track of all these accounts. It remembers all of your passwords and other credentials for you.</li>
-<li><strong>Stores them safely</strong><br />
-Storing all your passwords in a password manager is much safer than writing them down or typing to keep in a document on a device. Nobody can open your password manager if you protect it with a very strong password. As an additional precaution, you should <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">use two-factor authentication</a> to secure your password manager.</li>
-<li><strong>Creates strong, unique passwords</strong><br />
-Password manager also takes the hassle out of creating strong passwords and ensuring that each password is unique to each individual account. Password manager creates passwords for you and allows you to control the length and complexity of your passwords.</li>
-</ul>
-<h3>Which password manager you should use</h3>
-<p>It is up to you to choose a password manager that fits your needs and preferences. There are several reliable and secure options for paying users to choose from. Some antivirus software packages come with built-in password managers. If you choose to pay for a subscription, 1Password, LastPass, Bitwarden Premium, Dashlane, Keeper, and NordPass are safe bets.</p>
-<p>Some password managers also offer free plans to users who do not need advanced features. If you decide to go with a free password manager, your safest bet is to choose from open-source options such as BitWarden, KeePass, and KeePassXC.</p>
-<p>Password managers fall in one of two general categories depending on where they keep users’ credentials. If you use a local password manager such as KeePassXC, it stores passwords on your own device. Such password managers offer better privacy and security but they require a certain level of technical knowledge and digital hygiene to use them safely.</p>
-<p>In contrast, cloud password managers store passwords on cloud servers. This option is safer for those users who have limited technical knowledge and cannot commit to strict digital hygiene which includes automated backups. BitWarden is a free, open-source, cloud-based password manager known for its security and reliability.</p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">Why You Should Use a Password Manager</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Why You Should Use Two-Factor Authentication</title>
-		<link>https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 19:49:56 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=172</guid>
-
-					<description><![CDATA[<p>Passwords are your first line of defence against those who want to steal your accounts or spy on everything that is happening in them. That is why you should protect all of your accounts with really strong and unique passwords. You should also store the passwords safely. Unfortunately, even the strongest password is not enough [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">Why You Should Use Two-Factor Authentication</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>Passwords are your first line of defence against those who want to steal your accounts or spy on everything that is happening in them. That is why you should protect all of your accounts with <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">really strong</a> and <a title="Why All of Your Passwords Should Be Unique" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">unique</a> passwords. You should also <a title="Why You Should Use a Password Manager" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">store the passwords safely</a>.</p>
-<p>Unfortunately, even the strongest password is not enough to guarantee that someone will not break into your account. There are several ways in which your password might be compromised. Hackers might steal your credentials directly from the online service provider (which happens much more often than you realize). Someone might install a tiny piece of software on your device that records every key you strike on your keyboard (including all of your passwords). A very dedicated person might crack your password or convince you to reveal it. Finally, someone might use a hidden camera to record your keyboard while you enter a password.</p>
-<p>This is why you should use two-factor authentication (2FA) to protect your important online accounts. When enabled, two-factor authentication requires that you use two different ways of proving your identity to access an online account. So, in addition to entering a password (the <em>first</em> factor), you have to provide a second piece of information (the <em>second</em> factor) to verify your identity. Essentially, 2FA provides another layer of protection to your online accounts, keeping them safe even when your passwords are compromised.</p>
-<h3>What can serve as the second factor</h3>
-<p>Most online accounts allow users to choose from three categories of additional authentication factors:</p>
-<ul>
-<li><strong>Something you know:</strong> a piece of information that only you should know such as a PIN code.</li>
-<li><strong>Something you have:</strong> a physical object that you should have on you to access online accounts. This can include a security token (a small hardware device) or your smartphone which can be used to receive authentication codes via SMS or special authentication apps.</li>
-<li><strong>Something you are:</strong> something unique to your body such as your fingerprint, face or retina.</li>
-</ul>
-<h3>Which second factor you should choose</h3>
-<p>It is very difficult to give general advice on the most suitable 2FA method that would work for every user. Ultimately, you should choose what works best for you based on your own situation, risk assessment and convenience. We will offer several pointers below to help you make an informed choice:</p>
-<ul>
-<li><strong>Security questions</strong> make 2FA an easy job as their only requirement is that you remember answers to a number of preset questions. However, it is typically not too hard for a crafty attacker to dig up these answers (e.g. your mother’s maiden name) or trick you into giving away this information.</li>
-<li><strong>Security tokens</strong> (U2F keys) provide one of the most secure 2FA methods as long as you keep them physically secure. A major disadvantage of these devices is that they cost money and might require various adapters to use them across devices. Besides, using a security token as the second authentication factor requires you to have the device on you every time you want to access an online account. Thus, there is always a risk of loss or theft.</li>
-<li><strong>SMS messages</strong> are very convenient as they arrive instantly on your mobile phone. However, this is one of the least secure 2FA methods as SMS messages can be easily rerouted by a committed individual or intercepted by your mobile service provider.</li>
-<li><strong>Authenticator apps</strong> rank among the most secure and convenient 2FA methods. When you link an authenticator app to an online account, it generates temporary passwords or numerical codes that you need to enter immediately after entering your main password to access an online account. These passwords or codes cannot be intercepted as easy as SMS messages can.However, the security of these apps is tied to the security of your mobile device. In order to use them safely, you need to ensure that both your phone and the app you choose are protected by strong passwords. Reliable authenticator apps recommended by experts include Aegis, Authy, Google Authenticator, and LastPass Authenticator. Whichever option you choose, make sure that you save in a secure location one-time backup codes for every account you link to the authenticator app. You will need these codes to access your accounts in case you lose the phone with the app on it.</li>
-<li><strong>Biometrics</strong> such as your <strong>fingerprint</strong>, <strong>face</strong> or <strong>voice</strong> are very convenient but not as secure as is often thought. Unfortunately, many of the popular online services do not offer biometrics as a 2FA option. Besides, many users are reluctant to use their biometrics because, unlike passwords, a compromised biometric cannot be changed. Once it is hacked, it is hacked for life. Online services may also sell your biometric data to third parties without your consent.</li>
-</ul>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">Why You Should Use Two-Factor Authentication</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></content:encoded>
 					
 		

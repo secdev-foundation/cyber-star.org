@@ -10,7 +10,7 @@
 <channel>
 	<title>Autentificare Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ro/cs-categories/passwords-ro/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ro/cs-categories/passwords-ro/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Wed, 09 Feb 2022 02:58:05 +0000</lastBuildDate>
 	<language>ro-RO</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Cum să creați o parolă puternică</title>
-		<link>https://cyber-star.org/ro/cs-articles/how-to-create-strong-passwords-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-create-strong-passwords-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-create-strong-passwords-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:17:40 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=840</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=840</guid>
 
 					<description><![CDATA[<p>Viața noastră personală, dar și cea profesională tot mai mult sunt legate de conturile noastre online. Poșta electronică, rețelele de socializare, distribuirea de fișiere, mesageria, vizionarea videoclipurilor, aplicațiile bancare, cumpărăturile, copiile de rezervă a datelor, toate aceste servicii necesită conturi. Cu siguranță aveți zeci de conturi diferite pe care trebuie să țineți minte și să [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-create-strong-passwords-ro/">Cum să creați o parolă puternică</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -59,11 +59,11 @@
 			</item>
 		<item>
 		<title>Parole care par puternice, dar nu sunt</title>
-		<link>https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:35:56 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=845</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=845</guid>
 
 					<description><![CDATA[<p>Aproape toate serviciile online cer ca utilizatorii să creeze parole complicate cu utilizarea literelor majuscule, numerelor și a caracterelor speciale. Crearea unei parole care satisface cerințele Gmail sau Facebook le oferă utilizatorilor senzația că conturile lor sunt protejate. Deseori această senzație este greșită. Crearea unei parole care întrunește un minim de cerințe de complexitate nu [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/">Parole care par puternice, dar nu sunt</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -99,11 +99,11 @@
 			</item>
 		<item>
 		<title>De ce toate parolele dvs. trebuie să fie unice</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:52:27 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=850</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=850</guid>
 
 					<description><![CDATA[<p>Toate conturile dvs. trebuie să aibă parole unice pe care nu le-ați mai utilizat până acum. Chiar dacă utilizați cea mai puternică parolă din lume, riscați foarte mult, dacă o utilizați pentru câteva conturi în același timp. Ce se întâmplă atunci când reutilizați parolele De exemplu, utilizați aceeași parolă pentru e-mailul dvs., pentru Facebook și [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/">De ce toate parolele dvs. trebuie să fie unice</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -125,11 +125,11 @@
 			</item>
 		<item>
 		<title>De ce trebuie să utilizați un manager de parole</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:08:50 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=853</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=853</guid>
 
 					<description><![CDATA[<p>Parolele vă protejează de cei ce vor să vă fure conturile online sau datele din aceste conturi. Pentru a vă proteja conturile, trebuie să utilizați parole puternice care în mod normal includ combinații lungi și aleatorii de caractere. Asemenea parole sunt aproape imposibil de memorat. Mai mult de atât, trebuie să aveți o parolă unică [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/">De ce trebuie să utilizați un manager de parole</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -159,11 +159,11 @@
 			</item>
 		<item>
 		<title>De ce trebuie să utilizați autentificarea cu doi factori</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:27:50 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=857</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=857</guid>
 
 					<description><![CDATA[<p>Parolele vă protejează de cei care vor să vă fure conturile sau să spioneze tot ce se întâmplă în ele. De aceea, trebuie să vă protejați toate conturile cu parole cu adevărat puternice și unice. De asemenea, trebuie să stocați parolele în siguranță. Din păcate, chiar și cea mai puternică parolă nu poate garanta că [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/">De ce trebuie să utilizați autentificarea cu doi factori</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>

@@ -10,7 +10,7 @@
 <channel>
 	<title>Online Course Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-types/online-course/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/cs-types/online-course/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Fri, 17 Sep 2021 19:29:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Secure Messaging Apps: Online Course</title>
-		<link>https://cyber-star.org/cs-articles/secure-messaging-apps/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=secure-messaging-apps</link>
+		<link>https://cyber-star.org/cs-articles/secure-messaging-apps/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 04:21:01 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=107</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=107</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/secure-messaging-apps/">Secure Messaging Apps: Online Course</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
@@ -37,11 +37,11 @@
 			</item>
 		<item>
 		<title>Know Your Trolls</title>
-		<link>https://cyber-star.org/cs-articles/know-your-trolls-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=know-your-trolls-2</link>
+		<link>https://cyber-star.org/cs-articles/know-your-trolls-2/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 20 Jul 2021 04:26:02 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=395</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=395</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/know-your-trolls-2/">Know Your Trolls</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
@@ -53,11 +53,11 @@
 			</item>
 		<item>
 		<title>Secure Passwords: Online Course</title>
-		<link>https://cyber-star.org/cs-articles/secure-passwords-online-course/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=secure-passwords-online-course</link>
+		<link>https://cyber-star.org/cs-articles/secure-passwords-online-course/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 04:14:11 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=98</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=98</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/secure-passwords-online-course/">Secure Passwords: Online Course</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
@@ -69,11 +69,11 @@
 			</item>
 		<item>
 		<title>Phishing Attacks</title>
-		<link>https://cyber-star.org/cs-articles/phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phishing-attacks</link>
+		<link>https://cyber-star.org/cs-articles/phishing-attacks/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 03:56:30 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=88</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=88</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/phishing-attacks/">Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>

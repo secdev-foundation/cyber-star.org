@@ -10,7 +10,7 @@
 <channel>
 	<title>პაროლები Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ka/cs-categories/passwords-ka/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ka/cs-categories/passwords-ka/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Wed, 09 Feb 2022 02:58:14 +0000</lastBuildDate>
 	<language>ka-GE</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>როგორ შევქმნათ ძლიერი პაროლები</title>
-		<link>https://cyber-star.org/ka/cs-articles/how-to-create-strong-passwords-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-create-strong-passwords-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/how-to-create-strong-passwords-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:21:14 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=841</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=841</guid>
 
 					<description><![CDATA[<p>ჩვენი პირადი და პროფესიული ცხოვრება სულ უფრო მეტად ტრიალებს ონლაინ-ანგარიშების გარშემო. ელ. ფოსტა, სოციალური მედია, ფაილების გაზიარება, შეტყობინებების გაგზავნა, ვიდეოს ყურება, ბანკინგი, შოპინგი, მონაცემების სარეზერვო კოპირება &#8211; ყველა ამ სერვისისთვის ანგარიშის ქონაა საჭირო. შედეგად, გიწევთ ათობით სხვადასხვა ანგარიშის დამახსოვრება და დაცვა. პაროლები არის თქვენი დაცვის პირველი ხაზი ყველასგან, ვისაც სურს: თქვენი ანგარიშების მოპარვა, თვალთვალი, თქვენი [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-create-strong-passwords-ka/">როგორ შევქმნათ ძლიერი პაროლები</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -59,11 +59,11 @@
 			</item>
 		<item>
 		<title>სუსტი პაროლები, რომლებიც სინამდვილეში ძლიერი გვგონია</title>
-		<link>https://cyber-star.org/ka/cs-articles/passwords-that-look-strong-but-arent-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/passwords-that-look-strong-but-arent-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:47:23 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=847</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=847</guid>
 
 					<description><![CDATA[<p>თითქმის ყველა ონლაინ-სერვისი ახლა ითხოვს მომხმარებლებისგან რთული პაროლების შექმნას. ანუ დიდი ასოების, რიცხვებისა და სპეციალური სიმბოლოების გამოყენებას. პაროლის გაძლიერება Gmail-ის ან Facebook-ის მოთხოვნების შესაბამისად, მომხმარებლებს უსაფრთხოების განცდას უმტკიცებს. მაგრამ ეს განცდა ხშირად მცდარია. თუ პაროლი აკმაყოფილებს მინიმალური სირთულის მოთხოვნებს, ეს იმას არ ნიშნავს, რომ ის ნამდვილად ძლიერი და უსაფრთხოა. პრობლემა ის არის, რომ პაროლების ონლაინ-სერვისების [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/passwords-that-look-strong-but-arent-ka/">სუსტი პაროლები, რომლებიც სინამდვილეში ძლიერი გვგონია</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -103,11 +103,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა იყოს ყველა თქვენი პაროლი უნიკალური</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-all-of-your-passwords-should-be-unique-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-all-of-your-passwords-should-be-unique-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:50:22 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=849</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=849</guid>
 
 					<description><![CDATA[<p>ყველა თქვენს ანგარიშს უნდა ჰქონდეს უნიკალური პაროლი, რომელიც აქამდე არასდროს არ გამოგიყენებიათ. სულ რომ მსოფლიოში ყველაზე ძლიერი პაროლი გქონდეთ, მას თუ სხვადასხვა ანგარიშისთვის გამოიყენებთ, ამით საკუთარ თავს დიდ საფრთხეში ჩაიგდებთ. რა ხდება, როდესაც თქვენ ხელახლა იყენებთ იგივე პაროლს ვთქვათ, რომ იყენებთ იგივე პაროლს თქვენი პირადი ელ. ფოსტის, Facebook-ისა და Instagram-ისთვის. თუ თქვენი ელ. ფოსტის პროვაიდერის [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-all-of-your-passwords-should-be-unique-ka/">რატომ უნდა იყოს ყველა თქვენი პაროლი უნიკალური</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -129,11 +129,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა გამოიყენოთ პაროლების მენეჯერი</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-a-password-manager-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-a-password-manager-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:11:29 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=854</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=854</guid>
 
 					<description><![CDATA[<p>პაროლები არის თქვენი დაცვის პირველი ხაზი ყველასგან, ვისაც სურს მოიპაროს თქვენი ონლაინ-ანგარიშები ან ამ ანგარიშებზე არსებული ინფორმაცია. თქვენი ანგარიშების დასაცავად, უნდა გამოიყენოთ ძლიერი პაროლები, რომლებიც ჩვეულებრივ შეიცავს სიმბოლოების გრძელ და შემთხვევით კომბინაციებს. ასეთი პაროლების დამახსოვრება თითქმის შეუძლებელია. გარდა ამისა, უნდა გქონდეთ უნიკალური პაროლი თითოეული ანგარიშისთვის. მაშ, როგორ უნდა დაიმახსოვროთ და შეინახოთ ყველა ეს პაროლი? გამოსავალი [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-you-should-use-a-password-manager-ka/">რატომ უნდა გამოიყენოთ პაროლების მენეჯერი</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -163,11 +163,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა გამოიყენოთ ორნაბიჯიანი ვერიფიკაცია</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-two-factor-authentication-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-two-factor-authentication-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:16:18 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=855</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=855</guid>
 
 					<description><![CDATA[<p>პაროლები არის თქვენი დაცვის პირველი ხაზი ყველასგან, ვისაც სურს თქვენი ანგარიშების მოპარვა ან თვალთვალი ყველაფერზე, რაც მათში ხდება. ამიტომ უნდა დაიცვათ ყველა თქვენი ანგარიში ნამდვილად ძლიერი და უნიკალური პაროლებით. ამასთან, პაროლები უსაფრთხოდ უნდა შეინახოთ. სამწუხაროდ, ყველაზე ძლიერი პაროლიც კი ბოლომდე ვერ დაგიცავთ ანგარიშის გატეხვისგან. თქვენი პაროლის გასატეხად რამდენიმე გზა არსებობს. ჰაკერებმა შეიძლება მოიპარონ თქვენი პირადი [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-you-should-use-two-factor-authentication-ka/">რატომ უნდა გამოიყენოთ ორნაბიჯიანი ვერიფიკაცია</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>

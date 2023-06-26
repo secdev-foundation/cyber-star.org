@@ -10,7 +10,7 @@
 <channel>
 	<title>Passwords Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-categories/passwords/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/cs-categories/passwords/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Wed, 09 Feb 2022 02:54:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>How to Create Strong Passwords</title>
-		<link>https://cyber-star.org/cs-articles/how-to-create-strong-passwords/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-create-strong-passwords</link>
+		<link>https://cyber-star.org/cs-articles/how-to-create-strong-passwords/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 19:28:31 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=166</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=166</guid>
 
 					<description><![CDATA[<p>Our personal and professional lives increasingly revolve around online accounts. Email, social media, file sharing, messaging, video watching, banking, shopping, backing up data &#8211; all of these services require users to have accounts. So you probably have dozens of various accounts to remember and keep safe. Passwords are your first line of defense against anyone [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">How to Create Strong Passwords</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -59,11 +59,11 @@ Ideally all of your accounts and devices should have unique passwords. If someon
 			</item>
 		<item>
 		<title>Passwords That Look Strong But Aren’t</title>
-		<link>https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent</link>
+		<link>https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 19:40:11 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=170</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=170</guid>
 
 					<description><![CDATA[<p>Almost all online services now require users to create complex passwords by adding upper-case letters, numbers and special characters. Fortifying a password to satisfy Gmail or Facebook requirements gives users a renewed sense of security. But this sense is often false. Creating a password that meets minimum complexity requirements is not the same as creating [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/">Passwords That Look Strong But Aren’t</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -98,11 +98,11 @@ To create a genuinely strong password, add several randomly selected special cha
 			</item>
 		<item>
 		<title>Why All of Your Passwords Should Be Unique</title>
-		<link>https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique</link>
+		<link>https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 19:46:01 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=171</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=171</guid>
 
 					<description><![CDATA[<p>All of your accounts should have unique passwords that you have never used before. Even if you have the strongest password in the world, you are putting yourself at huge risk if you use it across multiple accounts. What happens when you reuse your passwords Let’s say you use the same password for your personal [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">Why All of Your Passwords Should Be Unique</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -124,11 +124,11 @@ To create a genuinely strong password, add several randomly selected special cha
 			</item>
 		<item>
 		<title>Why You Should Use a Password Manager</title>
-		<link>https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager</link>
+		<link>https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 19:28:58 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=167</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=167</guid>
 
 					<description><![CDATA[<p>Passwords are your first line of defense against anyone who would like to steal your online accounts or information in these accounts. To protect your accounts, you should use strong passwords that normally include long and random combinations of characters. Such passwords are nearly impossible to remember. Moreover, you should have a genuinely unique password [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">Why You Should Use a Password Manager</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -158,11 +158,11 @@ Password manager also takes the hassle out of creating strong passwords and ensu
 			</item>
 		<item>
 		<title>Why You Should Use Two-Factor Authentication</title>
-		<link>https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication</link>
+		<link>https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Thu, 10 Jun 2021 19:49:56 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=172</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=172</guid>
 
 					<description><![CDATA[<p>Passwords are your first line of defence against those who want to steal your accounts or spy on everything that is happening in them. That is why you should protect all of your accounts with really strong and unique passwords. You should also store the passwords safely. Unfortunately, even the strongest password is not enough [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">Why You Should Use Two-Factor Authentication</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -194,11 +194,11 @@ Password manager also takes the hassle out of creating strong passwords and ensu
 			</item>
 		<item>
 		<title>Secure Passwords: Online Course</title>
-		<link>https://cyber-star.org/cs-articles/secure-passwords-online-course/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=secure-passwords-online-course</link>
+		<link>https://cyber-star.org/cs-articles/secure-passwords-online-course/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 04:14:11 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=98</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=98</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/secure-passwords-online-course/">Secure Passwords: Online Course</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
@@ -210,11 +210,11 @@ Password manager also takes the hassle out of creating strong passwords and ensu
 			</item>
 		<item>
 		<title>Make Your Password Stronger</title>
-		<link>https://cyber-star.org/cs-articles/make-your-password-stronger/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=make-your-password-stronger</link>
+		<link>https://cyber-star.org/cs-articles/make-your-password-stronger/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 04:15:44 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=101</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=101</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/make-your-password-stronger/">Make Your Password Stronger</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
@@ -226,11 +226,11 @@ Password manager also takes the hassle out of creating strong passwords and ensu
 			</item>
 		<item>
 		<title>Lock Your Digital Door: Care for Your Account Security</title>
-		<link>https://cyber-star.org/cs-articles/lock-your-digital-door-care-for-your-account-security/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=lock-your-digital-door-care-for-your-account-security</link>
+		<link>https://cyber-star.org/cs-articles/lock-your-digital-door-care-for-your-account-security/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 04:16:33 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=102</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=102</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/lock-your-digital-door-care-for-your-account-security/">Lock Your Digital Door: Care for Your Account Security</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>

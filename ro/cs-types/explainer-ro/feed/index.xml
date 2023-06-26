@@ -10,7 +10,7 @@
 <channel>
 	<title>Explicativ Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ro/cs-types/explainer-ro/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ro/cs-types/explainer-ro/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Wed, 09 Feb 2022 02:58:05 +0000</lastBuildDate>
 	<language>ro-RO</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Păstrați-vă conversațiile digitale în mod privat</title>
-		<link>https://cyber-star.org/ro/cs-articles/keep-your-digital-conversations-private-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/keep-your-digital-conversations-private-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 31 Jan 2022 00:53:36 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=638</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=638</guid>
 
 					<description><![CDATA[<p>Conversațiile digitale au devenit o parte importantă a rutinei noastre zilnice, atât personale, cât și profesionale. Ne sunăm prietenii și familia pe WhatsApp sau Skype, discutăm cu colegii de clasă pe Facebook messenger și trimitem e-mailuri din conturile personale, de școală sau de serviciu. De asemenea, trimitem mesaje oamenilor de pe telefoanele mobile și ne [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/keep-your-digital-conversations-private-ro/">Păstrați-vă conversațiile digitale în mod privat</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -76,11 +76,11 @@
 			</item>
 		<item>
 		<title>Cum depistați atacurile de tip phishing</title>
-		<link>https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 00:35:52 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=777</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=777</guid>
 
 					<description><![CDATA[<p>Cele mai răspândite pericole online, de care se ciocnesc zilnic sute de milioane de utilizatori, sunt legate de diverse scheme de inginerie socială . Mai exact, este vorba despre convingerea utilizatorilor să-și dezvăluie datele confidențiale sau să încalce procedurile obișnuite de securitate. Ce este phishing-ul? Atacurile phishing sunt cele mai răspândite scheme de inginerie socială. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/">Cum depistați atacurile de tip phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -122,11 +122,11 @@
 			</item>
 		<item>
 		<title>Cum să păstrați computerul în siguranță</title>
-		<link>https://cyber-star.org/ro/cs-articles/how-to-keep-your-computer-safe-and-secure-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/how-to-keep-your-computer-safe-and-secure-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 23:06:10 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=824</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=824</guid>
 
 					<description><![CDATA[<p>Computerele personale, cum ar fi computerele de birou, laptopurile și tabletele sunt resurse critice prin intermediul cărora putem avea acces la Internet și utiliza diverse servicii online. Datorită acestora, putem comunica cu alte persoane și crea, stoca și distribui informații. Pierderea computerului, furtul sau piratarea acestuia poate provoca consecințe serioase pe plan profesional, financiar și [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/how-to-keep-your-computer-safe-and-secure-ro/">Cum să păstrați computerul în siguranță</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -157,7 +157,7 @@
 <p>Dacă nu vreți ca cineva să aibă acces la fișierele dvs., instalați un program spion sau modificați setările de securitate de pe computerul dvs. atunci când nu sunteți în preajmă. <strong>Protejați-vă computerul cu ajutorul unei parole puternice</strong>. <strong>Activați blocarea automată a ecranului computerului dvs.</strong> după o scurtă perioadă de inactivitate.</p>
 <blockquote><p>Urmați acest ghid pentru a configura sau schimba o parolă pe un dispozitiv cu Windows 10.</p></blockquote>
 <p>De asemenea, <strong>asigurați-vă că țineți minte cum să blocați manual ecranul dispozitivului dvs.</strong> și nu uitați să faceți asta de fiecare dată când vă îndepărtați de acesta.</p>
-<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <h2>6. Pentru sarcinile zilnice, utilizați un Cont de utilizator cu drepturi limitate</h2>
 <p>Dacă dețineți un computer, cel mai probabil îl utilizați printr-un Cont de administrator. Asta s-ar putea să nu fie întotdeauna o idee bună. Dacă instalați o aplicație cu un program malware, deschideți un atașament infectat sau dați click pe un link periculos utilizând Contul de administrator, aceste acțiuni ar putea avea consecințe dezastruoase pentru dispozitivul dvs. sau datele de pe acesta.</p>
 <p>De aceea, vă recomandăm să creați un Cont de utilizator cu drepturi limitate și să-l utilizați la sarcinile zilnice. Întotdeauna puteți accesa Contul de administrator pentru sarcini speciale, precum instalarea de programe. Este deosebit de important să creați Conturi de utilizator separate atunci când partajați computerul cu alte persoane.</p>
@@ -171,11 +171,11 @@
 			</item>
 		<item>
 		<title>Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</title>
-		<link>https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 31 Jan 2022 03:56:25 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=652</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=652</guid>
 
 					<description><![CDATA[<p>Suntem înconjurați de date digitale. De fiecare dată când vizionați un videoclip, citiți ceva pe Internet sau primiți un e-mail, consumați date create de alții. În schimb, de fiecare dată când trimiteți un mesaj, lucrați la un document pe un computer sau postați ceva pe rețelele de socializare, creați propriile date. Într-o lume tot mai [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ro/">Noțiuni de bază despre datele digitale: Ce sunt acestea și când devin personale</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -205,11 +205,11 @@
 			</item>
 		<item>
 		<title>De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 31 Jan 2022 04:23:13 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=658</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=658</guid>
 
 					<description><![CDATA[<p>Datele importante pot fi pierdute mai ușor decât credeți. Cele mai frecvente modalități de pierdere a datelor includ greșelile utilizatorului, defecțiunile hardware, furtul sau pierderea dispozitivului și infectarea cu programe malware. Atacurile ransomware și piratarea computerului reprezintă, de asemenea, un pericol semnificativ pentru fișierele de pe dispozitivele dvs. Singura modalitate de a vă proteja fișierele [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ro/">De ce trebuie să faceți backup-uri (copii de rezervă) și unde ar trebui să le păstrați</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -239,11 +239,11 @@
 			</item>
 		<item>
 		<title>De ce ar trebui să vă criptați dispozitivele</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 31 Jan 2022 04:41:55 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=662</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=662</guid>
 
 					<description><![CDATA[<p>Computerul, tableta și smartphone-ul dvs. conțin multe date importante sau chiar sensibile. Dacă pierdeți un dispozitiv sau cineva îl fură, acea persoană poate accesa toate fișierele sensibile cu informațiile personale stocate pe el. S-ar putea ca nici parola care protejează dispozitivul să nu împiedice o persoană rău intenționată să vă citească fișierele. Cea mai bună [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-encrypt-your-devices-ro/">De ce ar trebui să vă criptați dispozitivele</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -269,11 +269,11 @@
 			</item>
 		<item>
 		<title>Parole care par puternice, dar nu sunt</title>
-		<link>https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:35:56 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=845</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=845</guid>
 
 					<description><![CDATA[<p>Aproape toate serviciile online cer ca utilizatorii să creeze parole complicate cu utilizarea literelor majuscule, numerelor și a caracterelor speciale. Crearea unei parole care satisface cerințele Gmail sau Facebook le oferă utilizatorilor senzația că conturile lor sunt protejate. Deseori această senzație este greșită. Crearea unei parole care întrunește un minim de cerințe de complexitate nu [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/passwords-that-look-strong-but-arent-ro/">Parole care par puternice, dar nu sunt</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -309,11 +309,11 @@
 			</item>
 		<item>
 		<title>De ce toate parolele dvs. trebuie să fie unice</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:52:27 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=850</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=850</guid>
 
 					<description><![CDATA[<p>Toate conturile dvs. trebuie să aibă parole unice pe care nu le-ați mai utilizat până acum. Chiar dacă utilizați cea mai puternică parolă din lume, riscați foarte mult, dacă o utilizați pentru câteva conturi în același timp. Ce se întâmplă atunci când reutilizați parolele De exemplu, utilizați aceeași parolă pentru e-mailul dvs., pentru Facebook și [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-all-of-your-passwords-should-be-unique-ro/">De ce toate parolele dvs. trebuie să fie unice</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -335,11 +335,11 @@
 			</item>
 		<item>
 		<title>De ce trebuie să utilizați un manager de parole</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:08:50 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=853</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=853</guid>
 
 					<description><![CDATA[<p>Parolele vă protejează de cei ce vor să vă fure conturile online sau datele din aceste conturi. Pentru a vă proteja conturile, trebuie să utilizați parole puternice care în mod normal includ combinații lungi și aleatorii de caractere. Asemenea parole sunt aproape imposibil de memorat. Mai mult de atât, trebuie să aveți o parolă unică [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-a-password-manager-ro/">De ce trebuie să utilizați un manager de parole</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>
@@ -369,11 +369,11 @@
 			</item>
 		<item>
 		<title>De ce trebuie să utilizați autentificarea cu doi factori</title>
-		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ro</link>
+		<link>https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:27:50 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=857</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=857</guid>
 
 					<description><![CDATA[<p>Parolele vă protejează de cei care vor să vă fure conturile sau să spioneze tot ce se întâmplă în ele. De aceea, trebuie să vă protejați toate conturile cu parole cu adevărat puternice și unice. De asemenea, trebuie să stocați parolele în siguranță. Din păcate, chiar și cea mai puternică parolă nu poate garanta că [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ro/cs-articles/why-you-should-use-two-factor-authentication-ro/">De ce trebuie să utilizați autentificarea cu doi factori</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ro">CyberSTAR</a>.</p>

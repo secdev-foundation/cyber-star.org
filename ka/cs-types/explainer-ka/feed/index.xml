@@ -10,7 +10,7 @@
 <channel>
 	<title>ექსპლეინერი Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/ka/cs-types/explainer-ka/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/ka/cs-types/explainer-ka/</link>
 	<description>CyberSTAR</description>
 	<lastBuildDate>Wed, 09 Feb 2022 02:58:14 +0000</lastBuildDate>
 	<language>ka-GE</language>
@@ -18,14 +18,14 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>დაიცავით თქვენი ციფრული საუბრების პრივატულობა</title>
-		<link>https://cyber-star.org/ka/cs-articles/keep-your-digital-conversations-private-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=keep-your-digital-conversations-private-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/keep-your-digital-conversations-private-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 31 Jan 2022 01:29:39 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=647</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=647</guid>
 
 					<description><![CDATA[<p>ციფრული საუბრები გახდა ჩვენი ყოველდღიური პირადი და პროფესიული ცხოვრების მნიშვნელოვანი ნაწილი. ჩვენ ვურეკავთ მეგობრებსა და ოჯახს WhatsApp-ის, ან Skype-ის საშუალებით, ვესაუბრებით კლასელებს Facebook მესენჯერით და ვაგზავნით იმეილებს პირადი, სასწავლო, ან სამუშაო ანგარიშებიდან. გარდა ამისა, ვაგზავნით მოკლე ტექსტურ შეტყობინებებს ჩვენი მობილური ტელეფონებიდან და ვკამათობთ უცნობებთან ონლაინ ფორუმებზე. ყველა ეს საუბარი გადის რთულ ინფრასტრუქტურაში, მრავალი როუტერის, სერვერისა [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/keep-your-digital-conversations-private-ka/">დაიცავით თქვენი ციფრული საუბრების პრივატულობა</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -76,11 +76,11 @@
 			</item>
 		<item>
 		<title>როგორ ამოვიცნოთ ფიშინგ-შეტევები</title>
-		<link>https://cyber-star.org/ka/cs-articles/how-to-recognize-phishing-attacks-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/how-to-recognize-phishing-attacks-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 00:39:39 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=778</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=778</guid>
 
 					<description><![CDATA[<p>ყველაზე გავრცელებული ონლაინ-საფრთხეები, რომლებსაც ყოველდღიურად აწყდება ასობით მილიონი მომხმარებელი, დაკავშირებულია სოციალური ინჟინერიის სქემებთან. თავისი არსით სოციალური ინჟინერია არის ხალხის მოტყუება, სენსიტიური ინფორმაციის მოსაპოვებლად, ან უსაფრთხოების ნორმალური პროცედურების დასარღვევად. რა არის ფიშინგი? ფიშინგ-შეტევები სოციალური ინჟინერიის ყველაზე გავრცელებულ სქემებს შორისაა. ბოროტმოქმედები იყენებენ ელ. ფოსტას, სოციალურ მედიას და SMS-ებს, რათა გამოგტყუონ ინფორმაცია, რომელიც შეიძლება დაეხმაროთ უფრო მნიშვნელოვანი დანაშაულის [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-recognize-phishing-attacks-ka/">როგორ ამოვიცნოთ ფიშინგ-შეტევები</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -122,11 +122,11 @@
 			</item>
 		<item>
 		<title>7 რჩევა შენი კომპიუტერის უსაფრთხოდ შესანარჩუნებლად</title>
-		<link>https://cyber-star.org/ka/cs-articles/how-to-keep-your-computer-safe-and-secure-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-keep-your-computer-safe-and-secure-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/how-to-keep-your-computer-safe-and-secure-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 23:10:19 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=825</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=825</guid>
 
 					<description><![CDATA[<p>პერსონალური კომპიუტერები, მაგალითად დესკტოპები, ლეპტოპები და ტაბლეტები &#8211; ძალიან მნიშვნელოვანი ხელსაწყოებია. მათი წყალობით წვდომა გვაქვს ინტერნეტთან და სხვადასხვა ონლაინ სერვისებთან. ისინი აგრეთვე გვეხმარებიან სხვებთან კომუნიკაციაში და ინფორმაციის შექმნა-შენახვა-გაზიარებაში. კომპიუტერის დაკარგვას, მოპარვას, ან გატეხვას ძალიან მძიმე შედეგები შეიძლება მოჰყვეს. პროფესიულიც, ფინანსურიც&#8230; თქვენს რეპუტაციაზე რომ აღარაფერი ვთქვათ. ამიტომ ძალიან მნიშვნელოვანია იცოდეთ, როგორ შეგიძლიათ თქვენი კომპიუტერის დაცვა და [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-keep-your-computer-safe-and-secure-ka/">7 რჩევა შენი კომპიუტერის უსაფრთხოდ შესანარჩუნებლად</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -157,7 +157,7 @@
 <p>ხომ არ გინდათ, რომ ვინმემ დაათვალიეროს თქვენი ფაილები, დააინსტალიროს ჯაშუშური პროგრამები ან შეცვალოს უსაფრთხოების პარამეტრები თქვენს კომპიუტერზე, როდესაც თქვენ არ ხართ ახლომახლო? <strong>დაიცავით თქვენი კომპიუტერი ძლიერი პაროლით</strong>. <strong>დართეთ ნება კომპიუტერს, ავტომატურად დაბლოკოს თქვენი ეკრანი</strong> უმოქმედობის ხანმოკლე პერიოდის შემდეგ.</p>
 <blockquote><p>მიჰყევით ამ სახელმძღვანელოს Windows 10-მოწყობილობაზე პაროლის დასაყენებლად ან შესაცვლელად.</p></blockquote>
 <p>ასევე, <strong>დარწმუნდით, რომ გახსოვთ, როგორ დაბლოკოთ ეკრანი თქვენს მოწყობილობაზე ხელით</strong> და არ დაგავიწყდეთ ამის გაკეთება ყოველ ჯერზე, როდესაც შორდებით მოწყობილობას.</p>
-<p><img class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <h2>6. გამოიყენეთ მომხმარებლის ანგარიში შეზღუდული პრივილეგიებით ყოველდღიური ამოცანებისთვის</h2>
 <p>თუ თქვენ ფლობთ კომპიუტერს, სავარაუდოდ იყენებთ მას ადმინისტრატორის ანგარიშის მეშვეობით. ეს შეიძლება ყოველთვის არ იყოს კარგი იდეა. თუ დააინსტალირებთ მავნე პროგრამით ინფიცირებულ აპლიკაციას, გახსნით ინფიცირებულ დანართს, ან დააწკაპუნებთ არასწორ ბმულზე ადმინისტრატორის ანგარიშის გამოყენებისას, ამას შეიძლება ჰქონდეს მძიმე შედეგები თქვენი მოწყობილობისათვის, ან მასზე არსებული მონაცემებისთვის.</p>
 <p>ამიტომ კარგი იქნება შექმნათ ცალკე მომხმარებლის ანგარიში შეზღუდული პრივილეგიებით და გამოიყენოთ ის ყოველდღიური ამოცანებისთვის. ყოველთვის შეგიძლიათ შეხვიდეთ ადმინისტრატორის ანგარიშში სპეციალური ამოცანების შესასრულებლად, მაგალითად პროგრამული უზრუნველყოფის დასაინსტალირებლად. სხვადასხვა ანგარიშების შექმნა განსაკუთრებით მნიშვნელოვანია, თუკი კომპიუტერს თქვენს გარდა სხვებიც იყენებენ.</p>
@@ -171,11 +171,11 @@
 			</item>
 		<item>
 		<title>ციფრული მონაცემები 101: რა ხილია და როდის ხდება პირადი</title>
-		<link>https://cyber-star.org/ka/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=digital-data-101-what-it-is-and-when-it-becomes-personal-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 01:30:22 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=790</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=790</guid>
 
 					<description><![CDATA[<p>ციფრული მონაცემები ჩვენს ირგვლივაა. ყოველ ჯერზე, როცა უყურებთ ვიდეოს, კითხულობთ რაღაცას ონლაინ ან, მოგდით იმეილი, თქვენ მოიხმართ სხვების მიერ შექმნილ მონაცემებს. და ყოველ ჯერზე, როდესაც ვინმეს წერთ, დოკუმენტში მუშაობთ, ან აქვეყნებთ რამეს სოცქსელში, თავად ქმნით საკუთარ მონაცემებს. სამყაროში, სადაც ლამის ყველაფერი ერთმანეთს უკავშირდება, ეს მონაცემები ძალიან ღირებულია. ამ მონაცემებს აგროვებენ, აანალიზებენ, და სხვადასხვა მიზნებისთვის იყენებენ. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-ka/">ციფრული მონაცემები 101: რა ხილია და როდის ხდება პირადი</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -205,11 +205,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა გააკეთოთ სარეზერვი ასლები და სად უნდა შეინახოთ ისინი</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-make-backups-and-where-you-should-keep-them-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 18:40:31 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=798</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=798</guid>
 
 					<description><![CDATA[<p>მნიშვნელოვანი მონაცემების დაკარგვა ბევრად უფრო ადვილია, ვიდრე გგონიათ. ეს ყველაზე ხშირად ხდება მომხმარებლის შეცდომის, ტექნიკის გაუმართაობის, მოწყობილობის მოპარვის, ან დაკარგვის და მავნე პროგრამის &#8220;წყალობით&#8221;. თქვენს მოწყობილობებზე არსებული ფაილებისთვის, მნიშვნელოვანი რისკებს წარმოადგენს ე. წ. &#8220;რენსომვეარები&#8221; და ჰაკერული შეტევები. მნიშვნელოვანი ფაილების ყველა ამ რისკისგან დასაცავად, ერთადერთი გზაა ხშირად შექმნათ თქვენი მონაცემების სარეზერვო ასლები. ისინი უნდა შეინახოთ მყარ [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-ka/">რატომ უნდა გააკეთოთ სარეზერვი ასლები და სად უნდა შეინახოთ ისინი</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -239,11 +239,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა დაშიფროთ თქვენი მოწყობილობები</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-you-should-encrypt-your-devices-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-encrypt-your-devices-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-you-should-encrypt-your-devices-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 07 Feb 2022 19:44:53 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=807</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=807</guid>
 
 					<description><![CDATA[<p>თქვენს კომპიუტერზე, ტაბლეტსა და სმარტფონზე ინახება ბევრი მნიშვნელოვანი და თქვენთვის მგრძნობიარე მონაცემი. მოწყობილობის დაკარგვის, ან მოპარვის შემთხვევაში, სხვას ექნება წვდომა ყველაფერზე, იქ ინახება. შესაძლოა დამცავმა პაროლმაც ვერ აგარიდოთ, მათი სხვის მიერ წაკითხვისგან. თქვენს მოწყობილობებზე სენსიტიური მონაცემების დასაცავად, საუკეთო გზა მათი დაშიფვრაა. დაშიფრვის წყალობით, მოწყობილობაზე არსებულ ყველა მონაცემი სრულიად წაუკითხავი ხდება. შედეგად, ისინი დაცულია &#8211; უცხო [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-you-should-encrypt-your-devices-ka/">რატომ უნდა დაშიფროთ თქვენი მოწყობილობები</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -269,11 +269,11 @@
 			</item>
 		<item>
 		<title>სუსტი პაროლები, რომლებიც სინამდვილეში ძლიერი გვგონია</title>
-		<link>https://cyber-star.org/ka/cs-articles/passwords-that-look-strong-but-arent-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=passwords-that-look-strong-but-arent-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/passwords-that-look-strong-but-arent-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:47:23 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=847</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=847</guid>
 
 					<description><![CDATA[<p>თითქმის ყველა ონლაინ-სერვისი ახლა ითხოვს მომხმარებლებისგან რთული პაროლების შექმნას. ანუ დიდი ასოების, რიცხვებისა და სპეციალური სიმბოლოების გამოყენებას. პაროლის გაძლიერება Gmail-ის ან Facebook-ის მოთხოვნების შესაბამისად, მომხმარებლებს უსაფრთხოების განცდას უმტკიცებს. მაგრამ ეს განცდა ხშირად მცდარია. თუ პაროლი აკმაყოფილებს მინიმალური სირთულის მოთხოვნებს, ეს იმას არ ნიშნავს, რომ ის ნამდვილად ძლიერი და უსაფრთხოა. პრობლემა ის არის, რომ პაროლების ონლაინ-სერვისების [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/passwords-that-look-strong-but-arent-ka/">სუსტი პაროლები, რომლებიც სინამდვილეში ძლიერი გვგონია</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -313,11 +313,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა იყოს ყველა თქვენი პაროლი უნიკალური</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-all-of-your-passwords-should-be-unique-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-all-of-your-passwords-should-be-unique-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-all-of-your-passwords-should-be-unique-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 00:50:22 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=849</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=849</guid>
 
 					<description><![CDATA[<p>ყველა თქვენს ანგარიშს უნდა ჰქონდეს უნიკალური პაროლი, რომელიც აქამდე არასდროს არ გამოგიყენებიათ. სულ რომ მსოფლიოში ყველაზე ძლიერი პაროლი გქონდეთ, მას თუ სხვადასხვა ანგარიშისთვის გამოიყენებთ, ამით საკუთარ თავს დიდ საფრთხეში ჩაიგდებთ. რა ხდება, როდესაც თქვენ ხელახლა იყენებთ იგივე პაროლს ვთქვათ, რომ იყენებთ იგივე პაროლს თქვენი პირადი ელ. ფოსტის, Facebook-ისა და Instagram-ისთვის. თუ თქვენი ელ. ფოსტის პროვაიდერის [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-all-of-your-passwords-should-be-unique-ka/">რატომ უნდა იყოს ყველა თქვენი პაროლი უნიკალური</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -339,11 +339,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა გამოიყენოთ პაროლების მენეჯერი</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-a-password-manager-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-a-password-manager-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-a-password-manager-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:11:29 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=854</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=854</guid>
 
 					<description><![CDATA[<p>პაროლები არის თქვენი დაცვის პირველი ხაზი ყველასგან, ვისაც სურს მოიპაროს თქვენი ონლაინ-ანგარიშები ან ამ ანგარიშებზე არსებული ინფორმაცია. თქვენი ანგარიშების დასაცავად, უნდა გამოიყენოთ ძლიერი პაროლები, რომლებიც ჩვეულებრივ შეიცავს სიმბოლოების გრძელ და შემთხვევით კომბინაციებს. ასეთი პაროლების დამახსოვრება თითქმის შეუძლებელია. გარდა ამისა, უნდა გქონდეთ უნიკალური პაროლი თითოეული ანგარიშისთვის. მაშ, როგორ უნდა დაიმახსოვროთ და შეინახოთ ყველა ეს პაროლი? გამოსავალი [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-you-should-use-a-password-manager-ka/">რატომ უნდა გამოიყენოთ პაროლების მენეჯერი</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
@@ -373,11 +373,11 @@
 			</item>
 		<item>
 		<title>რატომ უნდა გამოიყენოთ ორნაბიჯიანი ვერიფიკაცია</title>
-		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-two-factor-authentication-ka/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=why-you-should-use-two-factor-authentication-ka</link>
+		<link>https://cyber-star.org/ka/cs-articles/why-you-should-use-two-factor-authentication-ka/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Tue, 08 Feb 2022 04:16:18 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=855</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=855</guid>
 
 					<description><![CDATA[<p>პაროლები არის თქვენი დაცვის პირველი ხაზი ყველასგან, ვისაც სურს თქვენი ანგარიშების მოპარვა ან თვალთვალი ყველაფერზე, რაც მათში ხდება. ამიტომ უნდა დაიცვათ ყველა თქვენი ანგარიში ნამდვილად ძლიერი და უნიკალური პაროლებით. ამასთან, პაროლები უსაფრთხოდ უნდა შეინახოთ. სამწუხაროდ, ყველაზე ძლიერი პაროლიც კი ბოლომდე ვერ დაგიცავთ ანგარიშის გატეხვისგან. თქვენი პაროლის გასატეხად რამდენიმე გზა არსებობს. ჰაკერებმა შეიძლება მოიპარონ თქვენი პირადი [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/why-you-should-use-two-factor-authentication-ka/">რატომ უნდა გამოიყენოთ ორნაბიჯიანი ვერიფიკაცია</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>

@@ -10,22 +10,22 @@
 <channel>
 	<title>Digital Risks Archives - CyberSTAR</title>
 	<atom:link href="https://cyber-star.org/cs-categories/digital-risks/feed/" rel="self" type="application/rss+xml" />
-	<link>https://cyber-star.org/</link>
+	<link>https://cyber-star.org/cs-categories/digital-risks/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Mon, 07 Feb 2022 00:54:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Jan 2023 16:13:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>How to Recognize Phishing Attacks</title>
-		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-recognize-phishing-attacks</link>
+		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 26 Jul 2021 05:29:46 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=457</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=457</guid>
 
 					<description><![CDATA[<p>The most common online threats facing hundreds of millions of users on a daily basis have to do with various social engineering schemes. At its core, social engineering is about tricking people into revealing sensitive information or breaking normal security procedures. What is phishing? Phishing attacks are among the most frequent social engineering schemes. They [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/">How to Recognize Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -67,11 +67,11 @@
 			</item>
 		<item>
 		<title>How Not to Fall for Phishing</title>
-		<link>https://cyber-star.org/cs-articles/how-not-to-fall-for-phishing/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-not-to-fall-for-phishing</link>
+		<link>https://cyber-star.org/cs-articles/how-not-to-fall-for-phishing/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 26 Jul 2021 05:23:45 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=456</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=456</guid>
 
 					<description><![CDATA[<p>Phishing scams are as old as the Internet itself and they are not going away. Fortunately, it is usually easy to avoid falling for phishing if you practice basic digital safety rules and use common sense. Follow these basic guidelines to keep yourself safe. 1. Remain skeptical Always remember that when something you are offered [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-not-to-fall-for-phishing/">How Not to Fall for Phishing</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -101,11 +101,11 @@
 			</item>
 		<item>
 		<title>How to Protect Yourself Against Malware</title>
-		<link>https://cyber-star.org/cs-articles/how-to-protect-yourself-against-malware/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=how-to-protect-yourself-against-malware</link>
+		<link>https://cyber-star.org/cs-articles/how-to-protect-yourself-against-malware/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 26 Jul 2021 05:20:23 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=455</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=455</guid>
 
 					<description><![CDATA[<p>One of the most common ways hackers and criminals cause trouble online is by spreading malware. In addition to using common sense, follow these basic guidelines to protect yourself against malware. 1. Use antivirus software You should always have reliable antivirus software running on all devices you are using. This software is your main line [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-protect-yourself-against-malware/">How to Protect Yourself Against Malware</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
@@ -144,11 +144,11 @@
 			</item>
 		<item>
 		<title>Phishing Attacks</title>
-		<link>https://cyber-star.org/cs-articles/phishing-attacks/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=phishing-attacks</link>
+		<link>https://cyber-star.org/cs-articles/phishing-attacks/</link>
 		
 		<dc:creator><![CDATA[berker]]></dc:creator>
 		<pubDate>Mon, 20 Jul 2020 03:56:30 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles&#038;p=88</guid>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=88</guid>
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/phishing-attacks/">Phishing Attacks</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
