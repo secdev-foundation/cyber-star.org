@@ -2,103 +2,151 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://cyber-star.org/ro/cs-categories/passwords-ro/</loc>
-		<lastmod>2022-02-09T02:58:05+00:00</lastmod>
+		<lastmod>2023-07-26T01:36:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cyber-star.org/uz/cs-categories/devices-uz/</loc>
-		<lastmod>2022-02-09T02:36:48+00:00</lastmod>
+		<loc>https://cyber-star.org/tj/cs-categories/conversations-tj/</loc>
+		<lastmod>2023-08-02T01:30:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cyber-star.org/ka/cs-categories/digital-identity-ka/</loc>
-		<lastmod>2022-02-09T02:29:52+00:00</lastmod>
+		<loc>https://cyber-star.org/az/cs-categories/devices-az/</loc>
+		<lastmod>2023-07-27T14:56:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cyber-star.org/ka/cs-categories/conversations-ka/</loc>
-		<lastmod>2022-02-09T02:17:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/ka/cs-categories/passwords-ka/</loc>
-		<lastmod>2022-02-09T02:58:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/ka/cs-categories/devices-ka/</loc>
-		<lastmod>2022-02-09T02:36:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/ka/cs-categories/data-ka/</loc>
-		<lastmod>2022-02-09T02:48:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/ru/cs-categories/digital-risks-ru/</loc>
-		<lastmod>2022-02-07T00:56:44+00:00</lastmod>
+		<loc>https://cyber-star.org/az/cs-categories/conversations-az/</loc>
+		<lastmod>2023-08-02T01:35:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/uz/cs-categories/conversations-uz/</loc>
-		<lastmod>2022-02-09T02:17:23+00:00</lastmod>
+		<lastmod>2023-08-02T01:24:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/tj/cs-categories/passwords-tj/</loc>
+		<lastmod>2023-08-11T14:51:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/tj/cs-categories/devices-tj/</loc>
+		<lastmod>2023-08-09T16:22:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/tj/cs-categories/data-tj/</loc>
+		<lastmod>2023-08-01T21:39:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/tj/cs-categories/digital-risks-tj/</loc>
+		<lastmod>2023-08-01T18:25:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/az/cs-categories/digital-risks-az/</loc>
+		<lastmod>2023-07-25T17:05:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ru/cs-categories/digital-risks-ru/</loc>
+		<lastmod>2023-07-25T17:10:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/tj/cs-categories/digital-identity-tj/</loc>
+		<lastmod>2023-10-10T15:40:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ka/cs-categories/data-ka/</loc>
+		<lastmod>2023-08-02T00:20:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ka/cs-categories/devices-ka/</loc>
+		<lastmod>2023-07-27T14:29:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ka/cs-categories/passwords-ka/</loc>
+		<lastmod>2023-07-26T01:41:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ka/cs-categories/conversations-ka/</loc>
+		<lastmod>2023-08-02T01:25:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ka/cs-categories/digital-identity-ka/</loc>
+		<lastmod>2023-08-04T05:53:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ro/cs-categories/digital-risks-ro/</loc>
-		<lastmod>2022-02-09T02:26:09+00:00</lastmod>
+		<lastmod>2023-07-25T18:03:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cyber-star.org/ro/cs-categories/conversations-ro/</loc>
-		<lastmod>2022-02-09T02:17:00+00:00</lastmod>
+		<loc>https://cyber-star.org/az/cs-categories/passwords-az/</loc>
+		<lastmod>2023-07-26T02:18:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cyber-star.org/uz/cs-categories/digital-identity-uz/</loc>
-		<lastmod>2022-02-09T02:30:09+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/uz/cs-categories/digital-risks-uz/</loc>
-		<lastmod>2022-02-09T02:20:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/ka/cs-categories/digital-risks-ka/</loc>
-		<lastmod>2022-02-09T02:22:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/uz/cs-categories/passwords-uz/</loc>
-		<lastmod>2022-02-09T02:58:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/uz/cs-categories/data-uz/</loc>
-		<lastmod>2022-02-09T02:48:27+00:00</lastmod>
+		<loc>https://cyber-star.org/az/cs-categories/digital-identity-az/</loc>
+		<lastmod>2023-08-04T05:51:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ro/cs-categories/digital-identity-ro/</loc>
-		<lastmod>2022-02-09T02:30:32+00:00</lastmod>
+		<lastmod>2023-08-04T05:54:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://cyber-star.org/ro/cs-categories/devices-ro/</loc>
-		<lastmod>2022-02-09T02:36:31+00:00</lastmod>
+		<loc>https://cyber-star.org/ro/cs-categories/conversations-ro/</loc>
+		<lastmod>2023-08-02T01:25:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ro/cs-categories/data-ro/</loc>
-		<lastmod>2022-02-09T02:48:08+00:00</lastmod>
+		<lastmod>2023-08-02T00:59:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/cs-categories/digital-risks/</loc>
-		<lastmod>2023-01-03T16:13:32+00:00</lastmod>
+		<lastmod>2023-10-05T23:42:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ro/cs-categories/devices-ro/</loc>
+		<lastmod>2023-08-09T15:40:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/uz/cs-categories/digital-risks-uz/</loc>
+		<lastmod>2023-07-25T18:06:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/ka/cs-categories/digital-risks-ka/</loc>
+		<lastmod>2023-07-25T18:05:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/uz/cs-categories/data-uz/</loc>
+		<lastmod>2023-07-27T23:49:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/az/cs-categories/data-az/</loc>
+		<lastmod>2023-07-27T19:39:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/uz/cs-categories/passwords-uz/</loc>
+		<lastmod>2023-07-26T01:53:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/uz/cs-categories/devices-uz/</loc>
+		<lastmod>2023-10-09T21:49:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/uz/cs-categories/digital-identity-uz/</loc>
+		<lastmod>2023-08-04T05:52:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/cs-categories/passwords/</loc>
-		<lastmod>2022-02-09T02:54:33+00:00</lastmod>
+		<lastmod>2023-10-05T23:49:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ru/cs-categories/passwords-ru/</loc>
-		<lastmod>2021-09-23T16:34:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://cyber-star.org/cs-categories/devices/</loc>
-		<lastmod>2023-06-21T18:01:53+00:00</lastmod>
+		<lastmod>2023-10-08T13:50:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ru/cs-categories/devices-ru/</loc>
-		<lastmod>2021-09-23T16:38:41+00:00</lastmod>
+		<lastmod>2023-10-08T14:08:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://cyber-star.org/cs-categories/devices/</loc>
+		<lastmod>2023-10-04T11:03:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ru/cs-categories/data-ru/</loc>
-		<lastmod>2021-11-24T18:16:24+00:00</lastmod>
+		<lastmod>2023-07-27T19:01:39+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/cs-categories/data/</loc>
@@ -106,19 +154,19 @@
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ru/cs-categories/conversations-ru/</loc>
-		<lastmod>2021-09-22T17:50:46+00:00</lastmod>
+		<lastmod>2023-08-02T01:26:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/cs-categories/conversations/</loc>
-		<lastmod>2022-01-31T01:16:01+00:00</lastmod>
+		<lastmod>2023-07-20T14:38:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/ru/cs-categories/digital-identity-ru/</loc>
-		<lastmod>2023-05-17T14:19:46+00:00</lastmod>
+		<lastmod>2023-10-08T14:06:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://cyber-star.org/cs-categories/digital-identity/</loc>
-		<lastmod>2023-05-17T13:59:10+00:00</lastmod>
+		<lastmod>2023-08-04T04:09:03+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->

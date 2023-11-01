@@ -12,14 +12,97 @@
 	<atom:link href="https://cyber-star.org/cs-categories/devices/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/cs-categories/devices/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 21 Jun 2023 18:01:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Oct 2023 11:03:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>How to Use USB Sticks Safely</title>
+		<link>https://cyber-star.org/cs-articles/how-to-use-usb-sticks-safely/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 11:03:10 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1282</guid>
+
+					<description><![CDATA[<p>USB flash drives were invented to store files and transfer them across devices easily. They have become very popular because they are really good at this job. Unfortunately, USB sticks as well as other removable media storage devices come with significant risks. Malware risks People use USB flash drives to move files across devices. What [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-use-usb-sticks-safely/">How to Use USB Sticks Safely</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>USB flash drives were invented to store files and transfer them across devices easily. They have become very popular because they are really good at this job. Unfortunately, USB sticks as well as other removable media storage devices come with significant risks.</p>
+<h2>Malware risks</h2>
+<p>People use USB flash drives to move files across devices. What many fail to realize is that in addition to useful files, they also often move around malware. Every time a USB stick is plugged into a device, there is a high risk that it will be infected with malware present on that device. When that USB drive is later plugged into other devices, there is an equally high risk that these new devices will also be infected.</p>
+<p>So, it is a very bad idea to use a USB stick to move files between devices. And it is outright dangerous to use USB sticks when you have no idea where they came from. This is true for USB drives that you find in the street, your office, school, library, or anywhere else. This is also true for flash drives that are given out by companies or organizations to advertise them or share documents.</p>
+<h2>Storing files</h2>
+<p>Personally owned USB flash drives are safe when you use them to store files and only plug them into a single device. As long as you know how to <a href="https://cyber-star.org/cs-articles/how-to-keep-your-computer-safe-and-secure/">keep that device secure</a>, your memory stick will also be safe.</p>
+<p>It is important to remember, however, that USB flash drives are not designed for long-term data storage. If you have used a memory stick for a long time, you know that it is bound to malfunction eventually. And when this happens, it is often impossible to restore data that was stored on the memory stick.</p>
+<h2>Using USB sticks a safer way</h2>
+<p>As noted above, using USB flash drives to move files across devices comes with a huge risk. There is no guaranteed way to eliminate these risks. So, unless there is absolutely no way for you not to rely on a USB memory stick, just avoid them.</p>
+<p>If however, you must use a USB flash drive or decide to do so despite the risks, there are several things you can do to make your devices and data a little bit safer. These measures will not always protect you from all malware risks stemming from USB flash drives used across devices. But they will protect you from some of the common malware types that infect devices through USB memory sticks.</p>
+<h3>1. Use antivirus and keep your system up to date</h3>
+<p>Good antivirus software will protect your devices from malware that can steal, damage or destroy your data. Make sure you use a licensed antivirus program. If you are a Windows user, your operating system comes with an effective built-in antivirus tool, <a href="https://cyber-star.org/cs-articles/how-to-make-windows-defender-more-secure/">Microsoft Defender</a> that just needs some minor setting changes to make it function well.</p>
+<p>You should also make sure that your antivirus software and operating system are up to date. It is best to set this software to update automatically.</p>
+<h3>2. Disable AutoRun and AutoPlay on Windows devices</h3>
+<p>AutoRun and AutoPlay are Windows features that allow a USB flash drive inserted into a device to run a script. A lot of malware disseminated through USB memory sticks infects devices by using these features. Permanently disabling AutoRun and AutoPlay on a Windows device helps protect it from such malware.</p>
+<h3>3. Use antivirus software to scan new USB sticks</h3>
+<p>Once you insert a USB memory stick into your computer, you can use the antivirus software running on it to scan the memory stick for malware.</p>
+<h3>4. Secure USB flash drives physically</h3>
+<p>This might sound obvious but you should also protect your USB memory sticks from loss or theft, two scenarios that happen very often. Never leave your flash drives unattended in a place where they can be stolen.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-use-usb-sticks-safely/">How to Use USB Sticks Safely</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Secure Your iPhone With Lockdown Mode</title>
+		<link>https://cyber-star.org/cs-articles/how-to-secure-your-iphone-with-lockdown-mode/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 13:54:56 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1239</guid>
+
+					<description><![CDATA[<p>If you are an average iPhone user, you do not have to worry about a sophisticated targeted cyber attack against you. But if you feel that you may be targeted by extremely rare and highly sophisticated cyber tools because of what you do or who you are, you can protect your iPhone with Lockdown Mode. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-secure-your-iphone-with-lockdown-mode/">How to Secure Your iPhone With Lockdown Mode</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>If you are an average iPhone user, you do not have to worry about a sophisticated targeted cyber attack against you. But if you feel that you may be targeted by extremely rare and highly sophisticated cyber tools because of what you do or who you are, you can protect your iPhone with Lockdown Mode. This extreme protection option is recommended for journalists, human rights advocates, and civil society activists who believe they may be at risk of surveillance or targeted cyber attacks.</p>
+<p>Lockdown Mode disables or restricts certain features, apps, websites, and settings on your iPhone to prevent highly advanced mercenary spyware from spying on you or compromising your personal information. This additional protection comes at a cost: when Lockdown Mode is enabled, your device will not function like it used to.</p>
+<p>With Lockdown Mode enabled on your iPhone, most message attachments and links in Messages will be blocked, and link previews will be unavailable. Some websites may load or work more slowly. You will not be able to receive FaceTime calls from people you have not called before. You will also not be able to share albums or access albums shared by others in the Photos app.</p>
+<h2>Enable Lockdown Mode on iPhone</h2>
+<ol>
+<li>Open the <strong>Settings</strong> app on your iPhone.</li>
+<li>Tap <strong>Privacy &amp; Security</strong>.</li>
+<li>Scroll down and, under Security, tap <strong>Lockdown Mode</strong>.<br />
+<img decoding="async" fetchpriority="high" class="aligncenter size-full wp-image-1240" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+<li>Tap <strong>Turn On Lockdown Mode</strong>.</li>
+<li>Scroll down and tap <strong>Turn On Lockdown Mode</strong> again.<br />
+<img decoding="async" class="aligncenter size-full wp-image-1241" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+<li>To confirm, tap <strong>Turn On &amp; Restart</strong>.</li>
+<li>Enter your iPhone passcode.<br />
+<img decoding="async" class="aligncenter size-full wp-image-1242" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+</ol>
+<h2>Exclude Apps from Lockdown Mode</h2>
+<p>As mentioned above, enabling Lockdown Mode may disable or restrict certain apps on your iPhone. The good news is that you can exclude apps that you trust from being impacted by Lockdown Mode restrictions.</p>
+<p>Here is how you can exclude an app from Lockdown Mode:</p>
+<ol>
+<li>With Lockdown Mode enabled on your phone, open the <strong>Settings</strong> app.</li>
+<li>Tap <strong>Privacy &amp; Security</strong>.</li>
+<li>Scroll down and, under Security, tap <strong>Lockdown Mode</strong>.<br />
+<img decoding="async" class="aligncenter size-full wp-image-1243" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+<li>Scroll down and tap <strong>Configure Web Browsing</strong> at the bottom of the screen.</li>
+<li>Turn off the app that you want to exclude.<br />
+This menu will only show apps that have some of their functions limited in Lockdown Mode. Only apps that have been opened since enabling Lockdown Mode on a device will appear on this list.<br />
+<img decoding="async" class="aligncenter size-full wp-image-1244" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+</ol>
+<p>You can always disable Lockdown Mode on your device if you feel it is too restrictive or you no longer require the additional protection it provides. To do so, complete the first three steps listed under Enable Lockdown Mode on iPhone above. Then, tap <strong>Turn Off Lockdown Mode &gt; Turn Off &amp; Restart</strong>.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/how-to-secure-your-iphone-with-lockdown-mode/">How to Secure Your iPhone With Lockdown Mode</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Why You Should Say Goodbye to Windows 10 Soon</title>
 		<link>https://cyber-star.org/cs-articles/why-you-should-say-goodbye-to-windows-10-soon/</link>
 		
@@ -304,22 +387,6 @@
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/give-your-smartphone-a-fresh-start/">Give Your Smartphone a Fresh Start</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/give-your-smartphone-a-fresh-start/">Give Your Smartphone a Fresh Start</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Declutter Your Phone with an App Cleanse</title>
-		<link>https://cyber-star.org/cs-articles/declutter-your-phone-with-an-app-cleanse/</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Wed, 07 Jul 2021 13:45:51 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=380</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/declutter-your-phone-with-an-app-cleanse/">Declutter Your Phone with an App Cleanse</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/declutter-your-phone-with-an-app-cleanse/">Declutter Your Phone with an App Cleanse</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></content:encoded>
 					
 		

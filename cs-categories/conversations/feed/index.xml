@@ -12,13 +12,13 @@
 	<atom:link href="https://cyber-star.org/cs-categories/conversations/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/cs-categories/conversations/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Mon, 31 Jan 2022 01:16:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Jul 2023 14:38:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Keep Your Digital Conversations Private</title>
 		<link>https://cyber-star.org/cs-articles/keep-your-digital-conversations-private/</link>
@@ -90,7 +90,7 @@
 <h2>Use Secret Chats</h2>
 <p>The best way to protect your messages on Telegram is to use one-on-one Secret Chats that are end-to-end encrypted. As mentioned above, Secret Chats are not the default chat option on Telegram.</p>
 <p>To start a Secret Chat, select the contact with whom you want to chat and open their profile by tapping the user’s image in the header.</p>
-<p><img decoding="async" class="size-full wp-image-467 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg" alt="Choosing a user on Telegram for additional chat features." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" fetchpriority="high" class="size-full wp-image-467 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg" alt="Choosing a user on Telegram for additional chat features." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p>Tap the three-dotted symbol next to the user’s name and select <strong>Start Secret Chat</strong> in the drop-down menu.</p>
 <p><img decoding="async" class="aligncenter size-full wp-image-469" src="https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat.jpg" alt="Starting a secret chat with a friend on Telegram." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p>Confirm the selection by tapping <strong>Start</strong>. Once you start a Secret Chat, you will see a lock icon next to the user’s name in the header of the chat.</p>

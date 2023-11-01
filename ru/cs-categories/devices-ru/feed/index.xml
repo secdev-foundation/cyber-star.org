@@ -12,14 +12,163 @@
 	<atom:link href="https://cyber-star.org/ru/cs-categories/devices-ru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/ru/cs-categories/devices-ru/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Thu, 23 Sep 2021 16:38:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Oct 2023 14:08:02 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>Как безопасно использовать USB-флешки</title>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-use-usb-sticks-safely-ru/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 11:03:58 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1284</guid>
+
+					<description><![CDATA[<p>USB-флеш накопители предназначены для хранения файлов и их переноса с одного устройства на другое. Флешки отлично справляются с этой задачей, и этим объясняется их популярность. Но использование USB-флешек, равно как и других внешних запоминающих устройств, сопряжено с серьезными рисками. Риски заражения вредоносным ПО Флешки часто используются для переноса данных с одного устройства на другое. Но [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-use-usb-sticks-safely-ru/">Как безопасно использовать USB-флешки</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>USB-флеш накопители предназначены для хранения файлов и их переноса с одного устройства на другое. Флешки отлично справляются с этой задачей, и этим объясняется их популярность. Но использование USB-флешек, равно как и других внешних запоминающих устройств, сопряжено с серьезными рисками.</p>
+<h2>Риски заражения вредоносным ПО</h2>
+<p>Флешки часто используются для переноса данных с одного устройства на другое. Но пользователи редко задумываются о том, что наряду с полезными файлами, флешки зачастую переносят вредоносное ПО. Каждый раз, когда пользователь вставляет USB-флешку в какое-то устройство, существует высокая вероятность, что вредоносное ПО с этого устройства заразит и флешку. И когда пользователь позднее использует эту флешку на других устройствах, каждое из этих устройств, скорее всего, тоже окажется заражено.</p>
+<p>То есть использовать USB-флешку для переноса данных с одного устройства на другое очень даже небезопасно. А использовать флешки, происхождение которых вам неизвестно, не следует ни при каких обстоятельствах. Это касается флешек, которые вы можете найти на улице, работе, в школе, библиотеке или где-либо еще. Это также касается флешек, которые компании и организации раздают в рекламных целях.</p>
+<h2>Хранение данных</h2>
+<p>Использовать личные USB-флешки для хранения данных совершенно безопасно при условии, что вы вставляете каждую флешку только в одно устройство. Если вы приняли меры для <a href="https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/">защиты этого устройства</a>, то данным на ваших флешках ничего не будет угрожать.</p>
+<p>Следует помнить, однако, что USB-флешки не предназначены для долгосрочного хранения данных. Если вы долгое время пользуетесь одной и той же флешкой, вы наверняка знаете, что рано или поздно она даст сбой. И когда такое случается, полностью восстановить данные, хранящиеся на флешке, зачастую невозможно.</p>
+<h2>Безопасное использование флешек</h2>
+<p>Как мы уже отмечали, использование флешек для переноса данных с одного устройства на другое сопряжено с серьезными рисками. Полностью устранить эти риски просто невозможно. Следовательно, если это возможно, мы рекомендуем отказаться от использования флешек.</p>
+<p>Если же вы просто не можете не использовать USB-флеш накопители, есть несколько способов уменьшить сопутствующие риски для ваших устройств и данных. Конечно эти меры не могут полностью защитить вас от всех угроз, связанных с вредоносным ПО. Но применение этих мер защитит вас от некоторых наиболее часто встречающихся видов вредоносного ПО, распространяющегося через USB-флешки.</p>
+<h3>1. Используйте антивирус и обновляйте ПО</h3>
+<p>Надежный антивирус защитит ваши устройства от вредоносного ПО, которое может украсть, повредить или уничтожить данные. Используйте лицензионное антивирусное ПО. Если вы используете устройство с Windows, ваша ОС поставляется с надежным и эффективным собственным антивирусом <a href="https://cyber-star.org/ru/cs-articles/how-to-make-windows-defender-more-secure-ru/">Microsoft Defender</a>.</p>
+<p>Регулярно обновляйте антивирусное ПО и операционную систему. Лучше всего настроить автоматическое обновление этого ПО.</p>
+<h3>2. Отключите Автозапуск на устройствах Windows</h3>
+<p>Функция Автозапуск автоматически запускает на устройствах Windows программы, установленные на подсоединенных к этим устройствам внешних накопителях данных. Большая часть вредоносного ПО, распространяющегося через USB-флешки, использует для заражения устройств именно эту функцию. Отключение функции Автозапуск на устройствах Windows помогает защитить их от риска подобного заражения.</p>
+<h3>3. Проверяйте новые флешки на вирусы</h3>
+<p>Вставив USB-флешку в свой компьютер, вы можете проверить эту флешку на наличие вредоносного ПО при помощи антивируса.</p>
+<h3>4. Позаботьтесь о физической безопасности флешек</h3>
+<p>Это может показаться очевидным, но вы также должны защитить свои флешки от потери или кражи: непредвиденные ситуации случаются гораздо чаще, чем мы думаем. Никогда не оставляйте флешки без присмотра в местах, где их могут украсть.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-use-usb-sticks-safely-ru/">Как безопасно использовать USB-флешки</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Как защитить свой iPhone с помощью режима блокировки</title>
+		<link>https://cyber-star.org/ru/cs-articles/how-to-secure-your-iphone-with-lockdown-mode-ru/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 07:02:09 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1248</guid>
+
+					<description><![CDATA[<p>Большинству пользователей телефонов iPhone незачем опасаться сложных и узконацеленных кибератак. Но если вы считаете, что можете стать целью чрезвычайно редких и сложных цифровых атак из-за того, чем вы занимаетесь или кем являетесь, у вас есть возможность защитить свой iPhone с помощью режима блокировки. Этот особый уровень защиты рекомендуется для использования журналистам, правозащитникам и гражданским активистам, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-secure-your-iphone-with-lockdown-mode-ru/">Как защитить свой iPhone с помощью режима блокировки</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Большинству пользователей телефонов iPhone незачем опасаться сложных и узконацеленных кибератак. Но если вы считаете, что можете стать целью чрезвычайно редких и сложных цифровых атак из-за того, чем вы занимаетесь или кем являетесь, у вас есть возможность защитить свой iPhone с помощью режима блокировки. Этот особый уровень защиты рекомендуется для использования журналистам, правозащитникам и гражданским активистам, которые опасаются слежки или узконацеленных кибератак.</p>
+<p>Режим блокировки ограничивает или делает недоступными некоторые функции, приложения, вебсайты и настройки на вашем iPhone, чтобы защитить вас от слежки или кражи личной информации в результате применения высокотехнологичного шпионского ПО. Но использование этого экстремального уровня защиты не проходит бесследно: при включенном режиме блокировки ваше устройство будет в определенных ситуациях работать не так, как обычно.</p>
+<p>Если на вашем iPhonе включен режим блокировки, большинство вложений и ссылок в приложении «Сообщения» будут блокироваться, а предварительный просмотр ссылок окажется недоступен. Некоторый вебсайты будут загружаться или работать медленнее, чем обычно. Вы не сможете получать входящие звонки FaceTime, кроме как от людей, которым вы сами звонили ранее. Кроме того, вы не сможете создавать общие альбомы и потеряете доступ к общим альбомам, созданным другими пользователями, в приложении «Фото».</p>
+<h2>Как включить режим блокировки на iPhone</h2>
+<ol>
+<li>Откройте приложение <strong>«Настройки»</strong> на своем iPhone.</li>
+<li>Нажмите <strong>«Конфиденциальность и безопасность»</strong>.</li>
+<li>Прокрутите вниз и в разделе <strong>«Безопасность»</strong> нажмите <strong>«Режим блокировки»</strong>.</li>
+</ol>
+<p><img decoding="async" fetchpriority="high" class="aligncenter wp-image-1251 size-full" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1.jpg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1.jpg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-1-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<ol start="4">
+<li>Нажмите <strong>«Включить режим блокировки»</strong>.</li>
+<li>Прокрутите вниз и нажмите <strong>«Включить режим блокировки»</strong> еще раз.</li>
+</ol>
+<p><img decoding="async" class="aligncenter wp-image-1252 size-full" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2.jpg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2.jpg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-2-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<ol start="6">
+<li>Для подтверждения нажмите <strong>«Включить и перезагрузить»</strong>.</li>
+<li>Введите код-пароль устройства.</li>
+</ol>
+<p><img decoding="async" class="aligncenter wp-image-1253 size-full" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3.jpg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3.jpg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-3-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>Как исключить приложения из режима блокировки</h2>
+<p>Как мы уже говорили, режим блокировки ограничивает или делает недоступными некоторые приложения на вашем телефоне. Если вас это не устраивает, вы можете исключить определенные приложения из списка, на который распространяются ограничения режима блокировки.</p>
+<p>Вот как это можно сделать:</p>
+<ol>
+<li>Когда ваш телефон находится в режиме блокировки, откройте приложение <strong>«Настройки»</strong>.</li>
+<li>Нажмите <strong>«Конфиденциальность и безопасность»</strong>.</li>
+<li>Прокрутите вниз и в разделе <strong>«Безопасность»</strong> нажмите <strong>«Режим блокировки»</strong>.</li>
+</ol>
+<p><img decoding="async" class="aligncenter wp-image-1254 size-full" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4.jpg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4.jpg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-4-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<ol start="4">
+<li>Прокрутите вниз и нажмите <strong>«Настроить просмотр веб-сайтов»</strong> в нижней части экрана.</li>
+<li>Отключите приложения, которые вы хотите исключить.<br />
+В этом меню отображаются только те приложения, на которые распространяются ограничения режима блокировки. Только те приложения, которые вы открывали с момента включения режима блокировки на устройстве, отображаются в этом списке.</li>
+</ol>
+<p><img decoding="async" class="aligncenter wp-image-1255 size-full" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5.jpg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5.jpg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-ru-5-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Если вы находите ограничения режима блокировки слишком неудобными или этот дополнительный уровень защиты вам больше не нужен, вы всегда можете отключить его. Чтобы сделать это, повторите первые три шага, описанные в разделе «Как включить режим блокировки на iPhone» выше. Затем нажмите на <strong>«Выключить режим блокировки» &gt; «Выключить и перезагрузить»</strong>.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-secure-your-iphone-with-lockdown-mode-ru/">Как защитить свой iPhone с помощью режима блокировки</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Почему вам скоро придется проститься с Windows 10</title>
+		<link>https://cyber-star.org/ru/cs-articles/why-you-should-say-goodbye-to-windows-10-soon-ru/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 27 Jun 2023 09:17:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=977</guid>
+
+					<description><![CDATA[<p>Компания Microsoft объявила, что операционная система Windows 10 перестанет получать техническую поддержку и обновления системы безопасности после 14 октября 2025 года. Это значит, что если вы пользуетесь Windows 10 на каком-либо устройстве, вам стоит перейти на Windows 11 или другую операционную систему до наступления этой даты. Использование Windows 10 после 14 октября 2025 года сделает [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-say-goodbye-to-windows-10-soon-ru/">Почему вам скоро придется проститься с Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Компания Microsoft объявила, что операционная система Windows 10 перестанет получать техническую поддержку и обновления системы безопасности после 14 октября 2025 года. Это значит, что если вы пользуетесь Windows 10 на каком-либо устройстве, вам стоит перейти на Windows 11 или другую операционную систему до наступления этой даты. Использование Windows 10 после 14 октября 2025 года сделает устройства, на которых установлена эта ОС, уязвимым к различным кибератакам. В результате вы можете потерять информацию, хранимую на этих устройствах, или доступ к важным учетным записям.</p>
+<p>Несколько простых действий помогут вам обеспечить безопасность компьютеров с Windows 10 до тех пор, пока Microsoft не перестанет поддерживать эту версию операционной системы:</p>
+<h2>1. Используйте 22H2 &#8212; последнюю версию Windows 10</h2>
+<p>Согласно компании Microsoft, последней версией Windows 10 является <strong>22H2</strong>. Это единственная версия операционной системы, которая продолжит получать важные обновления безопасности до того дня, когда Microsoft полностью перестанет поддерживать и обновлять Windows 10. Убедитесь, что на вашем компьютере установлена именно эта версия.</p>
+<p>Чтобы узнать, какая версия Windows используется на вашем устройстве, выберите <strong>Пуск &gt; Параметры &gt; Система &gt; О системе</strong>. В разделе <strong>Характеристики Windows</strong> можно увидеть версию и выпуск операционной системы, установленной на вашем устройстве.</p>
+<h2>2. Регулярно обновляйте Windows 10</h2>
+<p>Для обеспечения безопасности вашего компьютера недостаточно использовать последнюю версию операционной системы. Очень важно также <a href="https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/">регулярно обновлять операционную систему</a>.</p>
+<p>Если вы не хотите постоянно проверять, выпущены ли новые обновления операционной системы, и устанавливать их “вручную”, вы можете <a href="https://cyber-star.org/ru/cs-articles/how-to-update-software-in-windows-10-ru/">включить автоматическое обновление Windows 10</a>. В этом случае операционная система вашего устройства сама будет скачивать и устанавливать необходимые обновления.</p>
+<h2>3. Будьте готовы перейти на Windows 11</h2>
+<p>Будьте готовы перейти на Windows 11 не позднее нескольких недель до 14 октября 2025 года. Так как около 70% пользователей Windows по всему миру используют именно Windows 10 (по состоянию на июнь 2023 года), переход на Windows 11 обещает привести к перегрузке системы и многочисленным сбоям в последние несколько недель перед окончанием поддержки ранней версии операционной системы.</p>
+<p>Вы также можете использовать это время для ознакомления с другими операционными системами, которые могут оказаться более удобными для вас.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/why-you-should-say-goodbye-to-windows-10-soon-ru/">Почему вам скоро придется проститься с Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>5 признаков того, что ваш телефон взломали</title>
+		<link>https://cyber-star.org/ru/cs-articles/5-signs-that-your-phone-has-been-hacked-ru/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Tue, 27 Jun 2023 08:59:15 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=975</guid>
+
+					<description><![CDATA[<p>Любой телефон может быть взломан. В наши дни смартфоны всё чаще становятся мишенью для хакерских атак, так как взлом этих устройств дает злоумышленникам доступ к большому количеству пользовательской информации, включая пароли к соцсетям, банковские данные, а также деловую переписку и личные сообщения. Хакеры могут заразить ваш телефон зловредным ПО или троянами. Они могут превратить взломанный [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/5-signs-that-your-phone-has-been-hacked-ru/">5 признаков того, что ваш телефон взломали</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Любой телефон может быть взломан. В наши дни смартфоны всё чаще становятся мишенью для хакерских атак, так как взлом этих устройств дает злоумышленникам доступ к большому количеству пользовательской информации, включая пароли к соцсетям, банковские данные, а также деловую переписку и личные сообщения.</p>
+<p>Хакеры могут заразить ваш телефон зловредным ПО или троянами. Они могут превратить взломанный телефон в криптомайнер, который будет генерировать для них криптовалюту, замедляя работу телефона и похищая ваши данные. Кроме того, хакеры могут установить на ваш телефон кейлоггеры для отслеживания ваших действий и кражи паролей к различным сервисам и приложениям.</p>
+<p>Обратите внимание на 5 наиболее частых признаков того, что ваш телефон взломали:</p>
+<h2>1. Увеличение мобильного трафика</h2>
+<p>Если расход мобильного интернета на вашем телефоне внезапно и резко увеличился без какой-либо явной причины, это может быть следствием деятельности зловредного ПО, которое пользуется интернетом незаметно для вас. Просмотрите список приложений на телефоне и удалите всё, что покажется вам подозрительным. Используйте эту возможность, чтобы удалить приложения, которые вам больше не нужны.</p>
+<h2>2. Замедленная работа телефона</h2>
+<p>Если ваш телефон внезапно стал работать намного медленнее, чем раньше, это тоже может быть признаком деятельности хакерских приложений, заразивших ваше устройство и занимающих большую часть его оперативной памяти. Некоторые виды зловредного ПО могут вызывать периодическое зависание телефона или отдельных приложений, перезапуск устройства без какой-либо явной причины, а также срыв звонков.</p>
+<h2>3. Быстрая разрядка аккумулятора</h2>
+<p>Если ваш телефон внезапно стал быстро разряжаться, это повод насторожиться. Если вам приходится значительно чаще заряжать телефон, а пользуетесь вы им так же, как и раньше, это может быть обусловлено деятельностью зловредного ПО, которое “съедает” заряд аккумулятора. В настройках вашего телефона можно отследить, какие приложения больше всего расходуют заряд аккумулятора.</p>
+<h2>4. Неизвестные приложения, звонки и СМС</h2>
+<p>Приложения, которые вы не устанавливали на телефон, звонки, которые вы не выполняли, а также СМС-сообщения, которые вы не посылали &#8212; наиболее явные признаки взлома вашего телефона.</p>
+<h2>5. Странные сайты и всплывающие окна</h2>
+<p>Если браузер на вашем телефоне перенаправляет вас на сайты, на которые вы не пытаетесь попасть, это явный признак наличия зловредного ПО на телефоне. Еще одним очевидным признаком заражения устройства являются всплывающие на экране окна. Никогда не нажимайте на эти окна.</p>
+<p>Важно понимать, что ни один из этих признаков не является явным свидетельством взлома вашего телефона. Внезапное увеличение мобильного трафика может быть результатом скачивания большого обновления. А замедление работы телефона и быстрая разрядка аккумулятора могут быть обусловлены устареванием устройства, заполнением его памяти или работой большого количества приложений в фоновом режиме.</p>
+<p>Не забывайте также о важности своевременного обновления ПО на вашем телефоне. Если телефон больше месяца не получал никаких обновлений, его легче взломать.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/5-signs-that-your-phone-has-been-hacked-ru/">5 признаков того, что ваш телефон взломали</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Как защитить свой компьютер</title>
 		<link>https://cyber-star.org/ru/cs-articles/how-to-keep-your-computer-safe-and-secure-ru/</link>
 		
@@ -32,12 +181,12 @@
 ]]></description>
 										<content:encoded><![CDATA[<p>Обычные персональные компьютеры, ноутбуки и планшеты — важные устройства, с помощью которых мы выходим в Интернет и пользуемся различными службами и ресурсами глобальной сети. Благодаря им, мы общаемся с людьми по всему миру, создаем и храним информацию, а также делимся ею с другими пользователями.</p>
 <p>Потеря компьютера, его кража или взлом могут иметь серьезные профессиональные, финансовые и репутационные последствия. Поэтому важно знать, как надежно защитить свое устройство.</p>
-<p>Все советы в этой статье касаются защиты персональных компьютеров как таковых. Если вы хотите узнать о том, как защитить информацию на вашем компьютере, воспользуйтесь материалами раздела Мои данные на этом вебсайте.</p>
+<p>Все советы в этой статье касаются защиты персональных компьютеров как таковых. Если вы хотите узнать о том, как защитить информацию на вашем компьютере, воспользуйтесь материалами раздела <a href="https://cyber-star.org/ru/data-ru/">Мои данные на этом вебсайте</a>.</p>
 <h2>1. Используйте только лицензионное ПО</h2>
 <p>Программное обеспечение не всегда стоит дешево. Поэтому часто возникает соблазн установить на свой компьютер нелицензионное или «пиратское» ПО.</p>
 <p>Но ставить на свой компьютер такое ПО &#8212; не только незаконно, но и небезопасно. Пиратское программное обеспечение создается на основе старых версий подлинных приложений. Разработчики наверняка уже обнаружили и исправили сотни или даже тысячи ошибок и критических уязвимостей в этих приложениях. Используя пиратское программное обеспечение, вы не сможете применить многие из этих исправлений и обновлений.</p>
 <p>Более того, в пиратское ПО часто встраивается вредоносный код. Таким образом, устанавливая нелицензионные приложения, вы практически предоставляете киберпреступникам постоянный и неограниченный доступ к вашему устройству и всему его содержимому.</p>
-<p><strong>Особенно важно использовать лицензионные версии наиболее важного ПО на вашем компьютере</strong>, такого как операционная система и антивирус. Если вы не можете позволить себе ПО, распространяемое коммерческим путем, всегда можно найти бесплатное альтернативное ПО с открытым исходным кодом, которое вполне может справиться с большинством задач.</p>
+<p><strong>Особенно важно использовать лицензионные версии наиболее важного ПО на вашем компьютере</strong>, такого как операционная система и антивирус. Если вы не можете позволить себе ПО, распространяемое коммерческим путем, всегда можно <a href="https://techlog360.com/best-open-source-alternatives/" target="_blank" rel="noopener">найти бесплатное альтернативное ПО с открытым исходным кодом</a>, которое вполне может справиться с большинством задач.</p>
 <h2>2. Загружайте ПО только из надежных источников</h2>
 <p>Киберпреступники часто распространяют программное обеспечение, которое очень похоже на настоящие приложения, но содержит встроенные вредоносные программы. Устанавливая такое ПО, вы подвергаете устройство и всё его содержимое угрозе со стороны киберпреступников.</p>
 <p>Поэтому <strong>устанавливайте приложения и обновления только из официальных магазинов приложений</strong> (Microsoft Store на устройствах с Windows и App Store на компьютерах Mac) <strong>или напрямую с сайтов компаний, которые выпускают интересующие вас приложения</strong> . Например, при установке приложения Adobe Acrobat Reader загружайте его с сайта Adobe, а не со сторонних сайтов.</p>
@@ -47,15 +196,15 @@
 <p>Приложения могут содержать десятки тысяч строк кода. Хакеры изучают каждую из них и часто обнаруживают уязвимости, то есть бреши или слабые места в приложениях и операционных системах. Обнаружив уязвимость, хакеры создают вредоносное ПО, использующее ее для получения контроля над вашим устройством или кражи данных. Вскоре после обнаружения уязвимости разработчики создают исправления и выпускают их в форме обновлений программного обеспечения. Но до установки исправлений соответствующую уязвимость могут использовать хакеры. Поэтому чрезвычайно важно <strong>устанавливать обновления сразу после их появления</strong>.</p>
 <p>Особенно важно, чтобы <strong>операционная система и антивирус на вашем компьютере всегда были обновлены до последней версии</strong>. Включение автоматического обновления гарантирует, что все важные обновления для ПО на вашем компьютере будут устанавливаться сразу после их появления. Если вы не хотите включать автоматическое обновление для других приложений, проверяйте наличие обновлений и устанавливайте их хотя бы раз в месяц.</p>
 <p>Большинство обновлений не защитят компьютер, пока вы не перезагрузите его. Поэтому после установки обновлений <strong>перезапускайте свой компьютер сразу после того, как этого потребует система</strong>.</p>
-<blockquote><p>Выполните следующие действия, чтобы настроить автоматическое обновление ОС Windows 10, проверить наличие обновлений для других приложений на вашем компьютере и настроить Microsoft Store так, чтобы он автоматически обновлял приложения на компьютере с Windows 10 device automatically.</p></blockquote>
+<blockquote><p>Выполните <a href="https://cyber-star.org/ru/cs-articles/how-to-update-software-in-windows-10-ru/">следующие действия</a>, чтобы настроить автоматическое обновление ОС Windows 10, проверить наличие обновлений для других приложений на вашем компьютере и настроить Microsoft Store так, чтобы он автоматически обновлял приложения на компьютере с Windows 10 device automatically.</p></blockquote>
 <h2>4. Используйте надежное антивирусное ПО</h2>
 <p>Антивирус предотвращает заражение компьютера вредоносными программами. Если устройство уже заражено, антивирус обнаруживает вредоносное ПО и удаляет его. Поэтому <strong>очень важно, чтобы на вашем компьютере было установлено и всегда включено надежное антивирусное ПО</strong>. Рекомендуем <strong>выполнять полное сканирование вашего компьютера не реже одного раза в месяц</strong>.</p>
-<p>К сожалению, большая часть бесплатного антивирусного ПО не способно эффективно защитить компьютер. Исключением является антивирус Microsoft Defender, поставляемый с операционной системой Microsoft Windows. При условии правильной конфигурации (настройки), Microsoft Defender защищает ваше устройство эффективнее других популярных антивирусных решений.</p>
+<p>К сожалению, большая часть бесплатного антивирусного ПО не способно эффективно защитить компьютер. Исключением является антивирус Microsoft Defender, поставляемый с операционной системой Microsoft Windows. При условии <a href="https://cyber-star.org/ru/cs-articles/how-to-make-windows-defender-more-secure-ru/">правильной конфигурации (настройки)</a>, Microsoft Defender защищает ваше устройство эффективнее других популярных антивирусных решений.</p>
 <p>Вредоносное ПО быстро развивается. <strong>Включите автоматическое обновление антивирусного ПО и антивирусных баз на вашем компьютере</strong>.</p>
 <h2>5. Защитите компьютер паролем и настройте блокировку экрана</h2>
 <p>Не хотите, чтобы посторонние люди просматривали ваши файлы, устанавливали шпионское ПО или меняли настройки безопасности на вашем компьютере, когда вас нет рядом? <strong>Защитите свой компьютер надежным паролем. Включите автоматическую блокировку экрана</strong> после короткого периода бездействия.</p>
-<blockquote><p>Для установки или изменения пароля на устройстве с Windows 10, выполните следующие действия.</p></blockquote>
-<p>Также следует <strong>помнить, как быстро блокировать экран вручную</strong> и не забывать делать это каждый раз, когда вы отлучаетесь от <a href="https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/">своего компьютера</a>.</p>
+<blockquote><p>Для установки или изменения пароля на устройстве с Windows 10, выполните <a href="https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/">следующие действия</a>.</p></blockquote>
+<p>Также следует <strong>помнить, как быстро блокировать экран вручную</strong> и не забывать делать это каждый раз, когда вы отлучаетесь от своего компьютера.</p>
 <p><img decoding="async" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <h2>6. Для повседневных задач используйте учетную запись пользователя с ограниченными правами</h2>
 <p>Если у вас есть собственный компьютер, вы, скорее всего, используете его через учетную запись администратора. Это не всегда безопасно. Если вы установите приложение, зараженное вредоносной программой, откроете зараженное вложение или перейдете по опасной ссылке, используя учетную запись администратора, это может повлечь за собой катастрофические последствия для устройства или данных на нём.</p>
@@ -138,9 +287,9 @@
 <p>4. Из предлагаемых вариантов входа в устройство выберите <strong>Пароль</strong> и нажмите на <strong>Добавить</strong>.</p>
 <p><img decoding="async" class="size-full wp-image-365 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
 <p><img decoding="async" class="size-full wp-image-366 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p>5. Введите пароль, подтвердите его и затем нажмите кнопку <strong>Далее</strong>. Используйте надежный пароль.</p>
+<p>5. Введите пароль, подтвердите его и затем нажмите кнопку <strong>Далее</strong>. Используйте <a href="https://cyber-star.org/ru/cs-articles/how-to-create-strong-passwords-ru/">надежный пароль</a>.</p>
 <p><img decoding="async" class="size-full wp-image-370 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p>6. Нажмите <strong>Готово</strong>. Не забудьте сделать ввод пароля обязательным условием для входа в устройство для всех, кто пользуется этим компьютером вместе с вами.</p>
+<p>6. Нажмите <strong>Готово</strong>. Не забудьте сделать ввод пароля <a href="#password-mandatory">обязательным условием</a> для входа в устройство для всех, кто пользуется этим компьютером вместе с вами.</p>
 <p><img decoding="async" class="size-full wp-image-372 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
 <h2>Изменение пароля для устройства</h2>
 <p>Чтобы изменить существующий пароль (например, на более надежный), сделайте следующее.</p>
@@ -149,7 +298,7 @@
 <p><img decoding="async" class="size-full wp-image-368 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
 <p>3. Введите ваш текущий пароль и нажмите <strong>Далее</strong>.</p>
 <p><img decoding="async" class="size-full wp-image-369 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p>4. Введите новый пароль, подтвердите его и нажмите <strong>Далее</strong>. Обязательно используйте надежный пароль.</p>
+<p>4. Введите новый пароль, подтвердите его и нажмите <strong>Далее</strong>. Обязательно используйте <a href="https://cyber-star.org/ru/cs-articles/how-to-create-strong-passwords-ru/">надежный пароль</a>.</p>
 <p><img decoding="async" class="size-full wp-image-374 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
 <p>5. Нажмите <strong>Готово</strong>.</p>
 <p><img decoding="async" class="size-full wp-image-371 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
@@ -162,7 +311,6 @@
 <p>3. Нажмите <strong>Применить</strong>.</p>
 <p><img decoding="async" class="size-full wp-image-367 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
 <p>4. Когда система попросит вас ввести пароль для подтверждения настроек, сделайте это и нажмите <strong>OK</strong>.</p>
-<p>&nbsp;</p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ru/cs-articles/how-to-set-or-change-a-password-in-windows-10-ru/">Как установить или изменить пароль в Windows 10</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ru">CyberSTAR</a>.</p>
 ]]></content:encoded>
 					
@@ -192,7 +340,7 @@
 </ul>
 <h2>Настройка безопасности Microsoft Defender</h2>
 <ol>
-<li>Скачайте утилиту Configure Defender или изучите ее исходный код здесь. Эта утилита облегчит вам задачу по настройке безопасности Microsoft Defender.</li>
+<li>Скачайте утилиту Configure Defender или изучите ее исходный код <a href="https://github.com/AndyFul/ConfigureDefender" target="_blank" rel="noopener">здесь</a>. Эта утилита облегчит вам задачу по настройке безопасности Microsoft Defender.</li>
 <li>Как только вы ее скачаете, кликните на нее дважды. Вы можете выбрать любые настройки безопасности, которые захотите, однако для максимальной защиты мы рекомендуем нажать <strong>Высокий</strong>(уровень защиты) и затем изменить настройки так, как показано на скриншотах ниже. Эти настройки позволят вам соблюсти баланс между безопасностью и теми неудобствами, которые могут принести настройки.
 <ul>
 <li>Выбранные настройки (помимо <strong>Высокого</strong> уровня защиты): <strong>Блокировать кражу учетных данных из локальной системы безопасности Windows</strong> (lsass.exe) &#8212; включить</li>

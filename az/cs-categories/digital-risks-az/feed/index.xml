@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rəqəmsal Risklər Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/az/cs-categories/digital-risks-az/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/az/cs-categories/digital-risks-az/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Tue, 25 Jul 2023 17:05:22 +0000</lastBuildDate>
+	<language>az</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Fişinq hücumlarını necə tanımalı</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-recognize-phishing-attacks-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:12 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1052</guid>
+
+					<description><![CDATA[<p>Milyonlarla istifadəçinin gündəlik qarşılaşdığı ən adi onlayn təhlükələr müxtəlif sosial mühəndislik sxemləri ilə bağlıdır. Əslində sosial mühəndislik insanları həssas məlumatları paylaşmağa sövq etmək və ya normal təhlükəsizlik prosedurlarını pozmaqdan ibarətdir. Fişinq nədir? Fişinq hücumları ən çox baş verən sosial mühəndislik sxemlərindəndir. Onlara keçidi klikləməklə və ya qoşmanı açmaqla, mühüm cinayətə və ya zərərli proqramın yüklənməsinə [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-recognize-phishing-attacks-az/">Fişinq hücumlarını necə tanımalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Milyonlarla istifadəçinin gündəlik qarşılaşdığı ən adi onlayn təhlükələr müxtəlif <em>sosial mühəndislik</em> sxemləri ilə bağlıdır. Əslində sosial mühəndislik insanları həssas məlumatları paylaşmağa sövq etmək və ya normal təhlükəsizlik prosedurlarını pozmaqdan ibarətdir.</p>
+<h2>Fişinq nədir?</h2>
+<p>Fişinq hücumları ən çox baş verən sosial mühəndislik sxemlərindəndir. Onlara keçidi klikləməklə və ya qoşmanı açmaqla, mühüm cinayətə və ya zərərli proqramın yüklənməsinə yardım edəcək, insanları məlumat paylaşmaqları üçün aldadan elektron məktub, sosial media, SMS, və çat mesajları daxildir.</p>
+<p>Bir çox fişinq hücumları qanuni və adətən etibar etdiyiniz mənbədən (dövlət agentliyi, bank, sosial media xidməti) gəlirmiş kimi görünən kütləvi mesajlar vasitəsilə edilir. Bununla belə, xüsusi şəxsləri və qrupları hədəfləyən fişinq hücumları da var ki, kiber aktyorlar öz alət və hiylələrini daim təkmilləşdirir və dəyişir.</p>
+<h2>Fişinq hücumlarının növləri</h2>
+<p>Bu, fişinq hücumlarının ən geniş yayılmış növləridir:</p>
+<ul>
+<li><strong>Nizə fişinqi</strong> fişinq hücumlarının bir növüdür, burada kiber aktyor bir nəfəri hədəf alır, onun iş yoldaşı və ya dostu kimi özünü qələmə verərək elektron məktub, sosial media, SMS və ya çat mesajları göndərir.</li>
+<li><strong>Balina ovu</strong> şirkətin rəhbərləri, sahibkarları, media təşkilatlarının baş redaktorları kimi &#8220;iri balıqları&#8221; hədəf alır. Balina ovuna dövlət təşkilatları və ya donor agentlikləri kimi vacib partnyorlardan göndərilmiş e-poçtlara bənzəyən fırıldaqçı elektron mesajlar aiddir.</li>
+<li><strong>SMişinq</strong> hücümlarına SMS mesajlar (mətn) daxildir. Bu hücumları təşkil edən fırıldaqçılar pul və ya şəxsi məlumat istəmək üçün özlərini tanıdığınız şəxs kimi qələmə verə bilərlər. Əksər hallarda bu hücumların arxasındakı şəxslər ödəniş tələb etmək və ya yeniləmə təklif etmək üçün özlərini istifadə etdiyiniz xidmət kimi qələmə verirlər (məsələn, kuryer şirkəti və ya onlayn alış-veriş platforması). Onlar daha çox platforma tərəfindən aldığınız təsdiqləmə kodunu soruşmaq məqsədilə özlərini WhatsApp, Facebook və ya digər sosial media şirkətləri kimi qələmə verirlər.</li>
+<li><strong>Vişinq</strong> hücumlarına səsli zənglər aiddir. Bu hücumları həyata keçirən fırıldaqçılar dövlət agentlikləri nümayəndələri kimi özlərini tanıdırlar. Onlar adətən hədə-qorxu və ya inandırıcı dil ilə qurbanlarını tələb edilən məlumatı verməkdən başqa şansları yoxmuş kimi inandırmağa çalışırlar.</li>
+</ul>
+<h2>Fişerlərin hədəf götürdükləri emosiyalar</h2>
+<p>Bütün fişinq hücumlarının bir ortaq cəhəti var ki, onlar güclü insan emosiyalarına təsir göstərməyə çalışırlar. Bura daxildir:</p>
+<ul>
+<li><strong>Acgözlük:</strong> linki klikləsən, qoşmanı açsan və ya formanı doldursan, maliyyə mükafatı və ya digər mükafatlar təklif edilir.</li>
+<li><strong>Təcililik</strong>: hücumçular vaxt darlığı təlqin edərək hərəkətə keçmək təcilidir hissi yaradır.</li>
+<li><strong>Maraq</strong>: hücumçular qurbana linki klikləməklə unikal və maraqlı məzmun vəd edir.</li>
+<li><strong>Qorxu</strong>: tədbir görməsəniz, mənfi nəticələrlə üzləşəcəyinizi xəbərdar edirlər.</li>
+</ul>
+<h2>Fişinq e-poçtunun ifşa edilməsi</h2>
+<p>Fişinq taktikaları daima təkmilləşir. Fişinq elektron məktubları sizi aldatmaq üçün hüquqi təşkilatların əsl loqolarından istifadə edərək onların üslubunu təqlid edir. Bununla belə, fişinq elektron məktublarının onları ifşa etməkdə kömək edəcək aşağıda göstərilən bir və bir neçə ümumi xüsusiyyəti var:</p>
+<ul>
+<li><strong>Sizi aldatmaq üçün real görünən saxta e-poçt ünvanları</strong>. Məsələn, fırıldaqçı özünü Amazon kimi qələmə verib &#8220;yeniləmə&#8221; və ya &#8220;təsdiqləmə&#8221; adı ilə məlumatlarınızı oğurlaya bilər. E-poçt ünvanı @amazon.com deyil, @amazonheadoffice.com və ya @amazzon.com ilə bitərsə, şübhələnməyə ciddi əsas var. Həmçinin yadda saxlayın ki, heç bir hüquqi və iri təşkilat ümumi ictimaiyyət üçün nəzərdə tutulmuş @gmail.com, @mail.ru və ya digər e-poçt platforması ilə bitən e-poçt ünvanından məktub göndərməz.</li>
+<li><strong>Yerləşdirilmiş keçidlər</strong>, onları kliklədiyiniz zaman sizi zərərli proqramların yerləşdirildiyi saxta vebsaytlara aparır. Keçidləri sizi hara aparacağını yoxlamadan klikləməyin. Kursoru keçidin üzərində sürüşdürərək vebsaytın tam ünvanını görə bilərsiniz.<br />
+Azacıq belə şübhəli olan keçidi klikləməzdən əvvəl, onu <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> kimi keçid skanneri vasitəsilə skan edin. Qısaldılmış URL keçidləri zamanı daha ehtiyatlı olun. Qısaldılmış keçidin əsl URL keçidini yoxlamaq üçün <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> kimi pulsuz onlayn xidmətdən istifadə edin.</li>
+<li>Onları açmaqla cihazınızı zərərli proqramla yoluxduracaq olan <strong>Qoşmalar</strong>. Fundamental rəqəmsal təhlükəsizlik qaydalarından biri də budur ki, tanımadığınız və ya tam etibar etmədiyiniz insanların göndərdiyi elektron qoşmaları açmaq olmaz. Həmçinin qanuni təşkilatlar heç vaxt nəsə göndərmələrini xüsusilə xahiş etmədiyiniz təqdirdə sizə elektron qoşmalar göndərməyəcək.</li>
+<li><strong>Zəif qrammatika və ya qəribə dil</strong>. Fişinq hücumlarını həyata keçirmək üçün kütləvi elektron məktublardan istifadə edən fırıldaqçılar onlarla müxtəlif ölkəni hədəf alırlar. Mesajları tərcümə etdirməyə və yerli auditoriyaya daha doğru ünvanlamağa vəsait xərcləməkdənsə, onlar pulsuz onlayn tərcümə xidmətlərindən istifadə edirlər. Nəticədə fişinq məktubları çox zaman qeyri-təbii və ya sadəcə qəribə dildə və qrammatik səhvlərlə dolu tərtib edilir.</li>
+<li>Adınızın əvəzinə <strong>Ümumi salamlama</strong>. Elektron məktub &#8220;Hörmətli müştəri&#8221;, &#8220;Hörmətli hesab sahibi&#8221; və ya &#8220;Hörmətli üzv&#8221; kimi ümumi salamlama ilə başlayırsa, bu dərhal şübhə doğurur. Sizinlə əlaqə saxlayan həqiqi təşkilatlar çox zaman adınızı bilir.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-recognize-phishing-attacks-az/">Fişinq hücumlarını necə tanımalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fişinq tələsinə necə düşməməli</title>
+		<link>https://cyber-star.org/az/cs-articles/how-not-to-fall-for-phishing-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1053</guid>
+
+					<description><![CDATA[<p>Fişinq fırıldaqçılığı internetin özü ilə yaşıddır və onlar yox olmaq bilmir. Xoşbəxtlikdən, rəqəmsal təhlükəsizliyin fundamental qaydalarına əməl etsəniz və məntiqli düşünsəniz, fişinq fırıldaqçılığından qaçmaq asandır. Özünüzü qorumaq üçün bu əsas təlimatlara əməl edin. 1. Şübhəli yanaşın Həmişə yadda saxlayın, onlayn təklif edilən nəsə doğru olması üçün çox yaxşıdırsa, çox güman ki, bu doğru deyil. Fırıldaqçılar [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-not-to-fall-for-phishing-az/">Fişinq tələsinə necə düşməməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Fişinq fırıldaqçılığı internetin özü ilə yaşıddır və onlar yox olmaq bilmir. Xoşbəxtlikdən, rəqəmsal təhlükəsizliyin fundamental qaydalarına əməl etsəniz və məntiqli düşünsəniz, fişinq fırıldaqçılığından qaçmaq asandır. Özünüzü qorumaq üçün bu əsas təlimatlara əməl edin.</p>
+<h2>1. Şübhəli yanaşın</h2>
+<p>Həmişə yadda saxlayın, onlayn təklif edilən nəsə doğru olması üçün çox yaxşıdırsa, çox güman ki, bu doğru deyil. Fırıldaqçılar və cinayətkarlar emosiyalarımızı, xüsusilə hərislik və marağımızı manipulyasiya etməkdə çox bacarıqlıdırlar. Sadəcə 20 dollara son model iPhone istərdinizmi? Şirkətlərin sizə pulsuz göndərdikləri bütün bu müftə məhsulları sınamaqla, çoxlu pul qazanmaq istərdinizmi? Hansı sinif yoldaşınızın və ya iş yoldaşınızın sizdən gizlincə xoşu gəldiyini bilmək istərdiniz? Bu mükafatları əldə etmək üçün etməli olduğunuz yeganə şey keçidi klikləmək, əlavəni açmaq və ya formanı doldurmaqdır. Bunlara inanmayın. Siz bundan ağıllısınız.</p>
+<h2>2. Qoşmalardan ehtiyatlı olun</h2>
+<p>Əsas rəqəmsal təhlükəsizlik qaydalarından biri tanımadığınız və ya tam etibar etmədiyiniz insanlar tərəfindən göndərilən e-poçt, sosial media mesajları və ya mobil mətnlərdəki qoşmaları heç vaxt endirməməli və ya açmamalısınız. Fırıldaqçılar və cinayətkarlar xüsusilə Word, Excel, PowerPoint və PDF qoşmalarını çox xoşlayır. Əgər elektron məktub və ya hər hansı növ mesaj sizə şübhəli gəlirsə, onu dərhal silmək ən yaxşı həll yoludur.</p>
+<p>Yadda saxlayın ki, hətta tanıdığınız və etibar etdiyiniz adamların da e-poçt hesabları ələ keçirilə bilər. Əgər həmin şəxslərdən gözlənilmədən içində qoşma olan elektron məktub alırsınızsa, açmazdan əvvəl onu göndərdiyini düşündüyünüz şəxs ilə dəqiqləşdirin.</p>
+<h2>3. Klikləməzdən əvvəl keçidləri yoxlayın</h2>
+<p>Tanımadığınız və ya sizə yazmaqlarını gözləmədiyiniz şəxslər və ya təşkilatlar tərəfindən göndərilən keçidləri heç vaxt klikləməməyi deməyə yəqin ki, ehtiyac yoxdur. Həmçinin gələn hər bir keçidə potensial risk kimi yanaşmağa adət etməlisiniz. İş yoldaşınızdan, bank və ya istifadə etdiyiniz sosial xidmətdən xəbərdarlıq aldıqda elektron məktubdakı keçidi klikləməyin. Vebsaytın tam ünvanını görmək üçün kursoru keçidin üzərindən sürüşdürün. Bu, sizin keçidi klikləyib klikləməyəcəyinizə qərar vermənizə kömək edəcək. Alternativ olaraq, brauzer pəncərəsini açıb ünvanı birbaşa URL sahəsinə daxil edib saytın həqiqiliyini yoxlaya bilərsiniz.</p>
+<p>Bir balaca şübhələndiyiniz keçidi belə klikləməzdən əvvəl, onu <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> kimi keçid skanneri vasitəsilə skan edin, bu, keçidin URL-ni daxil etməyə və təhlükəsizliyini yoxlamağa imkan verəcək.</p>
+<p>Qısaldılmış URL keçidləri zamanı daha ehtiyatlı olun. Həmişə qısaldılmış keçidin əsl URL keçidini yoxlayın. Qısaldılmış URL-i açmaq üçün <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> kimi pulsuz onlayn xidmətdən istifadə edə bilərsiniz.</p>
+<h2>4. Düşünmək üçün yavaşlayın</h2>
+<p>Cinayətkarların və fırıldaqçıların istifadə etdikləri fişinq taktikalarından biri də insanları yalançı təcililik ilə tələsdirməkdir, guya qoyulan vaxt çıx qısadır və ya cəld olmasalar, cəzalanacaqlar. Onlar son vergi ödənişində &#8220;səhv&#8221; etdiyinizə görə cərimə ödəməli və ya cinayət təqibi ilə qarşı-qarşıya olduğunuzu deyə bilərlər. Ya da müdiriniz olduğunu iddia edən biri müəyyən bank hesabına pul köçürməyinizi tələb edə, əks təqdirdə işdən qovulacağınızı deyə bilər.</p>
+<p>Həmişə &#8220;təcili&#8221; məlumat və ya maliyyə köçürmələri sorğuları ilə yüksək şübhəli kimi rəftar edin. Vergi nümayəndələri mobil telefonunuza zəng edib cərimə ödəməyi tələb edə bilər? Müdiriniz heç vaxt eşitmədiyiniz bank hesabına pul köçürməyi tələb edə bilər? Əgər nəsə şübhəli gəlirsə, bunu etibar etdiyiniz insanlarla, iş yoldaşlarınız və ya vəkillə müzakirə edin.</p>
+<h2>5. Kimliyi təsdiqləyin</h2>
+<p>Həmişə məlumat və ya maliyyə köçürmələri tələb edən insanların və ya təşkilatların həqiqi kimliyini yoxlayın. Yoxlamaq üçün onlara birbaşa zəng edin və ya təhlükəsiz mesajlaşma platforması vasitəsilə əlaqə yaradın. Yadda saxlayın ki, fırıldaqçılar insanları təqlid etməkdə professionaldırlar və bunu etməyə çoxlu səy və araşdırma sərf edirlər.</p>
+<h2>6. Antivirus proqramlarınızı daim yeniləyin</h2>
+<p>Hətta çox ehtiyatlı olsanız və mükəmməl rəqəmsal gigiyenaya əməl etsəniz belə, hər zaman bütün cihazlarınızda işlək antivirus və təhlükəsizlik divarı olmalıdır. Antivirusun hər hansı yeni təhlükəsizlik riskləri ilə baş edə biləcəyindən əmin olmaq üçün onu daim yeniləyin. Antivirus və əməliyyat sistemi kimi vacib proqram təminatlarınızı avtomatik yeniləməyə qoymaq yaxşı fikirdir.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-not-to-fall-for-phishing-az/">Fişinq tələsinə necə düşməməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Zərərli proqramlara qarşı özünüzü necə qorumalı</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-protect-yourself-against-malware-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:17 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1054</guid>
+
+					<description><![CDATA[<p>Haker və kiber cinayətkarların törətdiyi ən geniş yayılmış ziyanlardan biri zərərli proqram yaymaqdır. Özünüzü zərərli proqramlara qarşı qorumaq üçün sağlam düşüncə ilə yanaşı, bu əsas təlimatlara da əməl edin. 1. Antivirus proqramından istifadə edin İsifadə etdiyiniz bütün cihazlarda etibarlı işlək antivirus olmalıdır. Bu proqram təminatı sizin virus və digər zərərli proqramlara qarşı ən əsas müdafiə [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-protect-yourself-against-malware-az/">Zərərli proqramlara qarşı özünüzü necə qorumalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Haker və kiber cinayətkarların törətdiyi ən geniş yayılmış ziyanlardan biri zərərli proqram yaymaqdır. Özünüzü zərərli proqramlara qarşı qorumaq üçün sağlam düşüncə ilə yanaşı, bu əsas təlimatlara da əməl edin.</p>
+<h2>1. Antivirus proqramından istifadə edin</h2>
+<p>İsifadə etdiyiniz bütün cihazlarda etibarlı işlək antivirus olmalıdır. Bu proqram təminatı sizin virus və digər zərərli proqramlara qarşı ən əsas müdafiə xəttinizdir. Antivirusun hər hansı yeni təhlükəsizlik riskləri ilə baş edə biləcəyindən əmin olmaq üçün onu daim yeniləyin.</p>
+<p>Antivirus proqramı sizə bütün cizahı zərərli proqramlara qarşı skan etmək imkanı verir. Zərərli proqramları erkən aşkar etmək və yayılmasının qarşısını almaq üçün cihazlarınızı müntəzəm skan etməyi adət halına çevirin. Əgər nəsə endirmək lazım gələrsə endirdiyinizi açmazdan əvvəl zərərli proqramlara qarşı antivirus ilə skan edin.</p>
+<p>Windows, daxilində pulsuz və etibarlı antivirus proqramı olan Microsoft Defender ilə birgə təqdim olunur. <a href="https://cyber-star.org/az/cs-articles/how-to-make-windows-defender-more-secure-az/">Bəzi parametrləri tənzimləməklə</a> Microsoft Defender, cihazınızı daha yaxşı qoruya bilər.</p>
+<h2>2. Proqram təminatınızı və cihazınızı daim yeniləyin</h2>
+<p>Zərərli proqramlar proqram təminatında zəiflikləri aşkar edərək cihazınızı yoluxdurur. Haker və kiber cinayətkarlar daim belə zəifliklər axtarışındadır. Proqram təminatı şirkətləri bu cür zəiflikləri yeniləmələrdə buraxılan təhlükəsizlik yamaqları vasitəsilə aradan qaldırır. Buna görə də yeniləmələri buraxılan kimi yükləmək lazımdır.</p>
+<p>Hansı cihazdan istifadə etməyinizdən asılı olmayaraq, əməliyyat sisteminin ən son versiyasını istifadə etdiyinizdən əmin olun. Əməliyyat sistemi və antivirus proqramını avtomatik yeniləməyə qoymaq yaxşı fikirdir. Cihazınızdakı digər proqramları tez -tez və müntəzəm şəkildə yeniləyin.</p>
+<p>Əgər mobil telefonunuzda son altı ayda əməliyyat sisteminə yeniləmə təklif edilməyibsə, çox güman ki, istehsalçının artıq dəstəkləmədiyi köhnə modeldir. Bu halda, telefonunuzu vacib təhlükəsizlik yeniləmələri təmin edilən yeni model ilə əvəzləməyi düşünün.</p>
+<h2>3. Qeyri-admin hesabından istifadə edin</h2>
+<p>Cihaza administrator hesabı ilə daxil olduqda zərərli proqram cihaz və onun içindəki məlumatlar üçün xüsusi təhlükəli ola bilər. Kompüterinizdə məhdud imtiyazlı istifadəçi hesabı açmaq və gündəlik işlər üçün ondan istifadə yaxşı fikirdir. Məhdud imtiyazlı hesabla daxil olarkən zərərli proqram cihaza daxil olmaq və sistem boyu dəyişiklik etmək üçün yol tapmaqda çətinlik çəkir.</p>
+<h2>4. Nə yüklədiyinizdən əmin olun</h2>
+<p>Bir çox zərərli proqram şübhəli proqram təminatına bükülür və ya leqal proqramın pirat versiyalarında yaradılır. Kompüterinizi zərərli proqramlarla yoluxdurmağın ən rahat yolu ona pirat (lisenziyasız) proqram yükləməkdir. Əgər hər hansı proqram təminatına çox ehtiyacınız varsa, ancaq onu ala bilmirsinizsə, yadda saxlayın ki, demək olar, bütün əsas proqram təminatlarının pulsuz alternativləri var. Bu alternativlər məhdud imkanlı ola bilər, ancaq onlar zərərli proqramı onlayn təcrübənizdən kənarlaşdıraraq əsas işi görəcəklər. İmkanınız olsa, həmişə özəl komersiya məhsullarındansa, açıq mənbəli proqram təminatlarını seçin.</p>
+<p>Tətbiqləri yalnız rəsmi tətbiq mağazalarından endirin. Bir proqramı ilk dəfə yükləyirsinizsə və tətbiq ilə tanış deyilsinizsə, istifadəçi rəylərini oxuyun ki, proqramın həqiqətən etibarlı olmasından əmin olasınız.</p>
+<p>Cihazınızdakı bütün tətbiqləri müntəzəm olaraq nəzərdən keçirməyi adət halına çevirin. İstifadə etmədiyiniz və ya etibar etmədiyiniz tətbiqləri silin.</p>
+<h2>5. Qoşmalardan ehtiyatlı olun</h2>
+<p>Əsas rəqəmsal təhlükəsizlik qaydalarından biri tanımadığınız və ya tam etibar etmədiyiniz insanlar tərəfindən göndərilən elektron məktub, sosial media mesajları və ya mobil mətnlərdəki qoşmaları endirməməli və ya açmamalısınız. Fırıldaqçılar və cinayətkarlar xüsusilə Word, Excel, PowerPoint və PDF qoşmalarını çox xoşlayır. Əgər elektron məktub və ya hər hansı növ mesaj sizə şübhəli gəlirsə, onu dərhal silmək ən yaxşı həll yoludur.</p>
+<p>Yadda saxlayın ki, hətta tanıdığınız və etibar etdiyiniz adamların da e-poçt hesabları ələ keçirilə bilər. Əgər həmin şəxslərdən gözlənilmədən içində qoşma olan elektron məktub alırsınızsa, açmazdan əvvəl onu göndərdiyini düşündüyünüz şəxs ilə dəqiqləşdirin.</p>
+<h2>6. Klikləməzdən əvvəl keçidləri yoxlayın</h2>
+<p>Tanımadığınız insanlar və ya təşkilatlar tərəfindən göndərilən keçidləri heç vaxt klikləməyin. Həmçinin gələn hər bir keçidə potensial risk kimi yanaşmağa adət etməlisiniz. İş yoldaşınızdan, bank və ya istifadə etdiyiniz sosial xidmətdən xəbərdarlıq aldıqda elektron məktubdakı keçidi klikləməyin. Vebsaytın tam ünvanını görmək üçün kursoru keçidin üzərindən sürüşdürün. Bu sizin keçidi klikləyib klikləməyəcəyinizə qərar vermənizə kömək edəcək. Alternativ olaraq, brauzer pəncərəsini açıb ünvanı birbaşa URL sahəsinə daxil edib saytın həqiqiliyini yoxlaya bilərsiniz.</p>
+<p>Bir balaca şübhələndiyiniz keçidi belə klikləməzdən əvvəl onu <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> kimi keçid skanneri vasitəsilə skan edin, bu, şübhəli keçidin URL-ni daxil etməyə və təhlükəsizliyini yoxlamağa imkan verəcək.</p>
+<p>Qısaldılmış URL keçidləri zamanı daha ehtiyatlı olun. Həmişə qısaldılmış keçidin əsl URL keçidini yoxlayın. Qısaldılmış URL-i &#8220;deşifrə&#8221; etmək üçün <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> kimi pulsuz onlayn xidmətdən istifadə edə bilərsiniz.</p>
+<h2>7. Pop-up mesajlara etibar etməyin</h2>
+<p>Hamımızın başına gəlib: İnternetdə gəzən zaman kompüterinizin yoluxduğunu və onu qorumaq üçün hansısa proqram yükləməyi təklif edən qəfil pop-up pəncərə açılır. Bunlara inanmayın. Siz bundan ağıllısınız.</p>
+<h2>8. Çıxarıla bilən media ilə ehtiyatlı olun</h2>
+<p>Zərərli proqramlar çox zaman USB yaddaş kartı, xarici sərt disk, fləş kartlar və sair kimi çıxarıla bilən media vasitəsilə müxtəlif cihazlarda gəzir. Mənbəyini bilmirsinizsə, bu cür cihazları kompüterinizə qoşmayın. Əgər çıxarıla bilən mediadan istifadə etməlisinizsə, lakin onun mənbəyini bilmirsinizsə, açmazdan əvvəl antivirus proqramı ilə skan etmək yaxşı fikirdir.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-protect-yourself-against-malware-az/">Zərərli proqramlara qarşı özünüzü necə qorumalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -12,13 +12,13 @@
 	<atom:link href="https://cyber-star.org/ro/cs-categories/digital-risks-ro/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/ro/cs-categories/digital-risks-ro/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 09 Feb 2022 02:26:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Jul 2023 18:03:55 +0000</lastBuildDate>
 	<language>ro-RO</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>Cum depistați atacurile de tip phishing</title>
 		<link>https://cyber-star.org/ro/cs-articles/how-to-recognize-phishing-attacks-ro/</link>
@@ -54,7 +54,7 @@
 <p>Tacticile phishing evoluează în mod constant. E-mailurile phishing deseori mimează stilul și siglele unor organizații reale pentru a vă păcăli. Cu toate acestea, e-mailurile phishing se deosebesc prin una sau mai multe trăsăturile caracteristice enumerate mai jos. Acestea vă pot ajuta să identificați asemenea atacuri:</p>
 <ul>
 <li><strong>Adrese de e-mail false</strong> care par reale. De exemplu, infractorii pot pretinde că sunt angajați Amazon și încerca să vă fure datele de conectare păcălindu-vă să vă „actualizați” sau să „confirmați” unele detalii. Ar trebui să aveți îndoieli dacă primiți un e-mail de la o adresă care se termină cu @amazonheadoffice.com sau @amazzon.com, în loc de @amazon.com. De asemenea, nicio organizație serioasă nu vă va trimite e-mailuri de pe adrese care se termină cu @gmail.com, @mail.ru sau de pe alte platforme destinate publicului larg.</li>
-<li><strong>Link-urile încorporate</strong>, pe care dacă apăsați, ajungeți pe site-uri cu programe malware. Niciodată nu accesați linkuri fără ca să verificați unde pot duce acestea. Puteți vedea adresa site-ului web completă trecând ușor cu mouse-ul peste link. Înainte de a da click pe un link care vă pare suspect, scanați-l cu un scanner de link-uri, cum ar fi Norton Safe Web (https://safeweb.norton.com/). Fiți extrem de precauți cu linkurile URL prescurtate. Pentru a verifica adevărata adresă URL din spatele unei prescurtări, utilizați un serviciu online gratuit de verificare, cum ar fi UnshortenIt (https://unshorten.it)./</li>
+<li><strong>Link-urile încorporate</strong>, pe care dacă apăsați, ajungeți pe site-uri cu programe malware. Niciodată nu accesați linkuri fără ca să verificați unde pot duce acestea. Puteți vedea adresa site-ului web completă trecând ușor cu mouse-ul peste link. Înainte de a da click pe un link care vă pare suspect, scanați-l cu un scanner de link-uri, cum ar fi <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a>. Fiți extrem de precauți cu linkurile URL prescurtate. Pentru a verifica adevărata adresă URL din spatele unei prescurtări, utilizați un serviciu online gratuit de verificare, cum ar fi <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a>.</li>
 <li><strong>Atașamentele</strong> care vă infectează dispozitivul cu programe malware după ce le deschideți. Una dintre regulile fundamentale ale securității digitale este să nu deschideți niciodată atașamente de la persoanele necunoscute sau de la persoanele în care nu aveți încredere. De asemenea, organizațiile reale niciodată nu vă vor trimite atașamente, decât dacă le veți cere în mod expres.</li>
 <li><strong>Greșelile gramaticale sau limbajul ciudat</strong>. Infractorii care trimit e-mailuri în masă pentru atacurile phishing, deseori sunt axați pe persoane din zeci de țări. În loc să investească bani în traducerea și adaptarea mesajelor pentru publicul local, ei utilizează programele de traducere online. Drept urmare, e-mailurile phishing sunt scrise într-un limbaj nenatural sau chiar ciudat, în plus conțin și greșeli gramaticale.</li>
 <li><strong>O formă de salut generică</strong> în loc de numele dvs. Atunci când un e-mail începe cu o formă de salut generică, cum ar fi „Stimate client”, „Stimate titular de cont” sau „Stimate membru”, acest lucru imediat ar trebui să vă pună în gardă. Atunci când vă contactează, organizațiile reale se adresează pe nume.</li>
@@ -114,7 +114,7 @@
 <h2>1. Utilizați software antivirus</h2>
 <p>Întotdeauna trebuie să aveți instalat un program antivirus sigur pe dispozitivele pe care le utilizați. Acest software vă protejează de viruși și alte tipuri de malware. Asigurați-vă că actualizați frecvent antivirusul, astfel încât acesta să facă față noilor provocări de securitate.</p>
 <p>Programele antivirus vă permit scanarea întregului dispozitiv pentru a depista programele malware. Scanați cu regularitate dispozitivele pentru a depista programele malware la timp și a preveni răspândirea lor. Dacă trebuie să descărcați ceva, asigurați-vă că utilizați un program antivirus pentru a scana fișierul înainte de a-l deschide.</p>
-<p>Windows vine cu un program antivirus încorporat &#8211; Microsoft Defender. Este gratuit și fiabil. Puteți configura parametrii Microsoft Defender astfel încât acesta să vă protejeze dispozitivul și mai bine.</p>
+<p>Windows vine cu un program antivirus încorporat &#8211; Microsoft Defender. Este gratuit și fiabil. Puteți <a href="https://cyber-star.org/ro/cs-articles/how-to-make-windows-defender-more-secure-ro/">configura parametrii</a> Microsoft Defender astfel încât acesta să vă protejeze dispozitivul și mai bine.</p>
 <h2>2. Actualizați software-ul și hardware-ul</h2>
 <p>Programele malware vă infectează dispozitivele, descoperind și profitând de vulnerabilitățile software-ului. Hackerii și infractorii mereu caută asemenea vulnerabilități. Companiile creatoare de software remediază vulnerabilitățile prin intermediul corecțiilor de securitate lansate în actualizări. De aceea, este foarte important să instalați actualizările imediat după lansarea lor.</p>
 <p>Oricare ar fi dispozitivul dvs., asigurați-vă că utilizați cea mai recentă versiune a sistemului de operare. Vă recomandăm să configurați actualizarea automată pentru sistemul de operare și software-ul antivirus. Actualizați cu regularitate celelalte programe de pe dispozitivul dvs.</p>

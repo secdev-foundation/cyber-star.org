@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Şifrələr Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/az/cs-categories/passwords-az/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/az/cs-categories/passwords-az/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 26 Jul 2023 02:18:29 +0000</lastBuildDate>
+	<language>az</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Güclü Şifrələri necə yaratmalı</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:29 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1055</guid>
+
+					<description><![CDATA[<p>Bizim şəxsi və iş həyatımız onlayn hesablarda getdikcə daha çox əks olunur. E-poçt, sosial media, fayl paylaşmaq, mesajlaşmaq, videoya baxmaq, bank əməliyyatları, alış-veriş, məlumatın ehtiyat nüsxəsinin çıxarılması &#8211; bütün bu xidmətlər istifadəçilərdən bir hesaba sahib olmalarını tələb edir. Buna görə də yadda saxlanmalı və qorunmalı onlarla müxtəlif hesabınız var. Şifrələr hesablarınızı oğurlamaq, casusluq etmək və [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">Güclü Şifrələri necə yaratmalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bizim şəxsi və iş həyatımız onlayn hesablarda getdikcə daha çox əks olunur. E-poçt, sosial media, fayl paylaşmaq, mesajlaşmaq, videoya baxmaq, bank əməliyyatları, alış-veriş, məlumatın ehtiyat nüsxəsinin çıxarılması &#8211; bütün bu xidmətlər istifadəçilərdən bir hesaba sahib olmalarını tələb edir. Buna görə də yadda saxlanmalı və qorunmalı onlarla müxtəlif hesabınız var.</p>
+<p>Şifrələr hesablarınızı oğurlamaq, casusluq etmək və ya kriminal məqsədlərlə hesablarınızdakı məlumat və sənədləri əldə etmək istəyənlərə qarşı ilk müdafiə qatıdır.</p>
+<h2>Güclü şifrələrə ehtiyacınız var</h2>
+<p>Bütün şifrələr hesabları qorumaq üçün bərabər səviyyədə güclü deyil. Dünyada yüz milyonlarla istifadəçi tapılması və ya sındırılması asan olan şifrələrdən istifadə edir. Artıq illərlə təcrübəsi olan və ya unikal bacarıq və alətlərə malik super ağıılı hakerlər tərəfindən şifrələrin sındırılması dövrü getdi. Bu gün bir çox şifrələr işlək olanı tapana qədər müxtəlif söz və simvolların birləşmələrini sınayan geniş yayılmış proqram təminatları tərəfindən sındırılır. Bu cür şifrə sındırma üsulu <em>kobud güc hücumu</em> kimi tanınır.</p>
+<p>Hesablarınızı və onlardakı məlumatları qorumaq üçün sındırılması çətin olan güclü şifrələr qoymalısınız. Təcrübədə bu o deməkdir ki, şifrə o qədər mürəkkəbdir ki, kobud güc hücumu ilə sındırmaq üçün çox vaxt tələb olunur və buna vaxt sərf etməyə dəyməz.</p>
+<h3>Sındırılması çətin şifrələr yaradın</h3>
+<ul>
+<li><strong>Uzun olsun</strong><br />
+Bu ən vacib faktordur. Ən azı 12, mümkün olarsa, daha çox simvoldan istifadə edin.</li>
+<li><strong>Simvolları qarışdırın</strong><br />
+Kiçik və böyük hərfləri, qərəmləri və simvolları nə qədər çox qarışdırsanız, şifrənizi sındırmaq bir o qədər də çətin olacaq. Təsadüfi işarələrdən yaradılmış şifrələr sözlərdən ibarət şifrələrdən daha güclüdür. Belə ki, iLoVeYOu56&amp;# şifrəsi iloveyou9! şifrəsindən daha güclüdür, ancaq daha güclü versiyası iL3*Ov50&amp;0Ey6824(2uO ola bilərdi.</li>
+<li><strong>Asan yadda qalacaq klaviatura cığırı və ya asan sözlər istifadə etməyin</strong><br />
+qwerty, 12345678,password123 vəmyemailpass kimi şifrələri qırmaq ən asandır.</li>
+<li><strong>Adi əvəzlənmədən qaçın</strong><br />
+İşarə əvəzlənməsi şifrəni güclü etsə də, ən çox yayılmış işarə əvəzlənmələrindən qaçın. <em>D00RB3LL</em> birləşməsi <em>DOORBELL</em> şifrəsindən daha mürəkkəbdir, ancaq qırmaq yenə də asandır. Təsadüfi simvollar daxil edin.</li>
+<li><strong>Şəxsi məlumatdan istifadə etməyin</strong><br />
+Əgər şifrənizin sındırılma riski varsa, haker şifrəni tapmaq üçün sizin haqqınızda bildiyi hər şeydən istifadə edəcək. Bura itinizin adı, doğulduğunuz şəhər, dəstəklədiyiniz idman komandası, övladınızın adı, doğum tarixiniz və s. daxildir.</li>
+<li><strong>Şifrəni təkrar istifadə etməyin</strong><br />
+Yaxşı olardı ki, bütün hesab və cihazlarınız müxtəlif şifrələrə malik olsunlar. Əgər hesablarınızdan birinin şifrəsi sındırılarsa, həmin şifrədən və onun dəyişdirilmiş formalarından istifadə edərək digər hesablarınıza da girməyə çalışacaqlar.</li>
+</ul>
+<p>İndi deyə bilərsiniz ki, hər bir hesab üçün çox güclü şifrə qoymaq çox zəhmət tələb edir. Bütün bu şifrələri necə yadda saxlamaq olar? Ancaq bir güclü şifrəni yadda saxlamaq kifayətdir. <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-a-password-manager-az/">Şifrə meneceri</a> qalanını həll edəcək.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">Güclü Şifrələri necə yaratmalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Güclü görünən, ancaq əslində elə olmayan şifrələr</title>
+		<link>https://cyber-star.org/az/cs-articles/passwords-that-look-strong-but-arent-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:30 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1056</guid>
+
+					<description><![CDATA[<p>Demək olar ki, bütün onlayn xidmətlər istifadəçilərdən kiçik və böyük hərfli, rəqəm və xüsusi simvollu mürəkkəb şifrə tələb edirlər. Gmail və ya Facebook-un tələblərini qane etmək üçün şifrənin gücləndirilməsi istifadəçilərə əlavə qorunma hissi verir. Ancaq bu hiss çox zaman yanlış olur. Minimum mürəkkəblik tələblərinə cavab verən şifrə yaratmaq həqiqi güclü və təhlükəsiz şifrə yaratmaqla eyni [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/passwords-that-look-strong-but-arent-az/">Güclü görünən, ancaq əslində elə olmayan şifrələr</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Demək olar ki, bütün onlayn xidmətlər istifadəçilərdən kiçik və böyük hərfli, rəqəm və xüsusi simvollu mürəkkəb şifrə tələb edirlər. Gmail və ya Facebook-un tələblərini qane etmək üçün şifrənin gücləndirilməsi istifadəçilərə əlavə qorunma hissi verir. Ancaq bu hiss çox zaman yanlış olur. Minimum mürəkkəblik tələblərinə cavab verən şifrə yaratmaq <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">həqiqi güclü və təhlükəsiz şifrə yaratmaqla</a> eyni şey deyil.</p>
+<p>Problem ondadır ki, əksər istifadəçilər öz şifrələrini onlayn xidmət təminatçısının tələblərinə uyğun olmaq üçün gücləndirən zaman eyni modeldən istifadə edirlər. Hakerlər bu modelləri əla bilir və şifrələri sındırmaq üçün bundan istifadə edirlər. Beləliklə, güclü görünən bir çox şifrəni əslində qırmaq çətin deyil.</p>
+<p>Aşağıda istifadəçilərin şifrələrini gücləndirməyə çalışdıqları zaman etdikləri adi səhvlər verilib. Bu səhvləri etməyin.</p>
+<ul>
+<li><strong>Sonda rəqəm əlavə etmək<br />
+</strong>Bir çox istifadəçi elə düşünür ki, şifrənin sonuna rəqəm artırmaq onu güclü edir. Əksər hallarda bu təkrəqəmli ədəd, adətən 1 olur. Hakerlər bunu bilir və onlar şifrəni qırmağa çalışan zaman bu ümumi modeli nəzərə alırlar.<span style="color: #c01d24;">Həqiqi güclü şifrə yaratmaq üçün bir neçə təsadüfi rəqəmi təsadüfi sıra ilə əlavə edin.</span></li>
+<li><strong>Birinci hərfin böyük yazılması<br />
+</strong>İstifadəçilər şifrədəki ilk hərfi böyük hərflə yazmaqla, bir dənə böyük hərfin olduğu şifrələr yaradır. Bunu da hakerlər bilir və şifrələri qırmaq üçün isifadə edirlər.<span style="color: #c01d24;">Güclü şifrə yaratmaq üçün böyük və kiçik hərflərin təsadüfi birləşməsindən istifadə edin.</span></li>
+<li><strong>Sonda xüsusi simvolun əlavə edilməsi</strong><br />
+Digər çox rastlanan səhvlərdən biri də şifrənin sonuna tək xüsusi simvolun əlavə edilməsidir. Əksər hallarda bu simvol ! işarəsidir. Bu cür xüsusi simvolun əlavə edilməsi şifrəni sındırılmaya qarşı güclü etmir.<br />
+<span style="color: #c01d24;"><br />
+Həqiq güclü şifrə yaratmaq üçün bir neçə təsadüfi seçilmiş simvolu təsadüfi sıra ilə əlavə edin .</span></li>
+<li><strong>Adi söz və ya simvol ardıcıllığından istifadə etmək</strong><br />
+Nə qədər isifadəçinin öz şifrələrində eyni ümumi sözdən istifadə etdiyini bilsəniz, təəccüblənəcəksiniz (məsələn <em>password</em>, <em>welcome</em>, <em>football</em>, <em>superman</em> və s.) və ya klaviatura ardıcıllığı (məsələn <em>qwerty</em>, <em>asdfgh</em>, <em>qazwsx</em>, və s.). Hakerlər bütün bu sözlərdən istifadə edərək kobud güc hücumu ilə şifrələri sındırırlar. Bu hücumlara şifrəni tapana qədər adi sözlərin və simvolların müxtəlif birləşməsini sınayan proqramlardan istifadə daxildir. Milyonlarla şifrədə istifadə edilən digər ümumi sözlərə ad, şəhər adı, ölkə və idman komandası adları daxildir.<br />
+<span style="color: #c01d24;"><br />
+Sındırılması çətin olan şifrə yaratmaq üçün çox rastlanan söz və ya klaviatura və smartfon ardıcıllığından istifadə etməkdənsə, kiçik və böyük hərflərin, rəqəmlərin və xüsusi simvolların təsadüfi birləşmələrindən istifadə edin.</span></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/passwords-that-look-strong-but-arent-az/">Güclü görünən, ancaq əslində elə olmayan şifrələr</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nə üçün bütün şifrələriniz unikal olmalıdır</title>
+		<link>https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:30 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1057</guid>
+
+					<description><![CDATA[<p>Bütün hesablarınız daha əvvəl istifadə edilməyən unikal şifrələrə malik olmalıdır. Hətta dünyadakı ən güclü şifrəyə malik olduğunuz halda belə, bunu müxtəlif hesablarda istifadə etsəniz, özünüzü böyük riskə atmış olursunuz. Şifrələri təkrar istifadə etdikdə nə baş verir Tutaq ki, eyni şifrəni həm Facebook, Instagram, həm də şəxsi e-poçtunuz üçün istifadə edirsiniz. Əgər e-poçt provayderiniz təhlükəsizlik riski [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/">Nə üçün bütün şifrələriniz unikal olmalıdır</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bütün hesablarınız daha əvvəl istifadə edilməyən unikal şifrələrə malik olmalıdır. Hətta dünyadakı <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">ən güclü şifrəyə</a> malik olduğunuz halda belə, bunu müxtəlif hesablarda istifadə etsəniz, özünüzü böyük riskə atmış olursunuz.</p>
+<h2>Şifrələri təkrar istifadə etdikdə nə baş verir</h2>
+<p>Tutaq ki, eyni şifrəni həm Facebook, Instagram, həm də şəxsi e-poçtunuz üçün istifadə edirsiniz. Əgər e-poçt provayderiniz təhlükəsizlik riski yaşayırsa (bu bildiyimizdən daha çox baş verir) və sizin daxil olma məlumatlarınız oğurlanıbsa, hakerlər oğurlanmış şifrə və onun az dəyişilmiş versiyası ilə digər saytlara da daxil olmağa çalışacaqlar. Nəticədə, eyni şifrədən istifadə etdiyiniz bütün hesablarınız ifşa ediləcək.</p>
+<p>Şifrələrin təkrar istifadəsi yaxşı fikir deyil, çünki dünyada milyonlarla istifadəçi kimi siz də keçmişdə bir neçə hesab açmısınız və hazırda onlardan istifadə etmirsiniz və ya unutmusunuz. Çox güman ki, bu hesabların bir neçəsi artıq sındırılıb. Əgər haker bu hesablarla əlaqəli e-poçt ünvanınızı əldə edibsə, bundan istifadə edərək sındırılmış bütün hesabları tapmaq asandır. Bu cür hesabların şifrələrini də tapmaq çətin deyil. Ona görə də, əgər eyni şifrədən və ya onun az dəyişdirilmiş formasından bir neçə hesabda istifadə edirsinizsə, haker bir unudulmuş hesabınızı tapmaqla bütün hesablarınızı qıra bilər. Bu <em>şifrə doldurulması</em> adlanır.</p>
+<ul>
+<li>Əgər e-poçt ünvan(lar)ınızın hansısa bir sındırılmış hesabınızla əlaqəli olub olmamasını yoxlamaq istəyirsinizsə, <a href="https://haveibeenpwned.com/">bu xidmətdən</a> istifadə edə bilərsiniz. E-poçt ünvanını axtarış sahəsinə daxil edin və &#8220;pwned?&#8221; klikləyin.</li>
+<li>Əgər e-poçt ünvanı hesab sızmalarında aşkarlanarsa, hesab məlumatlarınızın ifşa edildiyi onlayn xidmətlərin siyahısını əldə edəcəksiniz. Bu hesablardan hər birinə daxil olun və şifrələrinizi dərhal dəyişin. Vacib hesablarınızı <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/">iki faktorlu təsdiqləmə</a> ilə qorumağı da nəzərə alın. Yadda saxlayın, şifrələriniz güclü və unikal olmalıdır. Əgər hesablardan bəzilərini istifadə etmirsinizsə, onları silin.</li>
+</ul>
+<p>İndi düşünə bilərsiniz ki, hər bir hesab üçün unikal şifrənin olması və onların güclü olmasını təmin etmək çox zəhmət tələb edir. Bütün bu şifrələri necə yadda saxlamaq olar? Yalnız bir güclü şifrəni yadda saxlamaq kifayətdir. <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-a-password-manager-az/">Şifrə meneceri</a> qalanını həll edəcək.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/">Nə üçün bütün şifrələriniz unikal olmalıdır</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Şifrə Menecerindən niyə istifadə etməlisiniz</title>
+		<link>https://cyber-star.org/az/cs-articles/why-you-should-use-a-password-manager-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:30 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1058</guid>
+
+					<description><![CDATA[<p>Şifrələr onlayn hesabınızı və ya onlardakı məlumatları oğurlamaq istəyənlərə qarşı birinci müdafiə qatıdır. Hesablarınızı qorumaq üçün uzun və təsadüfi hərf, rəqəm və simvol birləşmələrindən ibarət güclü şifrələrdən istifadə etməlisiniz. Bu cür şifrələri yadda saxlamaq demək olar ki, mümkün deyil. Bundan əlavə, hər bir hesab üçün unikal şifrə qoymalısınız. Beləliklə, bu şifrələri necə yadda saxlayır və [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-use-a-password-manager-az/">Şifrə Menecerindən niyə istifadə etməlisiniz</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Şifrələr onlayn hesabınızı və ya onlardakı məlumatları oğurlamaq istəyənlərə qarşı birinci müdafiə qatıdır. Hesablarınızı qorumaq üçün uzun və təsadüfi hərf, rəqəm və simvol birləşmələrindən ibarət <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">güclü şifrələrdən</a> istifadə etməlisiniz. Bu cür şifrələri yadda saxlamaq demək olar ki, mümkün deyil. Bundan əlavə, hər bir hesab üçün <a href="https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/">unikal şifrə</a> qoymalısınız.</p>
+<p>Beləliklə, bu şifrələri necə yadda saxlayır və izləyirsiniz? Həll yolu şifrə meneceridir.</p>
+<p>Sanki şifrə meneceri bütün hesablarınızın onlarla və hətta yüzlərlə açarı (şifrələri) saxlanan seyfdir. Bütün şifrələrinizin təhlükəsiz saxlandığı şifrə menecerinə daxil olmaq üçün lazım olan yalnız bir şifrəni yadda saxlamalı olmaq &#8211; həyatı asanlaşdırır.</p>
+<h2>Şifrə meneceri nə edir</h2>
+<ul>
+<li><strong>Daxil olma məlumatlarınızı yadda saxlayır</strong><br />
+Yəqin onlarla, bəlkə də yüzlərlə müxtəlif onlayn hesabınız var. Bütün bu hesablar üçün giriş məlumatlarını (istifadəçi adları, e-poçt ünvanları və şifrələr) bir vərəqə yazmaq və ya kompüter sənədində saxlamaq pis fikirdir. Şifrə meneceri sizi bütün hesablarınızı izləmək əziyyətindən azad edir. O sizin yerinizə bütün şifrələri və digər giriş məlumatlarını yadda saxlayır.</li>
+<li><strong>Onları təhlükəsiz şəkildə saxlayır</strong><br />
+Bütün şifrələri şifrə menecerində saxlamaq onları vərəqə yazmaqdan və ya cihazınızda elektron sənəddə saxlamaqdan daha təhlükəsizdir. Güclü şifrə ilə qoruduqdan sonra şifrə menecerini heç kim aça bilməz. Əlavə ehtiyat tədbiri kimi <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/">şifrə menecerini qorumaq</a> üçün iki faktorlu təsdiqləmədənistifadə etməlisiniz.</li>
+<li><strong>Güclü, unikal şifrələr yaradır</strong><br />
+Şifrə meneceri güclü şifrə yaratmaq əziyyətindən sizi azad edir və hər bir hesab üçün fərdi unikal şifrə təmin edir. Şifrə meneceri sizin üçün şifrələr yaradır və şifrələrinizin uzunluğunu və mürəkkəbliyini kontrol etmək imkanı verir.</li>
+</ul>
+<h2>Hansı şifrə menecerindən istifadə etməlisiniz</h2>
+<p>Tələb və üstünlüklərinizə cavab verəcək şifrə meneceri seçmək öz əlinizdədir. Ödəniş edən istifadəçilər üçün bir neçə etibarlı və təhlükəsiz seçimlər var. Bəzi antivirus proqram paketləri şifrə meneceri ilə birlikdə təqdim edilir. Əgər ödənişli abunəlik seçirsinizsə, 1Password, LastPass, Bitwarden Premium, Dashlane, Keeper və NordPass təhlükəsiz seçimlərdəndir.</p>
+<p>Bəzi şifrə menecerləri təkmilləşmiş funksiyalara ehtiyacı olmayan istifadəçilər üçün pulsuz planlar da təklif edir. Pulsuz şifrə meneceri ilə yola çıxmaq qərarı vermisinizsə, təhlükəsizlik baxımından BitWarden, KeePass və KeePassXC kimi açıq mənbə variantlarını seçin.</p>
+<p>Şifrə menecerləri giriş məlumatlarını harada saxlamalarından asılı olaraq, iki ümumi kateqoriyaya bölünür. Əgər KeePassXC kimi lokal şifrə menecerini seçsəniz, o, şifrələri sizin öz cihazınızda saxlayır. Bu cür şifrə menecerləri daha yaxşı məxfilik və təhlükəsizlik təklif edir, ancaq onları təhlükəsiz istifadə etmək üçün müəyyən texniki bilik və rəqəmsal gigiyena səviyyəsi tələb olunur.</p>
+<p>Əksinə, <em>bulud</em> şifrə menecerləri şifrələri bulud serverlərində saxlayır. Bu variant məhdud texniki biliyi olan və avtomatik ehtiyat nüsxələmənin daxil olduğu ciddi rəqəmsal gigiyena qaydalarına əməl edə bilməyən istifadəçilər üçün daha təhlükəsizdir. Həm BitWarden, həm də KeePass təhlükəsizlik və etibarlılıqları ilə tanınan pulsuz, açıq mənbəli, bulud əsaslı şifrə menecerləridir.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-use-a-password-manager-az/">Şifrə Menecerindən niyə istifadə etməlisiniz</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>İki faktorlu təsdiqləmədən nə üçün istifadə etməlisniz</title>
+		<link>https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:31 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1059</guid>
+
+					<description><![CDATA[<p>Şifrələr hesablarınızı oğurlamağa və ya onların casusluğunu etməyə çalışanlara qarşı ilkin müdafiə qatıdır. Buna görə də bütün hesablarınızı güclü və unikal şifrələrlə qorumalısınız. Həmçinin şifrələrinizi təhlükəsiz şəkildə saxlamalısınız. Təəssüf ki, hətta ən güclü şifrə belə hesabınızın sındırılmayacağı zəmanətini vermir. Şifrələr bir neçə yolla sındırıla bilər. Hakerlər giriş detallarınızı birbaşa onlayn xidmət təminatçısından oğurlaya bilərlər (bu [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/">İki faktorlu təsdiqləmədən nə üçün istifadə etməlisniz</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Şifrələr hesablarınızı oğurlamağa və ya onların casusluğunu etməyə çalışanlara qarşı ilkin müdafiə qatıdır. Buna görə də bütün hesablarınızı <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">güclü</a> və <a href="https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/">unikal</a> şifrələrlə qorumalısınız. Həmçinin <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-a-password-manager-az/">şifrələrinizi təhlükəsiz şəkildə saxlamalısınız</a>.</p>
+<p>Təəssüf ki, hətta ən güclü şifrə belə hesabınızın sındırılmayacağı zəmanətini vermir. Şifrələr bir neçə yolla sındırıla bilər. Hakerlər giriş detallarınızı birbaşa onlayn xidmət təminatçısından oğurlaya bilərlər (bu düşündüyünüzdən də çox baş verir). Kimsə cihazınıza klaviaturada basdığınız hər bir nöqtəni (şifrələr də daxil olmaqla) qeyd edən kiçik proqram yükləyə bilər. Qarşısına məqsəd qoymus insan şifrənizi sındıra və ya özünüzün onu verməyinizə sizi inandıra bilər. Nəhayət, kimsə siz şifrə daxil edərkən klaviaturanızı çəkmək üçün gizli kameradan istifadə edə bilər.</p>
+<p>Buna görə də önəmli onlayn hesablarınızı qorumaq üçün iki faktorlu təsdiqləmədən (2FA) istifadə etməyiniz lazımdır. İki faktorlu təsdiqləmə aktivləşdirilən zaman onlayn hesaba daxil olmaq üçün şəxsiyyətinizi iki müxtəlif yolla təsdiqləməyinizi tələb edir. Deməli, şifrə daxil etməkdən əlavə (<em>ilk</em> faktor), şəxsiyyətinizi təsdiq etmək üçün ikinci məlumatı da (<em>ikinci</em> faktor) daxil etməlisiniz. 2FA onlayn hesablarınızı əlavə müdafiə qatı ilə təmin edir, şifrələr sındırılsa belə, onları qoruyur.</p>
+<h2>İkinci faktor nə ola bilər</h2>
+<p>Bir çox onlayn hesablar isifadəçilərə üç kateqoriyada əlavə təsdiqləmə faktoru seçmək imkanı verir:</p>
+<ul>
+<li><strong>Bildiyiniz bir şey</strong>: PIN kod və ya seçdiyiniz təhlükəsiz sualına cavab kimi yalnız özünüzün bildiyi məlumat.</li>
+<li><strong>Malik olduğunuz bir şey</strong>: onlayn hesaba daxil olmaq üçün üzərinizdə olmalı olan malik olduğunuz fikizi əşya. Bura təhlükəsizlik tokeni (kiçik cihaz) və ya SMS vasitəsilə və ya xüsusi təsdiqləmə tətbiqi vasitəsilə identifikasiya kodu almaq üçün smartfon daxildir.</li>
+<li><strong>Olduğunuz bir şey</strong>: barmaq izləri, üz və göz izi kimi bədəninizə məxsus bir şey.</li>
+</ul>
+<h2>Hansı ikinci faktoru seçməlisiniz</h2>
+<p>Hər bir istifadəçi üçün əlverişli olan 2FA üsulu haqqında ümümi məsləhət vermək çətindir. Vəziyyətinizdən, risk dəyərləndirməsindən və rahatlığından asılı olaraq, sizin üçün ən uyğun olanını seçməlisiniz. Düşünülmüş seçim etməyiniz üçün aşağıda bir neçə göstərici təklif edirik:</p>
+<ul>
+<li><strong>Təhlükəsizlik sualı</strong> 2FA işini asanlaşdırır, çünki yeganə tələb qoyulan suallara cavabınızı xatırlamaqdır. Bununla belə, hiyləgər xaker üçün bu cavabları tapmaq (məsələn, ananızın qızlıq soyadı) və ya sizin özünüzü aldadaraq bu məlumatı ona verməyinizə yönəltmək elə də çətin deyil.</li>
+<li><strong>Təhlükəsizlik tokenlərini</strong>(U2F) fiziki təhlükəsiz saxlağınız müddətcə ən təhlükəsiz 2FA üsulundan biridir. Bu cihazların ən böyük mənfi cəhəti odur ki, onlar bahalıdırlar və başqa cihazlarla istifadə etmək üçün müxtəlif adapter tələb olunur. Bundan əlavə, ikinci təsdiqləmə faktoru kimi təhlükəsizlik tokenindən istifadə onlayn hesaba girmək üçün həmin cihazın həmişə üstünüzdə olmasını tələb edir. Belə ki, onun daim itirilmək və ya oğurlanmaq riski var.</li>
+<li><strong>SMS mesajlar</strong> çox rahatdır, çünki onlar dərhal mobil telefona çatır. Bununla belə, SMS mesaj kimi daha zəif 2FA metodu xaker tərəfindən izlənilə və ya mobil provayder tərəfindən ifşa edilə bilər.</li>
+<li><strong>Təsdiqləmə tətbiqi</strong> ən təhlükəsiz və rahat 2FA metodlarından hesab edilir. Təsdiqləmə tətbiqini onlayn hesaba qoşanda, hesaba daxil olmaq üçün şifrə daxil etdikdən dərhal sonra tətbiqin verdiyi müvəqqəti şifrələri və ya nömrəli kodları daxil etmək lazımdır. Bu şifrələr və ya kodlar SMS mesajlar kimi asanlıqla ələ keçirilə bilməzlər.<br />
+Bununla belə, bu tətbiqlərin təhlükəsizliyi mobil cihazınızın təhlükəsizliyinə bağlıdır. Onlardan təhlükəsiz şəkildə istifadə etmək üçün siz həm telefonunuzun, həm də seçdiyiniz tətbiqin güclü şifrə ilə qorunduğundan əmin olmalısınız. Ekspertlər tərəfindən tövsiyə edilən etibarlı təsdiqləmə tətbiqlərinə Aegis, Authy, Google Authenticator və LastPass Authenticator daxildir. Hansı varıantı seçdiyinizdən asılı olmayaraq, təsdiqləmə tətbiqinə qoşduğunuz hər bir hesab üçün birdəfəlik ehtiyat kodlarını təhlükəsiz yerdə saxladığınızdan əmin olun. Bu kodları içində tətbiq olan telefonunuz itərsə, hesablarınıza daxil olmaq üçün istifadə etməli olacaqsınız.</li>
+<li><strong>Biometrik göstəricilər, barmaq izləri, üz cizgiləri</strong> və ya <strong>səs</strong> çox rahatdır, ancaq düşünüldüyü kimi təhlükəsiz deyil. Təəssüf ki, bir çox populyar onlayn xidmətlər 2FA seçimi kimi biometrik göstəriciləri təklif etmir. Bundan əlavə, bir çox istifadəçi biometrik göstəricilərindən istifadəyə istəkli deyil, şifrələrdən fərqli olaraq sındırılmış biometrik göstərici dəyişdirilə bilməz. Bir dəfə sındırılsa, ömürlük ifşa edilir. Onlayn xidmətlər biometrik məlumatlarınızı icazəniz olmadan üçüncü tərəfə sata bilərlər.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/">İki faktorlu təsdiqləmədən nə üçün istifadə etməlisniz</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -4,12 +4,26 @@ $('.js-menu-toggle').on('click', function (ev) {
     var self = $(this);
     $('.menu-primary-menu-container').toggle();
     $('.menu-state').toggle();
+
+    $('.pll-parent-menu-item > a').siblings('.sub-menu').hide();
 });
 
 $('.menu-item-has-children > a').on('click', function (ev) {
     ev.preventDefault();
     var self = $(this);
-    self.siblings('.sub-menu').toggle();
+
+    if (self.parent().hasClass('pll-parent-menu-item')) {
+        $('.menu-primary-menu-container').hide();
+        $('.menu-state-open').hide();
+        $('.menu-state-closed').show();
+    }
+
+    if (self.siblings('.sub-menu').is(':visible')) {
+        self.siblings('.sub-menu').hide();
+    } else {
+        $('.sub-menu').hide();
+        self.siblings('.sub-menu').show();
+    }
 });
 
 $('.js-search-toggle').on('click', function (ev) {

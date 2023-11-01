@@ -12,13 +12,13 @@
 	<atom:link href="https://cyber-star.org/cs-categories/digital-risks/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/cs-categories/digital-risks/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Tue, 03 Jan 2023 16:13:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Oct 2023 23:42:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
 		<title>How to Recognize Phishing Attacks</title>
 		<link>https://cyber-star.org/cs-articles/how-to-recognize-phishing-attacks/</link>
@@ -54,7 +54,7 @@
 <p>Phishing tactics are constantly evolving. Phishing emails often mimic the style and use real logos of legitimate organizations to fool you. Yet many phishing emails have one or several of the common features listed below that can help you spot such attacks:</p>
 <ul>
 <li><strong>Fake email addresses</strong> that look real to fool you. For example, attackers may pose as Amazon to try to steal your credentials by fooling you into “updating” or “confirming” your details. You should realize that something is off when that email comes from an address ending in @amazonheadoffice.com or @amazzon.com, rather than @amazon.com. Also, it is worth keeping in mind that no legitimate and large organization will send you emails from an address ending in @gmail.com, @mail.ru or any other email platform designed for the general public.</li>
-<li><strong>Embedded links</strong> which, when you click on them, take you to fake websites seeded with malware. Never click on links without first checking where they take you. You can see the full website address by hovering your muse over a link.Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a title="Norton Safe Web" href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> (https://safeweb.norton.com)./ Use extra caution when dealing with shortened URL links. To check the real URL link behind a shortened one, use a free online service such as <a title="Unshorten that URL" href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> (https://unshorten.it)./</li>
+<li><strong>Embedded links</strong> which, when you click on them, take you to fake websites seeded with malware. Never click on links without first checking where they take you. You can see the full website address by hovering your muse over a link.Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a title="Norton Safe Web" href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a>. Use extra caution when dealing with shortened URL links. To check the real URL link behind a shortened one, use a free online service such as <a title="Unshorten that URL" href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a>.</li>
 <li><strong>Attachments</strong> that infect your device with malware once you open them. It is one of the most basic digital safety rules that you should never open attachments from senders you do not know or do not trust fully. Also, legitimate organizations will never send you attachments unless you specifically ask them to forward you something.</li>
 <li><strong>Poor grammar or weird language.</strong> Scammers using mass emails to carry out phishing attacks often target people in dozens of different countries. Instead of investing in translating their messages and customizing them to better target local audiences, they use free online translations services. As a result, phishing emails often use unnatural or plainly weird language and contain grammatical errors.</li>
 <li><strong>Generic salutation</strong> instead of your name. When an email begins with a generic salutation such as “Dear customer,” “Dear account holder,” or “Dear valued member,” this should immediately make you suspicious. Legitimate organizations contacting you will often know your name.</li>
@@ -130,8 +130,8 @@
 <p>It is also worth remembering that even people you know and trust can have their email accounts compromised. So if you receive an unexpected email with an attachment from them, it is a good idea to check with the person who you think sent you the email before opening it.</p>
 <h2>6. Check links before clicking</h2>
 <p>You should never click on links sent by people or organizations that you do not know. You should also make it a habit to treat each single link you receive as a potential risk. When you get an alert from a colleague, your bank or the social media service you are using, do not click the link in the email. Hover your mouse over the link to see the full website address. This can help you decide whether or not you want to click that link. Alternatively, you can open a browser window and type of address directly into the URL field to make sure the site is real.</p>
-<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as Norton Safe Web (https://safeweb.norton.com/) that lets you enter the URL of a suspicious link and check it for safety.</p>
-<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as UnshortenIt (https://unshorten.it)/ to “decode” a shortened URL.</p>
+<p>Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> that lets you enter the URL of a suspicious link and check it for safety.</p>
+<p>Use extra caution when dealing with shortened URL links. Always check the real URL link behind a shortened one. You can use a free online service such as <a href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> to “decode” a shortened URL.</p>
 <h2>7. Don’t trust pop-up messages</h2>
 <p>We have all had this experience: you surf the Internet and suddenly there is a pop-up window telling you that your computer has been infected and recommending that you download some software to protect your device. Do not fall for this. You are smarter than that.</p>
 <h2>8. Be careful with removable media</h2>

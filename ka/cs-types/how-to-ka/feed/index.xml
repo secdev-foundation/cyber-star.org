@@ -12,14 +12,144 @@
 	<atom:link href="https://cyber-star.org/ka/cs-types/how-to-ka/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/ka/cs-types/how-to-ka/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 09 Feb 2022 02:36:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Aug 2023 05:53:25 +0000</lastBuildDate>
 	<language>ka-GE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>როგორ გამოვიყენოთ ინტერნეტი ინკოგნიტო რეჟიმში</title>
+		<link>https://cyber-star.org/ka/cs-articles/how-to-browse-incognito-ka/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 04:33:21 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1209</guid>
+
+					<description><![CDATA[<p>ბრაუზერი, რომელსაც ინტერნეტში შესასწვლელად იყენებთ, ინახავს უამრავ ინფორმაციას თქვენსა და თქვენი ონლაინ აქტივობის შესახებ. ბრაუზერების უმრავლესობა ინახავს ე.წ. “ქუქებს”, რომლებიც აკვირდება თქვენს ქცევას ინტერნეტში და ხშირად აწვდის ამ ინფორმაციას მესამე მხარეებს. ბრაუზერები ასევე ქმნიან დეტალურ სიას, სადაც იწერენ: რა საიტებზე შედიხართ, რას ეძებთ, რას იწერთ და, ზოგადად, რას აკეთებთ ინტერნეტში. ამ მონაცემების დიდი ნაწილი ხმარდება [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-browse-incognito-ka/">როგორ გამოვიყენოთ ინტერნეტი ინკოგნიტო რეჟიმში</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>ბრაუზერი, რომელსაც ინტერნეტში შესასწვლელად იყენებთ, ინახავს უამრავ ინფორმაციას თქვენსა და თქვენი ონლაინ აქტივობის შესახებ. ბრაუზერების უმრავლესობა ინახავს ე.წ. “ქუქებს”, რომლებიც აკვირდება თქვენს ქცევას ინტერნეტში და ხშირად აწვდის ამ ინფორმაციას მესამე მხარეებს. ბრაუზერები ასევე ქმნიან დეტალურ სიას, სადაც იწერენ: რა საიტებზე შედიხართ, რას ეძებთ, რას იწერთ და, ზოგადად, რას აკეთებთ ინტერნეტში.</p>
+<p>ამ მონაცემების დიდი ნაწილი ხმარდება იმას, რომ ინტერნეტის გამოყენება თქვენთვის უფრო კომფორტული იყოთ და ნახოთ ის რეკლამები, რომელიც ნამდვილად გაინტერესებთ. მაგრამ, ამავდროულად, შეუძლებელია დაზუსტებით იმის თქმა, თუ როგორ იყენებენ კომპანიები ინფორმაციას თქვენს შესახებ. თუკი არ გინდათ, რომ ბრაუზერმა შეინახოს თქვენი ქუქები, ბრაიუზერის ისტორია, ძებნის ისტორია, და გადმოწერილი ფაილების ნუსხა, შეგიძლიათ გამოიყენოთ ან ინკოგნიტო, ან პრივატული რეჟიმი. ორივე ხელმისაწვდომია ყველა პოპულარულ ბრაუზერში. ამ რეჟიმების წყალობით, თუკი თქვენთან ერთად კომპიუტერს სხვა ადამიანიც იყენებს, იგი ვერასდროს ვერ გაიგებს, თუ რას აკეთებდით ინტერნეტში. ასე რომ, ყოველთვის გამოიყენეთ ინკოგნიტო რეჟიმი, როდესაც ზიხართ საჯარო, ან საზიარო კომპიუტერთან.</p>
+<p><strong>გაითვალისწინებით, რომ ინკოგნიტო რეჟიმის წყალობით მხოლოდ ბრაუზერს აღარ შეუძლია ინფორმაციის შეგროვება. თქვენი აქტივობა ინტერნეტში ბოლომდე ანონიმური არ იქნება</strong>. თქვენს დამსახქმებელს, ინტერნეტ კაფეს, ან ინტერნეტ პროვაიდერს მაინც შეეძლება, ნახოს თქვენი ტრაფიკი, და ზოგ შემთხვევაში, ჩაიწეროს, რა კლავიშებს კრეფდით.</p>
+<h2>ინკოგნიტო რეჟიმის ჩართვა</h2>
+<h3>გუგლ ქრომისთვის (კომპიუტერზე)</h3>
+<ol>
+<li>დააწკაპუნეთ ქრომის მენიუს ღილაკზე (სამი ვერტიკალური წერტილი ზედა მარჯვენა კუთხეში)</li>
+<li>აირჩიეთ <strong>ახალი ინკოგნიტო ფანჯარა. ქრომის ახალი ფანჯარა რომ გაიხსნება, ზედა მარცხენა კუთხეში ინკოგნიტო ლოგოს დაინახავთ.</strong></li>
+<li>შეგიძლიათ ასევე დააჭიროთ Ctrl+Shift+N კლავიშებს ვინდოუსზე და Command+Shift+N-ს მაკ ოს-ზე.</li>
+</ol>
+<h3>გუგლ ქრომისთვის (მობილურზე)</h3>
+<ol>
+<li>დააწკაპუნეთ ქრომის მენიუს ღილაკს (ანდროიდზე &#8211; სამი ვერტიკალური ღილაკი, საიტის მისამართის გასწვრივ, მარჯვნიდან. ეფლზე &#8211;  სამი ვერტიკალური ღილაკი ზედა მარჯვენა კუთხეში)</li>
+<li>დააწკაპუნეთ <strong>“ახალ ინკოგნიტო ფანჯარას”. იგი გაიხსნება და დაინახავთ ინკოგნიტოს ლოგოს.</strong></li>
+</ol>
+<h3>მაიკროსოფტ ეჯისთვის (კომპიუტერზე)</h3>
+<p>პრივატული ფანჯრის (ინკოგნიტო ფანჯრის ანალოგი მაიკროსოფტისტან) გახსნა სხვადადასხვა გზით შეგიძლიათ:</p>
+<ol>
+<li>დააწკაპუნეთ მაუსის მარჯვენა ღილაკი მაიკროსოფტ ეჯის ლოგოს ამოცანათა პანლელზე და აირჩიეთ <strong>ახალი InPrivate ფანჯარა</strong></li>
+<li>ბრაუზერში დაწკაპუნეთ მაუსის მარჯვენა ღილაკი და აირჩიეთ <strong>გახსენით ბმული InPrivate ფანჯარაში</strong></li>
+<li>ბრაუზერში დააწკაპუნეთ პ<strong>არამეტრები და სხვა და აირჩიეთ <strong>ახალი InPrivate ფანჯარა </strong></strong></li>
+</ol>
+<h3>მოზილასთვის (კომპიუტერზე)</h3>
+<p>კომპიუტერზე, ბრაუზერში პრივატული სესიის (მოზილას ანალოგი ინკოგნიტო რეჟიმისთვის) დასაწყებად ორი გზა არსებობს:</p>
+<ol>
+<li>დააწკაპუნეთ მოზილას მენიუს ღილაკს (სამი ჰორიზონტალური ხაზი ზედა მარჯვენა კუთხეში) და აირჩიეთ <strong>ახალი პრივატული ფანჯარა </strong></li>
+<li>დააჭირეთ Ctrl+Shift+P ღილაკებს ვინდოუსზე და Command+Shift+P ღილაკებს მაკ ოს-ზე</li>
+</ol>
+<h3>მოზილასთვის (მობილურზე)</h3>
+<ol>
+<li>გახსენით მოზილას პრივატული ჩანართი თქვენს მობილურზე, დააწკაპუნეთ ჩანართის ხატულაზე ეკრანის ქვედა ნაწილში (კვადრატი, რომელშიც ციფრი წერია). ანდროიზე ხატულა საიტის მისამართის გასწვრივაა, ეფლის მოწყობილობებზე კი ეკრანის ქვემოთ.</li>
+<li>დააწკაპუნეთ ნიღბის ღილაკს, რათა გადაერთოდ პრივატულ რეჟიმში</li>
+<li>პრივატული ჩანართის გასახსნელად, ანდროიდზე დააწკაპუნეთ <strong>+PRIVATE ღილაკს, ეფლის მოწყობილობებზე კი <strong>+ ხატულას</strong></strong></li>
+</ol>
+<p>მოზილაზე ასევე ხელმისაწვდომია Firefox Focus, ბრაუზერის სპეციალური ვერსია, სადაც ყველაფერი ავტომატურად ინკოგნიტო რეჟიმშია გადაყვანილი.</p>
+<h3>საფარისთვის (კომპიუტერზე)</h3>
+<p>საფარიში პრივატული სესიის დასაწყებად ორი გზა არსებობს:</p>
+<ol>
+<li>გახსენით საფარი, დააწკაპუნეთ “ფაილის” მენიუ და აირჩიეთ <strong>ახალი პრივატული ფანჯარა </strong></li>
+<li>დააჭირეთ Command+Shift+N ღილაკებს</li>
+</ol>
+<h3>საფარისთვის (მობილურზე)</h3>
+<ol>
+<li>გახსენით საფარი აიფონზე, ან აიპოდზე</li>
+<li>დააწკაპუნეთ ჩანართების ხატულაზე (ორი კვადრატი ეკრანის ქვედა მარჯვენა კუთხეში)</li>
+<li>დააწკაპუნეთ ჩანართების ღილაკს (ციფრი, რომელსაც მოჰყვება სიტყვა “ჩანართი”), ეკრანის ქვემოთ</li>
+<li>დააწკაპუნეთ <strong>პრივატულს და შემდეგ <strong>დასრულებულია</strong></strong></li>
+</ol>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-browse-incognito-ka/">როგორ გამოვიყენოთ ინტერნეტი ინკოგნიტო რეჟიმში</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>როგორ გამოვიყენოთ ინტერნეტი უფრო პრივატულად</title>
+		<link>https://cyber-star.org/ka/cs-articles/how-to-enhance-your-browsing-privacy-ka/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2023 14:31:30 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1205</guid>
+
+					<description><![CDATA[<p>ინტერნეტში როცა შედიხართ, ყოვებთ კვალს, რომელსაც იწერენ, შემდეგ აანალიზებენ და ხანდახან მონაცემთა ბროკერებს მიყიდიან ხოლმე. ბრაუზერი, რომელსაც ინტერნეტში შესასწვლელად იყენებთ, ინახავს უამრავ ინფორმაციას თქვენსა და თქვენი ონლაინ აქტივობის შესახებ. მაგალითად, ბრაუზერების უმრავლესობა ინახავს ე.წ. “ქუქებს”, ისინი გიმარტივებთ სხვადასხვა საიტებზე შესვლას და ამავდროულად მათ გამოიყენებენ თქვენთვის უფრო “საინტერესო” რეკლამის “დასამიზნებლად” .გარდა ამისა, ბრაუზერები ქმნიან დეტალურ სიას, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-enhance-your-browsing-privacy-ka/">როგორ გამოვიყენოთ ინტერნეტი უფრო პრივატულად</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>ინტერნეტში როცა შედიხართ, ყოვებთ კვალს, რომელსაც იწერენ, შემდეგ აანალიზებენ და ხანდახან მონაცემთა ბროკერებს მიყიდიან ხოლმე.</p>
+<p>ბრაუზერი, რომელსაც ინტერნეტში შესასწვლელად იყენებთ, ინახავს უამრავ ინფორმაციას თქვენსა და თქვენი ონლაინ აქტივობის შესახებ. მაგალითად, ბრაუზერების უმრავლესობა ინახავს ე.წ. “ქუქებს”, ისინი გიმარტივებთ სხვადასხვა საიტებზე შესვლას და ამავდროულად მათ გამოიყენებენ თქვენთვის უფრო “საინტერესო” რეკლამის “დასამიზნებლად” .გარდა ამისა, ბრაუზერები ქმნიან დეტალურ სიას, სადაც იწერენ: რა საიტებზე შედიხართ, რას ეძებთ, რას იწერთ და, ზოგადად, რას აკეთებთ ინტერნეტში.</p>
+<p>თუ არ მოგწონთ, რომ კომპანიები თქვენს შესახებ ინფორმაცას აგროვებენ, ჩვენს რჩევები დაგეხმარებათ, შემაციროთ ის კვალი, რომელსაც ინტერნეტის გამოყენებისას ტოვებთ.</p>
+<h2>1. გამოიყენეთ Firefox “მკაცრ რეჟიმში”</h2>
+<p>თავისი პლუსები და მინუსები ყველა ბრაუზერს აქვს, მაგრამ ყველა არ გთავაზობთ ინსტრუმენტებს, რომლითაც პრივატულობა თქვენ გემოზე შეგიძლიათ დაარეგულიროთ. Mozilla Firefox-ში კი ამის გაკეთება შეგიძლიათ. ჩვენ გირჩევთ თვალთვალისგან გაძლიერებული დაცვა “მკაცრ” რეჟიმზე დააყენოთ. ამ რეჟიმში ბრაუზერი ბლოკავს ქუქების შექმნას და თქვენი იდენტიფიცირების სხვა მეთოდებს. გარდა ამისა, მიუთითეთ ბრაუზერს “არასდროს დაიმახსოვროს” თქვენი ისტორია. ქუქებიც, ტრეკერებიც, კრიპტომაინერებიც &#8211; ყველაფერი, რაც თქვენთვის თვალთვალისთვის გამოიყენება, ბრაუზერის დახურვისთანავე წაიშლება. ამასთან, ყოველ ჯერზე, ხელახლა მოგიწევთ სხვადასხვა საიტებზე შესვლა, ლოგინისა და პაროლის შეყვანა.</p>
+<p>მოზილას რომ დააინსტალირებთ, თვალთვალისგან გაძლიერებული დაცვა “სტანდარტულ” რეჟიმში იქნება. მის გასამკაცრებლად, მიჰყევით ინსტრუქციას.</p>
+<h3>მოზილა პერსონალურ კომპიუტერზე</h3>
+<ol>
+<li>დააკლიკეთ ხატულას მისამართის ჩანართის მარცხნივ და აირჩიეთ “<strong>უსაფრთხოების  პარამეტრები</strong>”. ეს გახსნის  “<strong>პრავიტულობის და უსაფრთხოების</strong>” პანელს.</li>
+<li><strong>თვალთვალისგან გაძლიერებული დაცვის </strong>ქვეშ აირჩიეთ <strong>მკაცრი</strong>.</li>
+<li><em>სურვილისამებრ</em>:<strong> ისტორიის</strong> ქვეშ აირჩიეთ<strong> “არასოდეს დაიმახსოვრებს”.</strong></li>
+</ol>
+<h3>მოზილა ანდროიდის მოწყობილობებზე</h3>
+<ol>
+<li>დააწკაპუნეთ მენიუს ღილაკს (სამი ვერტიკალური წერტილი მისამართის ჩანართისგან მარჯვნივ);</li>
+<li>დააწკაპუნეთ “<strong>პარამეტრებზე</strong>” მენიუს პანელში;</li>
+<li><strong>პრივატულობისა და უსაფრთხოების</strong> ქვეშ დააწკაპუნეთ <strong>თვალთვალისგან გაძლიერებულ დაცვას</strong></li>
+<li><strong>თვალთვალისგან გაძლიერებულ დაცვის ქვეშ </strong>აირჩიეთ <strong>მკაცრი.</strong></li>
+<li><em>სურვილისამებრ</em>: იქვე, შეგიძლიათ აირჩიოთ ბრაუზერის მონაცემების წაშლა და გასვლა. ეს გახსნის ახალ მენიუს. რადიოს ღილაკს თუ ჩართავთ, ეს ბრაუზერის დახურვისთანავე, ავტომატურად წაშლის თქვენს ისტორიას, ქუქებს და ყველა სხვა მონაცემს. თუკი გსურთ თქვენი ისტორიის, ქუქების, ან ნებისმიერი სხვა მონაცემის შენარჩუნება, ამის მითითება იქვე შეგიძლიათ.</li>
+</ol>
+<h3>მოზილა ეფლის მოწყობილობებზე</h3>
+<ol>
+<li>დააწკაპუნეთ მენიუს ღილაკზე (სამი ჰორიზონტალური ხაზი. აიფონზე &#8211; მარჯვენა ქვედა კუთხეში, აიპადზე &#8211; მარჯვენა ზედა კუთხეში);</li>
+<li>დააწკაპუნეთ <strong>პარამეტრებს</strong> მენიუს პანელში</li>
+<li>ჩამოსქროლეთ და პრივატულობის აირჩიეთ <strong>თვალთვალისგან დაცვა;</strong></li>
+<li>შეამოწმეთ, <strong>თვალთვალისგან გაძლიერებული დაცვა </strong>თუა ჩართული. დაცვის დონის ქვეშ აირჩიეთ <strong>მკაცრი.</strong></li>
+<li>შენიშნვა: iOS-ზე მოზილას არ აქვს “ბრაუზერის მონაცემების წაშლა”. თუკი ქუქების და ისტორიის წაშლა გინდათ, აჯობებს გამოიყენოთ Firefox Focus iOS-სთვის.</li>
+</ol>
+<h2>2. დააყენეთ ad blocker</h2>
+<p>ეს დამატებითი კომპონენტები თქვენი ბრაუზერისთვის ბლოკავს ვირუსულ რეკლამებს, ტრეკერებს და მავნე საიტებს. ამ კომპონენტების დაყენება ყველა ბრაუზერზე შეგიძლიათ.</p>
+<p>თქვენს ბრაუზერში Privacy Badger-ის, ან uBlockOrigin-ის დასაყენებლად, მიჰყევით ინსტრუქციას:</p>
+<h3>მოზილა</h3>
+<ol>
+<li>გადადით მოზილას დამატებების გვერდზე, იპოვეთ <a href="https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17">Privacy Badger</a> ამ <a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">uBlock Origin</a>, და დააწკაპუნეთ “<strong>დაამატეთ Firefox-ში</strong>”</li>
+<li>დააწკაპუნეთ “<strong>დამატებას</strong>” დადასტურებისთვის</li>
+</ol>
+<h3>გუგლ ქრომი</h3>
+<ol>
+<li>შედით ქრომის ვებ მაღაზიაში, იპოვეთ <a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp">Privacy Badger</a> ან <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a>, და დააწკაპუნეთ <strong>ქრომში დამატებას</strong>.</li>
+<li>დააწკაპუნეთ “<strong>დამატებას</strong>” დადასტურებისთვის</li>
+</ol>
+<h3>მაიკროსოფტ ეჯი</h3>
+<ol>
+<li>შედით დამატებების მაღაზიაში, იპოვეთ <a href="https://microsoftedge.microsoft.com/addons/detail/privacy-badger/mkejgcgkdlddbggjhhflekkondicpnop">Privacy Badger</a> ან <a href="https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak">uBlock Origin</a>, და დააწკაპუნეთ მიღებას.</li>
+<li>დააწკაპუნეთ “<strong>დამატებას</strong>” დადასტურებისთვის</li>
+</ol>
+<h2>3. გამოიყენეთ ინკოგნიტო რეჟიმი საზიარო კომპიუტერებზე</h2>
+<p>არსებობს კიდევ ერთი გზა, იმისთვის რომ ბრაუზერმა არ შეინახოს თქვენი ქუქები, ისტორია, ჩანაწერები ძებნის შესახებ და გადმოწერილი ფაილების სხია. მას “ინკოგნიტო” ან “პრივატული” რეჟიმი ეწოდება. იგი ყველა პოპულარულ ბრაუზერს აქვს. ყოველთვის გამოიყენეთ ინკოგნიტო რეჟიმი, როდესაც იყენებთ საჯარო, ან საზიარო კომპიუტერს. ვრცლად მისი გამოყენების შესახებ წაიკითხეთ <a href="https://cyber-star.org/ka/cs-articles/how-to-browse-incognito-ka">აქ</a>.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-enhance-your-browsing-privacy-ka/">როგორ გამოვიყენოთ ინტერნეტი უფრო პრივატულად</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>როგორ ვისაუბროთ Telegram-ზე უსაფრთხოდ</title>
 		<link>https://cyber-star.org/ka/cs-articles/how-to-chat-safely-on-telegram-ka/</link>
 		
@@ -35,7 +165,7 @@
 <h2>გამოიყენეთ საიდუმლო ჩატები</h2>
 <p>Telegram-ზე თქვენი შეტყობინებების დასაცავად საუკეთესო გზაა საიდუმლო ჩატების გამოყენება, რომლებიც ორმხრივად არის დაშიფრული. როგორც ზემოთ გითხარით, საიდუმლო ჩატები Telegram-ის ყველა ჩატში ნაგულისხმევად გამორთულია.</p>
 <p>საიდუმლო ჩატის დასაწყებად აირჩიეთ კონტაქტი, ვისთანაც გსურთ საუბარი და გახსენით მისი პროფილი სათაურში მომხმარებლის სურათზე დაწკაპუნებით.</p>
-<p><img decoding="async" class="size-full wp-image-467 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg" alt="Choosing a user on Telegram for additional chat features." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" fetchpriority="high" class="size-full wp-image-467 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg" alt="Choosing a user on Telegram for additional chat features." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/telegram-user.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-user-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p>შეეხეთ სამ წერტილოვან სიმბოლოს მომხმარებლის სახელის გვერდით და აირჩიეთ <strong>საიდუმლო ჩატის დაწყება </strong>ჩამოსაშლელ მენიუში.</p>
 <p><img decoding="async" class="aligncenter size-full wp-image-469" src="https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat.jpg" alt="Starting a secret chat with a friend on Telegram." width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-300x300.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-1024x1024.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-150x150.jpg 150w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-768x768.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-1536x1536.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/08/telegram-secret-chat-1200x1200.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <p>დაადასტურეთ არჩევანი <strong>დაწყების</strong> ღილაკზე დაწკაპუნებით. საიდუმლო ჩატის დაწყების შემდეგ, მის სათაურში დაინახავთ პატარა ბოქლომის ხატულას მომხმარებლის სახელის გვერდით.</p>
@@ -145,7 +275,7 @@
 <h2>1. გამოიყენეთ ანტივირუსი</h2>
 <p>თქვენს მოწყობილაზე ყოველთვის უნდა გქონდეთ ჩართული სანდო ანტივირუსული პროგრამა. ეს პროგრამა არის თქვენი მთავარი თავდაცვის ხაზი ვირუსებისა და სხვა სახის მავნე პროგრამებისგან. რეგულარულად განაახლეთ თქვენი ანტივირუსი, რათა გაუმკლავდეს ნებისმიერ ახალ საფრთხეს.</p>
 <p>ანტივირუსული პროგრამები საშუალებას გაძლევთ სრულად დაასკანეროთ თქვენი მოწყობილობა მავნე პროგრამებზე. მიაჩვიეთ თავი მოწყობილობების ხშირ დასკანერებას, მავნე პროგრამების ადრეულ ეტაპზე გამოსავლენად და მათი გავრცელების თავიდან ასაცილებლად. თუ რაიმეს ჩამოტვირთვა გჭირდებათ, გახსნამდე ნუ დაგავიწყდებათ ჩამოტვირთული ფაილის მავნე პროგრამებზე დასკანერება.</p>
-<p>Windows-ს გააჩნია ჩაშენებული უფასო და საიმედო ანტივირუსული პროგრამული უზრუნველყოფა &#8211; Microsoft Defender-ი. Microsoft Defender-ის გაუმჯობესება შეგიძლიათ რამდენიმე პარამეტრის შესწორებით.</p>
+<p>Windows-ს გააჩნია ჩაშენებული უფასო და საიმედო ანტივირუსული პროგრამული უზრუნველყოფა &#8211; Microsoft Defender-ი. Microsoft Defender-ის გაუმჯობესება შეგიძლიათ <a href="https://cyber-star.org/ka/cs-articles/how-to-make-windows-defender-more-secure-ka/">რამდენიმე პარამეტრის შესწორებით</a>.</p>
 <h2>2. რეგულარულად განაახლეთ თქვენი პროგრამული და ტექნიკური უზრუნველყოფა</h2>
 <p>მავნე პროგრამული უზრუნველყოფა აინფიცირებს თქვენს მოწყობილობებს, პროგრამული უზრუნველყოფის დაუცველობების აღმოჩენითა და მათი გამოყენებით. ჰაკერები და კრიმინალები მუდმივად ეძებენ ასეთ დაუცველობებს. კომპანიები, რომლებიც ქმნიან პროგრამულ უზრუნველყოფას, ასწორებენ დაუცველობებს განახლებებად გამოქვეყნებული უსაფრთხოების პატჩების მეშვეობით. ამიტომ, მნიშვნელოვანია დააყენოთ განახლებები, როგორც კი ისინი გამოვა.</p>
 <p>რომელ მოწყობილობასაც არ უნდა იყენებთ, დარწმუნდით, რომ იყენებთ ოპერაციული სისტემის უახლეს ვერსიას. კარგი იქნება, თუ დააყენებთ ოპერაციულ სისტემასა და ანტივირუსულ პროგრამას ავტომატურ განახლებაზე. ხშირად და რეგულარულად განაახლეთ ყველა სხვა პროგრამული უზრუნველყოფა თქვენს მოწყობილობებზე.</p>
@@ -188,19 +318,19 @@
 <p>ეს ინფორმაცია შეიძლება გამოიყენონ თქვენ წინააღმდეგ. თაღლითებს შეუძლიათ გამოიყენონ თქვენი პერსონალური მონაცემები, თავი მოაჩვენონ თქვენს მეგობრებს ან კოლეგებს, თითქოს ეს თვენ ხართ, და გამოსტყუონ ფული, ან სენსიტიური ინფორმაცია. მათ ასევე შეუძლიათ გამოიყენონ ის ინფორმაცია, რომელსაც აქვეყნებთ, რათა გამოიცნონ თქვენი უსაფრთხოების კითხვები საბანკო ან გაცნობისათვის განკუთვნილ საიტებზე, მოიპარონ თქვენი ონლაინ ანგარიშები, ან შეგაწუხონ.</p>
 <p>კარგი ამბავი ისაა, რომ ქვემოთ ჩამოთვლილი რამდენიმე სწრაფი და მარტივი ხერხი დაგეხმარებათ თქვენი პერსონალური ინფორმაცია უსაფრთხოდ შენახვაში. თან ისე, რომ სოციალური ქსელები მაინც უპრობლემოდ გამოიყენოთ.</p>
 <h2>1. გამოიყენეთ ძლიერი და უნიკალური პაროლები</h2>
-<p>დაიცავით სოციალური მედიის ყველა ანგარიში პაროლით, რომლის გამოცნობა ან გატეხვა შეუძლებელია. პაროლი ძლიერია, როდესაც ის შედგება მინიმუმ 12 სიმბოლოსაგან, მათ შორის &#8220;დიდი&#8221; და &#8220;პატარა&#8221; ასოებისგან, რიცხვებისგან და სპეციალური სიმბოლოებისგან. ამ სიმბოლოების შემთხვევითი კომბინაციები ქმნის ყველაზე ძლიერ პაროლს. წაიკითხეთ უფრო მეტი იმის შესახებ, თუ როგორ შექმნით პაროლები, რომელთა გატეხვაც ძალიან რთულია.</p>
-<p>დარწმუნდით, რომ იყენებთ უნიკალურ პაროლს ყველა ონლაინ ანგარიშისთვის. გაიგეთ მეტი იმაზე თუ რატომ არის ცუდი ერთი და იგივე პაროლის გამოყენება სხვადასხვა ანგარიშებისთვის. ამდენი რთული და უნიკალური პაროლი ნუ დაგაფრთხობთ &#8211; შეგიძლიათ, გამოიყენოთ პაროლის მენეჯერი, რათა „დაიმახსოვროთ“ და უსაფრთხოდ შეინახოთ ისინი.</p>
+<p>დაიცავით სოციალური მედიის ყველა ანგარიში პაროლით, რომლის გამოცნობა ან გატეხვა შეუძლებელია. პაროლი ძლიერია, როდესაც ის შედგება მინიმუმ 12 სიმბოლოსაგან, მათ შორის &#8220;დიდი&#8221; და &#8220;პატარა&#8221; ასოებისგან, რიცხვებისგან და სპეციალური სიმბოლოებისგან. ამ სიმბოლოების შემთხვევითი კომბინაციები ქმნის ყველაზე ძლიერ პაროლს. წაიკითხეთ უფრო მეტი იმის შესახებ, თუ <a href="https://cyber-star.org/ka/cs-articles/how-to-create-strong-passwords-ka/">როგორ შექმნით პაროლები, რომელთა გატეხვაც ძალიან რთულია</a>.</p>
+<p>დარწმუნდით, რომ იყენებთ უნიკალურ პაროლს ყველა ონლაინ ანგარიშისთვის. გაიგეთ მეტი იმაზე <a href="https://cyber-star.org/ka/cs-articles/why-all-of-your-passwords-should-be-unique-ka/">თუ რატომ არის ცუდი ერთი და იგივე პაროლის გამოყენება სხვადასხვა ანგარიშებისთვის</a>. ამდენი რთული და უნიკალური პაროლი ნუ დაგაფრთხობთ &#8211; შეგიძლიათ, <a href="https://cyber-star.org/ka/cs-articles/why-you-should-use-a-password-manager-ka/">გამოიყენოთ პაროლის მენეჯერი</a>, რათა „დაიმახსოვროთ“ და უსაფრთხოდ შეინახოთ ისინი.</p>
 <h2>2. დაამატეთ დაცვის მეორე დონე</h2>
 <p>სამწუხაროდ, ყველაზე ძლიერი პაროლიც კი შეიძლება მოიპარონ ან სხვაგვარად გატეხონ ის. სწორედ ამიტომ უნდა გამოიყენოთ ორნაბიჯიანი ავტორიზაცია (2FA) თქვენი სოციალური მედიის ანგარიშების დასაცავად. როდესაც ჩართულია 2FA (იგივე ორფაქტორიანი აუტენტიფიკაცია), პაროლის შეყვანის გარდა, დამატებით გთხოვენ, გამოიყენოთ თქვენი ვინაობის დამადასტურებელი მეორე გზაც.</p>
-<p>2FA-ს გამოყენებისას, ყველაზე უსაფრთხო გზაა, დააყენოთ თქვენს ტელეფონზე აპლიკაცია, რომელიც დააგენერირებს დროებით ციფრულ კოდებს. სოციალური მედიის ანგარიშში შესასვლელად, პაროლის შეყვანისთანავე, ამ კოდის შეყვანაც მოგიწევთ. წაიკითხეთ უფრო მეტი იმის შესახებ, თუ როგორ გამოვიყენოთ ორნაბიჯიანი ავტორიზაცია ონლაინ ანგარიშების დასაცავად.</p>
+<p>2FA-ს გამოყენებისას, ყველაზე უსაფრთხო გზაა, დააყენოთ თქვენს ტელეფონზე აპლიკაცია, რომელიც დააგენერირებს დროებით ციფრულ კოდებს. სოციალური მედიის ანგარიშში შესასვლელად, პაროლის შეყვანისთანავე, ამ კოდის შეყვანაც მოგიწევთ. წაიკითხეთ უფრო მეტი იმის შესახებ, თუ <a href="https://cyber-star.org/ka/cs-articles/why-you-should-use-two-factor-authentication-ka/">როგორ გამოვიყენოთ ორნაბიჯიანი ავტორიზაცია ონლაინ ანგარიშების დასაცავად</a>.</p>
 <h2>3. თქვენი პროგრამული უზრუნველყოფა ყოველთვის განახლებული უნდა იყოს</h2>
 <p>კიბერკრიმინალები სულ უფრო კარგად იყენებენ სხვადასხვა აპლიკაციებში ნაპოვნ დაუცველობებს მოწყობილობებში შესაღწევად. ამიტომ ძალიან მნიშვნელოვანია თქვენი პროგრამული უზრუნველყოფა მუდმივად განახლებული იყოს. დარწმუნდით, რომ მოწყობილობაზე, რომელსაც იყენებთ სოციალური მედიის ანგარიშებზე წვდომისთვის, ყოველთვის დაყენებულია ოპერაციული სისტემის უახლესი ვერსია. გინდ კომპიუტერს იყენებდეთ, გინდ მობილურს, დარწმუნდით, რომ ჩართულია ანტივირუსი და მასზე დაყენებულია ავტომატური განახლების რეჟიმი.</p>
 <p>თუ შედიხართ სოციალურ მედია საიტებზე ვებ-ბრაუზერის მეშვეობით, დარწმუნდით, რომ ისიც განახლებულია უახლეს ვერსიამდე. თუ მობილურ მოწყობილობაზე იყენებთ სოციალური მედიის ცალკეულ აპლიკაციებს, მაშინ ხშირად განაახლეთ ისინი.</p>
 <h2>4. იცოდეთ, ვის ამატებთ მეგობრებში</h2>
-<p>ეს საკმაოდ მარტივია: რაც უფრო მეტ ადამიანთან ხართ დაკავშირებული, მით უფრო რთულია იმის კონტროლი, თუ რა მოუვა პერსონალურ ინფორმაციას, რომელსაც აზიარებთ სოციალურ ქსელში. თუ ძალიან მნიშვნელოვანი არაა, რომ თქვენი სოციალური მედიის ანგარიშები ყველასთვის იყოს ღია, დაფიქრდით, თუ ვის შეუზღდუდავდით წვდომას თქვენს პოსტებსა და ფოტოებზე. წაიკითხეთ უფრო მეტი იმაზე, თუ როგორ უნდა გააკეთებთ ამას Instagram-ისა და Twitter-ის ანგარიშებისთვის.</p>
+<p>ეს საკმაოდ მარტივია: რაც უფრო მეტ ადამიანთან ხართ დაკავშირებული, მით უფრო რთულია იმის კონტროლი, თუ რა მოუვა პერსონალურ ინფორმაციას, რომელსაც აზიარებთ სოციალურ ქსელში. თუ ძალიან მნიშვნელოვანი არაა, რომ თქვენი სოციალური მედიის ანგარიშები ყველასთვის იყოს ღია, დაფიქრდით, თუ ვის შეუზღდუდავდით წვდომას თქვენს პოსტებსა და ფოტოებზე. წაიკითხეთ უფრო მეტი იმაზე, თუ როგორ უნდა გააკეთებთ ამას <a href="https://cyber-star.org/ka/cs-articles/how-to-protect-your-privacy-on-instagram-ka/">Instagram</a>-ისა და <a href="https://cyber-star.org/ka/cs-articles/how-to-protect-your-privacy-on-twitter-ka/">Twitter</a>-ის ანგარიშებისთვის.</p>
 <p>კარგი იქნება, თუ პერიოდულად გადახედავთ ხოლმე თქვენს მიმდევრებს სხვადასხვა სოციალურ ქსელში. დაფიქრდით იმ ადამიანების წაშლაზე, ვისაც აღარ ენდობით ან ვისთანაც აღარ გაქვთ კომუნიკაცია. თუ მომხმარებელი ითხოვს თქვენს პერსონალურ ინფორმაციას, გაწუხებთ, ან საეჭვოდ იქცევა, დაფიქრდით მისი პროფილის დაბლოკვაზე და დაარეპორტეთ იგი.</p>
 <h2>5. მართეთ თქვენი კონფიდენციალურობის პარამეტრები</h2>
-<p>სოციალური ქსელები შექმნილია იმისთვის, რომ თქვენი პოსტები და ფოტოები ხელმისაწვდომი გახდეს რაც შეიძლება მეტი მომხმარებლისთვის მთელ მსოფლიოს მასშტაბით. საბედნიეროდ, ეს სერვისები ასევე გეხმარებათ, მართოთ კონფიდენციალურობის ნაგულისხმევი პარამეტრები, რათა ზუსტად გააკონტროლოთ, თუ რა ინფორმაციის ნახვა შეუძლიათ სხვებს. მაგალითად, სოციალური მედიის საიტების უმეტესობა საშუალებას გაძლევთ შეზღუდოთ ვის შეუძლია თქვენი პროფილის ნახვა, დაბლოკოთ კონკრეტული მომხმარებლების პროფილები, გაუზიაროთ ფოტოები მხოლოდ კონკრეტულ ადამიანებს და ა. შ. დარწმუნდით, რომ უკვე გაერკვიეთ ამ პარამეტრების გამოყენებაში და თქვენი კონფიდენციალურობის დაცვაში. წაიკითხეთ მეტი იმაზე, თუ როგორ უნდა მართოთ კონფიდენციალურობის პარამეტრები Instagram-ისა და Twitter-ის ანგარიშებზე.</p>
+<p>სოციალური ქსელები შექმნილია იმისთვის, რომ თქვენი პოსტები და ფოტოები ხელმისაწვდომი გახდეს რაც შეიძლება მეტი მომხმარებლისთვის მთელ მსოფლიოს მასშტაბით. საბედნიეროდ, ეს სერვისები ასევე გეხმარებათ, მართოთ კონფიდენციალურობის ნაგულისხმევი პარამეტრები, რათა ზუსტად გააკონტროლოთ, თუ რა ინფორმაციის ნახვა შეუძლიათ სხვებს. მაგალითად, სოციალური მედიის საიტების უმეტესობა საშუალებას გაძლევთ შეზღუდოთ ვის შეუძლია თქვენი პროფილის ნახვა, დაბლოკოთ კონკრეტული მომხმარებლების პროფილები, გაუზიაროთ ფოტოები მხოლოდ კონკრეტულ ადამიანებს და ა. შ. დარწმუნდით, რომ უკვე გაერკვიეთ ამ პარამეტრების გამოყენებაში და თქვენი კონფიდენციალურობის დაცვაში. წაიკითხეთ მეტი იმაზე, თუ როგორ უნდა მართოთ კონფიდენციალურობის პარამეტრები <a href="https://cyber-star.org/ka/cs-articles/how-to-protect-your-privacy-on-instagram-ka/">Instagram</a>-ისა და <a href="https://cyber-star.org/ka/cs-articles/how-to-protect-your-privacy-on-twitter-ka/">Twitter</a>-ის ანგარიშებზე.</p>
 <h2>6. შეინახეთ პირადი ინფორმაცია სოციალური მედიის მიღმა</h2>
 <p>სოციალური ქსელები გაძლევთ შესაძლებლობას, დაამატოთ უამრავი პირადი დეტალი, რათა დაეხმაროთ სხვებს თქვენს პოვნაში. რომელ სკოლაში დადიოდით? დაოჯახებული ხართ? თქვენი ოჯახიდან ჩვენი ანგარიში კიდევ ვის აქვს? ამ დეტალების წყალობით სოც. ქსელში თქვენი ძალიან პირადი პორტრეტი იხატება. იგი ნამდვილი საგანძურია არაკეთილსინდისიერი ადამიანებისთვის.</p>
 <p>შეეცადეთ აკონტროლოთ, თუ რა პირად ინფორმაციას პოსტავთ. მიაქციეთ ყურადღება თქვენი ბიოგრაფიის დეტალებს, ოჯახურ კავშირებსა და ფოტოებს. არასოდეს არ გააზიაროთ თქვენი პირადობის მოწმობის, კონცერტის, ან ავიაბილეთების ფოტოები. წინასწარ დაფიქრდით ხოლმე და გახსოვდეთ &#8211; რაიმეს თუ გამოაქვეყნებთ, თითქმის შეუძლებელია ზუსტად იმის გარკვევა, თუ ვის ექნება წვდომა ამ ინფორმაციაზე.</p>
@@ -318,7 +448,7 @@
 <p><img decoding="async" class="aligncenter size-full wp-image-420" src="https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location.jpg" alt="Twitter option to remove all location information attached to your Tweets." width="1600" height="1351" srcset="https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location-300x253.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location-1024x865.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location-768x648.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location-1536x1297.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_remove_all_location-1200x1013.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <h2>3. სერვისის მიერ მონაცემთა შეგროვების გამორთვა</h2>
 <p>თუ არ შეცვლით ნაგულისხმევ პარამეტრებს, Twitter-ი თვალყურს მიადევნებს მთელ თქვენს ონლაინ აქტივობას სოციალური ქსელის მიღმაც, რათა გამოგიგზავნოთ მიზნობრივი რეკლამა და რეკომენდაციები. Twitter-ი იღებს ამ ინფორმაციის გარკვეულ ნაწილს თავისი პარტნიორებისგან და უზიარებს თქვენს მონაცემებს თავის კომერციულ პარტნიორებს.</p>
-<p>იმისთვის, Twitter-მა ვეღარ შეაგროვოს და ვეღარ გამოიყენოს თქვენი პერსონალური ინფორმაცია, ეწვიეთ პარამეტრების გვერდს &#8211; <a href="https://twitter.com/settings/account/personalization">პერსონალიზაცია</a>. გვერდზე გადასასვლელად, უნდა დააწკაპუნოთ აი ამ ბმულზე (<a href="https://twitter.com/settings/account/personalization">აგერ ბატონო</a>). სხვა გზა არაა &#8211; Twitter-მა რაღაცები შეცვალა და საიტიდან ამ პარამეტრებს ვეღარ შეცვლით.</p>
+<p>იმისთვის, Twitter-მა ვეღარ შეაგროვოს და ვეღარ გამოიყენოს თქვენი პერსონალური ინფორმაცია, ეწვიეთ პარამეტრების გვერდს &#8211; <a href="https://twitter.com/settings/account/personalization" target="_blank" rel="noopener">პერსონალიზაცია</a>. გვერდზე გადასასვლელად, უნდა დააწკაპუნოთ აი ამ ბმულზე (<a href="https://twitter.com/settings/account/personalization" target="_blank" rel="noopener">აგერ ბატონო</a>). სხვა გზა არაა &#8211; Twitter-მა რაღაცები შეცვალა და საიტიდან ამ პარამეტრებს ვეღარ შეცვლით.</p>
 <blockquote><p>iOS ან Android-მოწყობილობაზე Twitter-აპლიკაციაში პერსონალიზაციის პარამეტრებში გადასასვლელად, შეეხეთ თქვენი პროფილის ფოტოს ხატულას ზედა მარცხენა კუთხეში, აირჩიეთ <strong>პარამეტრები და კონფიდენციალურობა</strong>, შემდეგ აირჩიეთ <strong>კონფიდენციალურობა და უსაფრთხოება</strong> და შეეხეთ ღილაკს <strong>პერსონალიზაცია და მონაცემები</strong>.</p></blockquote>
 <p>თვალთვალის გასათიშად დააწკაპუნეთ გადამრთველზე <strong>პერსონალიზაცია და მონაცემები</strong> -ის გვერდით. დიალოგის ფანჯარაში, რომელიც გამოჩნდება, არჩევანის დასადასტურებლად აირჩიეთ <strong>გამორთვა</strong>.</p>
 <p><img decoding="async" class="aligncenter size-full wp-image-419" src="https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization.jpg" alt="Twitter Personalization and data switch." width="1600" height="1351" srcset="https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization-300x253.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization-1024x865.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization-768x648.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization-1536x1297.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_personalization-1200x1013.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /><img decoding="async" class="aligncenter size-full wp-image-415" src="https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization.jpg" alt="Confirmation to disable personalization and data in Twitter settings." width="1600" height="1351" srcset="https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization-300x253.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization-1024x865.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization-768x648.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization-1536x1297.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/07/twitter_disable_personalization-1200x1013.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
@@ -377,111 +507,6 @@
 <p>გახსოვდეთ, რომ თუ გადაწყვეტთ პროგრამული უზრუნველყოფა თქვენით განაახლოთ, მაშინ ეს ხშირად უნდა გააკეთოთ. ჩვენ გირჩევთ, თვეში ერთხელ მაინც შეამოწმოთ და დააინსტალიროთ განახლებები.</p>
 <p><img decoding="async" class="size-full wp-image-356 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg" alt="Microsoft Store Get updates button" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-update-software-in-windows-10-ka/">როგორ განვაახლოთ პროგრამული უზრუნველყოფა Windows 10-ზე</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>როგორ დავაყენოთ ან შევცვალოთ პაროლი Windows 10-ზე</title>
-		<link>https://cyber-star.org/ka/cs-articles/how-to-set-or-change-a-password-in-windows-10-ka/</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Mon, 07 Feb 2022 23:36:43 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=834</guid>
-
-					<description><![CDATA[<p>ალბათ არ გინდათ, რომ ვინმემ დაათვალიეროს თქვენი ფაილები, დააინსტალიროს ჯაშუშური პროგრამები, ან შეცვალოს უსაფრთხოების პარამეტრები თქვენს კომპიუტერზე, როდესაც ახლომახლო არ ხართ? მაშინ მიჰყევით ქვემოთ მოცემულ ინსტრუქციებს, რათა დაიცვათ თქვენი Windows 10-ის მოწყობილობა პაროლით, ან შეცვალოთ უკვე არსებული. &#160; გთხოვთ, გაითვალისწინოთ, რომ ამ ცვლილებების განსახორციელებლად, უნდა შეხვიდეთ თქვენს კომპიუტერში ადმინისტრატორის ანგარიშით. დააყენეთ პაროლი მოწყობილობაზე თუ Windows [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-set-or-change-a-password-in-windows-10-ka/">როგორ დავაყენოთ ან შევცვალოთ პაროლი Windows 10-ზე</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="font-weight: 400;">ალბათ არ გინდათ, რომ ვინმემ დაათვალიეროს თქვენი ფაილები, დააინსტალიროს ჯაშუშური პროგრამები, ან შეცვალოს უსაფრთხოების პარამეტრები თქვენს კომპიუტერზე, როდესაც ახლომახლო არ ხართ? მაშინ მიჰყევით ქვემოთ მოცემულ ინსტრუქციებს, რათა დაიცვათ თქვენი Windows 10-ის მოწყობილობა პაროლით, ან შეცვალოთ უკვე არსებული.</span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">გთხოვთ, გაითვალისწინოთ, რომ ამ ცვლილებების განსახორციელებლად, უნდა შეხვიდეთ თქვენს კომპიუტერში ადმინისტრატორის ანგარიშით.</span></p>
-<h2><span style="font-weight: 400;">დააყენეთ პაროლი მოწყობილობაზე</span></h2>
-<p><span style="font-weight: 400;">თუ Windows 10-ზე პაროლი ჯერ არ გიყენიათ, მიჰყევით ამ ნაბიჯებს. </span></p>
-<p><span style="font-weight: 400;">1. დააწკაპუნეთ ღილაკზე </span><b>სტარტი</b><span style="font-weight: 400;"> თქვენი ეკრანის ქვედა მარცხენა მხარეს და გადადით განყოფილებაში </span><b>პარამეტრები</b><span style="font-weight: 400;">. </span></p>
-<p><img decoding="async" class="size-full wp-image-361 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg" alt="Accessing Windows Settings on Windows 10" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">2. გადადით განყოფილებაში </span><b>ანგარიშები</b><span style="font-weight: 400;">. </span></p>
-<p><img decoding="async" class="size-full wp-image-376 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">3. მენიუში მარცხნივ აირჩიეთ </span><b>შესვლის ვარიანტები</b></p>
-<p><img decoding="async" class="size-full wp-image-377 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">4. აირჩიეთ </span><b>პაროლი</b><span style="font-weight: 400;"> თქვენთვის ხელმისაწვდომი შესვლის ვარიანტების სიიდან და დააწკაპუნეთ ღილაკზე </span><b>დამატება</b><span style="font-weight: 400;">.</span></p>
-<p><img decoding="async" class="size-full wp-image-365 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><img decoding="async" class="size-full wp-image-366 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">5. შეიყვანეთ პაროლი ველში, დაადასტურეთ და დააწკაპუნეთ ღილაკზე </span><b>შემდეგი</b><span style="font-weight: 400;">. დარწმუნდით, რომ </span><a href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/"><span style="font-weight: 400;">გამოიყენეთ ძლიერი პაროლი</span></a><span style="font-weight: 400;">.</span></p>
-<p><img decoding="async" class="size-full wp-image-370 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">6. დააწკაპუნეთ ღილაკზე </span><b>დასრულება</b><span style="font-weight: 400;">. აგრეთვე დარწმუნდით იმაში, რომ არ დაგავიწყდათ და გახადეთ პაროლის შეყვანა </span><a href="https://docs.google.com/document/d/1uWoERuz3FhGUiAtMkO4Dp1W5rUGLymq_/edit#heading=h.3znysh7"><span style="font-weight: 400;">აუცილებელი პირობა</span></a><span style="font-weight: 400;"> თქვენს მოწყობილობაში შესასვლელად ყველასათვის, ვინც თქვენთან ერთად სარგებლობს თქვენი კომპიუტერით.</span></p>
-<p><img decoding="async" class="size-full wp-image-372 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<h2><span style="font-weight: 400;">შეცვალეთ თქვენი მოწყობილობის პაროლი</span></h2>
-<p><span style="font-weight: 400;">მიჰყევით ამ ინსტრუქციებს უკვე არსებული პაროლის შესაცვლელად &#8211; მაგალითად, თუკი გსურთ პაროლის გაძლიერება. </span></p>
-<p>&nbsp;</p>
-<p><span style="font-weight: 400;">1. გადადით შესვლის პარამეტრების მენიუში (</span><b>სტარტი</b><span style="font-weight: 400;"> &gt; </span><b>პარამეტრები</b><span style="font-weight: 400;"> &gt; </span><b>ანგარიშები</b><span style="font-weight: 400;"> &gt; </span><b>სისტემაში შესასვლელი პარამეტრები</b><span style="font-weight: 400;">).</span></p>
-<p><span style="font-weight: 400;">2. აირჩიეთ </span><b>პაროლი</b><span style="font-weight: 400;"> თქვენთვის ხელმისაწვდომი სისტემაში შესასვლელი ვარიანტების სიიდან და დააწკაპუნეთ ღილაკზე </span><b>შეცვლა</b><span style="font-weight: 400;">.</span></p>
-<p><img decoding="async" class="size-full wp-image-368 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">3. შეიყვანეთ თქვენი მიმდინარე პაროლი და დააწკაპუნეთ ღილაკზე </span><b>შემდეგი</b><span style="font-weight: 400;">.</span></p>
-<p><img decoding="async" class="size-full wp-image-369 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">4. შეიყვანეთ ახალი პაროლი ველში, დაადასტურეთ ის და დააწკაპუნეთ ღილაკზე </span><b>შემდეგი</b><span style="font-weight: 400;">. დარწმუნდით იმაში, რომ </span><span style="font-weight: 400;">იყენებთ ძლიერ პაროლს</span><span style="font-weight: 400;">.</span></p>
-<p><img decoding="async" class="size-full wp-image-374 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<p><span style="font-weight: 400;">5. დააწკაპუნეთ ღილაკზე </span><b>დასრულება</b><span style="font-weight: 400;">.</span></p>
-<p><img decoding="async" class="size-full wp-image-371 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
-<h2><a id="password-mandatory" name="password-mandatory"></a><span style="font-weight: 400;">გახადეთ მოწყობილობის პაროლის შეყვანა სავალდებულო</span></h2>
-<p><span style="font-weight: 400;">ახლა, როდესაც დააყენეთ მოწყობილობის პაროლი თქვენს Windows 10-ზე, თქვენ აგრეთვე უნდა გახადოთ პაროლის შეყვანა სავალდებულო ყველასთვის, ვინც ეცდება მიიღოს წვდომა თქვენს კომპიუტერზე. </span></p>
-<p><span style="font-weight: 400;">1. დააწკაპუნეთ ღილაკზე </span><b>სტარტი</b><span style="font-weight: 400;"> თქვენი ეკრანის ქვედა მარცხენა კუთხეში და საძიებო ველში მოძებნეთ “</span><b>netplwiz</b><span style="font-weight: 400;">”. მთავარი შედეგი უნდა იყოს ამავე სახელწოდების პროგრამა. დააჭირეთ პროგრამას </span><b>netplwiz</b><span style="font-weight: 400;"> მის გასახსნელად.</span></p>
-<p><img decoding="async" class="size-full wp-image-375 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
-<p><span style="font-weight: 400;">2. ფანჯარაში, რომელიც გაიხსნება, მონიშნეთ ველი &#8211; “</span><b>ამ კომპიუტერის გამოსაყენებლად, მომხმარებლებმა უნდა შეიყვანონ სახელი და პაროლი</b><span style="font-weight: 400;">”.</span></p>
-<p><img decoding="async" class="wp-image-373 size-full aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
-<p><span style="font-weight: 400;">3. დააჭირეთ ღილაკს </span><b>გამოყენება</b><span style="font-weight: 400;">.</span></p>
-<p><img decoding="async" class="size-full wp-image-367 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
-<p><span style="font-weight: 400;">4. ცვლილებები რომ ამოქმედდეს, პაროგრამა მოგთხოვთ თქვენი პაროლის შეყვანას. შემდეგ დააწკაპუნეთ ღილაკზე </span><b>OK</b><span style="font-weight: 400;">.</span></p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-set-or-change-a-password-in-windows-10-ka/">როგორ დავაყენოთ ან შევცვალოთ პაროლი Windows 10-ზე</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>როგორ გავხადოთ Windows Defender-ი (Windows-ის დამცავი) უფრო უსაფრთხო</title>
-		<link>https://cyber-star.org/ka/cs-articles/how-to-make-windows-defender-more-secure-ka/</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Mon, 07 Feb 2022 23:57:01 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=838</guid>
-
-					<description><![CDATA[<p>გაფრთხილება: ეს სტატია შემუშავებულია Windows-ის სისტემის &#8220;საშუალო&#8221; და &#8220;მაღალი&#8221; გამოცდილების მქონე მომხმარებლებისათვის. ამ ინსტრუქციებს თუ დაიცავთ, თქვენს კომპიუტერში ზოგიერთმა აპლიკაციამ შეიძლება ისე აღარ იმუშაოს, როგორც ამას მოელით. თუ ეს არ გხიბლავთ, ან უბრალოდ არ ხართ დარწმუნებული საკუთარ ტექნიკურ უნარებში, მაშინ, გირჩევთ, შეეშვათ ამ ინსტუქციებს. Windows Defender-ი (Windows-ის დამცავი) Windows Defender-ი (ასევე ცნობილი როგორც Microsoft Defender-ი [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-make-windows-defender-more-secure-ka/">როგორ გავხადოთ Windows Defender-ი (Windows-ის დამცავი) უფრო უსაფრთხო</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><strong>გაფრთხილება</strong>: ეს სტატია შემუშავებულია Windows-ის სისტემის &#8220;საშუალო&#8221; და &#8220;მაღალი&#8221; გამოცდილების მქონე მომხმარებლებისათვის. ამ ინსტრუქციებს თუ დაიცავთ, თქვენს კომპიუტერში ზოგიერთმა აპლიკაციამ შეიძლება ისე აღარ იმუშაოს, როგორც ამას მოელით. თუ ეს არ გხიბლავთ, ან უბრალოდ არ ხართ დარწმუნებული საკუთარ ტექნიკურ უნარებში, მაშინ, გირჩევთ, შეეშვათ ამ ინსტუქციებს.</p>
-<h2>Windows Defender-ი (Windows-ის დამცავი)</h2>
-<p>Windows Defender-ი (ასევე ცნობილი როგორც Microsoft Defender-ი ანუ Microsoft-დამცავი) უკვე წლებია, ჩაშენებულია Microsoft Windows-ში. ადრე მავნე პროგრამებთან კარგად გამკლავებას ვერ ახერხებდა. თუმცა, ბოლო წლებია, უკვე შეგიძლიათ, Windows Defender-ი გაცილებით უსაფრთხო გახადოთ. ამისთვის საჭიროა, ჩართოთ ზოგიერთი ფუნქცია, რომლის შესახებაც ბევრმა რიგითმა მომხმარებელმა არ იცის. მათი ჩართვის შემთხვევაში, Windows Defender-ი ათი თავით სჯობნის თითქმის ყველა პოპულარულ ანტივირუსს.</p>
-<p>ეს სტატია დაგეხმარებათ ამ ფუნქციების ჩართვაში. გთხოვთ, გაითვალისწინოთ &#8211; Windows-ი არ რთავს ამ ფუნქციებს ნაგულისხმევად, იმის შიშით, რომ ეს ხელს შეუშლის აპლიკაციის თავსებადობას. ამ ფუნქციებს თუ ჩართავთ, ზოგიერთმა აპლიკაციამ <em>შეიძლება სწორად აღარ იმუშაოს</em>. საბედნიეროდ, Windows Defender-ის „ნორმალური“ მუშაობის აღდგენა ისეთივე მარტივია, როგორც მისი ჩაკეტვა. დამატებითი ფუნქციების ჩასართავად, მიჰყევით ჩვენს ინსტრუქციებს.</p>
-<h2>ოპერაციული სისტემის მოთხოვნები</h2>
-<ul>
-<li>Windows 10 Professional -ი, Enterprise-ის 1709 ვერსია, ანდაც უფრო ახალი. თქვენ შეგიძლიათ გადაამოწმოთ Windows-ის რომელი ვერსია გაქვთ, დააწკაპუნეთ <strong>სტარტის</strong> ღილაკს&gt; <strong>პარამეტრებს</strong> &gt; <strong>სისტემას</strong> &gt; <strong>სისტემის შესახებ</strong>. განყოფილებაში <strong>Windows-ის მახასიათებლები</strong> შეგიძლიათ შეამოწმოთ, Windows-ის რომელი გამოშვება და ვერსია აყენია თქვენს მოწყობილობაზე.</li>
-<li>თუ თქვენ იყენებთ Windows 10 Home-ს, ეს ინსტრუქციები არ გამოგადგებათ. ამ შემთხვევაში, კომპიუტერის დასაცავად, მოგიწევთ, ცალკე შეიძინოთ სანდო ანტივირუსული პროგრამა.</li>
-<li>ამ პარამეტრებიდან ბევრი <em>არ</em> იმუშავებს, თუ თქვენი Windows-ი დომენის ნაწილია და თქვენი სისტემურ ადმინისტრატორს დაყენებული აქვს ალტერნატიული პარამეტრები.</li>
-</ul>
-<h2>Microsoft Defender-ის უსაფრთხოების უზრუნველყოფა</h2>
-<ol>
-<li>ჩამოტვირთეთ Configure Defender-ი, ან შეამოწმეთ მისი საწყისი კოდი აქ. ეს პროგრამა არის უბრალოდ გრაფიკული მომხმარებლის ინტერფეისი (GUI), რომელიც გაგიმარტივებთ Windows Defender-ის დაცვას.</li>
-<li>ჩამოტვირთვის შემდეგ, უბრალოდ დააწკაპუნეთ მასზე ორჯერ. შეგიძლიათ აირჩიოთ უსაფრთხოების ნებისმიერი პარამეტრი, მაგრამ მაქსიმალური დაცვისთვის გირჩევთ დააწკაპუნოთ დაცვის დონეს <strong>მაღალი</strong> და შემდეგ შეცვალოთ პარამეტრები ქვემოთ მოცემული სურათის შესაბამისად. ეს პარამეტრები იძლევა საერთო კარგ ბალანსს უსაფრთხოებასა და იმ დისკომფორტს შორის, რომელიც პარამეტრებმა შეიძლება შეგიქმნათ.
-<ul>
-<li>(<strong>მაღალი</strong> დაცვის დონის გარდა) უნდა აირჩიოთ:<strong> Windows-ის ადგილობრივი უსაფრთხოების უფლებამოსილების ქვესისტემიდან საიდენტიფიკაციო მონაცემების მოპარვის დაბლოკვა</strong> (lsass.exe) &#8211; ჩართვა</li>
-<li><strong>PSExec-ისა და WMI-ის ბრძანებებიდან წარმოქმნილი პროცესის დაბლოკვა</strong> &#8211; ჩართვა</li>
-<li><strong>საქაღალდეებზე კონტროლირებადი წვდომა</strong> &#8211; ჩართვა<br />
-<img decoding="async" class="alignnone size-full wp-image-334" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png" alt="Configure Defender settings" width="534" height="575" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png 534w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37-279x300.png 279w" sizes="(max-width: 534px) 100vw, 534px" /><br />
-<img decoding="async" class="alignnone size-full wp-image-335" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /><br />
-<img decoding="async" class="alignnone size-full wp-image-336" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /></li>
-</ul>
-</li>
-<li>ამ ცვლილებების ჩართვის შემდეგ დააწკაპუნეთ ღილაკზე <strong>დახურვა</strong> და გადატვირთეთ კომპიუტერი.</li>
-</ol>
-<h2>Windows Defender-ანტივირუსის შეცვლილი პარამეტრების გაუქმება</h2>
-<p>თუ ამ განხორციელების შემდეგ, თქვენ ვერ გახსნით ზოგიერთ აპლიკაციას, ყოველთვის შეგიძლიათ დააბრუნოთ Windows Defender-ი თავის საწყის პარამეტრებზე Configure Defender-ინსტრუმენტის ხელახლა გახსნით და დაწკაპუნებით ღილაკზე <strong>ნაგულისხმევი</strong>, შემდეგ კი ღილაკზე <strong>დახურვა</strong>. თქვენ უნდა გადატვირთოთ კომპიუტერი, რათა ეს ცვლილება შევიდეს ძალაში.</p>
-<h2>დამატებითი მითითებები (მესამე მხარე)</h2>
-<ul>
-<li><a title="Windows Defender with these settings" href="https://www.youtube.com/watch?v=ep_25HIArXc" target="_blank" rel="noopener">Windows Defender-ი აღწერილი პარამეტრებით</a></li>
-<li><a title="Windows Defender with default settings" href="https://www.youtube.com/watch?v=ZbYx8V2RTjc" target="_blank" rel="noopener">Windows Defender-ი ნაგულისხმევი პარამეტრებით</a></li>
-</ul>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/ka/cs-articles/how-to-make-windows-defender-more-secure-ka/">როგორ გავხადოთ Windows Defender-ი (Windows-ის დამცავი) უფრო უსაფრთხო</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/ka">CyberSTAR</a>.</p>
 ]]></content:encoded>
 					
 		

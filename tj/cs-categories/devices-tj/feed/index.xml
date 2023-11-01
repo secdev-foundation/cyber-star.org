@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Дастгоҳҳо Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/tj/cs-categories/devices-tj/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/tj/cs-categories/devices-tj/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Wed, 09 Aug 2023 16:22:14 +0000</lastBuildDate>
+	<language>tg-TG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Чӣ тавр iPhone-и худро метавон бо реҷаи баста ҳифз кард</title>
+		<link>https://cyber-star.org/tj/cs-articles/how-to-secure-your-iphone-with-lockdown-mode-tj/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 15:43:17 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1259</guid>
+
+					<description><![CDATA[<p>Агар дорои маҳорати муътадили корбурди iPhone-ро дошта бошед, метавонед аз ҳамлаҳои ҳадафмандонаву айёронаи сайберӣ ба шумо нигарон набошед. Лекин агар ҳис мекунед, ки ҳадафи зиёнафзорҳои сайберии басо нодиру айёрона гардида метавонед аз барои кори мекарда ва ё шахсияти худ, шумо метавонед iPhone-и худро бо реҷаи “Баста” ҳифз кунед. Ин гунаи муҳофизати басо шадид барои рӯзноманигорон, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-secure-your-iphone-with-lockdown-mode-tj/">Чӣ тавр iPhone-и худро метавон бо реҷаи баста ҳифз кард</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Агар дорои маҳорати муътадили корбурди iPhone-ро дошта бошед, метавонед аз ҳамлаҳои ҳадафмандонаву айёронаи сайберӣ ба шумо нигарон набошед. Лекин агар ҳис мекунед, ки ҳадафи зиёнафзорҳои сайберии басо нодиру айёрона гардида метавонед аз барои кори мекарда ва ё шахсияти худ, шумо метавонед iPhone-и худро бо реҷаи “Баста” ҳифз кунед. Ин гунаи муҳофизати басо шадид барои рӯзноманигорон, ҳомиёни ҳифзи инсон ва фаъолони ҷомеаи шаҳрвандие тавсия дода мешавад, ки метавонанд зери хатари назорат ва ё ҳамлаҳои ҳадафмандонаи сайберӣ бошанд.</p>
+<p>Реҷаи Баста хусусиятҳо, афзорҳо, сомонаҳо ва танзимоти муайяни iPhone-и шуморо хомӯш ва ё маҳдуд мекунад то пеши роҳи ҷосусафзори зархарид ва ё рахнаву ифшо кардани маълумоти шахсии шуморо гирад. Чунин ҳимояи афзуда нархи худро дорад, ки маҳдуд сохтани фаъолияти муқаррарии дастгоҳи шумо дар реҷаи “Баста” мебошад.</p>
+<p>iPhone-и шумо дар реҷаи “Баста” аксари замимаву истинод ё лангарҳо дар Номаҳоро мебандаду дидани сарсарии муҳтавои лангарҳо дастнорас мегардонад. Суръати кушодашавии чанде аз сомонаҳо ва ё кори онҳо суст мегардад. Шумо зангҳоро тавассути афзораки FaceTime аз нафароне, ки пеш аз ин муошират надоштед, қабул карда наметавонед. Шумо инчунин дар афзораки Photos наметавонед албомҳоро тақсим кунеду ё албомҳои тақсимшудаи дигаронро бинед.</p>
+<h2>Фаъолсозии Реҷаи Баста дар iPhone</h2>
+<ol>
+<li>Афзораки <strong>Settings (Танзимот)</strong>-ро дар iPhone-и худ кушоед.</li>
+<li>Бахши <strong>Privacy &amp; Security (Ҳарими хусусӣ ва Бехатарӣ)</strong>-ро ангушт занед.</li>
+<li>Таҳти бахши Security (Бехатарӣ) варақзанон, <strong>Lockdown Mode</strong> (Реҷаи Баста)-ро интихоб карда ангушт занед.<img decoding="async" fetchpriority="high" class="aligncenter size-full wp-image-1240" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-1-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+<li>Банди “<strong>Turn On Lockdown Mode</strong>” (Фаъолсозии реҷаи Баста) ангушт занед.</li>
+<li>Варақ зада, банди “<strong>Turn On Lockdown Mode</strong>”-ро бори дигар ангушт занед.
+<p><img decoding="async" class="aligncenter size-full wp-image-1241" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-2-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+<li>Барои тасдиқи интихоб <strong>Turn On &amp; Restart</strong> (Фаъолсозӣ ва Азнавбакорандозӣ)-ро ангушт занед.</li>
+<li>Гузарвожаи iPhone-и худро ворид кунед.
+<p><img decoding="async" class="aligncenter size-full wp-image-1242" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-3-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+</ol>
+<h2>Берун кардани Афзоракҳо аз таъсири Реҷаи “Баста”</h2>
+<p>Тавре ки дар боло қайд карда будем, фаъол сохтани реҷаи “Баста” метавонад кори афзоракҳои муайяни iPhone-и шуморо бандад ва ё маҳдуд кунад. Муждае дар ин ҳолати маҳдуд он аст, ки шумо метавонед афзоракҳои эътимодноки худро аз чунин маҳдудияти реҷаи “Баста” берун нигоҳ доред.</p>
+<p>Барои афзоракеро берун аз реҷаи “Баста” нигоҳ доштан қадамҳои зеринро мебояд иҷро кард:</p>
+<ol>
+<li>Ҳангоми фаъол будани реҷаи “Баста”-и дастгоҳатон, афзораки <strong>Settings (Танзимот)</strong>-и онро кушоед.</li>
+<li>Бахши <strong>Privacy &amp; Security (Ҳарими хусусӣ &amp; Бехатарӣ)</strong>-ро ангушт занед.</li>
+<li>Варақзанон банди Security (Бехатарӣ)-ро ёфта, хусусияти <strong>Lockdown Mode (Реҷаи Баста)</strong>-ро ангушт занед.
+<p><img decoding="async" class="aligncenter size-full wp-image-1243" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-4-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+<li>Варақзанон дар охири экран <b>Configure Web Browsing (Насби Гаштугузор дар Веб)</b>-ро нохун занед.</li>
+<li>Афзоракро, ки берун аз маҳдудиятҳои реҷа дидан мехоҳед, хомӯш ва ё ғайрифаъол кунед. Ин меню танҳо афзоракҳоеро, ки имкониятҳои маҳдуд дар реҷаи “Баста” доранд, нишон медиҳад. Танҳо афзоракҳое, ки пас аз фаъолсозии реҷаи “Баста” кушода шуда буданд шомили ҳамин рӯйхат мешаванд.
+<p><img decoding="async" class="aligncenter size-full wp-image-1244" src="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5.jpeg" alt="" width="1600" height="1600" srcset="https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-300x300.jpeg 300w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-1024x1024.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-150x150.jpeg 150w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-768x768.jpeg 768w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-1536x1536.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2023/08/lockdown-image-5-1200x1200.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></li>
+</ol>
+<p>Шумо дорои имконияти доимии баромадан аз реҷаи “Баста”-и дастгоҳи худро доред. Агар маҳдудияти ҳамин реҷа басо ногувор аст ва ё ба муҳофизати иловагӣ дигар ниёз надоред, се қадами аввалро дар муҳити Фаъолсозии Реҷаи Баста-и iPhone, ки дар боло зикр гардидааст, иҷро карда, сипас <strong>Turn Off Lockdown Mode (Хомӯш кардани Реҷаи Баста) &gt; Turn Off &amp; Restart (Хомӯш кардан &amp; Азнавбакорандозӣ)</strong>-ро ангушт занед.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-secure-your-iphone-with-lockdown-mode-tj/">Чӣ тавр iPhone-и худро метавон бо реҷаи баста ҳифз кард</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ба наздикӣ ба Windows 10 мебояд падруд гуфт. Чаро?</title>
+		<link>https://cyber-star.org/tj/cs-articles/why-you-should-say-goodbye-to-windows-10-soon-tj/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 06:21:51 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1230</guid>
+
+					<description><![CDATA[<p>Ширкати Майкрософт чанде пеш эълон карда буд, ки низоми оператсионии Windows 10 пас аз 14-уми октябри соли 2025 ягон пуштибонии техникӣ ва ягон азнавсозии бехатарӣ Дошта наметавонад. Ин маънои онро дорад, ки агар шумо аз Windows 10 дар ягон дастгоҳи худ истифода мебаред, бояд ба Windows 11 ва ё ба низоми оператсионии комилан дигар то [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/why-you-should-say-goodbye-to-windows-10-soon-tj/">Ба наздикӣ ба Windows 10 мебояд падруд гуфт. Чаро?</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Ширкати Майкрософт чанде пеш эълон карда буд, ки низоми оператсионии Windows 10 пас аз 14-уми октябри соли 2025 ягон пуштибонии техникӣ ва ягон азнавсозии бехатарӣ</p>
+<p>Дошта наметавонад. Ин маънои онро дорад, ки агар шумо аз Windows 10 дар ягон дастгоҳи худ истифода мебаред, бояд ба Windows 11 ва ё ба низоми оператсионии комилан дигар то ҳамон рӯз гузаред. Давом додани кор бо компютере, ки бо Windows 10 идора мешавад, пас аз 14-уми октябри соли 2025 гумшавии иттилоот аз дастгоҳи шумо ва ё рахна кардани аккаунтҳои асосии шумо ҳамчун осебпазириҳо боқӣ мемонанд.</p>
+<p>Чанд машварати муфиде барои муҳофизату амн нигоҳдории дастгоҳи шумо, ки бо Windows 10 идора мекунед, то замоне ки Майкрософт пуштибонии ҳамин гунаи низоми оператсиониашро ба анҷом мерасонад:</p>
+<h2>1. Гуна ва ё версияи навтарини Windows 10, яъне 22H2-ро истифода баред</h2>
+<p>Майкрософт қотеъона гуфт, ки навсозии сатҳи <strong>22H2</strong> гунаи хотимавии Windows 10 мебошад. Ин гунаи ягонаи Windows 10 аст, ки навсозиҳои муҳими амниятӣ барои он то замоне, ки Майкрософт ин низоми оператсиониро ба канор мегузорад, таъмин карда мешаванд. Санҷида бинед, ки компютери шумо ҳамин гунаро истифода мебарад.</p>
+<p>Барои чунин санҷиш дар муҳити кории компютери худ аз ин зинаҳо бояд гузашт: интихоб ва ё клик задани <strong>Start</strong> &gt; <strong>Settings</strong> &gt; <strong>System</strong> &gt; <strong>About</strong>. Зери бахши <strong>Windows specifications (тафсилоти низоми оператсионӣ)</strong> дида метавонед, ки дастгоҳи шуморо кадом гунаи Windows идора мекунад.</p>
+<h2>2. Windows 10-и дастгоҳи худро мунтазам навсозӣ кунед</h2>
+<p>Истифодаи гунаи навтарини низоми оператсионӣ дар дастгоҳи худ муҳим мебошад. Лекин ин қадам барои таъмини бехатарии компютери шумо кофӣ нест. Қадами дигари муҳим дар ин раванд <a href="https://cyber-star.org/tj/cs-articles/how-to-keep-your-computer-safe-and-secure-tj/">навсозии мунтазами низоми оператсионӣ</a> мебошад.</p>
+<p>Барои овора нашудан бо санҷиши доимии навсозиҳо ва насби дастии онҳо, шумо метавонед аз вижагии Windows 10, ки <a href="https://cyber-star.org/tj/cs-articles/how-to-update-software-in-windows-10-tj/">худкорона фаровардану насби навсозиҳо</a> мебошад, истифода баред.</p>
+<h2>3. Ба Windows 11 гузаред агар омодаед</h2>
+<p>Омода бошед барои гузаштан ба Windows 11 ва дастикам чанд ҳафта пештар аз 14-уми октябри соли 2025 (рӯзи хотимавӣ) ба он гузаред. Бо назардошти он, ки ҳудуди 70% корбарони Windows дар олам аз Windows 10 (мутобиқи додаҳо аз июни соли 2023) истифода мебаранд, гузариш ба Windows 11 дар ҳафтаҳои охирини давраи хотимавӣ осон буда наметавонад.</p>
+<p>Шумо инчунин метавонед дигар низомҳои оператсиониро санҷидаву гунаи наверо ба ҷойи Windows интихоб кунед, ки ҷавобгӯи беҳтари ниёзҳои шумост.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/why-you-should-say-goodbye-to-windows-10-soon-tj/">Ба наздикӣ ба Windows 10 мебояд падруд гуфт. Чаро?</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>5 Нишонаи он, ки телефони шуморо рахна кардаанд</title>
+		<link>https://cyber-star.org/tj/cs-articles/5-signs-that-your-phone-has-been-hacked-tj/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 06:17:13 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1229</guid>
+
+					<description><![CDATA[<p>Ҳар як телефонро метавонанд рахна кунанд. Хусусан телефонҳои ҳушмандро, ки ба нишони маҳбубтарини имрӯзаи рахнагарон табдил ёфтаанд. Чунки ин дастгоҳҳо дастрасӣ ба анбӯҳи калони додаҳои корбар доранд, ки аз гузарвожаҳои медиаҳои иҷтимоӣ сар карда то ба маълумоти бонкиву мукотиботи тиҷоративу номаҳои шахсиро фаро мегиранд. Рахнагарон метавонанд телефони шуморо бо зиёнафзору бадафзорҳо сироят кунанд. Чунин дастгоҳи [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/5-signs-that-your-phone-has-been-hacked-tj/">5 Нишонаи он, ки телефони шуморо рахна кардаанд</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Ҳар як телефонро метавонанд рахна кунанд. Хусусан телефонҳои ҳушмандро, ки ба нишони маҳбубтарини имрӯзаи рахнагарон табдил ёфтаанд. Чунки ин дастгоҳҳо дастрасӣ ба анбӯҳи калони додаҳои корбар доранд, ки аз гузарвожаҳои медиаҳои иҷтимоӣ сар карда то ба маълумоти бонкиву мукотиботи тиҷоративу номаҳои шахсиро фаро мегиранд.</p>
+<p>Рахнагарон метавонанд телефони шуморо бо зиёнафзору бадафзорҳо сироят кунанд. Чунин дастгоҳи сироятпазирро онҳо ба криптоканҳое табдил медиҳанд, ки барои рахнагарон критпоасъор истеҳсол кардаву додаҳои шуморо медузданду кори дастгоҳро хароб мекунанд. Рахнагарон инчунин метавонанд калиддуздҳо ё ба истилоҳи англисӣ keyloggers-ро дар дастгоҳи шумо насб карда, онро барои пайгирии фаъолияти шумо ва дуздидани додаҳои аккаунтҳои марбут ба вебсомонаҳову афзоракҳои шумо истифода баранд.</p>
+<p>Аз 5 нишонаи зерин пайгирӣ кунед, ки нишондиҳандаҳои рахнашавии телефони шумо буда метавонанд:</p>
+<h2>1. Афзоиши шадиди истифодаи додаҳо</h2>
+<p>Агар истифодаи додаҳои мобилии шумо, ки барои пайвастшавӣ ба Интернет зарур аст, бе ягон сабаби ба шумо равшан ногаҳон меафзояд, бидонед, ки он метавонад нишонае аз фаъол шудани зиёнафзор дар пасманзари кори дастгоҳ ва дуздии додаҳои шумо бошад. Тамоми афзоракҳои худро фавран санҷида ҳар яки онро, ки шубҳаовар аст нести нестон кунед. Шояд ин вақти хубест низ барои нест кардани афзоракҳое, ки дигар истифода намебаред.</p>
+<h2>2. Сустрафтории телефон</h2>
+<p>Агар сусткории ногаҳонии дастгоҳро дар муқоиса аз фаъолияти доимии он пайхас кардед, ин метавонад нишонае аз насбкунии зиёнфазори рахнагарон бошад, ки иқтидори кории телефонро бисёр хароб кардааст. Баъзе аз зиёнафзорҳо метавонанд телефони шуморо бе ягон сабаби маълум ба шахшавӣ, бозмонии ногаҳонӣ, партофтани зангҳои даромад ва ё зуд-зуд хомӯшавӣ маҷбур созанд.</p>
+<h2>3. Ба зудӣ холӣ шудани ботрии (батарея) дастгоҳ</h2>
+<p>Аз ба зудӣ холишавии ботрии (батарея) дастгоҳ эҳтиёт бошед. Агар телефони худро ҳар дам аз барқ пур мекунеду новобаста аз афзудани кори маъмулии шумо зуд холӣ мешавад, маънии онро дошта метавонад, ки зиёнафзоракҳо нерӯи телефонатонро беҳуда сарф мекунанд. Танзимоти телефонро кушода, санҷида бинед, ки кадом афзорак нерӯи зиёдтаринро истеъмол мекунад.</p>
+<h2>4. Афзораку зангҳои даромаду па ёмакҳои бегона</h2>
+<p>Нишонаи возеҳи рахна шудани телефони шумо амалҳои зерин мебошанд: афзоракҳои фаровардашудае, ки шумо дар хотир надоред; зангҳое, ки аз карданашон ёд надоред; паёмакҳое, ки аз фиристоданашон бехабар ҳастед.</p>
+<h2>5. Вебсомонаву афзунаҳои ғайричашмдошт</h2>
+<p>Агар телефонатон шуморо ба сомонаҳое, ки гаштан намехоҳед мебарад, пас ин нишонаест равшан аз сироят кардани ягон намуди зиёнафзор ба дастгоҳ. Натиҷаи дигари ҳамин хел сироят ногаҳонии пайдошавии рекламаҳои зиёд буда метавонад. Ба ягон чунин ногаҳон пайдошавандаҳо клик назанед.</p>
+<p>Дар хотир доред, ки ягон нишонаи боло дар алоҳидагӣ далели рахна кардани телефони шумо буда наметавонад. Афзоиши ногаҳонии истифодаи додаҳои мобилӣ метавонад натиҷаи навсозии низому афзоракҳо бошад. Агар кори дастгоҳи шумо суст шудааст ва ё батареяи он зуд холӣ мешавад, ин маънии кӯҳнашавии телефон, пуршавии хотираи он ва ё насби афзоракҳои сершумореро дошта метавонад.</p>
+<p>Дар интиҳо, навсозии мунтазами телефони худро ҳатман идора кунед. Агар дастгоҳ моҳе ягон навсозие надида бошад, рахна кардани он осон мешавад.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/5-signs-that-your-phone-has-been-hacked-tj/">5 Нишонаи он, ки телефони шуморо рахна кардаанд</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Чӣ тавр бояд компютери худро бехатар ва эмин нигоҳ дошт</title>
+		<link>https://cyber-star.org/tj/cs-articles/how-to-keep-your-computer-safe-and-secure-tj/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:53:13 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1020</guid>
+
+					<description><![CDATA[<p>Компютерҳои шахсӣ ба монанди компютерҳои фардӣ, ноутбукҳо ва планшетҳо воситаҳои муҳим мебошанд, ки ба мо дар дастрасӣ ба Интернет ва истифодаи хидматҳои гуногуни онлайн кӯмак мерасонанд. Инчунин дар муошират бо дигар шахсон эҷод, нигоҳдорӣ ва мубодилаи иттилоот кӯмак мекунанд. Аз даст додани компютер, дуздида ё осеб дидани он метавонад оқибатҳои ҷиддии касбӣ, молиявӣ ва нохуш [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-keep-your-computer-safe-and-secure-tj/">Чӣ тавр бояд компютери худро бехатар ва эмин нигоҳ дошт</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Компютерҳои шахсӣ ба монанди компютерҳои фардӣ, ноутбукҳо ва планшетҳо воситаҳои муҳим мебошанд, ки ба мо дар дастрасӣ ба Интернет ва истифодаи хидматҳои гуногуни онлайн кӯмак мерасонанд. Инчунин дар муошират бо дигар шахсон эҷод, нигоҳдорӣ ва мубодилаи иттилоот кӯмак мекунанд.</p>
+<p>Аз даст додани компютер, дуздида ё осеб дидани он метавонад оқибатҳои ҷиддии касбӣ, молиявӣ ва нохуш дошта бошад. Аз ин сабаб донистани роҳҳои муҳофизати компютер хеле муҳим аст.</p>
+<p>Дар хотир доред, ки ҳамаи маслиҳатҳои ин мақола умуман ба ҳифзи компютерҳои шахси нигаронида шудаанд. Агар хоҳед дар бораи чӣ гуна муҳофизат кардани додаҳои компютери худ маълумот беш гиред, захираҳои зиёде мавҷуданд, ки метавонед дар бахши <a href="https://cyber-star.org/tj/data-tj/">Додаҳои ман дар вебсайти мо</a> пайдо кунед</p>
+<h2>1. Танҳо нармафзори литсензиониро истифода баред</h2>
+<p>Нармафзор на ҳамеша арзон аст. Аз ин рӯ, аксар вақт андешаи насб кардани нармафзори ғайрилитсензионӣ ё &#8220;пиратӣ&#8221; дар компютери шумо вуҷуд дорад.</p>
+<p>Аммо ин кор на танҳо ғайриқонунӣ аст &#8211; балки фикри оқилона нест. Чунин нармафзор дар асоси версияҳои кӯҳнаи барномаҳои ҳақиқӣ сохта шудааст. Аз замони истифода шудани ин версияҳо, садҳо ё шояд ҳазорҳо хатоҳо ва осебпазириҳои муҳим дар ин барномаҳо аз ҷониби таҳиягарон кашф ва ислоҳ карда шуданд. Агар шумо нармафзори пиратиро истифода баред, шумо наметавонед бисёре аз ин дарбеҳҳо ва навсозиҳоро истифода баред.</p>
+<p>Илова бар ин, нармафзори ғайрилитсензионӣ аксар вақт бо рамзи зараровар пешниҳод мешавад. Ҳамин тавр, истифода аз афзорҳои ғайрилитсензионӣ воридшавиро ба дастгоҳ озод мегузорад ва тамоми мундариҷаи он ба таври доимӣ барои киберҷинояткорон боз мемонад.</p>
+<p><strong>Истифодаи версияҳои аслии нармафзор ба монанди низоми оператсионӣ ва нармафзори антивирус дар компютер хеле муҳим мебошад</strong>. Агар шумо имконияти хариди дигар нармафзори тиҷорӣ надошта бошед, шумо ҳамеша метавонед <a href="https://techlog360.com/best-open-source-alternatives/" target="_blank" rel="noopener">алтернативаи кушодаасосро пайдо кунед</a>, ки метавонад талаботи шуморо қонеъ гардонад.</p>
+<h2>2. Нармафзорро танҳо аз сарчашмаҳои эътимоднок зеркашӣ кунед</h2>
+<p>Киберҷинояткорон аксар вақт нармафзореро паҳн мекунанд, ки ба барномаҳои аслӣ монанд аст, аммо дар он намудҳои гуногуни нармафзори зараровар вуҷуд аст. Ҳангоми насби чунин нармафзор, шумо воридшавиро ба дастгоҳи худ озод мегузоред ва тамоми мундариҷаи он барои киберҷинояткорон боз мешавад.</p>
+<p>Аз ин рӯ, <strong>ҳамеша нармафзор ва навсозиҳоро аз мағозаҳои расмии барномаҳо зеркашӣ кунед</strong> ( Microsoft Store дар дастгоҳҳои Windows ва Apps Store дар дастгоҳҳои Mac) <strong>ё мустақиман аз вебсайтҳои ширкатҳое, ки барномаро паҳн ва навсозӣ мекунанд</strong>. Масалан, ҳангоми насб кардани Adobe Acrobat Reader, афзорро на аз вебсайтҳои тарафи сеюм, балки бевосита аз Adobe зеркашӣ кунед.</p>
+<p>Ҳангоми зеркашии нармафзори нав ё на онқадар маъмул, <strong>хондани тафсирҳо</strong> барои боварӣ ҳосил кардан, ки нармафзор барои насб ва истифода бехатар аст, фикри оқилона мебошад</p>
+<h2>3. Навсозии мунтазами нармафзор</h2>
+<p><strong>Навсозии нармафзор аксар вақт дарбеҳҳо дар бар мегирад, ки осебпазирии охирини амниятиро ислоҳ мекунанд.</strong></p>
+<p>Нармафзор бо код сохта мешавад ва барномаҳо аксар вақт даҳҳо ҳазор сатри кодро дар бар мегиранд. Рахнагарон ба ҳар як сатри код назар мекунанд ва аксар вақт дар барномаҳо ва низомҳои оператсионӣ сӯрохиҳои амниятӣ ё заъфҳоро пайдо мекунанд (маъмулан “заифӣ”). Дар вақти пайдо кардани осебпазирӣ, рахнагарон нармафзори зарароварро эҷод мекунанд, то ки аз он истифода бурда, назорати дастгоҳи шуморо ба даст оранд ё додаҳоро дузданд. Ҳамин ки чунин осебпазириҳо ошкор мешаванд, таҳиягарон дарбеҳҳоро эҷод мекунанд ва онҳоро дар навсозиҳои нармафзор пешниҳод мекунанд. Аммо то он даме, ки шумо дарбеҳро насб кунед, осебпазирии он метавонад аз ҷониби рахнагарон истифода шавад. Аз ин сабаб, <strong>насби фаврии навсозиҳои дастрас басо муҳим дониста мешавад</strong>.</p>
+<p>Махсусан муҳим аст, ки <strong>системаи оператсионӣ ва нармафзори антивирус дар компютери шумо ҳамеша навсозӣ шуда бошад</strong>. Фаъол кардани навсозиҳо ба таври худкор кафолат медиҳад, ки компютер дарбеҳҳои муҳимро ҳангоми дастрас шудан зеркашӣ ва насб мекунад. Агар нахоҳед навсозиҳои худкори дигар авзорҳоро дар компютери худ фаъол созед, бояд на камтар аз як маротиба дар як моҳ навсозиро тафтиш ва насб кунед.</p>
+<p>Аксари навсозиҳо компютери шуморо муҳофизат намекунанд, то он даме, ки онро бозоғоз нанамоед. Аз ҳамин сабаб, <strong>баъди насби навсозиҳо дастгоҳи худро бозоғоз намоед</strong> .</p>
+<blockquote><p>Ба <a href="https://cyber-star.org/tj/cs-articles/how-to-update-software-in-windows-10-tj/">ин дастур</a> пайравӣ кунед, то навсозиҳои худкори Windows 10 танзим шаванд, дигар навсозиҳои афзорҳоро тафтиш кунед ва Microsoft Store-ро танзим кунед, то афзорҳо дар дастгоҳи Windows 10 ба таври худкор навсозӣ шаванд.</p></blockquote>
+<h2>4. Истифодаи нармафзори боэътимоди антивирус</h2>
+<p>Антивирус сироятшавии компютерро аз нармафзори зараровар пешгирӣ мекунад. Агар компютер аллакай сироят шуда бошад, антивирус нармафзори зарароварро ошкор мекунад ва онро аз компютери шумо нест мекунад. Аз ин рӯ, <strong>муҳим аст, ки ҳамеша нармафзори антивируси боэътимодро дар компютери худ дошта бошед</strong>. Шумо бояд <strong>ҳади ақал як маротиба дар як моҳ санҷиши пурраи компютерро иҷро кунед</strong>.</p>
+<p>Мутаассифона, аксари нармафзорҳои ройгони антивирус дар бозор компютери шуморо пурра ҳифз намекунанд. Истиснои назаррас ин Microsoft Defender мебошад, ки бо низоми оператсионии Microsoft Windows таҳия шудааст. Дар ҳолати <a href="https://cyber-star.org/tj/cs-articles/how-to-make-windows-defender-more-secure-tj/">танзими дуруст</a>, Microsoft Defender аз бисёр платформаҳои антивирусӣ бартарӣ дорад.</p>
+<p>Нармафзори зараровар зуд инкишоф меёбад. <strong>Боварӣ ҳосил кунед, ки нармафзори антивирусӣ навсозӣ шудааст ва навсозӣ ба таври худкор фаъолият мекунад</strong>.</p>
+<h2>5. Ҳифзи компютер бо гузарвожа ва басташавии экран</h2>
+<p>Албатта шумо намехоҳед, ки дар вақти набуданатон касе ба файлҳои шумо дастрасӣ дошта бошад, нармафзори ҷосусӣ насб кунад ё танзимоти амниятиро дар компютер тағйир диҳад. <strong>Компютери худро бо гузарвожаи қавӣ ҳифз кунед</strong>. Пас аз як муддати кӯтоҳи ғайрифаъолият <strong>Басташавии экрани компютерро ба таври худкор фаъол кунед</strong>.</p>
+<blockquote><p>Барои гузоштан ё тағйир додани гузарвожа дар дастгоҳи Windows 10 <a href="https://cyber-star.org/tj/cs-articles/how-to-set-or-change-a-password-in-windows-10-tj/">ин дастур</a>-ро пайравӣ кунед.</p></blockquote>
+<p>Инчунин, ҳар дафъае, ки аз дастгоҳ дур мешавед <strong>ба таври дастӣ қулф кардани экрани дастгоҳро фаромӯш накунед</strong>.</p>
+<p><img decoding="async" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>6. Аккаунти корбари оддиро барои иҷрои вазифаҳои ҳаррӯза истифода баред</h2>
+<p>Эҳтимолан компютери шахсии худро тавассути аккаунти Администратор истифода мебаред. Аммо на ҳамеша ин фикри оқилона буда метавонад. Агар афзори зараровар насб шавад, замимаи сироятшударо кушоед ё ҳангоми истифодаи аккаунти Администратор пайвандии нодурустро клик кунед, ин амалҳо метавонанд барои дастгоҳ ё иттилооти дар он мавҷуда оқибатҳои фалокатовар дошта бошанд.</p>
+<p>Аз ҳамин сабаб, сохти аккаунти корбари оддӣ бо имтиёзҳои маҳдуд барои корҳои ҳаррӯза фикри оқилонаест. Шумо ҳамеша метавонед ба аккаунти Администратор барои иҷрои вазифаҳои махсус, ба монанди насби нармафзор, ворид шавед. Ҳангоми истифодаи муштараки компютер бо корбари дигар, сохтани аккаунти алоҳида муҳим аст.</p>
+<h2>7. Компютери худро ҷисман ҳифз кунед</h2>
+<p>Ин метавонад оддӣ садо диҳад, аммо шумо инчунин бояд компютери худро аз гум шудан ё рабудан муҳофизат кунед. Мутаассифона, ин ду воқеа зуд-зуд рӯй медиҳанд. Ҳеҷ гоҳ дастгоҳи худро дар ҷое, ки дуздида шуданаш мумкин аст, беназорат нагузоред. Ҳангоми сафар ё боздид аз ҷойҳое, ки боздории дастгоҳҳои рақамиро талаб карда мешавад, аз қабили фурудгоҳҳо, идораҳои давлатӣ ва сафоратхонаҳо, гузоштани компютери худро дар хона ба назар гиред. Агар аксар вақт ноутбукро дар ҷои нимҷамъиятӣ, ба монанди мактаб, марказҳои чамъиятй ё қаҳвахона истифода баред, харидани сими муҳофизатро ба назар гиред.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-keep-your-computer-safe-and-secure-tj/">Чӣ тавр бояд компютери худро бехатар ва эмин нигоҳ дошт</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Нармафзорро дар Windows 10 чӣ гуна навсозӣ кард</title>
+		<link>https://cyber-star.org/tj/cs-articles/how-to-update-software-in-windows-10-tj/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:53:13 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1021</guid>
+
+					<description><![CDATA[<p>Қисми муҳими бехатар нигоҳ доштани компютери шумо ин таъмин намудани навсозии нармафзор дар он мебошад. Муҳимтарин нармафзор дар дастгоҳи шумо низоми оператсионӣ мебошад. Microsoft навсозиҳои Windows 10-ро бо хусусиятҳои нав ва часбҳои муҳими амниятӣ зуд-зуд мебарорад. Навсозиҳои худкор танзимоти пешфарз дар Windows 10 мебошанд, аммо шумо метавонед танзим кунед, ки чӣ гуна ва кай ин [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-update-software-in-windows-10-tj/">Нармафзорро дар Windows 10 чӣ гуна навсозӣ кард</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Қисми муҳими бехатар нигоҳ доштани компютери шумо ин таъмин намудани навсозии нармафзор дар он мебошад. Муҳимтарин нармафзор дар дастгоҳи шумо низоми оператсионӣ мебошад. Microsoft навсозиҳои Windows 10-ро бо хусусиятҳои нав ва часбҳои муҳими амниятӣ зуд-зуд мебарорад. Навсозиҳои худкор танзимоти пешфарз дар Windows 10 мебошанд, аммо шумо метавонед танзим кунед, ки чӣ гуна ва кай ин навсозиҳо рӯй медиҳанд.</p>
+<p>Дар мавриди ҳама барномаҳои дигари компютери шумо, онҳо низ баъзан навсозиҳои муҳим мегиранд. Ин ба шумо вобаста аст, ки оё шумо мехоҳед онҳоро дастӣ навсозӣ кунед ё низоми оператсиониро барои навсозии онҳо ба таври худкор танзим кунед. Агар шумо навсозиҳои дастӣ интихоб кунед, шумо бояд дастикам як маротиба дар як моҳ навсозиро тафтиш ва насб кунед.</p>
+<p>Лутфан қайд кунед, ки барои ворид кардани ин тағйирот, шумо бояд дар дастгоҳи худ бо ҳисоби администратор ворид шавед.</p>
+<h2>Навсозии худкори Windows 10-ро танзим кунед</h2>
+<p>Барои дидани навсозиҳои интизоршудаи Windows 10 ва танзим кардани он, ки чӣ гуна ва кай навсозиҳои худкор рӯй медиҳанд, тугмаи <strong>Оғоз</strong>-ро коик занед ва ба <strong>Танзимот</strong> гузаред.</p>
+<p><img decoding="async" class="size-full wp-image-361 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg" alt="Accessing Windows Settings on Windows 10" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Пас ба <strong>Навсозӣ ва амният</strong> гузаред ва дар менюи чап, <strong>Навсозии Windows</strong>-ро интихоб кунед.</p>
+<p><img decoding="async" class="size-full wp-image-359 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg" alt="Windows Settings Update &amp; Security" width="1365" height="724" srcset="https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-300x159.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-1024x543.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-768x407.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/settings_update_security-1200x636.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p><img decoding="async" class="size-full wp-image-362 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg" alt="Windows Update under Update &amp; Security" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_update.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_update-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Дар ин ҷо шумо метавонед ҳама навсозиҳои интизоршударо бинед. Барои танзим кардани навсозиҳои худкори Windows 10, ба поёни экран гузаред ва ба <strong>Имконоти пешрафта</strong> гузаред.</p>
+<p>Шумо метавонед дар ин ҷо тағйирот ворид кунед. Агар ин рӯй диҳад, сабаби эҳтимоли бештар дар он аст, ки компютери шумо як қисми &#8220;домени Windows&#8221; аст. Аксар вақт ин маънои онро дорад, ки компютери шумо аз ҷониби ширкате, ки шумо дар он кор мекунед, идора карда мешавад.</p>
+<p><img decoding="async" class="size-full wp-image-353 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg" alt="Windows Update Advanced options" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/advanced_options.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/advanced_options-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Дар зери <strong>Имконоти пешрафта</strong> опсияи <strong>Намоиши огоҳинома вақте, ки компютери шумо бозоғозро талаб мекунад фаъол</strong> кунед. Ин кафолат медиҳад, ки шумо ҳар дафъае, ки компютери шумо пас аз навсозии муҳим бозоғозро талаб мекунад, огоҳ мешавед.</p>
+<p><img decoding="async" class="size-full wp-image-360 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg" alt="Windows Settings Update notifications switch" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/update_notifications.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/update_notifications-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>Ҳамчунин, боварӣ ҳосил кунед, ки ягон сана дар менюи афтанда <b>Интихоби сана</b> дар зери <strong>Таваққуфи навсозиҳо</strong> муқаррар карда нашудааст. Муайян кардани сана дар ин майдон навсозиро то санаи интихобшуда ба таъхир меандозад.</p>
+<p><img decoding="async" class="size-full wp-image-358 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg" alt="Windows Settings Pause updates" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/pause_updates.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/pause_updates-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2>Барномаҳои дигар: навсозиҳои худкорро фаъол созед ё навсозиҳоро дастӣ насб кунед</h2>
+<p>Шумо метавонед аксари барномаҳои дигарро ба таври худкор тавассути Бозори Microsoft дар Windows 10 навсозӣ кунед. Барои ин, тугмаи <strong>Оғоз</strong>-ро интихоб кунед ва ба <strong>Бозори Microsoft</strong> гузаред.</p>
+<p><img decoding="async" class="size-full wp-image-357 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg" alt="Accessing Microsoft Store on Windows 10" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/microsoft_store-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Дар Бозори Microsoft, дар тарафи рости боло, се нуқтаро пахш кунед (··· ) барои гузаштан ба менюи аккаунтатон ва он гоҳ <strong>Танзимотро</strong> дар менюи афтанда интихоб кунед.</p>
+<p><img decoding="async" class="size-full wp-image-351 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg" alt="Microsoft Store account menu" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_menu.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/account_menu-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_menu-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img decoding="async" class="size-full wp-image-352 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg" alt="Microsoft Store account settings" width="800" height="632" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_settings.jpg 800w, https://cyber-star.org/wp-content/uploads/2021/07/account_settings-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_settings-768x607.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>Дар менюи <b>Танзимот</b>, шумо метавонед навсозиҳои худкорро барои ҳама барномаҳо дар компютери худ (ба ғайр аз низоми оператсионӣ) насб кунед. Барои ин, <strong>Навсозии барномаҳо ба таври худкор</strong> ба <strong>Фаъол</strong> дар зери <strong>Навсозии барномаҳо</strong> дар болои тиреза танзим кунед.</p>
+<p><img decoding="async" class="size-full wp-image-354 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg" alt="Microsoft Store App updates switch" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/app_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/app_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/app_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Агар шумо нахоҳед, ки барномаҳо дар компютери шумо ба таври худкор навсозӣ шаванд, шумо метавонед ҳамаи навсозиҳои мавҷударо тафтиш кунед ва онҳоро дастӣ насб кунед. Барои ин, ба <strong>Бозори Microsoft</strong> равед ва се нуқтаро (···) дар тарафи рости боло пахш кунед, то ба менюи аккаунт гузаред. Дар менюи афтанда <strong>Зеркашӣ ва навсозӣ</strong>-ро интихоб кунед.</p>
+<p><img decoding="async" class="size-full wp-image-355 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg" alt="Microsoft Store Downloads and updates" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/downloads_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Дар ин ҷо шумо метавонед ҳамаи навсозиҳои дастрасро барои барномаҳо дар компютери хуб бубинед (ба ғайр аз низоми оператсионӣ). Барои насб кардани навсозиҳо, ба <strong>Гирифтани навсозиҳо</strong> клик занед.</p>
+<p>Дар хотир доред, ки агар шумо нармафзорро дар компютери худ дастӣ навсозӣ кунед, шумо бояд онро зуд-зуд иҷро кунед. Мо тавсия медиҳем, ки шумо дастикам як маротиба дар як моҳ навсозиро санҷед ва насб кунед.</p>
+<p><img decoding="async" class="size-full wp-image-356 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg" alt="Microsoft Store Get updates button" width="1000" height="790" srcset="https://cyber-star.org/wp-content/uploads/2021/07/get_updates.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-300x237.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/get_updates-768x607.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-update-software-in-windows-10-tj/">Нармафзорро дар Windows 10 чӣ гуна навсозӣ кард</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Чӣ гуна гузарвожаро дар Windows 10 насб кард ё тағйир дод</title>
+		<link>https://cyber-star.org/tj/cs-articles/how-to-set-or-change-a-password-in-windows-10-tj/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:53:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1022</guid>
+
+					<description><![CDATA[<p>Намехоҳед, дар вақти набудан касе дар файлҳои шумо дастрасӣ дошта бошад, нармафзори ҷосусӣ насб кунад ё танзимоти амниятиро дар компютери тағйир диҳад. Барои муҳофизат кардани дастгоҳи Windows 10 бо гузарвожа ё тағйир додани гузарвожа қадамҳои зеринро иҷро кунед. Лутфан таваҷҷӯҳ намоед, ки барои ворид кардани ин тағйирот, бояд дар дастгоҳи худ ҳамчун администратор ворид шавед. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-set-or-change-a-password-in-windows-10-tj/">Чӣ гуна гузарвожаро дар Windows 10 насб кард ё тағйир дод</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Намехоҳед, дар вақти набудан касе дар файлҳои шумо дастрасӣ дошта бошад, нармафзори ҷосусӣ насб кунад ё танзимоти амниятиро дар компютери тағйир диҳад. Барои муҳофизат кардани дастгоҳи Windows 10 бо гузарвожа ё тағйир додани гузарвожа қадамҳои зеринро иҷро кунед.</p>
+<p>Лутфан таваҷҷӯҳ намоед, ки барои ворид кардани ин тағйирот, бояд дар дастгоҳи худ ҳамчун администратор ворид шавед.</p>
+<h2>Танзими гузарвожаи дастгоҳ</h2>
+<p>Барои насб кардани гузарвожа дар дастгоҳи Windows 10, ки бо гузарвожа ҳафз нашудааст, ин қадамҳоро иҷро кунед.</p>
+<p>1. Тугмаи <b>Оғоз</b>-ро дар поёни чапи экран пахш кунед ва ба <strong>Танзимот</strong> гузаред.</p>
+<p><img decoding="async" class="size-full wp-image-361 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg" alt="Accessing Windows Settings on Windows 10" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/windows_settings.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/windows_settings-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>2. Ба <strong>Аккаунтҳо</strong> гузаред.</p>
+<p><img decoding="async" class="size-full wp-image-376 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/settings_accounts-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>3. Дар менюи тарафи чап <strong>Имконоти воридшавӣ</strong> -ро интихоб кунед</p>
+<p><img decoding="async" class="size-full wp-image-377 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/signin_options.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/signin_options-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>4. Аз рӯйхати имконоти вуруд <strong>Гузарвожа</strong>-ро интихоб кунед ва <strong>Илова кардан</strong>-ро клик кунед.</p>
+<p><img decoding="async" class="size-full wp-image-365 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/account_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/account_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p><img decoding="async" class="size-full wp-image-366 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/add_signin_option-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>5. Ба қутти гузарвожаро ворид кунед, тасдиқ кунед ва <b>Оянда</b> -ро клик кунед. Таваҷҷӯҳ кунед, то <a href="https://cyber-star.org/tj/cs-articles/how-to-create-strong-passwords-tj/">гузарвожа қавӣ бошад</a>.</p>
+<p><img decoding="async" class="size-full wp-image-370 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/create_a_passsword-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>5. <b>Анҷом</b>-ро клик занед. Акнун мутмаъин бошед, ки ҳар як корбаре, ки ба ғайр аз шумо компютерро истифода мебарад, <a href="#password-mandatory">танҳо</a> бо ворид кардани гузарвожа дастгоҳро истифода бурда метавонад.</p>
+<p><img decoding="async" class="size-full wp-image-372 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_creating_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2>Ивази гузарвожа дар дастгоҳ</h2>
+<p>Барои иваз кардани гузарвожаи мавҷуда ин қадамҳоро иҷро кунед &#8211; масалан, вақте ки шумо мехоҳед гузарвожаи қавиро истифода баред.</p>
+<p>1. Ба менюи воридшавӣ гузаред (<strong>Оғоз &gt; Танзимот &gt; Аккаунтҳо &gt; Имконоти воридшавӣ</strong>).</p>
+<p>2. Аз рӯйхати имконоти вуруд <b>Гузарвожа</b>-ро интихоб кунед ва <strong>Тағйирот</strong>-ро клик занед.</p>
+<p><img decoding="async" class="size-full wp-image-368 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_device_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_device_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>3. Гузарвожаи ҷории худро ворид кунед ва <strong>Оянда</strong>-ро клик занед.</p>
+<p><img decoding="async" class="size-full wp-image-369 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/change_your_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/change_your_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>4. Гузарвожаи навро ворид карда, тасдиқ кунед ва <b>Оянда</b> -ро клик занед. Ҳамеша <a href="https://cyber-star.org/tj/cs-articles/how-to-create-strong-passwords-tj/">гузарвожаи қавиро истифода баред</a>.</p>
+<p><img decoding="async" class="size-full wp-image-374 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/next_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<p>5. <strong>Анҷом</strong>-ро клик занед.</p>
+<p><img decoding="async" class="size-full wp-image-371 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg" alt="" width="1365" height="766" srcset="https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password.jpg 1365w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-300x168.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-768x431.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/finish_changing_a_password-1200x673.jpg 1200w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2><a id="password-mandatory" name="password-mandatory"></a>Гузарвожаи дастгоҳро ҳатмӣ кунед</h2>
+<p>Акнун, ки гузарвожаи дастгоҳро дар компютери Windows 10 насб кардаед, инчунин бояд барои ҳар корбаре, ки мехоҳад ба компютер дастрасӣ пайдо кунад, ворид кардани гузарвожаро ҳатмӣ созед.</p>
+<p>1. Тугмаи <b>Оғоз</b>-ро дар поёни чапи экран пахш кунед ва дар қуттии ҷустуҷӯ “<strong>netplwiz</strong>”-ро ҷустуҷӯ кунед. Натиҷаи боло бояд барномаи бо номи netplwiz бошад. Барои кушодани барнома <strong>netplwiz</strong> -ро клик занед.</p>
+<p><img decoding="async" class="size-full wp-image-375 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/search_netplwiz-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>2. Дар равзанаи кушодашуда <strong>&#8220;Вориди ҳатмии ном ва гузарвожа барои корбарони ин компютер&#8221;</strong> фаъол созед.</p>
+<p><img decoding="async" class="wp-image-373 size-full aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/must_enter_name_password-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>3. <strong>Фаъол кардан</strong>-ро палмосед.</p>
+<p><img decoding="async" class="size-full wp-image-367 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg" alt="" width="1210" height="680" srcset="https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement.jpg 1210w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-300x169.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1024x575.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-768x432.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/07/apply_password_requirement-1200x674.jpg 1200w" sizes="(max-width: 1210px) 100vw, 1210px" /></p>
+<p>4. Дар ҳолати қабул шудани дархост, барои тасдиқи тағйирот гузарвожаии худро ворид кунед ва <strong>ОК</strong>-ро клик занед.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-set-or-change-a-password-in-windows-10-tj/">Чӣ гуна гузарвожаро дар Windows 10 насб кард ё тағйир дод</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Чӣ тавр Windows Defender-ро амнтар метавон кард</title>
+		<link>https://cyber-star.org/tj/cs-articles/how-to-make-windows-defender-more-secure-tj/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:53:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1023</guid>
+
+					<description><![CDATA[<p>ҲУШДОР: Ин мундариҷа барои корбарони дорои малакаи миёна то пешрафтаи истифодаи Windows таҳия шудааст. Иҷрои ин дастурҳо эҳтимол ба кори баъзе нармафзорҳои компютери шумо таъсири манфӣ расонад. Агар шумо аз чунин натиҷа роҳат нестед ва ё аз малакаи техникии худ шубҳа доред, тавсия медиҳем, ки ин дастурро татбиқ накунед. Windows Defender Windows Defender (инчунин маъруф [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-make-windows-defender-more-secure-tj/">Чӣ тавр Windows Defender-ро амнтар метавон кард</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>ҲУШДОР: Ин мундариҷа барои корбарони дорои малакаи миёна то пешрафтаи истифодаи Windows таҳия шудааст. Иҷрои ин дастурҳо эҳтимол ба кори баъзе нармафзорҳои компютери шумо таъсири манфӣ расонад. Агар шумо аз чунин натиҷа роҳат нестед ва ё аз малакаи техникии худ шубҳа доред, тавсия медиҳем, ки ин дастурро татбиқ накунед.</p>
+<h2>Windows Defender</h2>
+<p>Windows Defender (инчунин маъруф бо номи Microsoft Defender) дар тӯли солҳои зиёд бо бастаи Microsoft Windows таъмин карда мешавад. Аммо дар бастани нармафзори зараровар чандон хуб набуд. Бо вуҷуди ин, дар солҳои охир имкони беҳтар кардани Windows Defender бо фаъол кардани баъзе хусусиятҳое, ки бисёре аз корбарони муқаррарӣ аз онҳо хабар надоранд, пайдо шуд. Бо чунин насбкуниҳо Windows Defender аз аксари антивирусҳои номдор ҳеҷ мондание надорад.<br />
+Матлаби мазкур барои фаъол кардани чунин хусусиятҳо роҳнамои шумо буда метавонад. Лутфан дар хотир дошта бошед, ки Windows ин хусусиятҳоро ба таври нобаёнӣ аз тарси он, ки ба мутобиқати барнома халал мерасонад, фаъол намекунад. Агар шумо ин хусусиятҳоро фаъол созед, баъзе барномаҳо <em>метавонанд дуруст кор накунанд</em>. Хушбахтона, барқарор кардани Windows Defender ба кори &#8220;муқаррарӣ&#8221; ҳамон қадар осон аст, ҳамчун бастани он. Дастурҳо дар бораи иҷрои ин амал низ дар ин ҷо оварда шудаанд.</p>
+<h2>Талаботи системаи амалиётӣ</h2>
+<ul>
+<li>Windows 10 Professional ё Enterprise версияи 1709 ё дертар. Шумо метавонед бо интихоби тугмаи Оғоз &gt; Танзимот &gt; Система &gt; Дар Бораи &gt; кадом версияи Windows-ро доред пайдо кунед. Дар доираи мушаххасоти Windows, шумо метавонед санҷед, кадом нашр ва версияи Windowsро дастгоҳи шумо истифода мебарад.</li>
+<li>Агар шумо Windows 10 Home -ро истифода баред, ин дастурҳо ба шумо кӯмак намекунанд. Дар ин ҳолат, шумо бояд дастгоҳи худро тавассути харидани як нармафзори антивируси боэътимоди тарафи сеюм муҳофизат кунед.</li>
+<li>Бисёре аз ин танзимот кор намекунанд, агар компютери Windows-и шумо қисми домен бошад ва мудири системаи шумо танзимоти алтернативӣ гузошта бошад.</li>
+</ul>
+<h2>Таъмини Microsoft Defender</h2>
+<ol>
+<li>Configure Defender-ро зеркашӣ кунед ё рамзи сарчашмаи онро дар <a href="https://github.com/AndyFul/ConfigureDefender" target="_blank" rel="noopener">ин ҷо</a> тафтиш кунед. Ин утилит танҳо интерфейси графикии корбар (GUI) аст, ки муҳофизати Windows Defender-ро осонтар мекунад.</li>
+<li>Пас аз зеркашӣ, асбобро ду маротиба клик кунед. Шумо метавонед ҳар гуна танзимоти амниятиро, ки ба шумо маъқул аст, интихоб кунед, аммо барои муҳофизати ҳадди аксар тавсия медиҳем, ки тугмаи <strong>High</strong>-ро пахш кунед ва пас аз он имконоти мувофиқро ба скриншотҳои дар поён оварда шуда тағйир диҳед. Ин танзимот тавозуни хуби умумии байни амният ва нороҳатиро, ки танзимот метавонад ба шумо расонад, таъмин мекунад.
+<ul>
+<li>Танзимоти интихобшуда (берун аз <strong>High</strong>) инҳоянд: <strong>Дуздии маълумоти эътимодномаро аз зерсистемаи мақомоти маҳаллии амниятии Windows манъ кунед</strong> (lsass.exe) &#8211; ON</li>
+<li><strong>Офаридаҳои равандро, ки аз фармонҳои PSExec ва WMI сарчашма мегиранд, блок кунед</strong> &#8211; ON</li>
+<li><strong>Дастрасӣ ба ҷузвдонҳои назоратшаванда</strong> &#8211; ON<br />
+<img decoding="async" class="alignnone size-full wp-image-334" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png" alt="Configure Defender settings" width="534" height="575" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37.png 534w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_37-279x300.png 279w" sizes="(max-width: 534px) 100vw, 534px" /><br />
+<img decoding="async" class="alignnone size-full wp-image-335" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_02_55-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /><br />
+<img decoding="async" class="alignnone size-full wp-image-336" src="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png" alt="Configure Defender settings" width="530" height="580" srcset="https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07.png 530w, https://cyber-star.org/wp-content/uploads/2021/06/Screenshot_win10-SecDev_2021-03-09_09_03_07-274x300.png 274w" sizes="(max-width: 530px) 100vw, 530px" /></li>
+</ul>
+</li>
+<li>Пас аз анҷом додани ин тағйирот, Close-ро клик кунед ва компютери худро бозоғоз намоед.</li>
+</ol>
+<h2>Бартараф кардани танзимоти антивируси Windows Defender</h2>
+<p>Агар пас аз ворид кардани тағйиротҳои дар боло тавсифшуда шумо баъзе барномаҳоро кушода натавонед, шумо ҳамеша метавонед Windows Defender-ро ба танзимоти аслӣ баргардонед ва асбоби Configure Defender -ро боз кушоед ва тугмаи &#8220;Пешфарз&#8221; ва сипас Пӯшед. Шумо бояд компютери худро бозоғоз намоед, то ин ки тағйирот эътибор пайдо кунад.</p>
+<h2>Дастурҳои иловагӣ (қисми сеюм)</h2>
+<ul>
+<li><a title="Windows Defender with these settings" href="https://www.youtube.com/watch?v=ep_25HIArXc" target="_blank" rel="noopener">Windows Defender бо ин танзимот</a></li>
+<li><a title="Windows Defender with default settings" href="https://www.youtube.com/watch?v=ZbYx8V2RTjc" target="_blank" rel="noopener">Windows Defender бо танзимоти пешфарз</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/tj/cs-articles/how-to-make-windows-defender-more-secure-tj/">Чӣ тавр Windows Defender-ро амнтар метавон кард</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/tj">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

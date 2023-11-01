@@ -12,14 +12,544 @@
 	<atom:link href="https://cyber-star.org/cs-types/explainer/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/cs-types/explainer/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 21 Jun 2023 18:01:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Oct 2023 23:49:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>Top 100 Worst Passwords in 2022</title>
+		<link>https://cyber-star.org/cs-articles/top-100-worst-passwords-in-2022/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 17:53:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1261</guid>
+
+					<description><![CDATA[<p>Your digital safety starts with strong passwords. Unfortunately, hundreds of millions of Internet users around the world continue using passwords that are extremely easy to crack. These include easy-to-predict words (e.g. “password”), memorable keyboard sequences (e.g. “qwerty”, “123456”), or popular culture references (e.g. “superman”). Below is a list of the top 100 most common passwords [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/top-100-worst-passwords-in-2022/">Top 100 Worst Passwords in 2022</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Your digital safety starts with <a href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong passwords</a>. Unfortunately, hundreds of millions of Internet users around the world continue using passwords that are extremely easy to crack. These include easy-to-predict words (e.g. “password”), memorable keyboard sequences (e.g. “qwerty”, “123456”), or popular culture references (e.g. “superman”).</p>
+<p>Below is a list of the top 100 most common passwords in 2022, <a href="https://nordpass.com/most-common-passwords-list/" target="_blank" rel="noopener">compiled by NordPass</a>. Most of the entries on this list were also included in the lists of the easiest to crack passwords in previous years. In addition to individual passwords, the list also indicates how long it will take a hacker to crack each password. If your password looks even remotely similar to one on this list, change it immediately. A reliable <a href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">password manager</a> will help you create and remember strong passwords.</p>
+<div class="table-wrapper">
+<table class="table-full-width">
+<tbody>
+<tr>
+<td><b>Rank</b></td>
+<td><b>Password</b></td>
+<td><b>Time to crack</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>password</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>2</td>
+<td>123456</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>3</td>
+<td>123456789</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>4</td>
+<td>guest</td>
+<td>10 seconds</td>
+</tr>
+<tr>
+<td>5</td>
+<td>qwerty</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>6</td>
+<td>12345678</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>7</td>
+<td>111111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>8</td>
+<td>12345</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>9</td>
+<td>col123456</td>
+<td>11 seconds</td>
+</tr>
+<tr>
+<td>10</td>
+<td>123123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>11</td>
+<td>1234567</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1234</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>13</td>
+<td>1234567890</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>14</td>
+<td>000000</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>15</td>
+<td>555555</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>16</td>
+<td>666666</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>17</td>
+<td>123321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>18</td>
+<td>654321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>19</td>
+<td>7777777</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>20</td>
+<td>123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>21</td>
+<td>D1lakiss</td>
+<td>3 hours</td>
+</tr>
+<tr>
+<td>22</td>
+<td>777777</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>23</td>
+<td>110110jp</td>
+<td>3 seconds</td>
+</tr>
+<tr>
+<td>24</td>
+<td>1111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>25</td>
+<td>987654321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>26</td>
+<td>121212</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Gizli</td>
+<td>10 seconds</td>
+</tr>
+<tr>
+<td>28</td>
+<td>abc123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>29</td>
+<td>112233</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>30</td>
+<td>azerty</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>31</td>
+<td>159753</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>32</td>
+<td>1q2w3e4r</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>33</td>
+<td>54321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>34</td>
+<td>pass@123</td>
+<td>2 seconds</td>
+</tr>
+<tr>
+<td>35</td>
+<td>222222</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>36</td>
+<td>qwertyuiop</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>37</td>
+<td>qwerty123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>38</td>
+<td>qazwsx</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>39</td>
+<td>vip</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>40</td>
+<td>asdasd</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>41</td>
+<td>123qwe</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>42</td>
+<td>123654</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>43</td>
+<td>iloveyou</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>44</td>
+<td>a1b2c3</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>45</td>
+<td>999999</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Groupd2013</td>
+<td>3 hours</td>
+</tr>
+<tr>
+<td>47</td>
+<td>1q2w3e</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>48</td>
+<td>usr</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Liman1000</td>
+<td>3 hours</td>
+</tr>
+<tr>
+<td>50</td>
+<td>1111111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>51</td>
+<td>333333</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>52</td>
+<td>123123123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>53</td>
+<td>9136668099</td>
+<td>4 days</td>
+</tr>
+<tr>
+<td>54</td>
+<td>11111111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>55</td>
+<td>1qaz2wsx</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>56</td>
+<td>password1</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>57</td>
+<td>mar201t</td>
+<td>17 minutes</td>
+</tr>
+<tr>
+<td>58</td>
+<td>987654321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>59</td>
+<td>gfhjkm</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>60</td>
+<td>159357</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>61</td>
+<td>abcd1234</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>62</td>
+<td>131313</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>63</td>
+<td>789456</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>64</td>
+<td>luzit2000</td>
+<td>17 minutes</td>
+</tr>
+<tr>
+<td>65</td>
+<td>aaaaaa</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>66</td>
+<td>zxcvbnm</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>67</td>
+<td>asdfghjkl</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>68</td>
+<td>1234qwer</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>69</td>
+<td>88888888</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>70</td>
+<td>dragon</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>71</td>
+<td>987654</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>72</td>
+<td>888888</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>73</td>
+<td>qwe123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>74</td>
+<td>football</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>75</td>
+<td>3601</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>76</td>
+<td>asdfgh</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>77</td>
+<td>master</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>78</td>
+<td>samsung</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>79</td>
+<td>12345678910</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>80</td>
+<td>killer</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>81</td>
+<td>1237895</td>
+<td>2 seconds</td>
+</tr>
+<tr>
+<td>82</td>
+<td>1234561</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>83</td>
+<td>12344321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>84</td>
+<td>daniel</td>
+<td>5 seconds</td>
+</tr>
+<tr>
+<td>85</td>
+<td>000000</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>86</td>
+<td>444444</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>87</td>
+<td>101010</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>88</td>
+<td>fuckyou</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>89</td>
+<td>qazwsxedc</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>90</td>
+<td>789456123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>91</td>
+<td>super123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>92</td>
+<td>qwer1234</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>93</td>
+<td>123456789a</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>94</td>
+<td>823477aA</td>
+<td>30 minutes</td>
+</tr>
+<tr>
+<td>95</td>
+<td>147258369</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>96</td>
+<td>unknown</td>
+<td>17 seconds</td>
+</tr>
+<tr>
+<td>97</td>
+<td>98765</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>98</td>
+<td>q1w2e3r4</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>99</td>
+<td>232323</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>100</td>
+<td>102030</td>
+<td>&lt; 1 second</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/top-100-worst-passwords-in-2022/">Top 100 Worst Passwords in 2022</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Why You Should Say Goodbye to Windows 10 Soon</title>
 		<link>https://cyber-star.org/cs-articles/why-you-should-say-goodbye-to-windows-10-soon/</link>
 		
@@ -169,7 +699,7 @@
 <p>Phishing tactics are constantly evolving. Phishing emails often mimic the style and use real logos of legitimate organizations to fool you. Yet many phishing emails have one or several of the common features listed below that can help you spot such attacks:</p>
 <ul>
 <li><strong>Fake email addresses</strong> that look real to fool you. For example, attackers may pose as Amazon to try to steal your credentials by fooling you into “updating” or “confirming” your details. You should realize that something is off when that email comes from an address ending in @amazonheadoffice.com or @amazzon.com, rather than @amazon.com. Also, it is worth keeping in mind that no legitimate and large organization will send you emails from an address ending in @gmail.com, @mail.ru or any other email platform designed for the general public.</li>
-<li><strong>Embedded links</strong> which, when you click on them, take you to fake websites seeded with malware. Never click on links without first checking where they take you. You can see the full website address by hovering your muse over a link.Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a title="Norton Safe Web" href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a> (https://safeweb.norton.com)./ Use extra caution when dealing with shortened URL links. To check the real URL link behind a shortened one, use a free online service such as <a title="Unshorten that URL" href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a> (https://unshorten.it)./</li>
+<li><strong>Embedded links</strong> which, when you click on them, take you to fake websites seeded with malware. Never click on links without first checking where they take you. You can see the full website address by hovering your muse over a link.Before clicking on a link that you find even a tiny bit suspicious, scan it with a link scanner such as <a title="Norton Safe Web" href="https://safeweb.norton.com/" target="_blank" rel="noopener">Norton Safe Web</a>. Use extra caution when dealing with shortened URL links. To check the real URL link behind a shortened one, use a free online service such as <a title="Unshorten that URL" href="https://unshorten.it/" target="_blank" rel="noopener">UnshortenIt</a>.</li>
 <li><strong>Attachments</strong> that infect your device with malware once you open them. It is one of the most basic digital safety rules that you should never open attachments from senders you do not know or do not trust fully. Also, legitimate organizations will never send you attachments unless you specifically ask them to forward you something.</li>
 <li><strong>Poor grammar or weird language.</strong> Scammers using mass emails to carry out phishing attacks often target people in dozens of different countries. Instead of investing in translating their messages and customizing them to better target local audiences, they use free online translations services. As a result, phishing emails often use unnatural or plainly weird language and contain grammatical errors.</li>
 <li><strong>Generic salutation</strong> instead of your name. When an email begins with a generic salutation such as “Dear customer,” “Dear account holder,” or “Dear valued member,” this should immediately make you suspicious. Legitimate organizations contacting you will often know your name.</li>
@@ -217,7 +747,7 @@
 <p>You do not want anyone to poke around your files, install spyware or change security settings on your computer when you are not around. <strong>Protect your computer with a strong password</strong>. <strong>Enable the computer to lock your screen automatically</strong> after a brief period of inactivity.</p>
 <blockquote><p>Follow <a title="How to Set or Change a Password in Windows 10" href="https://cyber-star.org/cs-articles/how-to-set-or-change-a-password-in-windows-10/">this guide</a> to set or change a password on a Windows 10 device.</p></blockquote>
 <p>Also, <strong>make sure you remember how to lock the screen on your device manually</strong> and remember to do this every time you step away from the device.</p>
-<p><img decoding="async" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" fetchpriority="high" class="size-full wp-image-332 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg" alt="Illustration showing the keyboard shortcuts to lock your computer on Windows and Mac" width="1600" height="1107" srcset="https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-300x208.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1024x708.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-768x531.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1536x1063.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/how-to-lock-computer-1200x830.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
 <h2>6. Use a limited-privilege User Account for everyday tasks</h2>
 <p>If you own a computer, you are most likely using it through an Administrator Account. This might not always be a good idea. If you install a malware-infected app, open an infected attachment or click on a wrong link while using an Administrator Account, these actions may have disastrous consequences for your device or data on it.</p>
 <p>So it is a good idea to create a separate User Account with limited privileges and use it for everyday tasks. You can always log in the Administrator Account for special tasks such as software installation. It is particularly important to create separate User Accounts when you share a computer with other people.</p>
@@ -343,50 +873,19 @@
 <p>Below is a list of the most common mistakes users make when trying to strengthen their passwords. Do not make these mistakes.</p>
 <ul>
 <li><strong>Adding a number at the end<br />
-</strong></p>
-<p>Many users mistakenly believe that they make their passwords strong by adding a number at the end. Most often it is a single-digit number, commonly <em>1</em>. Hackers know this, and when they try to crack a password, they assume that it follows this common pattern.</p>
+</strong>Many users mistakenly believe that they make their passwords strong by adding a number at the end. Most often it is a single-digit number, commonly <em>1</em>. Hackers know this, and when they try to crack a password, they assume that it follows this common pattern.</p>
 <p><span style="color: #c01d24;">To create a genuinely strong password, add several random numbers in a random order.</span></li>
 <li><strong>Capitalizing the first letter<br />
-</strong></p>
-<p>Users also tend to create passwords with a single upper-case letter, typically by capitalizing the first letter in a password. Again, this is something hackers know and use to crack passwords.</p>
-<p><span style="color: #c01d24;"><span style="color: #c01d24;">To create a strong password, use random combinations of upper-case and lower-case letters.</span></span></li>
+</strong>Users also tend to create passwords with a single upper-case letter, typically by capitalizing the first letter in a password. Again, this is something hackers know and use to crack passwords.</p>
+<p><span style="color: #c01d24;">To create a strong password, use random combinations of upper-case and lower-case letters.</span></li>
 <li><strong>Adding a special character at the end<br />
-</strong></p>
-<p>Another common mistake users make is adding a single special character at the end of a password. Most often the character they go for is <em>!</em>. Adding a special character in this way does not really make a password much more difficult to crack.</p>
-<p><span style="color: #c01d24;"><br />
-To create a genuinely strong password, add several randomly selected special characters in a random order.</span></li>
+</strong>Another common mistake users make is adding a single special character at the end of a password. Most often the character they go for is <em>!</em>. Adding a special character in this way does not really make a password much more difficult to crack.</p>
+<p><span style="color: #c01d24;">To create a genuinely strong password, add several randomly selected special characters in a random order.</span></li>
 <li><strong>Using common words or character sequences<br />
-</strong></p>
-<p>You would be surprised to know how many users have the same common words (e.g. <em>password, welcome, football, superman</em>, etc.) or computer keyboard sequences (e.g. <em>qwerty, asdfgh, qazwsx,</em> etc.) in their passwords. Hackers use all these words to crack passwords through brute force attacks. These attacks involve the use of software that tries different combinations of common words and characters until it finds the one that works. Other common words used in millions of passwords include first names, the names of cities, countries, and sports teams.</p>
+</strong>You would be surprised to know how many users have the same common words (e.g. <em>password, welcome, football, superman</em>, etc.) or computer keyboard sequences (e.g. <em>qwerty, asdfgh, qazwsx,</em> etc.) in their passwords. Hackers use all these words to crack passwords through brute force attacks. These attacks involve the use of software that tries different combinations of common words and characters until it finds the one that works. Other common words used in millions of passwords include first names, the names of cities, countries, and sports teams.</p>
 <p><span style="color: #c01d24;">To create a password that is really difficult to crack, use random combinations of upper-case and lower-case letters, numbers, and special characters, rather than common words or computer keyboard and smartphone patterns.</span></li>
 </ul>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/">Passwords That Look Strong But Aren’t</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Why All of Your Passwords Should Be Unique</title>
-		<link>https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/</link>
-		
-		<dc:creator><![CDATA[berker]]></dc:creator>
-		<pubDate>Thu, 10 Jun 2021 19:46:01 +0000</pubDate>
-				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=171</guid>
-
-					<description><![CDATA[<p>All of your accounts should have unique passwords that you have never used before. Even if you have the strongest password in the world, you are putting yourself at huge risk if you use it across multiple accounts. What happens when you reuse your passwords Let’s say you use the same password for your personal [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">Why All of Your Passwords Should Be Unique</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>All of your accounts should have unique passwords that you have never used before. Even if you have the <a title="How to Create Strong Passwords" href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strongest password</a> in the world, you are putting yourself at huge risk if you use it across multiple accounts.</p>
-<h3>What happens when you reuse your passwords</h3>
-<p>Let’s say you use the same password for your personal email, Facebook, and Instagram. If your email provider experiences a security breach (which happens much more often that we realize) and your user credentials are stolen, attackers will try using the stolen password and its slightly changed versions to log on to other sites as well. As a result, all of your accounts using the same password will be compromised.</p>
-<p>Reusing passwords is also a bad idea because, just like millions of other users across the world, you probably have a handful of accounts which you created at some point in the past and which have since been out there forgotten or used rarely. It is very likely that at least some of these accounts have been compromised. If an attacker has your email address which is linked to some of these accounts, it is easy to find all compromised accounts using this email address. It is also easy to get leaked passwords to all such accounts. So, if you reuse the same password or slightly changed versions of a single password across multiple accounts, an attacker can compromise all of these accounts by finding a single forgotten account of yours. This is called <em>password stuffing</em>.</p>
-<ul>
-<li>If you want to check if your email address(es) is linked to any accounts that have been leaked or compromised, you can use <a title="have i been pwned?" href="https://haveibeenpwned.com/" target="_blank" rel="noopener">this service</a>. Simply type the email address in the search field and click “pwned?”.</li>
-<li>If the email address has appeared in any account breaches, you will get a list of all the online services where your account credentials have been compromised in any way. Log in to each of these accounts and change your passwords as soon as possible. Also consider protecting your important accounts with <a title="Why You Should Use Two-Factor Authentication" href="https://cyber-star.org/cs-articles/why-you-should-use-two-factor-authentication/">two-factor authentication</a>. Remember, your passwords should be strong and unique. If you no longer use any of these accounts, consider deleting them.</li>
-</ul>
-<p>At this point, you might feel that having unique passwords for each and every account &#8211; and making sure that these passwords are genuinely strong &#8211; is a bit too much. How will you remember all these passwords? Well, you only need to remember a single strong password. A <a title="Why You Should Use a Password Manager" href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">password manager</a> will do the rest for you.</p>
-<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/why-all-of-your-passwords-should-be-unique/">Why All of Your Passwords Should Be Unique</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
 ]]></content:encoded>
 					
 		

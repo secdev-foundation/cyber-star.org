@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Məlumat Archives - CyberSTAR</title>
+	<atom:link href="https://cyber-star.org/az/cs-categories/data-az/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cyber-star.org/az/cs-categories/data-az/</link>
+	<description>CyberSTAR</description>
+	<lastBuildDate>Thu, 27 Jul 2023 19:39:31 +0000</lastBuildDate>
+	<language>az</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Rəqəmsal Məlumat 101: Bu nədir və nə zaman şəxsiyə çevrilir</title>
+		<link>https://cyber-star.org/az/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:26 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1038</guid>
+
+					<description><![CDATA[<p>Biz rəqəmsal məlumat ilə əhatələnmişik. Hər dəfə videoya baxarkən, onlayn nəsə oxuyarkən və ya elektron məktub alarkən, digərləri tərəfindən yaradılmış məlumatdan istifadə edirsiniz. Və hər dəfə kiməsə mesaj yazarkən, kompüterdə sənəd üzərində işləyərkən və ya sosial şəbəkədə nəsə paylaşarkən, öz məlumatınızı yaratmış olursunuz. Qarşılıqlı əlaqənin getdikcə artdığı bir dünyada məlumat dəyərli əmtəədir. O toplanır, təhlil [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-az/">Rəqəmsal Məlumat 101: Bu nədir və nə zaman şəxsiyə çevrilir</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Biz rəqəmsal məlumat ilə əhatələnmişik. Hər dəfə videoya baxarkən, onlayn nəsə oxuyarkən və ya elektron məktub alarkən, digərləri tərəfindən yaradılmış məlumatdan istifadə edirsiniz. Və hər dəfə kiməsə mesaj yazarkən, kompüterdə sənəd üzərində işləyərkən və ya sosial şəbəkədə nəsə paylaşarkən, öz məlumatınızı yaratmış olursunuz.</p>
+<p>Qarşılıqlı əlaqənin getdikcə artdığı bir dünyada məlumat dəyərli əmtəədir. O toplanır, təhlil edilir və onlayn şəkildə sizə nəsə satmaqdan tutmuş pulunuzu oğurlamağa qədər müxtəlif məqsədlər üçün istifadə edilir. Ən dəyərli məlumatınızı necə qorumağı bilmək üçün məlumatın nə olduğunu, necə yarandığını və silindiyini və onu kimlərin istifadə edə biləcəyini başa düşmək lazımdır.</p>
+<h2>Rəqəmsal məlumat nədir</h2>
+<p>Kompüter, smartfon və ya məlumat saxlama cihazında emal olunan və ya saxlanılan hər hansı bir məlumat rəqəmsal məlumat hesab olunur. Siz bu məlumatı mətn sənədləri, videolar, səslər, şəkillər, proqram təminatı və s. şəklində yaradır və istifadə edirsiniz. Özünün ən təməl səviyyəsində bütün bu məlumatlar bir və sıfırlardan ibarət <em>binar</em> məlumat kimi tanınan ardıcıllıqlardan ibarətdir.</p>
+<p>Bütün smartfon və kompüterlər bu formatdan istifadə etdiyi üçün, rəqəmsal məlumat bu növ istənilən cihazda yaradıla, emal oluna və saxlanıla bilər. Bu, həmçinin bir cihazdan digərinə köçürülə və ya onlayn milyonlarla istifdəçi ilə paylaşıla bilər.</p>
+<p>Şəxsi məlumatlarınızın bəzilərini qorumaq xüsusilə vacibdir. Bura doğum tarixi, ünvan, passport nömrəsi, sürücülük vəsiqəsi nömrəsi, sosial təhlükəsizlik nömrəsi, bank hesab nömrəsi, sağlamlıq tarixçəsi, və s. daxildir. Sizi tanımaq üçün istifadə edilə biləcək hər bir məlumat <em>fərdi tanınma məlumatı</em> kimi tanınır.</p>
+<h2>Rəqəmsal məlumatın yaradılması</h2>
+<p>Hər dəfə kompüter və ya mobil cihazdan istifadə edərkən məlumat yaradırsınız. Bu məlumatın bəzilərini asanlıqla görə bilərsiniz, məsələn, yeni Word sənədi yaradarkən, sosial mediada paylaşım edərkən və ya telefonunuz ilə şəkil çəkərkən.</p>
+<p>Ancaq hər dəfə rəqəmsal cihazdan istifadə edərkən yaratdığınız məlumatın əksəriyyətini görmək çox çətindir. Məsələn, kompüteriniz ondan nə vaxt, hansı tətbiqlərindən və nə qədər müddətdə istifadə etdiyinizi detallı şəkildə qeyd edir. Əgər orta səviyyəli istifadəçisinizsə, internet brauzeriniz istifadə etdiyiniz veb səhifələri, onlarda keçirdiyiniz vaxtı, hər bir klikinizi və endirdiyiniz hər bir faylı izləyir. Smartfonunuz çəkdiyiniz hər bir fotoşəklin harada və nə zaman çəkildiyini qeyd edir. Bu məlumatı harda tapmalı olduğunuzu bilmədikcə o, gözünüzdən uzaq qalır.</p>
+<h2>Rəqəmsal məlumatın silinməsi</h2>
+<p>Məlumatı silmək göründüyü kimi sadə deyil. &#8220;Silmək&#8221; düyməsini sıxdıqca və ya faylı Zibil Qutusuna (Windows istifadəçiləri üçün) və ya Zibil Qabına köçürəndə (Apple istifadəçiləri üçün), əməliyyat sistemi faylı bir müddət saxlayır ki, birdən fikrinizi dəyişərsiniz. Cihazınıza girişi olan hər bir kəs asanlıqla bu faylı tapa bilər.</p>
+<p>Hətta Zibil qutusunu (və ya Zibil qabını) boşaldanda belə və ya faylları Zibil Qutusundan yan keçərək siləndə, onlar cihazınızdan həmin dəqiqə silinmir. Faylları bu yolla sildiyiniz zaman cihazınızın əməliyyat sistemi siqnal alır ki, bu fayllar artıq lazım deyil və onları göstərmir. Əməliyyat sistemi bu faylları əslində yox etmir. O, bu faylların cihazınızın sərt diskində tutduğu yeri boş kimi qeyd edir və bu yer başqa nə üçünsə lazım olduğu halda, əməliyyat sistemi sildiyiniz faylların binar məlumatınının üzərindən yeni məlumat yazır. Bu baş verənə qədər &#8220;silinmiş&#8221; fayllar cihazınızda qalır. Onları bərpa etmək elə də çətin deyil.</p>
+<p>Faylları cihazınızdan birdəfəlik <em>silmək</em> üçün xüsusi alətlər var, bu, faylların silinməsi və onların binar məlumatlarının bir və sıfırlardan ibarət təsadüfi rəqəm birləşmələri ilə əvəz edilməsidir. Sərt diskdən məlumatları birdəfəlik və təhlükəsiz şəkildə silən pulsuz alət BleachBit-i quraşdırmaq və istifadə etmək üçün <a href="https://cyber-star.org/az/cs-articles/how-to-install-and-start-using-bleachbit-az/">bu təlimatlara</a> əməl edin.</p>
+<p>Onlayn paylaşdığınız məlumatı silmək daha çətindir. Sosial şəbəkədə fotoşəkil paylaşarkən, e-poçt ünvanı ilə xidmətlərə qeydiyyat edərkən, mesajlaşma tətbiqləri ilə sənədləri paylaşarkən və ya fayl paylaşma saytları vasitəsilə videolar göndərərkən, kimin bu məlumatların nüsxəsini çıxardığını izləmək hər zaman mümkün olmur.</p>
+<h2>Məlumatlarınız kimə lazımdır</h2>
+<p>Cihazınızdakı məlumatların kimə maraqlı olduğunu heç vaxt bilə bilməzsiniz. Onlayn bank hesab detallarınızı və ya şantaj etmək üçün şəxsi şəkil və videolarınızı oğurlamaq kimi müxtəlif səbəblərdən fərdlər, qruplar və ya təşkilatlar bu məlumatlara giriş əldə etmək istəyə bilərlər. Sizin məlumatlarınızın kimə və niyə maraqlı olacağını bilmədiyiniz üçün həmişə <a href="https://cyber-star.org/az/devices-az/">kompüter, mobil cihaz və məlumat saxlama qurğularınızın təhlükəsiz şəkildə qorunmasından əmin olmalısınız</a>.</p>
+<p>Kompüter və ya mobil cihazınızda interneti gəzərkən özünüzdən sonra bir çox məlumat qoyursunuz. Onlayn olarkən <a href="https://cyber-star.org/az/digital-identity-az/">hansı növməlumatı riskə qoyduğunuzu, bu məlumatın necə istifadə edildiyini və onlayn izlərinizi azaltmaq üçün nələr edə biləcəyinizi başa düşdüyünüzdən əmin olun</a>.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-az/">Rəqəmsal Məlumat 101: Bu nədir və nə zaman şəxsiyə çevrilir</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cihazlarınızdakı məlumatları necə qorumalı</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-keep-data-on-your-devices-safe-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:26 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1040</guid>
+
+					<description><![CDATA[<p>Şəxsi və iş məqsədləri üçün istifadə etdiyiniz rəqəmsal cihazlarda çoxlu sayda məlumatlarınız var. Olduğunuz yerdəki laptop, mobil telefon, planşet, xarici sərt disk və bütün USB yaddaş kartları mətn sənədləri, şəkillər, videolar, səs yazıları və s. formatlarda müxtəlif məlumatlar saxlayır. Bu cihazlarda bütün sildiyinizi düşündüyünüz fayllar belə hələ də qala bilər. Siz ətrafda olmayanda kimsə sizin [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-keep-data-on-your-devices-safe-az/">Cihazlarınızdakı məlumatları necə qorumalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Şəxsi və iş məqsədləri üçün istifadə etdiyiniz rəqəmsal cihazlarda çoxlu sayda məlumatlarınız var. Olduğunuz yerdəki laptop, mobil telefon, planşet, xarici sərt disk və bütün USB yaddaş kartları mətn sənədləri, şəkillər, videolar, səs yazıları və s. formatlarda müxtəlif məlumatlar saxlayır. Bu cihazlarda bütün <a href="https://cyber-star.org/az/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-az/">sildiyinizi düşündüyünüz fayllar</a> belə hələ də qala bilər.</p>
+<p>Siz ətrafda olmayanda kimsə sizin fayllarınıza baxsa, nə baş verər? İçində həssas şəxsi və ya iş faylları olan cihaz oğurlanarsa, nə olar? Belə bir cihazı itirsəniz, nə baş verər? Cihaz xarab olarsa və içindəki bütün dəyərli məlumatlar itərsə, nə olar? Ən dəyərli məlumatlarınızı qorumaq üçün şəxsi məlumatların gigiyenası üzrə bu məsləhətlərə əməl edin.</p>
+<h2>1. Cihazlarınızı fiziki olaraq da qoruyun</h2>
+<p>Bu çox sadə səslənə bilər, ancaq rəqəmsal məlumatlarınızı qorumaq üçün edə biləcəyiniz ən vacib şeylərdən biri cihazlarınızın fiziki təhlükəsizliyini təmin etməkdir. Laptopu, mobil telefonu, planşeti və ya xarici məlumat saxlama cihazını itirə bilərsiniz və ya oğurlana bilər. Bu baş verərsə cihazınızı ələ keçirən şəxslər ondakı həssas fayllara və ya şəxsi identifikasiya məlumatlarına daxil ola bilərlər.</p>
+<p>Ona görə də cihazlarınızı qoruyun və onlardan istifadə etmədiyiniz zaman onları təhlükəsiz yerdə saxlayın. USB yaddaş kartları, CD və DVD-lər də daxil olmaqla, bütün xarici məlumat saxlama cihazlarınızı nəzərdə saxlayın və onları kilidlənmiş yerdə qoruyun. Cihazınızı oğurlana biləcəyi yerdə heç vaxt nəzarətsiz qoymayın. Səyahət etdiyiniz zaman və ya hava limanı, dövlət idarəsi və səfirliklər kimi cihazlarınızı təhvil verməyi tələb edən yerlərə getdiyiniz zaman onları evdə qoymağı nəzərə alın. Məktəb, birgə işləmə məkanları və ya kafe kimi yarı ictimai yerlərdə laptopdan tez-tez istifadə edirsinizsə, Kensington kabeli alın.</p>
+<h2>2. Şifrə cihazlarınızı qoruyur</h2>
+<p>Rəqəmsal cihazlarınızı <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">güclü şifrə</a> ilə qorumaq onları nəzarətsiz qoyduğunuz zaman heç kimin fayllarınızı qurdalamayacağı əminliyi verir. Bu, cihazınız itdiyi və ya oğurlandığı halda məlumatınızın qismən qorunmasını (mükəmməl olmasa da) təmin edir.</p>
+<p>Bütün cihazlarınızda qısa qeyri-aktivlikdən sonra avtomatik ekran kilidlənməsini aktiv edin. Cihazınızda ekranı necə manual kilidləməyi bildiyinizdən əmin olun və hər dəfə ondan uzaqlaşarkən bunu etməyi unutmayın.</p>
+<h2>3. Həssas faylları şifrələ</h2>
+<p>Əgər cihazınızı itirsəniz və ya o oğurlanarsa, saxlanılan bütün həssas fayllara və ya şəxsi məlumatlara daxil ola bilərlər. Cihazlarınızdakı həssas məlumatı qorumağın ən yaxşı yolu <a href="https://cyber-star.org/az/cs-articles/why-you-should-encrypt-your-devices-az/">şifrələmədən istifadə etməkdir</a>. Şifrələmə cihazdakı bütün məlumatı tamamilə oxunmaz edir. Şifrələnmiş məlumat yalnız şifrə və ya deşifrə açarını bilən şəxs tərəfindən oxuna bilər.</p>
+<p><a href="https://cyber-star.org/az/cs-articles/how-to-encrypt-a-windows-10-device-az/">Windows10</a> və Mac kompüterlərində şifrələməni quraşdırmaq üçün bu təlimatlara əməl edin.</p>
+<h2>4. Məlumatlarınızın ehtiyat nüsxəsini çıxarın</h2>
+<p>Cihazlarınız itirilən və ya oğurlanan zaman kiminsə fayllarınıza yol tapması qarşılaşacağınız yeganə risk deyil. Əvəzlənməsi mümkün olmayan vacib fayllara girişi itirmək riski ilə də üz-üzə qalırsınız. Cihaz xarab olduğu və ya virus proqramları hücümu nəticəsində şifrələndiyi zaman da məlumatları itirmiş ola bilərsiniz.</p>
+<p>Vacib məlumatları heç vaxt itirməmək zəmanəti üçün avtomatik və ya tez-tez və müntəzəm şəkildə <a href="https://cyber-star.org/az/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-az/">məlumatlarınızın ehtiyat nüsxələrinin çıxarılması</a> vacibdir. <a href="https://cyber-star.org/az/cs-articles/how-to-backup-a-windows-10-computer-az/">Windows 10</a> və <a href="https://cyber-star.org/az/cs-articles/how-to-backup-your-mac-az/">Mac</a> cihazlarında avtomatik nüsxələmə quraşdırmaq üçün bu təlimatlara əməl edin.</p>
+<h2>5. Antivirus proqramlarından istifadə edin və sistemi daim yeniləyin</h2>
+<p>Yaxşı antivirus proqramı cihazınızı məlumatları oğurlayan, ziyan vuran və ya məhv edən zərərli proqramlardan qoruyacaq. Lisenziyalı antivirus proqramından istifadə etdiyinizə əmin olun. Windows istifadəçisisinizsə, əməliyyat sisteminiz tərkibində effektiv antivirus aləti Microsoft Defender təqdim edir.</p>
+<p>Həmçinin antivirus proqramının və əməliyyat sisteminin də daim yenilənməsindən əmin olmalısınız. Bu proqram təminatını avtomatik yeniləməyə qurmaq daha yaxşıdır.</p>
+<h2>6. Faylları təhlükəsiz şəkildə silin</h2>
+<p>Faylların kompüterdən, mobil cihazdan və ya xarici məlumat saxlama cihazlarından silinməsi <a href="https://cyber-star.org/az/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-az/">onları bir dəfəlik silmir</a>. Məlumatlar cihazda qalır və bərpa edilə bilir. Faylların həmişəlik silindiyindən əmin olmağın yeganə yolu silinmiş faylın üzərindən təsadüfi kod yazan xüsusi proqramdan istifadə etməkdir. Əgər məlumatlarınızın ehtiyat nüsxəsini saxlayırsınızsa (etməli olduğunuz kimi), yadda saxlayın ki, həssas məlumatı cihazınızdan silməkdən əlavə, həmin faylların ehtiyat nüsxələrini də silməlisiniz.</p>
+<p>Ənənəvi sərt diskdən məlumatı təhlükəsiz və birdəfəlik şəkildə silmək üçün istifadə edilən pulsuz və açıq mənbəli alət olan BleachBit-i quraşdırmaq və işlətmək üçün bu təlimatlara əməl edin. Təəssüf ki, SSD (həmçinin flaş kimi tanınan) məlumat saxlama cihazlarından istifadə edirsinizsə, silinmiş məlumatın izlərini tam silmək həmişə mümkün olmaya bilər.</p>
+<h2>7. Köhnə cihazların təhlükəsiz şəkildə atılması</h2>
+<p>Köhnə kompüteri, mobil cihazı və ya digər məlumat saxlama cihazını satmazdan, təkrar emala verməzdən və ya atmazdan əvvəl onda heç bir şəxsi və ya məxfi məlumatın qalmamasından əmin olun. Etibarlı məlumat silmə alətindən istifadə edərək məlumatları həmişəlik silin və cihazı fabrik parametrlərinə qaytarın.</p>
+<p>Əgər köhnə CD, DVD, SSD saxlama cihazları, USB yaddaş kartlarını və ya digər saxlama cihazlarını atmaq istəyirsinizsə, onları çəkiclə və ya digər alətlə fiziki sındırın.</p>
+<h2>8. Məxfi məlumatı paylaşmayın</h2>
+<p>Həssas və ya məxfi məlumatı qorumağın ən yaxşı yolu onu heç kimlə paylaşmamaqdır. Rəqəmsal faylları digərləri ilə paylaşarkən bu məlumatların təhlükəsizliyi artıq tam sizin əlinizdə olmur.</p>
+<p>Əgər həssas və ya məxfi məlumatları onlayn paylaşırsınızsa, bunu təhlükəsiz etmək üçün aşağıdakı təlimatlara əməl edin.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-keep-data-on-your-devices-safe-az/">Cihazlarınızdakı məlumatları necə qorumalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Faylları onlayn necə qorumalı və paylaşmalı</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-keep-and-share-files-securely-online-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:27 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1041</guid>
+
+					<description><![CDATA[<p>Bütün şəxsi və iş məlumatları qorunmalı olduğu halda, bəzi faylların qorunması daha vacibdir. Bura doğum tarixi, ünvan, passport nömrəsi, sürücülük vəsiqəsi nömrəsi, sosial təhlükəsizlik nömrəsi, bank hesabı nömrəsi, sağlamlıq tarixçəsi, gəlir vergisi qeydləri və s. daxil olan istənilən fayllar aiddir. Vəziyyətinizdən asılı olaraq, bəzi səs yazıları, şəkil və video faylları da məxfi və həssas sayıla [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-keep-and-share-files-securely-online-az/">Faylları onlayn necə qorumalı və paylaşmalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bütün şəxsi və iş məlumatları qorunmalı olduğu halda, bəzi faylların qorunması daha vacibdir. Bura doğum tarixi, ünvan, passport nömrəsi, sürücülük vəsiqəsi nömrəsi, sosial təhlükəsizlik nömrəsi, bank hesabı nömrəsi, sağlamlıq tarixçəsi, gəlir vergisi qeydləri və s. daxil olan istənilən fayllar aiddir. Vəziyyətinizdən asılı olaraq, bəzi səs yazıları, şəkil və video faylları da məxfi və həssas sayıla bilər.</p>
+<p><a href="https://cyber-star.org/az/cs-articles/how-to-keep-data-on-your-devices-safe-az/">Cihazlarınızdakı bu cür məlumatları qorumaqdan</a> əlavə, onların yanlış əllərə düşməsinin qarşısını almağın ən yaxşı yolu onları onlayn saxlamamaq və ya paylaşmamaqdır. Məxfi və ya həssas faylları məcbur olmadığınız halda qətiyyən internet vasitəsilə heç kimlə paylaşmayın. Cihazınızda qaldğı müddət boyunca məlumatınızın təhlükəsizliyi tam əlinizdə olduğu halda, onlayn yükləyən və ya kiminləsə paylaşan zaman bu nəzarətin böyük bir hissəsini itirmiş olursunuz.</p>
+<p>Lakin faylları onlayn saxlamağı və ya paylaşmağı seçməli olduğunuz halda, bunu necə təhlükəsiz və doğru şəkildə etməyi bilməyiniz vacibdir.</p>
+<h2>Faylların təhlükəsiz şəkildə onlayn saxlanılması</h2>
+<p>Dropbox-dan Google Drive-a, OneDrive-dan Tresorit-ə qədər bir çox məhşur fayl və bulud saxlama xidmətləri seçimləri mövcuddur. Bu xidmətlər istənilən zaman istənilən cihazdan məlumatlarınıza rahat giriş imkanı verir. Bunlar həmçinin digər insanlara da bəzi fayllarınıza giriş verməyinizi və bu fayllar üzərində onlarla birgə işləməyinizi təmin edir.</p>
+<p>Əgər fayl saxlama və ya bulud saxlama xidmətlərindən istifadə etsəniz, məlumatlarınızı qorumaq üçün bu təlimatlara əməl edin:</p>
+<ul>
+<li>Etibarlı xidmətdən istifadə edin və onun fayllarınızı tranzit və saxlama zamanı şifrələdiyindən əmin olun. Mümkün olduqda, bulud təminatçınız ələ keçirilsə belə, məlumatınızın qorunmasından əmin olmaq üçün Tresorit və Mega.io kimi sıfır-məlumat şifrələmə seçimlərindən yararlanın.Hesabınızı bu xidmətlərdə <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">güclü</a> və <a href="https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/">özünüzə məxsus</a> şifrələr ilə qoruyun.</li>
+<li>Şifrələriniz oğurlanarsa, fayllarınızı qorumaq üçün <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/">iki faktorlu təsdiqləmə</a> aktivləşdirin.</li>
+<li>Əgər digər şəxslərə fayllarınıza onlayn giriş verirsinizsə, onların da öz hesablarını güclü şifrə və iki faktorlu təsdiqləmə ilə qoruduqlarından əmin olun.</li>
+<li>Onlayn saxladığınız həssas və məxfi faylların sayını məhdudlaşdırın. Vacib şəxsi və ya iş fayllarınızı birdən çox xidmətə yükləməyin və onlar onlayn lazım olmadıqda dərhal onları silin.</li>
+</ul>
+<h2>Faylların təhlükəsiz paylaşılması</h2>
+<p>Əgər həssas və ya məxfi məlumatı kiməsə göndərməlisinizsə, bunu etməyin bir neçə yolu var. Hansı üsulu seçməyinizdən asılı olmayaraq, bu üsuldan istifadə zamanı həssas məlumatın paylaşılmasında mövcud olan riskləri başa düşməli və onları necə azaltmaq lazım olduğunu bilməlisiniz.</p>
+<ul>
+<li><strong>Fayl paylaşma xidmətləri<br />
+</strong>Faylları onlayn saxlama və ya fayl paylaşma xidmətlərinə yükləyib və digər şəxsə bu fayllara olan keçidləri göndərməklə paylaşa bilərsiniz. Əgər bu üsulu seçsəniz, yuxarıda sadalanan ehtiyat tədbirlərini gördüyünüzdən əmin olun. Paylaşdığınız keçidlərlə də həssas məlumat kimi davranmalısınız.<strong><br />
+</strong></li>
+<li><strong>E-poçt<br />
+</strong>Həssas və ya məxfi faylları göndərmək üçün e-poçtdan da istifadə edə bilərsiniz. Bunu təhlükəsiz şəkildə etmək üçün bu ehtiyat tədbirlərinə əməl edin:</p>
+<ul>
+<li>Etibarlı və şifrələnmiş e-poçt xidmətindən istifadə edin. ProtonMail və Tutanota pulsuz, açıq mənbəli, başdan sona şifrələnmiş e-poçt xidməti təklif edir.</li>
+<li>E-poçt hesabınızı <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">güclü</a> və <a href="https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/">özünüzə məxsus</a> şifrə ilə qoruyun.</li>
+<li>E-poçt hesabınızda iki-faktorlu təsdiqləməni aktivləşdirin.</li>
+<li>Faylları göndərdiyiniz şəxslərin də hesablarını güclü şifrə və <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/">iki faktorlu təsdiqləmə</a> ilə qoruduqlarından əmin olun.</li>
+<li>Fayllarınızın ünvanına çatdığındaan əmin olduqdan sonra onları e-poçt hesabınızdan silin. Bu elektron məktubları zibil qovluğundan da silməyi unutmayın.</li>
+</ul>
+</li>
+<li><strong>Mesajlaşma tətbiqləri<br />
+</strong>Çox da məxfi olmayan, bununla belə həssas hesab olunan məlumatları paylaşmaq üçün mesajlaşma tətbiqlərindən istifadə edə bilərsiniz. Bu tətbiqlər şəxsi şəkil və videoları paylaşmaq üçün əla vasitədir. Əgər istifadə etsəniz, Signal və ya Wire kimi başdan sona şifrələnmiş etibarlı mesencer tətbiqlərindən istifadə etdiyinizdən əmin olun. Faylların tətbiqdə qalmadığından əmin olmaq üçün özü silinən mesajlardan istifadə edə bilərsiniz.</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-keep-and-share-files-securely-online-az/">Faylları onlayn necə qorumalı və paylaşmalı</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ehtiyat nüsxələri niyə çıxarılmalıdır və onları harada saxlamaq lazımdır</title>
+		<link>https://cyber-star.org/az/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:27 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1042</guid>
+
+					<description><![CDATA[<p>Vacib məlumatı itirmək düşündüyünüzdən də asandır. Məlumatın itirilməsinin ən adi yollarına istifadəçi səhvləri, avadanlığın sıradan çıxması, cihazın oğurlanması və ya itirilməsi və zərərli proqramlara yoluxma daxildir. Fidyə tələb edən zərərli proqram (ransomware) və xaker hücumları da cihazınızdakı fayllara qarşı mühüm təhlükələrdəndir. Vacib fayllarınızı bütün bu risklərdən qorumağın yeganə yolu məlumatlarınızın mütəmadi olaraq ehtiyat nüsxəsini çıxarmaqdır. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-az/">Ehtiyat nüsxələri niyə çıxarılmalıdır və onları harada saxlamaq lazımdır</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Vacib məlumatı itirmək düşündüyünüzdən də asandır. Məlumatın itirilməsinin ən adi yollarına istifadəçi səhvləri, avadanlığın sıradan çıxması, cihazın oğurlanması və ya itirilməsi və zərərli proqramlara yoluxma daxildir. Fidyə tələb edən zərərli proqram (ransomware) və xaker hücumları da cihazınızdakı fayllara qarşı mühüm təhlükələrdəndir.</p>
+<p>Vacib fayllarınızı bütün bu risklərdən qorumağın yeganə yolu məlumatlarınızın mütəmadi olaraq ehtiyat nüsxəsini çıxarmaqdır. Ehtiyat nüsxəsinin çıxarılmasına faylların surətinin yaradılması və onların sərt diskdə, xarici yaddaş cihazı və ya bulud ehtiyat nüxsə sistemində saxlanılması aiddir. Məlumatın ehtiyat nüsxəsinin çıxarılması cihazlarınızda orijinal məlumatın itirilməsi və ya korlanması halında vacib faylları daha tez bərpa etməyə imkan verir.</p>
+<h2>Ehtiyat nüsxələri harada saxlamalı</h2>
+<p>Ehtiyat nüsxələri harada saxlamağa gəldikdə isə cihazınızın sərt diski, çıxarıla bilən məlumat saxlama cihazı və bulud saxlama xidməti arasında seçim edə bilərsiniz. Bu seçimlərdən hər birinin mənfi və müsbət cəhətləri var.</p>
+<h3>Lokal sərt disk</h3>
+<p>Ən rahat ehtiyat nüsxə saxlama yeri cihazınızın sərt diskidir. Diskdə xüsusi bölmə ayırıb nüsxələri orada saxlaya bilərsiniz. Ehtiyat nüsxələrin lokal sərt diskdə saxlanılmasının ən böyük mənfi cəhəti &#8211; sərt disk tam xarab olduqda, zərərli proqrama yoluxduqda və ya cihaz itirildikdə və ya oğurlandıqda, bu, sizi qorumayacaq.</p>
+<h3>Çıxarıla bilən məlumat saxlama cihazı</h3>
+<p>Fayllarınızın ehtiyat nüsxəsinin xarici sərt disk və ya USB yaddaş kartı kimi çıxarıla bilən saxlama cihazına köçürülməsi orijinal məlumatın olduğu cihaz xarab olduqda və ya itirildikdə belə, məlumatlarınızı qoruyur. Çıxarıla bilən məlumat saxlama cihazları çoxlu məlumat saxlaya bilir və onları şifrələdiyiniz müddətcə çox etibarlıdır. Onlar uzaqdan idarə edilən ehtiyat nüsxələmə cihazlarından istifadə ilə müqayisədə daha asan, sürətli və ucuzdurlar.</p>
+<p>Bununla belə, bu məlumat saxlama cihazları daşqın və yanğın kimi təbii fəlakətlərdə sıradan çıxa bilər və qorumasızdırlar. Zərərli proqramlar əsas cihazınızla birlikdə bu disklərə yoluxa bilər. Onlar da itirilə və ya oğurlana bilər.</p>
+<h3>Bulud saxlama xidməti</h3>
+<p>Bulud saxlama xidməti ehtiyat nüsxələrinin saxlanması üçün getdikcə daha çox yayılan yerdir. Bir çox bulud saxlama xidmətləri çoxlu saxlama yeri verir və məlumatın şifrələnməsini təmin edir. Ehtiyat nüsxələrin buludda saxlanması ilə qoşulduğunuz istənilən cihazdan məlumata daxil ola və onu istənilən zaman və yerdə idarə edə bilərsiniz.</p>
+<p>Məlumatlarınızın ehtiyat nüsxələrinin təhlükəsiz uzaq yerdə saxlanılması sizə rahatlıq və onların təhlükəsiz və bərpa olunan olmasına əminlik verir. Bundan əlavə, bulud saxlama xidmətləri faylın bir neçə versiyasını saxlamaq imkanı verir ki, bu da faylları daha əvvəlki versiyasına qaytarmağa şərait yaradır. Ancaq bulud xidmətləri lokal ehtiyat saxlama seçimlərindən daha ləng və çox zaman daha bahadır. Bundan əlavə, internet əlaqəsi olmadan buluddakı məlumata daxil ola bilməzsiniz.</p>
+<p>Bulud saxlama xidmətini seçərkən sıfır bilik şifrələməsi təklif edən seçimləri nəzərdən keçirin. Bu o deməkdir ki, hətta ehtiyat nüsxələrinizi saxlayan şirkət belə fayllarınıza baxa bilməz. Həm ənənəvi, həm də sıfır bilik şifrələməsi təklif edən bulud xidmətlərində pulsuz variantlar mövcuddur.</p>
+<p>Hansı bulud xidmətini seçməyinizdən asılı olmayaraq, hesabınızı <a href="https://cyber-star.org/az/cs-articles/how-to-create-strong-passwords-az/">güclü</a> və <a href="https://cyber-star.org/az/cs-articles/why-all-of-your-passwords-should-be-unique-az/">özünüzə məxsus şifrə</a> və <a href="https://cyber-star.org/az/cs-articles/why-you-should-use-two-factor-authentication-az/">iki faktorlu təsdiqləmə</a> ilə qorumağı unutmayın.</p>
+<h2>Vacib məlumatın ehtiyat nüsxələməsi üçün 3-2-1 qaydası</h2>
+<p>Xüsusi mühüm olan fayllarınız ola bilər. Bu faylların ehtiyat nüsxələrini birdən çox yerdə saxlamaq yaxşı fikir ola bilər. Xüsusi həssas, məxfi və ya dəyərli məlumatı qorumaq üçün, ehtiyat nüsxələməsi zamanı 3-2-1 qaydasını nəzərə alın: həmişə məlumatınızın üç nüsxəsini çıxarın, bunlardan ikisini müxtəlif lokal cihazlarda, birini isə uzaqdan idarə edilən yerdə saxlayın.</p>
+<p>Təcrübədə bu, orijinal məlumatı cihazınızda, bir nüsxəsini çıxarıla bilən saxlama cihazında, digər nüsxəsini isə bulud saxlama xidmətində saxlamaq deməkdir. Bu sistem məlumatlarınızın iki nüsxəsini eyni zamanda (nadir hallarda) itirsəniz belə, onu qorumuş olmanızı təmin edir.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-az/">Ehtiyat nüsxələri niyə çıxarılmalıdır və onları harada saxlamaq lazımdır</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 kompüterinin ehtiyat nüsxələməsini necə həyata keçirməli</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-backup-a-windows-10-computer-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:27 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1043</guid>
+
+					<description><![CDATA[<p>Məlumatın ehtiyat nüsxələrinin çıxarılması, orijinal məlumatın saxlanıldığı cihaza nə olursa olsun, məlumatın itirilməməsi üçün əla üsuldur. Ehtiyat nüsxəsinin saxlanmasına faylların surətinin çıxarılması və onların sərt diskdə, xarici sərt diskdə və ya bulud ehtiyat nüxsə sistemində saxlanılması aiddir. Ehtiyat nüsxələrin harada saxlanılmasına gəldikdə sizin bir çox variantınız var. Ehtiyaclarınızdan asılı olaraq, bütün sərt diskin və ya [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-backup-a-windows-10-computer-az/">Windows 10 kompüterinin ehtiyat nüsxələməsini necə həyata keçirməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Məlumatın ehtiyat nüsxələrinin çıxarılması, orijinal məlumatın saxlanıldığı cihaza nə olursa olsun, məlumatın itirilməməsi üçün əla üsuldur. Ehtiyat nüsxəsinin saxlanmasına faylların surətinin çıxarılması və onların sərt diskdə, xarici sərt diskdə və ya bulud ehtiyat nüxsə sistemində saxlanılması aiddir. Ehtiyat nüsxələrin harada saxlanılmasına gəldikdə sizin bir çox <a href="https://cyber-star.org/az/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-az/">variantınız</a> var.</p>
+<p>Ehtiyaclarınızdan asılı olaraq, bütün sərt diskin və ya cihazınızdakı xüsusi faylların və ya qovluqların ehtiyat nüsxələrini çıxarmağı seçə bilərsiniz. Məlumatlarınızın hansı tezliklə ehtiyat nüsxələnməsini seçmək də sizdən asılıdır. Bunu nə qədər tez-tez etsəniz, məlumatlarınız da bir o qədər qorunmuş olar. Bunu etməyin ən asan yolu avtomatik müntəzəm ehtiyat nüxsələmə qurmaqdır.</p>
+<p>Windows 10 kompüterində faylların ehtiyat nüsxələməsinin ən asan yolu əməliyyat sistemi ilə birgə təqdim edilən daxildə qurulmuş proqram təminatından istifadə etməkdir. Daha yaxşı məlumat təhlükəsizliyi təmin edən üçüncü tərəf ehtiyat nüsxələmə variantları da var, ancaq bunlar pulsuz deyil.</p>
+<h2>Fayl tarixçəsindən istifadə edərək Windows-da ehtiyat nüsxələməsi</h2>
+<p>Windows 10 xüsusi fayl qovluqlarını seçdiyiniz cihaza avtomatik şəkildə ehtiyat nüsxələyən Fayl tarixçəsi funksiyasına malikdir. Bunu quraşdırmaq üçün xarici saxlama cihazını kompüterinizə qoşun. Cihaz kompüterə qoşulduqdan sonra, <strong>Start</strong> düyməsini basın, <strong>Parametrlər&gt;Yeniləmə və Təhlükəsizlik&gt;Ehtiyat Nüsxə</strong> seçin. Sonra <strong>Fayl tarixçəsindən istifadə edərək ehtiyat nüsxəsini çıxar</strong> altında <strong>Disk əlavə et</strong> klikləyin və ehtiyat nüsxələri saxlamaq istədiyiniz xarici məlumat saxlama cihazı və ya şəbəkə yerini seçin.</p>
+<p><img decoding="async" fetchpriority="high" class="size-full wp-image-305 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg" alt="Adding a drive for backup" width="1600" height="1449" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-300x272.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1024x927.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-768x696.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1536x1391.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_add_drive-1200x1087.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" />Məlumatlarınızın ehtiyat nüsxəsinin hansı tezlikdə saxlanmasını tənzimləmək üçün, <strong>Start</strong> düyməsini basın, <strong>Parametrlər&gt;Yeniləmə və Təhlükəsizlik&gt;Ehtiyat Nüsxə</strong> seçin. İndi isə <strong>Daha çox seçim</strong> klikləyin və <strong>Fayl tarixçəsi</strong> pəncərəsinin yuxarı hissəsində <strong>Fayllarımın ehtiyat nüsxəsini çıxar</strong> aşağıya açılan menyusunu klikləyin və fayllarınızın istədiyiniz tezliklə ehtiyat nüsxəsinin saxlanmasını seçin. Sizə təqdim edilən seçimlər hər 10 dəqiqədən gündə bir dəfəyə qədər aralığında dəyişir.</p>
+<p><img decoding="async" class="wp-image-309 size-full aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg" alt="Windows Backup more options" width="1600" height="1443" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-300x271.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1024x924.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-768x693.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1536x1385.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_options-1200x1082.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" class="size-full wp-image-308 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg" alt="Setting up the backup frequency" width="1600" height="1439" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1024x921.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-768x691.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1536x1381.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_frequency-1200x1079.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /><br />
+Ehtiyat nüsxəsinin saxlanmasını istədiyiniz qovluqları seçmək üçün <strong>Start</strong> düyməsini basın, <strong>Parametrlər&gt;Yeniləmə və Təhlükəsizlik&gt;Ehtiyat Nüsxə</strong> seçin. Ehtiyat nüsxələməyə daxil olan qovluqların ilkin siyahısına baxmaq və redaktə etmək üçün Ehtiyat Nüsxələmə seçimləri pəncərəsini aşağı diyirlədin. Siyahıdan qovluqları çıxara (<strong>Sil</strong> düyməsini klikləyərək) və əlavə edə (<strong>Qovluq əlavə et</strong> düyməsi) bilərsiniz.</p>
+<p><img decoding="async" class="size-full wp-image-307 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg" alt="Removing a folder in the backup options" width="1600" height="1439" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1024x921.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-768x691.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1536x1381.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folders-1200x1079.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" class="size-full wp-image-306 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg" alt="Adding a folder to the backup" width="1600" height="1441" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1024x922.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-768x692.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1536x1383.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_folder-1200x1081.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Quraşdırma işini yekunlaşdırmaq və ehtiyat nüsxələmə prosesini başlatmaq üçün ekranın yuxarısında olan <strong>İndi nüsxələ</strong> düyməsinə klikləyin. Nüsxələmə tamamlandıqdan sonra, Windows nüsxələmənin ölçüsünü, tarix və vaxtını nümayiş etdirəcək.</p>
+<p><img decoding="async" class="size-full wp-image-310 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg" alt="Starting the backup procedure" width="1600" height="1441" srcset="https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-300x270.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1024x922.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-768x692.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1536x1383.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/backup_windows_start-1200x1081.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>Üçüncü tərəf tətbiqlərindən istifadə edərək Windows-da ehtiyat nüsxələməsi</h2>
+<p>Əgər Mac-da mövcud olan ehtiyat nüsxələrin saxlanması variantları sizi qane etmirsə, Backblaze, Carbonite, Dropbox və ya Google Drive kimi üçüncü tərəf tətbiqlərindən faydalana bilərsiniz. Üçüncü tərəf ehtiyat nüsxələmə proqramlarını alarkən ona tam etibar etdiyinizdən və onun məlumatınızla necə rəftar edəcəyindən tam əmin olun. Üçüncü tərəf ehtiyat nüsxələmə tətbiqini quraşdırmaq üçün onun təlimatlarına əməl edin.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-backup-a-windows-10-computer-az/">Windows 10 kompüterinin ehtiyat nüsxələməsini necə həyata keçirməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mac cihazınızın ehtiyat nüsxələməsini necə həyata keçirməli</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-backup-your-mac-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:28 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1044</guid>
+
+					<description><![CDATA[<p>Məlumatın ehtiyat nüsxələrinin saxlanılması, orijinal məlumatın saxlanıldığı cihaza nə olursa olsun, məlumatın itirilməməsi üçün əla üsuldur. Ehtiyat nüsxəsinin çıxarılmasına faylların surətinin yaradılması və onların sərt diskdə, xarici yaddaş cihazında və ya bulud ehtiyat nüxsə sistemində saxlanılması aiddir. Ehtiyat nüsxələrinin harada saxlanılmasına gəldikdə, sizin variantlarınız var. Ehtiyaclarınızdan asılı olaraq, bütün sərt diskin və ya cihazınızdakı xüsusi [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-backup-your-mac-az/">Mac cihazınızın ehtiyat nüsxələməsini necə həyata keçirməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Məlumatın ehtiyat nüsxələrinin saxlanılması, orijinal məlumatın saxlanıldığı cihaza nə olursa olsun, məlumatın itirilməməsi üçün əla üsuldur. Ehtiyat nüsxəsinin çıxarılmasına faylların surətinin yaradılması və onların sərt diskdə, xarici yaddaş cihazında və ya bulud ehtiyat nüxsə sistemində saxlanılması aiddir. Ehtiyat nüsxələrinin harada saxlanılmasına gəldikdə, sizin <a href="https://cyber-star.org/az/cs-articles/why-you-should-make-backups-and-where-you-should-keep-them-az/">variantlarınız</a> var.</p>
+<p>Ehtiyaclarınızdan asılı olaraq, bütün sərt diskin və ya cihazınızdakı xüsusi fayl və qovluqların ehtiyat nüsxələrini çıxarmağı seçə bilərsiniz. Məlumatlarınızın hansı tezliklə ehtiyat nüsxələnməsini seçmək də sizdən asılıdır. Bunu nə qədər tez-tez etsəniz, məlumatlarınız bir o qədər daha təhlükəsiz olar. Bunu etməyin ən asan yolu avtomatik müntəzəm ehtiyat nüxsələmə qurmaqdır.</p>
+<p>Mac-da faylların ehtiyat nüsxələməsinin ən asan yolu əməliyyat sistemi ilə birgə təqdim edilən daxildə qurulmuş proqram təminatından istifadə etməkdir. Daha yaxşı məlumat təhlükəsizliyi təklif edən üçüncü tərəf ehtiyat nüxsələmə variantları da var, ancaq bunlar pulsuz deyil.</p>
+<h2>Zaman Maşını ilə Ehtiyat Nüsxələmə</h2>
+<p>MacOS xüsusi fayl qovluqlarını seçdiyiniz cihaza avtomatik şəkildə ehtiyat nüsxələyən Zaman Maşını funksiyasına malikdir. Bunu quraşdırmaq üçün xarici yaddaş cihazını Mac-a qoşun. Cihaz qoşulduqdan sonra, <strong>Apple menyu&gt;Sistem Üstünlükləri</strong> açın, sonra isə <strong>Zaman Maşını</strong> klikləyin.</p>
+<p><img decoding="async" class="size-full wp-image-321 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg" alt="macOS Time Machine" width="1200" height="820" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine.jpeg 1200w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine-768x525.jpeg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>Sonra <strong>Ehtiyat Nüsxəsi Diskini Seç</strong> düyməsinə klikləyin və ehtiyat nüsxələr üçün xarici yaddaş cihazını seçin, Zaman Maşını fayllarınızın ehtiyat nüsxələnməsinə başlayacaq. Sistem ehtiyat nüxsələri ilə işləyərkən Mac cihazınızdan istifadəyə davam edə bilərsiniz.</p>
+<p><img decoding="async" class="size-full wp-image-320 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg" alt="Selecting a backup disk on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_select_backup-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Əgər <strong>Avtomatik Ehtiyat Nüsxələmə</strong> seçsəniz, sistem mütəmadi olaraq xəbəriniz belə olmadan, ehtiyat nüsxələmə həyata keçirəcək. Birinci ehtiyat nüsxələmədən sonra (bir müddət davam edəcək), növbəti nüsxələmələr daha sürətli olacaq, belə ki, Zaman Maşını əvvəlki nüsxələmədən sonra ancaq dəyişilən faylların ehtiyat nüsxələməsini edəcək.</p>
+<p><img decoding="async" class="size-full wp-image-316 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg" alt="Backup Automatically check box on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_backup_auto-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>Həmçinin menyu zolağından <strong>Zaman Maşını</strong> menyusundan (iki əqrəb və bir ox ilə saat əksinə hərəkət edən saata bənzəyən simvol) əl ilə ehtiyat nüsxələməni (<strong>İndi Ehtiyat Nüsxələ</strong> seçməklə) istifadə edə bilərsiniz, nüsxələmənin statusunu yoxlaya və ya nüsxələməni ötürə bilərsiniz.</p>
+<p>İlkin parametr kimi, Zaman Maşını hər şeyi sərt diskə nüsxələyir. Ehtiyat nüsxələmədən xüsusi qovluqları çıxarmaq üçün Zaman Maşını üstünlüklərini açın və <strong>Variantlar</strong> seçin. Ehtiyat nüsxələmədən elementlər çıxarmaq üçün əlavə et düyməsinə (+) klikləyin, silmək istədiyiniz elementin üzərinə vurun və <strong>Çıxarmaq</strong> düyməsinə klikləyin. Qovluğu ehtiyat nüsxələmədən çıxarmağı dayandırmaq üçün qovluğu seçin və silmək (-) düyməsinə klikləyin.</p>
+<p><img decoding="async" class="size-full wp-image-319 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg" alt="Selecting Options on macOS Time Machine" width="1600" height="1093" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-300x205.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1024x700.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-768x525.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1536x1049.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_options-1200x820.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p><img decoding="async" class="size-full wp-image-318 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg" alt="Excluding items from a backup on macOS Time Machine" width="1330" height="902" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract.jpeg 1330w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-300x203.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-1024x694.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-768x521.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_extract-1200x814.jpeg 1200w" sizes="(max-width: 1330px) 100vw, 1330px" /></p>
+<p><img decoding="async" class="size-full wp-image-317 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg" alt="Exclude button in the items selection window for macOS Time Machine" width="1600" height="937" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude.jpeg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-300x176.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1024x600.jpeg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-768x450.jpeg 768w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1536x900.jpeg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/mac_time_machine_exclude-1200x703.jpeg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<h2>iCloud ilə ehtiyat nüsxələmə</h2>
+<p>Bütün Apple cihazlarının daxildə quraşdırılmış iCloud onlayn saxlama xidməti var. Bu xidmətdən istifadə, hər dəfə ehtiyat nüsxəsi çıxarmaq lazım olduqda xarici yaddaş cihazını Mac cihazınıza birləşdirmək əziyyətindən sizi xilas edir. Əgər iCloud-a daxil olmusunuzsa, onda o, avtomatik olaraq fotoşəkilləri, kontaktları, təqvim, qeydlər və digər məlumatları saxlayır.</p>
+<p>iCloud parametrlərini fərdiləşdirmək üçün <strong>Applemenyu&gt;Sistem Üstünlükləri</strong> açın, daha sonra <strong>Apple ID&gt;iCloud</strong> klikləyin. Burada iCloud ilə istifadə etmək istədiyiniz Fotoşəkillər, Qeydlər və iCloud Diski kimi tətbiqləri seçə bilərsiniz.</p>
+<p><img decoding="async" class="size-full wp-image-313 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg" alt="Apple ID on macOS System Preferences" width="1000" height="853" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id-300x256.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_apple_id-768x655.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img decoding="async" class="size-full wp-image-315 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg" alt="iCloud option on Apple ID on macOS System Preferences" width="1000" height="910" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud-300x273.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud-768x699.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>iCloud fotoşəkilləri, kontaktları, təqvimləri, qeydləri və şifrələri saxlamaq üçün dizayn edilib. Əgər iCloud-da digər növ faylların ehtiyat nüsxələrini saxlamaq istəyirsinizsə, iCloud Diskdən istifadə edə bilərsiniz. iCloud Diski Apple-ın sənəd yönümlü bulud əsaslı saxlama xidmətidir. Bu, iCloud-da bütün növ sənədlərin təhlükəsiz şəkildə saxlanmasına, sinxronizasiyasına və onlara bütün kompüterlərinizdən (həm Mac, həm də Windows cihazları), iOS və iPadOS cihazlarından girişə imkan verir. iCloud Diski desktop və sənədlər qovluğundakı bütün faylları avtomatik olaraq nüsxələyə bilir.</p>
+<p>iCloud Diskindən istifadə etmək üçün ilk növbədə onu quraşdırmalısınız. Onu Mac cihazında quraşdırmaq üçün <strong>Apple menyu &gt;Sistem Üstünlükləri</strong> seçin, <strong>Apple ID</strong> klikləyin, və sonra yan zolaqdan <strong>iCloud</strong> seçin. <strong>iCloud Diski</strong> seçin.</p>
+<p><img decoding="async" class="size-full wp-image-314 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg" alt="Checking iCloud Drive checkbox in iCloud settings" width="1000" height="910" srcset="https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive.jpeg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive-300x273.jpeg 300w, https://cyber-star.org/wp-content/uploads/2021/06/mac_system_icloud_drive-768x699.jpeg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Bütün iCloud istifadəçiləri 5GB-lıq pulsuz onlayn saxlama yeri əldə edir. Bura iCloud və iCloud Diskdə saxladığınız hərşey daxildir. Əgər sizə ehtiyat nüsxələriniz üçün daha çox yer lazımdırsa, <a href="https://support.apple.com/en-az/HT201238" target="_blank" rel="noopener">təkmilləşdirilmiş saxlama planı</a> almalısınız və ya digər saxlama variantlarından istifadə etməlisiniz.</p>
+<h2>Üçüncü tərəf tətbiqləri ilə ehtiyat nüsxələrin saxlanması</h2>
+<p>Əgər Mac-da mövcud olan ehtiyat nüsxələrin saxlanması variantları sizi qane etmirsə, Backblaze, Carbonite, Dropbox və ya Google Drive kimi üçüncü tərəf tətbiqlərindən faydalana bilərsiniz. Üçüncü tərəf ehtiyat nüsxələmə proqramlarını alarkən ona tam etibar etdiyinizdən və onun məlumatınızla necə rəftar edəcəyindən tam əmin olun. Üçüncü tərəf ehtiyat nüsxələmə tətbiqini quraşdırmaq üçün, onunla birlikdə gələn təlimatlara əməl edin.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-backup-your-mac-az/">Mac cihazınızın ehtiyat nüsxələməsini necə həyata keçirməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cihazlarınızı nə üçün şifrələməlisiniz</title>
+		<link>https://cyber-star.org/az/cs-articles/why-you-should-encrypt-your-devices-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:28 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1045</guid>
+
+					<description><![CDATA[<p>Kompüterinizdə, planşet və smartfonunuzda çoxlu vacib və ya həssas məlumat var. Əgər cihazınızı itirsəniz və ya o oğurlanarsa, şəxsi məlumat daşıyan bütün həssas fayllarınıza daxil ola bilərlər. Hətta cihazı qoruyan şifrə belə, qərarlı şəxsi fayllarınızı oxumaqdan çəkindirə bilməz. Kompüterinizdəki həssas məlumatı qorumağın ən yaxşı yolu şifrələmədən istifadə etməkdir. Şifrələmə cihazınızdakı bütün məlumatları tamamilə oxunmaz edir, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-encrypt-your-devices-az/">Cihazlarınızı nə üçün şifrələməlisiniz</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Kompüterinizdə, planşet və smartfonunuzda çoxlu vacib və ya həssas məlumat var. Əgər cihazınızı itirsəniz və ya o oğurlanarsa, şəxsi məlumat daşıyan bütün həssas fayllarınıza daxil ola bilərlər. Hətta cihazı qoruyan şifrə belə, qərarlı şəxsi fayllarınızı oxumaqdan çəkindirə bilməz.</p>
+<p>Kompüterinizdəki həssas məlumatı qorumağın ən yaxşı yolu şifrələmədən istifadə etməkdir. Şifrələmə cihazınızdakı bütün məlumatları tamamilə oxunmaz edir, beləliklə də onu icazəsiz girişdən və ya manipulyasiyadan qoruyur. Bu, sizi və ya işlədiyiniz insanları riskə ata biləcək məxfi məlumatlarla işləyən zaman xüsusilə vacibdir.</p>
+<h2>Şifrələmə necə işləyir</h2>
+<p>Ən sadə səviyyədə, kompüter, smartfon və ya məlumat saxlama cihazı tərəfindən emal olunmuş və ya saxlanmış bütün məlumatlar bir və sıfırdan ibarət binarməlumat kimi tanınan ardıcıllıqdan ibarətdir. Bütün smartfonlar və kompüterlər bu formatdan istifadə etdiyi üçün, rəqəmsal məlumat bu növ istənilən cihazda yaradıla, emal oluna və saxlana bilər.</p>
+<p>Şifrələmə binar məlumatı mürəkkəb koda çevirir ki, ancaq gizli açarı (deşifrə açarıkimi tanınan) və ya şifrəsi olan şəxslər onu oxuya bilər. Hətta əgər səlahiyyəti olmayan şəxslər şifrələnmiş məlumata giriş əldə edərlərsə, onlar kodu aça və ya dəyişə bilməzlər.</p>
+<h2>Tam disk şifrələməsi</h2>
+<p>Tam disk şifrələməsi cihazınızda avadanlıq səviyyəsində saxlanan bütün məlumatı şifrələyir. O avtomatik olaraq, sərt diskdəki məlumatı mürəkkəb oxunmayan koda çevirir. Düzgün deşifrə açarı olmadan, heç kim şifrələnmiş cihazdakı hər hansı bir faylı oxuya bilməz.</p>
+<p>Tam disk şifrələməsindən istifadə asandır, çünki kompüterin kilidini açdıqdan sonra sizin tərəfinizdən heç bir şey etmək tələb olunmur. O, sizin xəbəriniz olmadan işləyir.</p>
+<p>Tam disk şifrələməsindən istifadənin üstünlüklərindən biri də cihazınızdakı fərdi faylların qorunması ilə bağlı narahat olmağınıza ehtiyac qalmamasıdır. Siz hər hansı bir məlumatı yaratdıqca, o avtomatik şifrələnir. Onu oxuyan zaman isə şifrə avtomatik açılır. Tam disk şifrələməsi cihazımızda olduğunu unutduğumuz məlumatların belə (müvəqqəti fayllar və brauzer keş faylları) qorunmasını təmin edir.</p>
+<h2>Cihazınızın şifrələnməsi</h2>
+<p>Smartfonlara gəldikdə isə, həm Android, həm də iOS cihazları fabrikdən şifrələnir. Bu vacib məlumat təhlükəsizliyi xüsusiyyətindən maksimal istifadə etmək üçün smartfonlarınızın güclü şifrə və ya kodla qorunmasını və istifadədən kənar qaldıqda qısa müddət ərzində dərhal avtomatik kilidlənməsini təmin edin. Həmçinin smartfonlarınızda əməliyyat sisteminin vaxtaşırı yeniləndiyindən əmin olun.</p>
+<p>Kompüter şifrələməsinin ən asan yolu əməliyyat sistemi ilə birgə təqdim edilən daxildə qurulmuş pulsuz proqram təminatından istifadə etməkdir. Həm Windows, həm də Mac cihazları effektiv tam disk şifrələmə alətlərinə malikdir. Bununla belə, bu alətləri cihazınızda quraşdırmasanız, onlar işləməyəcək. <a href="https://cyber-star.org/az/cs-articles/how-to-encrypt-a-windows-10-device-az/">Windows 10</a> və Mac kompüterlərində şifrələməni quraşdırmaq üçün bu təlimatlara əməl edin.</p>
+<p>Həmçinin xarici məlumat saxlama cihazlarınızı şifrələməyi də nəzərdə almalısınız. Bu cür cihazlarda adətən daxildə quraşdırılmış şifrələmə alətləri mövcud olur. Bu alətləri quraşdırmaq üçün, onlarla birlikdə təqdim edilən təlimatlara əməl edin.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/why-you-should-encrypt-your-devices-az/">Cihazlarınızı nə üçün şifrələməlisiniz</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 cihazını necə şifrələməli</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-encrypt-a-windows-10-device-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:28 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1046</guid>
+
+					<description><![CDATA[<p>Kompüterinizdəki həssas məlumatları qorumağın ən yaxşı yolu tam disk şifrələməsindən istifadə etməkdir. Windows 10 cihazında sərt diski şifrələməyin ən asan yolu əməliyyat sisteminin içində quraşdırılmış şifrələmə alətlərindən istifadə etməkdir. Bu alətləri aktiv etmədiyiniz müddətdə onlar cihazınızda işləməyəcək. Hansı şifrələmə alətindən istifadə etməyinizdən asılı olmayaraq, sizin məlumatınız o zaman təhlükəsiz qoruna bilər ki, siz cihazınızı güclü [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-encrypt-a-windows-10-device-az/">Windows 10 cihazını necə şifrələməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Kompüterinizdəki həssas məlumatları qorumağın ən yaxşı yolu <a href="https://cyber-star.org/az/cs-articles/why-you-should-encrypt-your-devices-az/">tam disk şifrələməsindən istifadə etməkdir</a>. Windows 10 cihazında sərt diski şifrələməyin ən asan yolu əməliyyat sisteminin içində quraşdırılmış şifrələmə alətlərindən istifadə etməkdir. Bu alətləri aktiv etmədiyiniz müddətdə onlar cihazınızda işləməyəcək.</p>
+<p>Hansı şifrələmə alətindən istifadə etməyinizdən asılı olmayaraq, sizin məlumatınız o zaman təhlükəsiz qoruna bilər ki, siz cihazınızı güclü şifrə ilə qoruyasınız və qısa qeyri-aktivlik müddətdindən sonra avtomatik kilidləmə təyin edəsiniz.</p>
+<h2>Cihazınızın şifrələməni dəstəklədiyini yoxlayın</h2>
+<p>Bəzi köhnə cihazlar Windows 10 istifadə etsələr belə, şifrələməni dəstəkləmir. Cihazınızın şifrələməni dəstəklədiyini yoxlamaq üçün <strong>Start</strong> düyməsini seçin, <strong>Parametrlər&gt;Sistem&gt;Haqqında</strong> bölmələrinə keçin və panelin aşağısında <strong>Cihaz şifrələməsi</strong> parametrinin olub olmamasına baxın.</p>
+<p>Əgər burada <strong>Cihazın şifrələnməsi</strong> parametri varsa, Microsoft hesabı ilə daxil olmaqla onu aktiv edə bilərsiniz. Əgər artıq aktivdirsə, heç bir tədbir görməyə ehtiyac yoxdur.</p>
+<p>Əgər burada <strong>Cihazın şifrələnməsi</strong> parametri yoxdursa, sizin cihazınız şifrələməni dəstəkləmir. Bununla belə, əksər Windows 10 versiyalarında mövcud olan standart BitLocker şifrələmədən istifadə edə bilərsiniz.</p>
+<p><img decoding="async" class="size-full wp-image-340 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg" alt="BitLocker Settings" width="1600" height="841" srcset="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings.jpg 1600w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-300x158.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1024x538.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-768x404.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1536x807.jpg 1536w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-settings-1200x631.jpg 1200w" sizes="(max-width: 1600px) 100vw, 1600px" /></p>
+<p>(Yuxarıdakı ekran şəkli <strong>Cihaz şifrələməsi</strong> parametri olmayan <strong>Haqqında</strong> pəncərəsini əks etdirir. Bu o deməkdir ki, cihaz şifrələməni dəstəkləmir)</p>
+<h2>BitLocker şifrələməsini aktiv et</h2>
+<p>BirLocker &#8220;Windows10 Professional, Enterprise, and Education&#8221; buraxılışlarının daxilində qurulan şifrələmə alətidir. Bu, &#8220;Windows 10 Home&#8221; istifadə edən kompüterlərdə mövcud deyil. Əgər hansı Windows əməliyyat sistemindən istifadə etdiyinizi bilmirsinizsə, <a href="https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808" target="_blank" rel="noopener">bu mənbəni yoxlayın</a>.</p>
+<p>BitLocker şifrələməni aktiv etmək üçün Windows cihazınıza administrator hesabı ilə daxil olun. Start düyməsini seçin, daha sonra <strong>Windows Sistemi</strong> altında <strong>İdarə etmə Paneli</strong> seçin. <strong>İdarə etmə Paneli</strong>ndən <strong>Sistem və Təhlükəsizlik</strong> seçin (əgər bunu görmürsünüzsə, &#8220;Baxış&#8221; bölməsində &#8220;Kateqoriya&#8221; seçildiyindən əmin olun), <strong>BitLocker Disk Şifrələməsi&gt;BitLockeri İdarə et</strong> seçin. <strong>BitLockeri aktiv edin</strong> seçin və təlimatlara əməl edin.</p>
+<p><img decoding="async" class="size-full wp-image-343 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg" alt="BitLocker on Control Panel" width="1000" height="759" srcset="https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel-300x228.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/bitlocker-control-panel-768x583.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p><img decoding="async" class="size-full wp-image-342 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg" alt="Turn on BitLocker" width="1000" height="758" srcset="https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker.jpg 1000w, https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker-300x227.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/enable-bitlocker-768x582.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>BitLockeri quraşdırdıqdan sonra, kompüterdə saxlanılan məlumatın həcmindən asılı olaraq ilkin şifrələmə vaxt apara bilər. Lakin siz disk şifrələməsi davam edərkən kompüterdən normal istifadəyə davam edə bilərsiniz.</p>
+<p>Əgər <b>Sistem və Təhlükəsizlik</b> panelində <strong>BitLocker Disk Şifrələməsi</strong> parametri yoxdursa, ola bilər ki, cihazınızın Windows-un şifrələmə üçün istifadə etdiyi <strong>TPM</strong>(Etibarlı Platforma Modulu) çipi yoxdur. Bunu yoxlamaq üçün <strong>Start</strong> düyməsini seçin, <strong>Windows Administrasiya Alətləri</strong> altında <strong>Sistem Məlumatı</strong> seçin. <strong>Sistem məlumatı</strong> pəncərəsinin aşağısına doğru hərəkət edin və <strong>Cihaz Şifrələmə Dəstəyi</strong> tapın.</p>
+<p><img decoding="async" class="size-full wp-image-341 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg" alt="Device Encryption Support" width="1452" height="768" srcset="https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support.jpg 1452w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-300x159.jpg 300w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-1024x542.jpg 1024w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-768x406.jpg 768w, https://cyber-star.org/wp-content/uploads/2021/06/device-encryption-support-1200x635.jpg 1200w" sizes="(max-width: 1452px) 100vw, 1452px" /></p>
+<p>Əgər <strong>Cihaz Şifrələmə Dəstəyi</strong> yanında yuxarıdakı qeydi (&#8220;TPM istifadədə deyil&#8221;) görürsünüzsə, sizin cihazın TPM çipi yoxdur. Hətta çipsiz belə, BitLocker Şifrələməsini bu təlimata əməl edərək aktivləşdirə bilərsiniz.</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-encrypt-a-windows-10-device-az/">Windows 10 cihazını necə şifrələməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BleachBit-i necə quraşdırmalı və istifadə etməli</title>
+		<link>https://cyber-star.org/az/cs-articles/how-to-install-and-start-using-bleachbit-az/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Fri, 21 Jul 2023 19:52:29 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1048</guid>
+
+					<description><![CDATA[<p>Məlumatı silmək göründüyü qədər də sadə deyil. &#8220;Silmək&#8221; düyməsini sıxdıqda və ya faylı Zibil Qutusuna (Windows istifadəçiləri üçün) və ya Zibil Qabına (Apple istifadəçiləri üçün) köçürəndə o, cihazınızdan birbaşa silinmir. Silinmiş fayl əməliyyat sistemi faylın tutduğu yeri tələb etməyincə və onun üzərindən yeni məlumat yazmayınca cihazınızda qalır. Bu baş verənə qədər, &#8220;silinmiş&#8221; fayl cihazınızda qalır [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-install-and-start-using-bleachbit-az/">BleachBit-i necə quraşdırmalı və istifadə etməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Məlumatı silmək göründüyü qədər də sadə deyil. &#8220;Silmək&#8221; düyməsini sıxdıqda və ya faylı Zibil Qutusuna (Windows istifadəçiləri üçün) və ya Zibil Qabına (Apple istifadəçiləri üçün) köçürəndə o, cihazınızdan birbaşa silinmir. Silinmiş fayl əməliyyat sistemi faylın tutduğu yeri tələb etməyincə və onun üzərindən yeni məlumat yazmayınca <a href="https://cyber-star.org/az/cs-articles/digital-data-101-what-it-is-and-when-it-becomes-personal-az/">cihazınızda qalır</a>. Bu baş verənə qədər, &#8220;silinmiş&#8221; fayl cihazınızda qalır və işini bilən bir nəfər tərəfindən bərpa edilə bilər.</p>
+<p>Faylları cihazınızdan birdəfəlik silmək üçün pulsuz alətlər var, bu, faylların silinməsi və onların binar məlumatlarının bir və sıfırlardan ibarət təsadüfi rəqəm birləşmələri ilə əvəz edilməsidir. BleachBit Windows və Linux cihazları üçün bu cür alətlərdəndir. O, sərt diskdən və saxlama mediasından məlumatı tam və birdəfəlik silir.</p>
+<p>Təəssüf ki, SSD (Möhkəm Vəziyyətli Disk) cihazlardan istifadə edirsinizsə, məlumatı onlardan birdəfəlik silmək hər zaman mümkün olmur. Bu cihazları şifrələmək onlardan məlumatı bərpa etməyi çətinləşdirən üsullardan biridir.</p>
+<h2>BleachBit-dən istifadə etməyə başlayın</h2>
+<ol>
+<li>Birbaşa <a href="https://www.bleachbit.org/" target="_blank" rel="noopener">buradan</a> BleachBit endirin</li>
+<li><strong>BleachBit quraşdırın</strong></li>
+<li><strong>BleachBit açın</strong> və bu alətin cihazınızdan birbaşa və birdəfəlik silməsini istədiyiniz bütün məlumatları seçin<img decoding="async" class="size-full wp-image-324 aligncenter" src="https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png" alt="BleachBit Settings" width="1017" height="695" srcset="https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default.png 1017w, https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default-300x205.png 300w, https://cyber-star.org/wp-content/uploads/2021/06/VirtualBox_vagrant_default-768x525.png 768w" sizes="(max-width: 1017px) 100vw, 1017px" />Nəzərə alın ki, müvəqqəti internet fayllarını sildiyiniz zaman cihazınıza quraşdırdığınız bütün və ya bir neçə veb brauzeri seçə bilərsiniz. Veb brauzerdən müvəqqəti internet fayllarının silinməsi sizi bütün veb səhifələrdən çıxaracaq. Bu səbəbdən də veb brauzerlərin saxladıqları bütün şifrələri müvəqqəti internet fayllarını silməzdən əvvəl şifrə menecerində saxlamağınız yaxşı fikirdir.</li>
+<li>Lazım olan bütün seçimləri etdikdən sonra &#8220;<strong>Təmizlə</strong>&#8221; klikləyin.</li>
+</ol>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/az/cs-articles/how-to-install-and-start-using-bleachbit-az/">BleachBit-i necə quraşdırmalı və istifadə etməli</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/az">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

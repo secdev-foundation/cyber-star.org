@@ -12,14 +12,544 @@
 	<atom:link href="https://cyber-star.org/cs-categories/passwords/feed/" rel="self" type="application/rss+xml" />
 	<link>https://cyber-star.org/cs-categories/passwords/</link>
 	<description>CyberSTAR</description>
-	<lastBuildDate>Wed, 09 Feb 2022 02:54:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Oct 2023 23:49:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 	<item>
+		<title>Top 100 Worst Passwords in 2022</title>
+		<link>https://cyber-star.org/cs-articles/top-100-worst-passwords-in-2022/</link>
+		
+		<dc:creator><![CDATA[berker]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2023 17:53:14 +0000</pubDate>
+				<guid isPermaLink="false">https://cyber-star.org/?post_type=cs-articles#038;p=1261</guid>
+
+					<description><![CDATA[<p>Your digital safety starts with strong passwords. Unfortunately, hundreds of millions of Internet users around the world continue using passwords that are extremely easy to crack. These include easy-to-predict words (e.g. “password”), memorable keyboard sequences (e.g. “qwerty”, “123456”), or popular culture references (e.g. “superman”). Below is a list of the top 100 most common passwords [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/top-100-worst-passwords-in-2022/">Top 100 Worst Passwords in 2022</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Your digital safety starts with <a href="https://cyber-star.org/cs-articles/how-to-create-strong-passwords/">strong passwords</a>. Unfortunately, hundreds of millions of Internet users around the world continue using passwords that are extremely easy to crack. These include easy-to-predict words (e.g. “password”), memorable keyboard sequences (e.g. “qwerty”, “123456”), or popular culture references (e.g. “superman”).</p>
+<p>Below is a list of the top 100 most common passwords in 2022, <a href="https://nordpass.com/most-common-passwords-list/" target="_blank" rel="noopener">compiled by NordPass</a>. Most of the entries on this list were also included in the lists of the easiest to crack passwords in previous years. In addition to individual passwords, the list also indicates how long it will take a hacker to crack each password. If your password looks even remotely similar to one on this list, change it immediately. A reliable <a href="https://cyber-star.org/cs-articles/why-you-should-use-a-password-manager/">password manager</a> will help you create and remember strong passwords.</p>
+<div class="table-wrapper">
+<table class="table-full-width">
+<tbody>
+<tr>
+<td><b>Rank</b></td>
+<td><b>Password</b></td>
+<td><b>Time to crack</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>password</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>2</td>
+<td>123456</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>3</td>
+<td>123456789</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>4</td>
+<td>guest</td>
+<td>10 seconds</td>
+</tr>
+<tr>
+<td>5</td>
+<td>qwerty</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>6</td>
+<td>12345678</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>7</td>
+<td>111111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>8</td>
+<td>12345</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>9</td>
+<td>col123456</td>
+<td>11 seconds</td>
+</tr>
+<tr>
+<td>10</td>
+<td>123123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>11</td>
+<td>1234567</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1234</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>13</td>
+<td>1234567890</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>14</td>
+<td>000000</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>15</td>
+<td>555555</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>16</td>
+<td>666666</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>17</td>
+<td>123321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>18</td>
+<td>654321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>19</td>
+<td>7777777</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>20</td>
+<td>123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>21</td>
+<td>D1lakiss</td>
+<td>3 hours</td>
+</tr>
+<tr>
+<td>22</td>
+<td>777777</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>23</td>
+<td>110110jp</td>
+<td>3 seconds</td>
+</tr>
+<tr>
+<td>24</td>
+<td>1111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>25</td>
+<td>987654321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>26</td>
+<td>121212</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Gizli</td>
+<td>10 seconds</td>
+</tr>
+<tr>
+<td>28</td>
+<td>abc123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>29</td>
+<td>112233</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>30</td>
+<td>azerty</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>31</td>
+<td>159753</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>32</td>
+<td>1q2w3e4r</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>33</td>
+<td>54321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>34</td>
+<td>pass@123</td>
+<td>2 seconds</td>
+</tr>
+<tr>
+<td>35</td>
+<td>222222</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>36</td>
+<td>qwertyuiop</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>37</td>
+<td>qwerty123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>38</td>
+<td>qazwsx</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>39</td>
+<td>vip</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>40</td>
+<td>asdasd</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>41</td>
+<td>123qwe</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>42</td>
+<td>123654</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>43</td>
+<td>iloveyou</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>44</td>
+<td>a1b2c3</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>45</td>
+<td>999999</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Groupd2013</td>
+<td>3 hours</td>
+</tr>
+<tr>
+<td>47</td>
+<td>1q2w3e</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>48</td>
+<td>usr</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Liman1000</td>
+<td>3 hours</td>
+</tr>
+<tr>
+<td>50</td>
+<td>1111111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>51</td>
+<td>333333</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>52</td>
+<td>123123123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>53</td>
+<td>9136668099</td>
+<td>4 days</td>
+</tr>
+<tr>
+<td>54</td>
+<td>11111111</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>55</td>
+<td>1qaz2wsx</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>56</td>
+<td>password1</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>57</td>
+<td>mar201t</td>
+<td>17 minutes</td>
+</tr>
+<tr>
+<td>58</td>
+<td>987654321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>59</td>
+<td>gfhjkm</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>60</td>
+<td>159357</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>61</td>
+<td>abcd1234</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>62</td>
+<td>131313</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>63</td>
+<td>789456</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>64</td>
+<td>luzit2000</td>
+<td>17 minutes</td>
+</tr>
+<tr>
+<td>65</td>
+<td>aaaaaa</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>66</td>
+<td>zxcvbnm</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>67</td>
+<td>asdfghjkl</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>68</td>
+<td>1234qwer</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>69</td>
+<td>88888888</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>70</td>
+<td>dragon</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>71</td>
+<td>987654</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>72</td>
+<td>888888</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>73</td>
+<td>qwe123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>74</td>
+<td>football</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>75</td>
+<td>3601</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>76</td>
+<td>asdfgh</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>77</td>
+<td>master</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>78</td>
+<td>samsung</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>79</td>
+<td>12345678910</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>80</td>
+<td>killer</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>81</td>
+<td>1237895</td>
+<td>2 seconds</td>
+</tr>
+<tr>
+<td>82</td>
+<td>1234561</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>83</td>
+<td>12344321</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>84</td>
+<td>daniel</td>
+<td>5 seconds</td>
+</tr>
+<tr>
+<td>85</td>
+<td>000000</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>86</td>
+<td>444444</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>87</td>
+<td>101010</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>88</td>
+<td>fuckyou</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>89</td>
+<td>qazwsxedc</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>90</td>
+<td>789456123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>91</td>
+<td>super123</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>92</td>
+<td>qwer1234</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>93</td>
+<td>123456789a</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>94</td>
+<td>823477aA</td>
+<td>30 minutes</td>
+</tr>
+<tr>
+<td>95</td>
+<td>147258369</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>96</td>
+<td>unknown</td>
+<td>17 seconds</td>
+</tr>
+<tr>
+<td>97</td>
+<td>98765</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>98</td>
+<td>q1w2e3r4</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>99</td>
+<td>232323</td>
+<td>&lt; 1 second</td>
+</tr>
+<tr>
+<td>100</td>
+<td>102030</td>
+<td>&lt; 1 second</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/top-100-worst-passwords-in-2022/">Top 100 Worst Passwords in 2022</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>How to Create Strong Passwords</title>
 		<link>https://cyber-star.org/cs-articles/how-to-create-strong-passwords/</link>
 		
@@ -73,21 +603,16 @@ Ideally all of your accounts and devices should have unique passwords. If someon
 <p>Below is a list of the most common mistakes users make when trying to strengthen their passwords. Do not make these mistakes.</p>
 <ul>
 <li><strong>Adding a number at the end<br />
-</strong></p>
-<p>Many users mistakenly believe that they make their passwords strong by adding a number at the end. Most often it is a single-digit number, commonly <em>1</em>. Hackers know this, and when they try to crack a password, they assume that it follows this common pattern.</p>
+</strong>Many users mistakenly believe that they make their passwords strong by adding a number at the end. Most often it is a single-digit number, commonly <em>1</em>. Hackers know this, and when they try to crack a password, they assume that it follows this common pattern.</p>
 <p><span style="color: #c01d24;">To create a genuinely strong password, add several random numbers in a random order.</span></li>
 <li><strong>Capitalizing the first letter<br />
-</strong></p>
-<p>Users also tend to create passwords with a single upper-case letter, typically by capitalizing the first letter in a password. Again, this is something hackers know and use to crack passwords.</p>
-<p><span style="color: #c01d24;"><span style="color: #c01d24;">To create a strong password, use random combinations of upper-case and lower-case letters.</span></span></li>
+</strong>Users also tend to create passwords with a single upper-case letter, typically by capitalizing the first letter in a password. Again, this is something hackers know and use to crack passwords.</p>
+<p><span style="color: #c01d24;">To create a strong password, use random combinations of upper-case and lower-case letters.</span></li>
 <li><strong>Adding a special character at the end<br />
-</strong></p>
-<p>Another common mistake users make is adding a single special character at the end of a password. Most often the character they go for is <em>!</em>. Adding a special character in this way does not really make a password much more difficult to crack.</p>
-<p><span style="color: #c01d24;"><br />
-To create a genuinely strong password, add several randomly selected special characters in a random order.</span></li>
+</strong>Another common mistake users make is adding a single special character at the end of a password. Most often the character they go for is <em>!</em>. Adding a special character in this way does not really make a password much more difficult to crack.</p>
+<p><span style="color: #c01d24;">To create a genuinely strong password, add several randomly selected special characters in a random order.</span></li>
 <li><strong>Using common words or character sequences<br />
-</strong></p>
-<p>You would be surprised to know how many users have the same common words (e.g. <em>password, welcome, football, superman</em>, etc.) or computer keyboard sequences (e.g. <em>qwerty, asdfgh, qazwsx,</em> etc.) in their passwords. Hackers use all these words to crack passwords through brute force attacks. These attacks involve the use of software that tries different combinations of common words and characters until it finds the one that works. Other common words used in millions of passwords include first names, the names of cities, countries, and sports teams.</p>
+</strong>You would be surprised to know how many users have the same common words (e.g. <em>password, welcome, football, superman</em>, etc.) or computer keyboard sequences (e.g. <em>qwerty, asdfgh, qazwsx,</em> etc.) in their passwords. Hackers use all these words to crack passwords through brute force attacks. These attacks involve the use of software that tries different combinations of common words and characters until it finds the one that works. Other common words used in millions of passwords include first names, the names of cities, countries, and sports teams.</p>
 <p><span style="color: #c01d24;">To create a password that is really difficult to crack, use random combinations of upper-case and lower-case letters, numbers, and special characters, rather than common words or computer keyboard and smartphone patterns.</span></li>
 </ul>
 <p>The post <a rel="nofollow" href="https://cyber-star.org/cs-articles/passwords-that-look-strong-but-arent/">Passwords That Look Strong But Aren’t</a> appeared first on <a rel="nofollow" href="https://cyber-star.org/">CyberSTAR</a>.</p>
